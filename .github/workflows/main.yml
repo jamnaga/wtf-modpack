@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 jobs:
   compress-client:
-    runs-on: debian-latest
+    runs-on: self-hosted
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -21,7 +21,7 @@ jobs:
           name: archives
           path: client.zip
   compress-server:
-    runs-on: debian-latest
+    runs-on: self-hosted
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
