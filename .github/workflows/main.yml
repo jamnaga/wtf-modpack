@@ -16,7 +16,7 @@ jobs:
           zip -r client.zip .
 
       - name: Upload compressed artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: archives
           path: client.zip
@@ -31,7 +31,7 @@ jobs:
           zip -r server.zip . -x "./\[video\]*"
 
       - name: Upload compressed artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: archives
           path: server.zip
