@@ -81,40 +81,14 @@ Di seguito l'elenco dei mod utilizzati (con i relativi nomi, non i nomi dei file
 - **Create Ore Excavation**
 - **Tia**
 - **Curios**
-- **CWB**
 - **Watut**
 - **Deimos**
 
-### Mod Aggiuntivi (Cartella `video`)
+### Mod solo Client
 
+- **CWB**
 - **Oculus**
 - **Rubidium Extra**
-
-## Installazione
-
-1. **Prerequisiti:**
-   - Assicurati di avere [Minecraft Forge 1.20.1](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) installato.
-   - È richiesto Java 17 o superiore.
-
-2. **Procedura:**
-   - Scarica ed estrai il pacchetto del modpack nella cartella principale di Minecraft (di solito la directory `.minecraft`).
-   - Copia tutti i file `.jar` nella cartella `mods`.
-   - Se presenti, posiziona le cartelle aggiuntive (ad esempio `repo` e `video`) nelle directory indicate dalle istruzioni specifiche del modpack.
-
-3. **Avvio:**
-   - Avvia il launcher di Minecraft e seleziona il profilo Forge 1.20.1.
-   - Lancia il gioco e verifica che tutte le mod vengano caricate correttamente.
-   - In caso di errori, consulta i log di Minecraft per individuare eventuali conflitti o problemi di compatibilità.
-
-## Note Importanti
-
-- **Mod Disabilitate:** Alcuni mod, come *Flan's Mod* e *Rogue Guns (Jeg Expanded)*, risultano disabilitati e non verranno caricati.
-- **Compatibilità:** Assicurati che tutte le mod siano aggiornate e compatibili fra loro. In caso di problemi, consulta le pagine ufficiali di supporto o i forum dedicati.
-- **Aggiornamenti:** Rimani aggiornato con eventuali patch e aggiornamenti per mantenere il modpack stabile e performante.
-
-## Licenza e Ringraziamenti
-
-Questo modpack è distribuito a scopo non commerciale. Si prega di rispettare le licenze individuali di ciascun mod. Un grazie speciale va agli sviluppatori e alle community che con il loro lavoro contribuiscono a rendere Minecraft un’esperienza sempre nuova e coinvolgente.
 
 ---
 
