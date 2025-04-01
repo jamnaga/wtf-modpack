@@ -1,0 +1,38 @@
+name: Create pack-set Archives
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+jobs:
+  compress-client:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Compress files
+        run: |
+          zip -r client.zip .
+
+      - name: Upload compressed artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: archives
+          path: client.zip
+  compress-server:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Compress files
+        run: |
+          zip -r server.zip . -x "./\[video\]*"
+
+      - name: Upload compressed artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: archives
+          path: server.zip
+
