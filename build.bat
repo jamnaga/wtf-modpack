@@ -15,7 +15,7 @@ if errorlevel 1 (
 
 echo Creazione di client.zip con tutti i file .jar...
 rem Usa PowerShell per comprimere tutti i file .jar in client.zip
-powershell -command "Compress-Archive -Path '*.jar' -DestinationPath 'client.zip' -Force"
+powershell -command "Compress-Archive -Path '*.jar' -DestinationPath './build/latest/client.zip' -Force"
 if errorlevel 1 (
     echo Errore nella creazione di client.zip.
     goto end
@@ -51,7 +51,7 @@ if "!fileList!"=="" (
 
 rem Poiché il comando Compress-Archive richiede una lista di file separata da virgole,
 rem costruiamo la stringa per il parametro -LiteralPath.
-set "psCommand=Compress-Archive -LiteralPath '%fileList%' -DestinationPath 'server.zip' -Force"
+set "psCommand=Compress-Archive -LiteralPath '%fileList%' -DestinationPath './build/latest/server.zip' -Force"
 powershell -command "%psCommand%"
 if errorlevel 1 (
     echo Errore nella creazione di server.zip.

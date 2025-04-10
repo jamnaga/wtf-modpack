@@ -12,7 +12,7 @@ fi
 
 echo "Creazione di client.zip con tutti i file .jar..."
 # Crea client.zip includendo tutti i file .jar presenti nella directory
-zip -q client.zip *.jar
+zip -q ./build/latest/client.zip *.jar
 if [ $? -eq 0 ]; then
   echo "client.zip creato con successo."
 else
@@ -31,7 +31,7 @@ if [ -z "$files_to_zip" ]; then
 else
   # Creazione dello zip server.zip
   # Poiché find restituisce i file con il prefisso "./", li passiamo a zip.
-  zip -q server.zip $files_to_zip
+  zip -q ./build/latest/server.zip $files_to_zip
   if [ $? -eq 0 ]; then
     echo "server.zip creato con successo."
   else
