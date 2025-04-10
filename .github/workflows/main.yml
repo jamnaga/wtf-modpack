@@ -15,7 +15,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true  # Necessario per pushare i commit
+          persist-credentials: true  # Necessario per poter pushare commit
 
       - name: Build ZIP files from .jar files
         shell: cmd
@@ -69,14 +69,25 @@ jobs:
           echo Operazione completata.
 
       - name: Upload client.zip artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: client-zip
           path: client.zip
 
+      - name: Check if server.zip exists
+        id: check_server_zip
+        shell: cmd
+        run: |
+          @echo off
+          if exist server.zip (
+            echo server_zip_exists=true>> %GITHUB_OUTPUT%
+          ) else (
+            echo server_zip_exists=false>> %GITHUB_OUTPUT%
+          )
+
       - name: Upload server.zip artifact
-        if: exists('server.zip')
-        uses: actions/upload-artifact@v3
+        if: steps.check_server_zip.outputs.server_zip_exists == 'true'
+        uses: actions/upload-artifact@v4
         with:
           name: server-zip
           path: server.zip
