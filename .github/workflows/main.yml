@@ -69,7 +69,7 @@ jobs:
           echo Operazione completata.
 
       - name: Upload client.zip artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: client-zip
           path: client.zip
@@ -87,7 +87,7 @@ jobs:
 
       - name: Upload server.zip artifact
         if: steps.check_server_zip.outputs.server_zip_exists == 'true'
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: server-zip
           path: server.zip
