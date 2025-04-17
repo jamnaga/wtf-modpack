@@ -25,7 +25,7 @@ if exist ".git" (
     git init
     git remote add origin https://github.com/jamnaga/wtf-modpack
     git fetch origin
-    git checkout -t origin/latest
+    git checkout -f latest
 )
 
 echo.
