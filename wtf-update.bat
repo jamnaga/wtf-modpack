@@ -24,7 +24,7 @@ if exist ".git" (
     echo Non e un repo git: inizializzo e prelevo i file da origin/main...
     git init
     git remote add origin https://github.com/jamnaga/wtf-modpack
-    git fetch latest
+    git fetch origin
     git checkout -t origin/latest
 )
 
