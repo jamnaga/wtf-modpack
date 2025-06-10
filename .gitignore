@@ -1,3 +1,4 @@
 ./*.zip
 .modpack_updater_config.json
 /wtf-modpack
+*.py
