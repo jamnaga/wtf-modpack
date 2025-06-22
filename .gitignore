@@ -2,3 +2,5 @@
 .modpack_updater_config.json
 /wtf-modpack
 *.py
+/mcef-libraries
+/mcef-cache
