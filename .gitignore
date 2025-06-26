@@ -4,3 +4,4 @@
 *.py
 /mcef-libraries
 /mcef-cache
+/build
