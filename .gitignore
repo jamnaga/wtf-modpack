@@ -1,10 +1,1 @@
-./*.zip
-.modpack_updater_config.json
-/wtf-modpack
-*.py
-/mcef-libraries
-/mcef-cache
-/build
-/.connector
-/.mixin.out
-/.connector
+/logs
