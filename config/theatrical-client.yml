@@ -1,0 +1,6 @@
+renderDistance: 64
+artNetIP: ''
+doOwnerCheck: true
+artnetEnabled: false
+beamOpacity: 0.4
+universes: {}

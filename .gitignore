@@ -5,3 +5,6 @@
 /mcef-libraries
 /mcef-cache
 /build
+/.connector
+/.mixin.out
+/.connector

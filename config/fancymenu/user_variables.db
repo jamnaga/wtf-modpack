@@ -1,0 +1,26 @@
+type = user_variables
+
+variable {
+  name = button2
+  value = GDC Online
+  reset_on_launch = false
+}
+
+variable {
+  name = startup
+  value = online
+  reset_on_launch = false
+}
+
+variable {
+  name = count
+  value = 0/0
+  reset_on_launch = false
+}
+
+variable {
+  name = button1
+  value = Singleplayer
+  reset_on_launch = false
+}
+

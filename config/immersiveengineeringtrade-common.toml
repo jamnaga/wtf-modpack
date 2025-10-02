@@ -1,0 +1,113 @@
+#Enable trade for nitwit_wirecoil_copper
+nitwit_wirecoil_copper_enabled = true
+#Buy amount for nitwit_wirecoil_copper
+#Range: 1 ~ 64
+nitwit_wirecoil_copper_buy = 3
+#Sell amount for nitwit_wirecoil_copper
+#Range: 1 ~ 64
+nitwit_wirecoil_copper_sell = 8
+#Enable trade for nitwit_wirecoil_electrum
+nitwit_wirecoil_electrum_enabled = true
+#Buy amount for nitwit_wirecoil_electrum
+#Range: 1 ~ 64
+nitwit_wirecoil_electrum_buy = 3
+#Sell amount for nitwit_wirecoil_electrum
+#Range: 1 ~ 64
+nitwit_wirecoil_electrum_sell = 4
+#Enable trade for nitwit_wirecoil_steel
+nitwit_wirecoil_steel_enabled = true
+#Buy amount for nitwit_wirecoil_steel
+#Range: 1 ~ 64
+nitwit_wirecoil_steel_buy = 3
+#Sell amount for nitwit_wirecoil_steel
+#Range: 1 ~ 64
+nitwit_wirecoil_steel_sell = 4
+#Enable trade for nitwit_wirecoil_copper_ins
+nitwit_wirecoil_copper_ins_enabled = true
+#Buy amount for nitwit_wirecoil_copper_ins
+#Range: 1 ~ 64
+nitwit_wirecoil_copper_ins_buy = 3
+#Sell amount for nitwit_wirecoil_copper_ins
+#Range: 1 ~ 64
+nitwit_wirecoil_copper_ins_sell = 2
+#Enable trade for nitwit_wirecoil_electrum_ins
+nitwit_wirecoil_electrum_ins_enabled = true
+#Buy amount for nitwit_wirecoil_electrum_ins
+#Range: 1 ~ 64
+nitwit_wirecoil_electrum_ins_buy = 3
+#Sell amount for nitwit_wirecoil_electrum_ins
+#Range: 1 ~ 64
+nitwit_wirecoil_electrum_ins_sell = 1
+#Enable trade for toolsmith_ingot_lead
+toolsmith_ingot_lead_enabled = true
+#Buy amount for toolsmith_ingot_lead
+#Range: 1 ~ 64
+toolsmith_ingot_lead_buy = 4
+#Sell amount for toolsmith_ingot_lead
+#Range: 1 ~ 64
+toolsmith_ingot_lead_sell = 1
+#Enable trade for toolsmith_ingot_aluminum
+toolsmith_ingot_aluminum_enabled = true
+#Buy amount for toolsmith_ingot_aluminum
+#Range: 1 ~ 64
+toolsmith_ingot_aluminum_buy = 4
+#Sell amount for toolsmith_ingot_aluminum
+#Range: 1 ~ 64
+toolsmith_ingot_aluminum_sell = 1
+#Enable trade for toolsmith_ingot_silver
+toolsmith_ingot_silver_enabled = true
+#Buy amount for toolsmith_ingot_silver
+#Range: 1 ~ 64
+toolsmith_ingot_silver_buy = 4
+#Sell amount for toolsmith_ingot_silver
+#Range: 1 ~ 64
+toolsmith_ingot_silver_sell = 1
+#Enable trade for toolsmith_ingot_nickel
+toolsmith_ingot_nickel_enabled = true
+#Buy amount for toolsmith_ingot_nickel
+#Range: 1 ~ 64
+toolsmith_ingot_nickel_buy = 4
+#Sell amount for toolsmith_ingot_nickel
+#Range: 1 ~ 64
+toolsmith_ingot_nickel_sell = 1
+#Enable trade for toolsmith_ingot_uranium
+toolsmith_ingot_uranium_enabled = true
+#Buy amount for toolsmith_ingot_uranium
+#Range: 1 ~ 64
+toolsmith_ingot_uranium_buy = 4
+#Sell amount for toolsmith_ingot_uranium
+#Range: 1 ~ 64
+toolsmith_ingot_uranium_sell = 1
+#Enable trade for toolsmith_ingot_constantan
+toolsmith_ingot_constantan_enabled = true
+#Buy amount for toolsmith_ingot_constantan
+#Range: 1 ~ 64
+toolsmith_ingot_constantan_buy = 4
+#Sell amount for toolsmith_ingot_constantan
+#Range: 1 ~ 64
+toolsmith_ingot_constantan_sell = 1
+#Enable trade for toolsmith_ingot_electrum
+toolsmith_ingot_electrum_enabled = true
+#Buy amount for toolsmith_ingot_electrum
+#Range: 1 ~ 64
+toolsmith_ingot_electrum_buy = 4
+#Sell amount for toolsmith_ingot_electrum
+#Range: 1 ~ 64
+toolsmith_ingot_electrum_sell = 1
+#Enable trade for toolsmith_ingot_steel
+toolsmith_ingot_steel_enabled = true
+#Buy amount for toolsmith_ingot_steel
+#Range: 1 ~ 64
+toolsmith_ingot_steel_buy = 4
+#Sell amount for toolsmith_ingot_steel
+#Range: 1 ~ 64
+toolsmith_ingot_steel_sell = 1
+#Enable trade for weaponsmith_coal_coke
+weaponsmith_coal_coke_enabled = true
+#Buy amount for weaponsmith_coal_coke
+#Range: 1 ~ 64
+weaponsmith_coal_coke_buy = 15
+#Sell amount for weaponsmith_coal_coke
+#Range: 1 ~ 64
+weaponsmith_coal_coke_sell = 1
+
