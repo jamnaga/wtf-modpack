@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "vanilla_1201": {
+      "name": "Vanilla 1.20.1",
+      "type": "custom",
+      "created": "2024-01-01T00:00:00.000Z",
+      "lastUsed": "2024-01-01T00:00:00.000Z",
+      "lastVersionId": "1.20.1",
+      "javaArgs": "-Xmx4G -Xms1G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+      "icon": "Grass"
+    }
+  },
+  "settings": {
+    "enableAdvanced": false
+  },
+  "version": 3
+}
