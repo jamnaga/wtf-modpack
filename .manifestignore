@@ -1,0 +1,13 @@
+logs/
+.git/
+XaeroWaypoints_BACKUP240807/
+saves/
+options.txt
+usercache.json
+usernamecache.json
+generate_manifest.bat
+datapacks/
+resourcepacks/
+schematics/
+xaero/
+crash-reports/
