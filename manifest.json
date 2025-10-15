@@ -2,8 +2,8 @@
   "files": [ 
     { 
       "path": ".gitignore", 
-      "size": 6, 
-      "sha256": "32182f388cc0f45df67d656684f8f38f735bf9441002941365618d6ffa1c07da" 
+      "size": 35, 
+      "sha256": "8cadbd465cdb1a623f30b6cf082d3001e4397aa39b359617d0c29003d4f86c3f" 
     }, 
     { 
       "path": ".mixin.out/class/net/minecraft/client/gui/screens/OptionsScreen.class", 
@@ -1766,6 +1766,16 @@
       "sha256": "ae54f8d6c0c8d7cf8cb472660f6e5acaaa9e77d1cf24354d57ed0ca606d91bed" 
     }, 
     { 
+      "path": "generate_manifest.bat", 
+      "size": 1646, 
+      "sha256": "cf8f197e332826644f6496f91fbda06cde5a41a534b1bdbe022b7b7324c904c6" 
+    }, 
+    { 
+      "path": "launcher_profiles.json", 
+      "size": 512, 
+      "sha256": "f84fbec13fc23c55941f508261ea3cf4055e6dec8fd63a88ce95ca0b9c36e1c9" 
+    }, 
+    { 
       "path": "logs/2025-10-02-1.log.gz", 
       "size": 14941, 
       "sha256": "2a694c538053792cc18d974b6448990e03d80257b540b348761f0fbe92942321" 
@@ -1889,6 +1899,11 @@
       "path": "logs/telemetry/20251002-9.json.gz", 
       "size": 373, 
       "sha256": "4b73a813b9f005fb3888cec8c2a91c0ffda135bdc83c6f3a83d189bfb9a8dee8" 
+    }, 
+    { 
+      "path": "manifest.json", 
+      "size": 68520, 
+      "sha256": "2c3525a3565a5423b5aecf0036cc4c202787a22734c96d4958e82e60b4c87b3f" 
     }, 
     { 
       "path": "mods/.connector/TechReborn-5.8.8$RebornCore-5.8.8_mapped_srg_1.20.1.jar", 
@@ -2711,5 +2726,5 @@
       "sha256": "59f7d70934afdbc8127f579df72980726384fb8b7b7ea9f0705fb9aaf7cb6cbc" 
     } 
   ], 
-  "generated": "11/10/2025 15:09:45,80" 
+  "generated": "15/10/2025 10:37:40,11" 
 } 
