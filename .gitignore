@@ -1,3 +1,8 @@
 /logs
 /XaeroWaypoints_BACKUP240807
 /logs
+logs/latest.log
+logs/launcher_log.txt
+usercache.json
+/logs/telemetry
+/logs

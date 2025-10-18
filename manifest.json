@@ -1,10 +1,10 @@
 ﻿{
-    "generated":  "16/10/2025 01:28:07,29",
+    "generated":  "18/10/2025 19:33:20,96",
     "files":  [
                   {
                       "path":  ".gitignore",
-                      "sha256":  "8cadbd465cdb1a623f30b6cf082d3001e4397aa39b359617d0c29003d4f86c3f",
-                      "size":  35
+                      "sha256":  "63b5a7e46dc7056ae70b182f0b0d7d5223569d663815cff3ce68426d1c497d43",
+                      "size":  41
                   },
                   {
                       "path":  ".manifestignore",
@@ -33,7 +33,7 @@
                   },
                   {
                       "path":  ".mixin.out/class/net/minecraft/client/gui/screens/OptionsScreen.class",
-                      "sha256":  "bb83f4120d0404305ac57896d81fd7b02f03feae663b87e9cb3b75ab9f7b2920",
+                      "sha256":  "7f2b15d00edd2263ad3ba4ca7db0c614a6179231ed5032185d50a37abd5d1844",
                       "size":  18921
                   },
                   {
@@ -363,7 +363,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "7fa3076262a807760c20931112c62cb36224454319cb95e584b8f81246f1b6c2",
+                      "sha256":  "94362133a0701adfc10fbc9f8729b7d617a4506bd4b27bb1a4c80b59aac2c6c3",
                       "size":  194
                   },
                   {
@@ -398,7 +398,7 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "12a8a7bcf362964666d39ad2ab1b074eedf9be126124e9deaace1841d59a9777",
+                      "sha256":  "9f1c3625331beeadc3ad88c9bba0cac9cbba7906a26e55e50063e7cbc1a4841b",
                       "size":  286
                   },
                   {
@@ -453,7 +453,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "3bdf9162435f4c5d920e035282556a7e68c766870cbe274cc4db6d56b794b157",
+                      "sha256":  "7e308e47876371f79ddd8eb330f4daf38ef53caa0255ce57c359c4a61c241f48",
                       "size":  284
                   },
                   {
@@ -523,7 +523,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "764c2b890a1aeace1fb04470779d0644b9f02ba274e4b3e17fed3e8b4eec729a",
+                      "sha256":  "b72ace075dd35211e438b9b07e280724adff37e0f0f2bddc786195039c254323",
                       "size":  509
                   },
                   {
@@ -578,7 +578,7 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774",
+                      "sha256":  "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca",
                       "size":  5531
                   },
                   {
@@ -1777,6 +1777,11 @@
                       "size":  260
                   },
                   {
+                      "path":  "fancymenu_data/fancymenu_temp/web/videoplayer/player.html",
+                      "sha256":  "04b8966e4c085d002f303d5c221a06a1879966e85f040d5578ac771f50b8c2e6",
+                      "size":  27576
+                  },
+                  {
                       "path":  "mods/.gitattributes",
                       "sha256":  "cb8f6dc55829a4ba0ac3b2a295a35323e4489454d09f151d90d0856b6215b1c1",
                       "size":  43
@@ -1912,16 +1917,6 @@
                       "size":  28212
                   },
                   {
-                      "path":  "mods/entity_model_features_1.20.1-forge-3.0.1.jar",
-                      "sha256":  "0ec6ce36f712accf8fb89ce7213602957e22e5980d4a97873e405f6b0272fa44",
-                      "size":  657484
-                  },
-                  {
-                      "path":  "mods/entity_texture_features_1.20.1-forge-7.0.2.jar",
-                      "sha256":  "6688f8dccda549e2288ec6b006578c6899788e4c745fb626afd5954da95874e3",
-                      "size":  894117
-                  },
-                  {
                       "path":  "mods/etched-3.0.4.jar",
                       "sha256":  "18fa648a887eb8ae284e278b1c361c8bffe73947336761d8b1787052dd34fe69",
                       "size":  611496
@@ -2055,11 +2050,6 @@
                       "path":  "mods/mcef-forge-2.1.6-1.20.1.jar",
                       "sha256":  "5c462342264ac89597891d5d4bcdf6b8134ce4cc5dd97894dbd87ecc197f0cb3",
                       "size":  218417
-                  },
-                  {
-                      "path":  "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-                      "sha256":  "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8",
-                      "size":  37178
                   },
                   {
                       "path":  "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
@@ -2222,6 +2212,16 @@
                       "size":  1320675
                   },
                   {
+                      "path":  "mods/[client]entity_model_features_1.20.1-forge-3.0.1.jar",
+                      "sha256":  "0ec6ce36f712accf8fb89ce7213602957e22e5980d4a97873e405f6b0272fa44",
+                      "size":  657484
+                  },
+                  {
+                      "path":  "mods/[client]entity_texture_features_1.20.1-forge-7.0.2.jar",
+                      "sha256":  "6688f8dccda549e2288ec6b006578c6899788e4c745fb626afd5954da95874e3",
+                      "size":  894117
+                  },
+                  {
                       "path":  "mods/[client]fancymenu_forge_3.7.0_MC_1.20.1.jar",
                       "sha256":  "f473e8f82831f883853c25d12c47ce2f6e97c860775ccb9ea1f2d27adc8eb1ea",
                       "size":  3628603
@@ -2235,6 +2235,11 @@
                       "path":  "mods/[client]MaFgLib-0.1.14-mc1.20.1.jar",
                       "sha256":  "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1",
                       "size":  521709
+                  },
+                  {
+                      "path":  "mods/[client]melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+                      "sha256":  "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8",
+                      "size":  37178
                   },
                   {
                       "path":  "mods/[client]oculus-mc1.20.1-1.8.0.jar",
