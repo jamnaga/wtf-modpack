@@ -1,10 +1,10 @@
 ﻿{
-    "generated":  "18/10/2025 19:33:20,96",
+    "generated":  "18/10/2025 19:35:11,38",
     "files":  [
                   {
                       "path":  ".gitignore",
-                      "sha256":  "63b5a7e46dc7056ae70b182f0b0d7d5223569d663815cff3ce68426d1c497d43",
-                      "size":  41
+                      "sha256":  "b7b072200d3d0f18c4b06475b916d0c52f869c67c13131fb1c8d95a8647bd348",
+                      "size":  116
                   },
                   {
                       "path":  ".manifestignore",
