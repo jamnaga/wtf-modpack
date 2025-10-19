@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "20/10/2025 01:33:13,68",
+    "generated":  "20/10/2025 01:51:26,27",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -363,7 +363,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "f14404380f686cf15af42b26e7a9a36de51973019d4aefd08944a3411e3e9606",
+                      "sha256":  "51fd1a5d22f6de0d9a19e2e8f465dc0f4fc56db1dbbfce9eab2f02e1dccd1e39",
                       "size":  194
                   },
                   {
@@ -453,7 +453,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "bc2e6910d1819f21275d7ccaddf4f9bd5784cf3c8fd1871a07af80c84a1ace33",
+                      "sha256":  "002ca02c6acf8a4809fcae893003fae16a968817718e646165505d20a8ec74e1",
                       "size":  284
                   },
                   {
@@ -523,7 +523,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "a7c3b69dddedcbb57959e4befed31fab07134d3decaaec1cc4cdface5ac68697",
+                      "sha256":  "44f5959b0f47241328d0a5cf87055a2b39a43586bab9c021203593bb7d4c6457",
                       "size":  509
                   },
                   {
@@ -3897,7 +3897,7 @@
                       "size":  568608
                   },
                   {
-                      "path":  "mods/[client]starlight-1.1.2+forge.1cda73c.jar",
+                      "path":  "mods/[client]starlight-1.1.2+forge.1cda73c.jar.disabled",
                       "sha256":  "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500",
                       "size":  110583
                   },
