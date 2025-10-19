@@ -7,6 +7,12 @@ variable {
 }
 
 variable {
+  name = packversion
+  value = v1.0r10
+  reset_on_launch = false
+}
+
+variable {
   name = startup
   value = online
   reset_on_launch = false
