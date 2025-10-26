@@ -1,10 +1,10 @@
 ﻿{
-    "generated":  "20/10/2025 01:51:26,27",
+    "generated":  "26/10/2025 19:45:04,57",
     "files":  [
                   {
                       "path":  ".gitignore",
-                      "sha256":  "3e816e1ef51341d67c65ed09acec1885a2e744843dcdb481f8c9e1bc864cd51e",
-                      "size":  124
+                      "sha256":  "b3c18340fd1f5f66484a058a239be32880f6b330cbc09313ba964325f87a83a7",
+                      "size":  182
                   },
                   {
                       "path":  ".manifestignore",
@@ -33,7 +33,7 @@
                   },
                   {
                       "path":  ".mixin.out/class/net/minecraft/client/gui/screens/OptionsScreen.class",
-                      "sha256":  "3856a43bf6d22aacf35cb66a647af2c6eff55f9b498fde236c5d92496647061f",
+                      "sha256":  "5a2acaa1f9ee3420aae3d2c104ea39fedb23c49df8b760f4a31c5a7f416e79fa",
                       "size":  18921
                   },
                   {
@@ -118,28 +118,28 @@
                   },
                   {
                       "path":  "config/createaddition-common.toml",
-                      "sha256":  "1f45a741dc79ba3ad0000884a5677bd76f0235ccb81d99957a181247e416cae6",
-                      "size":  4446
+                      "sha256":  "1d28b40d466308be422d511bcd662b26807a9616144055591ccabb53b42fad92",
+                      "size":  4296
                   },
                   {
                       "path":  "config/creategoggles-client.toml",
-                      "sha256":  "ef0b8b4ee9687463f7c96d064c4d2fc14944efd49d166d06a1444ddd96f3eb64",
-                      "size":  228
+                      "sha256":  "26adedb8b5eb89f116ffed93b40513fc5050d821606b5dda79ed57a146f1d03c",
+                      "size":  220
                   },
                   {
                       "path":  "config/creategoggles-common.toml",
-                      "sha256":  "8f82ea86bf4f048dd4d08e2b2a10570f9f4569cc6f13500d0c147b2d0fb2c37f",
-                      "size":  353
+                      "sha256":  "6e48a6f117925cc05c84363230608aedeb2b82e82b34cb235a1181fb4fb7d5c4",
+                      "size":  343
                   },
                   {
                       "path":  "config/createloveandwar-common.toml",
-                      "sha256":  "b269cbb5d5416c24cead73d6b388258a4b93fa0576bb92d967ce218096ca4df0",
-                      "size":  524
+                      "sha256":  "17aa500e88c658dbbde200f31978653afaf868f14a4755b5f841d015331ab0aa",
+                      "size":  509
                   },
                   {
                       "path":  "config/createoreexcavation-common.toml",
-                      "sha256":  "d2bef136c958a76f0f394400c8084ae25167c43c08e1480ca040f412b8375185",
-                      "size":  692
+                      "sha256":  "dcd212e6fc8f5a0ec5f7be4c8f4cf7916ddf4bb4c0d082401ed7dda4371055ca",
+                      "size":  684
                   },
                   {
                       "path":  "config/cubes_without_borders.json",
@@ -158,8 +158,8 @@
                   },
                   {
                       "path":  "config/dimthread-common.toml",
-                      "sha256":  "7325083b6c48b34dd95320e4ed824d6c02c9b0cae29d021652054819642ce746",
-                      "size":  833
+                      "sha256":  "6640fc999d8d4b7d99920be1087c06eee3c9ec909647ba58bb5b841a0a903096",
+                      "size":  820
                   },
                   {
                       "path":  "config/do_a_barrel_roll-client.json",
@@ -173,7 +173,7 @@
                   },
                   {
                       "path":  "config/embeddium-fingerprint.json",
-                      "sha256":  "19e8f0278933e28e0f4e5ee75d9d63abe8b41dcc5d3ca9b57b3209805255b566",
+                      "sha256":  "a504e3d6528461e0afd7fca22bb5968766411874dae6876eaedafba6de756d87",
                       "size":  427
                   },
                   {
@@ -183,8 +183,8 @@
                   },
                   {
                       "path":  "config/embeddium-options.json",
-                      "sha256":  "b50347059c6de3892d232271161463ccd46f73f61411a9939094c8346d83dd1c",
-                      "size":  846
+                      "sha256":  "e3ef591cdc88589c0b657002ea02f5a964889cc936da10a0f557e3415a48f1e9",
+                      "size":  847
                   },
                   {
                       "path":  "config/emojitype.json",
@@ -203,13 +203,13 @@
                   },
                   {
                       "path":  "config/epicfight-client.toml",
-                      "sha256":  "29a7681be04ba6197a3bfc7fd36ebed37f4f886b80ca9edd98a76fe1b4af046c",
-                      "size":  1462
+                      "sha256":  "babb4292c28bcfaacf48b79676dda3ca050d707bf898535a84aae1cd69050041",
+                      "size":  1410
                   },
                   {
                       "path":  "config/epicfight.toml",
-                      "sha256":  "bd079022837a5609788961964492704daf1333b8b17af8b2e219bc93e1ffb299",
-                      "size":  481
+                      "sha256":  "54df22ac12abad3dd4052d9710b4b8e6a155828c0c1be5d05a9fe323b3d57b29",
+                      "size":  459
                   },
                   {
                       "path":  "config/etched-client.toml",
@@ -223,13 +223,13 @@
                   },
                   {
                       "path":  "config/farmersdelight-client.toml",
-                      "sha256":  "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014",
-                      "size":  369
+                      "sha256":  "13a11f20b305f6f975ebc35802d87c7bf22a04dc79464e41089823603b76a227",
+                      "size":  359
                   },
                   {
                       "path":  "config/farmersdelight-common.toml",
-                      "sha256":  "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf",
-                      "size":  4540
+                      "sha256":  "76aecd29d065d018c440e93bb107cfbf9793ca73b55e12afab63b17bce25dfb2",
+                      "size":  4423
                   },
                   {
                       "path":  "config/ferritecore-mixin.toml",
@@ -238,13 +238,13 @@
                   },
                   {
                       "path":  "config/flans-general.toml",
-                      "sha256":  "e6730f9d2c5bbdf8dd4d4eb19ba9ae2f672e2495bdb2f8353d04f37af583a32f",
-                      "size":  939
+                      "sha256":  "9bcea72db8d510382724fc5ca5aee7ed72e73ee3fa035368632ad0cd293fc4a3",
+                      "size":  902
                   },
                   {
                       "path":  "config/flywheel-client.toml",
-                      "sha256":  "7f5970af1282f62f3fab24adb1eb9bbcbd98a58b3129a182b9febf4cae8ab822",
-                      "size":  618
+                      "sha256":  "ea6f6fad47db889c3bb5442f00444f09ac68356269b35e53ec860cd64585e79f",
+                      "size":  615
                   },
                   {
                       "path":  "config/fml.toml",
@@ -273,13 +273,13 @@
                   },
                   {
                       "path":  "config/illageandspillage-client.toml",
-                      "sha256":  "b88e48939ed588a0d11d6abb022abdc65356ba20fe1f481989e51d9eb40d76a6",
-                      "size":  486
+                      "sha256":  "06deebc87e40abba7cad00e38ca40656ca2684ce03ca9244d9098680f5ef7222",
+                      "size":  473
                   },
                   {
                       "path":  "config/illageandspillage-common.toml",
-                      "sha256":  "77588a6b3aab912ed43f5434d48596754b239ce61db4bce53e6efbbfbce0fba9",
-                      "size":  12911
+                      "sha256":  "34fe7a49b3d394d48bba9fd2fbb69d1cf2d15773f18d22ca1357a21c4c6657a6",
+                      "size":  12643
                   },
                   {
                       "path":  "config/immediatelyfast.json",
@@ -298,8 +298,8 @@
                   },
                   {
                       "path":  "config/immersiveengineeringartifacts-common.toml",
-                      "sha256":  "3d29f1312d2c893a7938e977f3ca03ddeffd1c787e7405459601f252dc2c6f24",
-                      "size":  316
+                      "sha256":  "c5ff2cc6e0454b4b160f101c82e0c366ad84aaf4423c3499c65a0354948abda6",
+                      "size":  306
                   },
                   {
                       "path":  "config/immersiveengineeringstructures-common.toml",
@@ -308,8 +308,8 @@
                   },
                   {
                       "path":  "config/immersiveengineeringtrade-common.toml",
-                      "sha256":  "58b496eb848649ec809c99f29e9750ed4335faeb997f9dd059648b048ed89e7f",
-                      "size":  3725
+                      "sha256":  "2909d7caa2b40d99caca810c3363b0d61fe7f8870d1f71e639a26451f5556103",
+                      "size":  3612
                   },
                   {
                       "path":  "config/immersive_aircraft.json",
@@ -348,13 +348,13 @@
                   },
                   {
                       "path":  "config/jeresources.toml",
-                      "sha256":  "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5",
-                      "size":  236
+                      "sha256":  "dba9b465be70853db2eaa9ab61747b244c2dd1127668dd72121251150a4833a1",
+                      "size":  225
                   },
                   {
                       "path":  "config/jsblock_client.json",
-                      "sha256":  "2187c6e7a17faea7e760e86f74eebc3ef921514acfbbd5844d70e196917422ee",
-                      "size":  87
+                      "sha256":  "320f9b24c140102c376376591df9d21bd3468d0d784bc6728dcbb1d03f4db813",
+                      "size":  86
                   },
                   {
                       "path":  "config/laserbridges.json",
@@ -363,8 +363,8 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "51fd1a5d22f6de0d9a19e2e8f465dc0f4fc56db1dbbfce9eab2f02e1dccd1e39",
-                      "size":  194
+                      "sha256":  "a856f5ff6abec30e50e8674d3be1a946a261ac1802b06b403aaae59c3b51d769",
+                      "size":  193
                   },
                   {
                       "path":  "config/mafglib.json",
@@ -388,23 +388,23 @@
                   },
                   {
                       "path":  "config/ntgl-client.toml",
-                      "sha256":  "71ad428c830ccbca223ed1a84c792c0d7771296867dbcbe46ec9d48e469287ff",
-                      "size":  3721
+                      "sha256":  "5edaab1888ad78c69f472113abe2c5312f54499192894a6de44593a14f324bcb",
+                      "size":  3644
                   },
                   {
                       "path":  "config/ntgl-common.toml",
-                      "sha256":  "c4810d354d0011deeea491cd702ca0b0de278d2ce55cfbe1ca2b9b022b503bcb",
-                      "size":  6943
+                      "sha256":  "d8c9e8ea5d726ffcd4d7f48f1c4ff2f5f2dd5ec34e590668de83bbddefaf7266",
+                      "size":  6811
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "9f1c3625331beeadc3ad88c9bba0cac9cbba7906a26e55e50063e7cbc1a4841b",
+                      "sha256":  "fb7aaaf78130c81a9fdc10c5a5f19e02f502ca945606a9c5014ffb8304ce8437",
                       "size":  286
                   },
                   {
                       "path":  "config/parcool-client.toml",
-                      "sha256":  "2c043cdcb3f7dd5a709dae5e4f1623e6dac6077aa9b8484bf36718d0fccf73c8",
-                      "size":  7485
+                      "sha256":  "ce247ca553d622ff5c68a55e35e7b1e812b61f41f59786f9b6fe074097b57910",
+                      "size":  7246
                   },
                   {
                       "path":  "config/placeablesmod_configs.json",
@@ -453,18 +453,18 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "002ca02c6acf8a4809fcae893003fae16a968817718e646165505d20a8ec74e1",
-                      "size":  284
+                      "sha256":  "ab5503b73a5b507e1cfd4d1c7dbfa23c91581e441ad7209f28776ac3f694739b",
+                      "size":  283
                   },
                   {
                       "path":  "config/superbwarfare-client.toml",
-                      "sha256":  "3cd50fdbe9c12428fa3fdd62a896e163eb3bdf8df32a8f1287f8c234403c8472",
-                      "size":  996
+                      "sha256":  "5738b877c624424bd6b99c1e5ea5c0a4162acb18152e8962f87407c41ef38b44",
+                      "size":  962
                   },
                   {
                       "path":  "config/superbwarfare-common.toml",
-                      "sha256":  "263fde220c78d913db5436b35fd0cdc27e3a14a2493cd8edff66d3f9b39bf069",
-                      "size":  309
+                      "sha256":  "5b9b5f5e3bbc8efd0c4d101077bb7a9014a2d94eda95b43d8293ecd263defa5a",
+                      "size":  300
                   },
                   {
                       "path":  "config/supplementaries-client.toml",
@@ -478,8 +478,8 @@
                   },
                   {
                       "path":  "config/suppsquared-common.toml",
-                      "sha256":  "2c20ac633c33b24a105115888730e73444ea6d11a291318de3cf5fa157f83685",
-                      "size":  88
+                      "sha256":  "1a5611d619632a973471245209520f703c3e6eff6db8b15f94267ebba02e428d",
+                      "size":  81
                   },
                   {
                       "path":  "config/talk_balloons.json5",
@@ -508,8 +508,8 @@
                   },
                   {
                       "path":  "config/trackwork-client.toml",
-                      "sha256":  "1f1d7dcce958bec868c1d84571d205a06b1c66c554dbfd25429a70bca171e670",
-                      "size":  140
+                      "sha256":  "f0f6f33ec8bf6ea977a75a950c6ce1665c2a6273859eec703e5860c4802748cc",
+                      "size":  131
                   },
                   {
                       "path":  "config/treechop-client.toml",
@@ -523,8 +523,8 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "44f5959b0f47241328d0a5cf87055a2b39a43586bab9c021203593bb7d4c6457",
-                      "size":  509
+                      "sha256":  "dc2edc6c20853f4645efc211f11d56246218762e763fe31184c235897824ff2b",
+                      "size":  508
                   },
                   {
                       "path":  "config/watut-client.toml",
@@ -538,8 +538,8 @@
                   },
                   {
                       "path":  "config/watut-item-arm-adjustments.json",
-                      "sha256":  "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982",
-                      "size":  3367
+                      "sha256":  "0c365ed28f78c9ace3d822ca6e11043c7600d92822bc1fc1817bb2661766b96b",
+                      "size":  3274
                   },
                   {
                       "path":  "config/watut-server.toml",
@@ -548,23 +548,23 @@
                   },
                   {
                       "path":  "config/webdisplays_client.toml",
-                      "sha256":  "32515f41a0bf22ad9740a310e03e200c61e1851d09fcef113c4634ff435c403a",
-                      "size":  1291
+                      "sha256":  "dde403b2d9f51955559474b030d13fc111cb3b64ae7358a52f44aedd0c477b51",
+                      "size":  1265
                   },
                   {
                       "path":  "config/webdisplays_common.toml",
-                      "sha256":  "deea092db92ef67d2026653e46ead6e0a61fb384bdb2e16514c27f9c1e06acbf",
-                      "size":  1243
+                      "sha256":  "bc613d6f8a41091f6bd1116ecfa950ec8170f40a03fa60722a907a762335706b",
+                      "size":  1205
                   },
                   {
                       "path":  "config/wom-client.toml",
-                      "sha256":  "15fd94c0bf9fb491c4b9344064f3d5ce994a731d351ad89be89e5f1430ac35fb",
-                      "size":  194
+                      "sha256":  "768e59d23afcc8a81b6445e586cf070ea62f2209019a418ba5cfa6691fad3027",
+                      "size":  185
                   },
                   {
                       "path":  "config/wom.toml",
-                      "sha256":  "74947dc61dad14d5cfdc7ac3723d0c31708ec7fa2f114097bdcf68f6b4b9603f",
-                      "size":  160
+                      "sha256":  "645183147f53cf8ccb04cae9f0062f53f2b8e18dd921acad1d3d8e1d0f55fd2a",
+                      "size":  152
                   },
                   {
                       "path":  "config/xaerominimap-common.txt",
@@ -578,7 +578,7 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13",
+                      "sha256":  "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead",
                       "size":  5531
                   },
                   {
@@ -1058,8 +1058,8 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "99d2a8d1f8d180f60292de1b8ef6098648b5d69f743e88ab5357bb34da7367f3",
-                      "size":  291
+                      "sha256":  "93e1d62d00d7a6fd88c87a9f58e35c99c68fecba9ca70b3a52c8e749960bb3de",
+                      "size":  282
                   },
                   {
                       "path":  "config/fancymenu/customizablemenus.txt",
@@ -1083,8 +1083,8 @@
                   },
                   {
                       "path":  "config/fancymenu/user_variables.db",
-                      "sha256":  "21b8e1f4d02bf6d89114b5733dba149e4d4020959e569153141fbb7da5b19f18",
-                      "size":  403
+                      "sha256":  "d954ef90514ac4580663a8ca4a499cba065723d9087d5b3773c6d16d2d6bb44e",
+                      "size":  396
                   },
                   {
                       "path":  "config/fancymenu/video_element_controller_metas.json",
@@ -1268,8 +1268,8 @@
                   },
                   {
                       "path":  "config/jeg/assets/jeg/textures/fire_sweeper.png.mcmeta",
-                      "sha256":  "161e927cff017e626ba156b8c4e61c6bb9af5c4ca88dec0df1cb2fbf8bfa6ad1",
-                      "size":  137
+                      "sha256":  "8a10d735aec9450a6491157eed90bde6033005139e76ad684135a13134f10b7b",
+                      "size":  126
                   },
                   {
                       "path":  "config/jeg/assets/jeg/textures/primitive_blowpipe.png",
@@ -1303,13 +1303,13 @@
                   },
                   {
                       "path":  "config/jei/ingredient-list-mod-sort-order.ini",
-                      "sha256":  "81a33ddc163fb97088fa85b74c518e70f955fe874a53791020adc80e41aaeb74",
-                      "size":  404
+                      "sha256":  "5fa035d4142e400cb2e1d91863a5e11481d25a2264e5098cc383e42deb43ba67",
+                      "size":  377
                   },
                   {
                       "path":  "config/jei/ingredient-list-type-sort-order.ini",
-                      "sha256":  "39b5426fb7faf645a83c210d457352b05f64859d4b9adb58242c113c2c8e6878",
-                      "size":  74
+                      "sha256":  "ca6f0515891afed86c30c9d3d8ad1496a7d03de9ea532ab431f2ec1d3968826b",
+                      "size":  72
                   },
                   {
                       "path":  "config/jei/jei-client.ini",
@@ -1333,23 +1333,23 @@
                   },
                   {
                       "path":  "config/jei/recipe-category-sort-order.ini",
-                      "sha256":  "30106f8d35fa52c302e520881e6c2f719a4e6d9a5246fe82a5e63cbfb072d64c",
-                      "size":  2063
+                      "sha256":  "b6fc348e1363655cbbf1b67599b633f5df0854a49541dcacca35fbaa44dbec3e",
+                      "size":  1983
                   },
                   {
                       "path":  "config/jei/world/local/Nuovo_mondo/bookmarks.ini",
-                      "sha256":  "0ee79c651a2ed27f0a92dca537b21d70a43ea0d633678654e19541242131c9da",
-                      "size":  56
+                      "sha256":  "5394b98de111a5978ee388a29d703da80b00fc0e0c5e2ce6c316c1c2e02d50ef",
+                      "size":  55
                   },
                   {
                       "path":  "config/jei/world/server/Server_di_Minecraft_5dc99ead/bookmarks.ini",
-                      "sha256":  "e33ba8a5b9b3427ab256639c6da23397068e25f7697fe834c304b9d420ca9c29",
-                      "size":  202
+                      "sha256":  "645c076dae144fe96421422fb0ac79ccfd68e74885213dff3bd7bcaf2c715971",
+                      "size":  197
                   },
                   {
                       "path":  "config/jei/world/server/Server_di_Minecraft_cab003f1/bookmarks.ini",
-                      "sha256":  "c3a460a819bb71bc6a7ac146d9be19daa96a1a5f1ded99ab9d27eeb2ed4d6061",
-                      "size":  461
+                      "sha256":  "05dcc00317df6d5659d99e0ae0d7a5fd88ea5b159d44baa5bf7748a972b753d3",
+                      "size":  455
                   },
                   {
                       "path":  "config/justzoom/config.txt",
@@ -1378,98 +1378,98 @@
                   },
                   {
                       "path":  "config/mcef/mcef.properties",
-                      "sha256":  "e2b2cc13b2502c3129e9f8985e4dfa101631bf6cabde6f805454c17f832d877a",
-                      "size":  140
+                      "sha256":  "22757f836dc79f9062e8958cc6c830d8a46846cb1c10ef4b4dcb6857d0ffa978",
+                      "size":  135
                   },
                   {
                       "path":  "config/Mekanism/additions-client.toml",
-                      "sha256":  "a05bfc8be3a127696063cf45d705f251d2c04bc9a092f3c01f0464abda1fac57",
-                      "size":  280
+                      "sha256":  "7bf81e79c36e1ff5ceea435f5493000f27821b1c72329ea4298955609c6591c8",
+                      "size":  274
                   },
                   {
                       "path":  "config/Mekanism/additions.toml",
-                      "sha256":  "4338312bb3adfdecfa567ccb08b8a303ebc2c2dfa4b203383fd3ed99afac2bb2",
-                      "size":  6408
+                      "sha256":  "0788522bba20d8e72bdd355a0ea0e11810268956f7dbb0b45781d2bbb79b7347",
+                      "size":  6270
                   },
                   {
                       "path":  "config/Mekanism/client.toml",
-                      "sha256":  "30a73f0ba89720c9dac8ebdfa2fd6ae7676d80e8ebadb2b5931c9c263483e701",
-                      "size":  4245
+                      "sha256":  "524ee2e536cd58b11719b136b98bd018f3f3d87a9cc52eef0a5892c12662d465",
+                      "size":  4115
                   },
                   {
                       "path":  "config/Mekanism/common.toml",
-                      "sha256":  "dab6dbae43bb67fd6a10438c0cbf997c70560c6af3493b60330ac9248587905d",
-                      "size":  693
+                      "sha256":  "aded0937dff550c18f0656661333ad9f37990cc5d38e6840497cab3ff7a266fc",
+                      "size":  681
                   },
                   {
                       "path":  "config/Mekanism/gear.toml",
-                      "sha256":  "04a7c6e344d9f60ee95a5ddc4dfeccf7aab98df7120eb7a29d7f7dbb69ca4d08",
-                      "size":  12489
+                      "sha256":  "02d464d81e33020e6ad28e0021829f1727f02821014c251afef14cfc85c99660",
+                      "size":  12205
                   },
                   {
                       "path":  "config/Mekanism/general.toml",
-                      "sha256":  "ed3012efc424ba4ea7555eb9c65eee84cbb7d07d0a74f2f7fef5b3cc2c51f694",
-                      "size":  11273
+                      "sha256":  "930408c80a41c9e7e39b2c31f7764b85e61d88b382f8bff3992404585f1d0bc2",
+                      "size":  11041
                   },
                   {
                       "path":  "config/Mekanism/generator-storage.toml",
-                      "sha256":  "db6aa0b38e4dadfe9fae3970599c415d96058e1a47363180d63c647ccd20d084",
-                      "size":  403
+                      "sha256":  "c28e7cc320f69327d5f2affdd2d3cbb85ffee6ba577a75a98618cedd02e564f4",
+                      "size":  389
                   },
                   {
                       "path":  "config/Mekanism/generators-gear.toml",
-                      "sha256":  "b3c50755f421aff5ba6b23a9b1aa8dddf9be0d200b363635134db3ee68e11338",
-                      "size":  781
+                      "sha256":  "9dfdefd08e85a5089eb6ba33478913e1c96d984e18a5edcf9b5310616fee18c9",
+                      "size":  767
                   },
                   {
                       "path":  "config/Mekanism/generators.toml",
-                      "sha256":  "c861d7b1b9438b6950d503a80e9e16cf64b010bf2688d2c3e003410590682560",
-                      "size":  7193
+                      "sha256":  "dc3b90dacbb87a5ac278007bf806e63100e47f419492a5a390a55471f6724c08",
+                      "size":  7044
                   },
                   {
                       "path":  "config/Mekanism/machine-storage.toml",
-                      "sha256":  "ade378e93c7dd046ee9317c424a3675784034ef23602b9d25a57c8a048face5f",
-                      "size":  2424
+                      "sha256":  "5762af5926b2312aaff9bda0cbbb44748d6ad2ed1b12a5d19af28407bc604dc6",
+                      "size":  2348
                   },
                   {
                       "path":  "config/Mekanism/machine-usage.toml",
-                      "sha256":  "9b8b7a7532f4f5bfaa17613677a904a48b1503db660e22084949192b1945eb86",
-                      "size":  2614
+                      "sha256":  "331ae2bd0031e3d8c65f3572f17bf81af186363c4a4a630e4184f6d427d2f136",
+                      "size":  2539
                   },
                   {
                       "path":  "config/Mekanism/tiers.toml",
-                      "sha256":  "c9bac7a9ff512efaf495ce5d89299a5c6533cecae11d3c87c9bc2a28595db77e",
-                      "size":  9279
+                      "sha256":  "b5fb9d3325f776146cd6d891be2ff373a406494fe51e4cf2551b360241210d26",
+                      "size":  9015
                   },
                   {
                       "path":  "config/Mekanism/tools-client.toml",
-                      "sha256":  "adf9f43d65b332f8212d72dd847cdd19ff3f92bd80dd072011adcc53758db747",
-                      "size":  180
+                      "sha256":  "b12d9391ca6da6d45a0247daac7dd21a1400f42fccc51edd180e18459ad5fe00",
+                      "size":  174
                   },
                   {
                       "path":  "config/Mekanism/tools.toml",
-                      "sha256":  "6e82f7c5434e96eb928c6c9f1c3d4108dd07debc48001c4fa7a38689edcca032",
-                      "size":  31070
+                      "sha256":  "6aa5e61a9b6280310e85e127431166fcb4d3826cf2b7ea07d2b42b75c25ab87c",
+                      "size":  30299
                   },
                   {
                       "path":  "config/Mekanism/world.toml",
-                      "sha256":  "544ac46d6c31a23a028f6b871ff187fdf13aae57050c5d8b7dac3be5e10353b3",
-                      "size":  18322
+                      "sha256":  "54971d6ffd03a2bd66d146d77f421e07133752f7b9c2f66a0a8196c7a85bac50",
+                      "size":  17862
                   },
                   {
                       "path":  "config/Obscuria/aquamirae-client.toml",
-                      "sha256":  "c5913558bc43a17ff28e21853f6be9713f3d0a6416235e11aaedb8a3998bcb4d",
-                      "size":  200
+                      "sha256":  "a82e105f1155d34148b19625e7d169ad92673caafbb50c9b1edb0bcfc5191b88",
+                      "size":  189
                   },
                   {
                       "path":  "config/Obscuria/aquamirae-common.toml",
-                      "sha256":  "fe135b7cc515c930335ff2e2a279f2f5b50851746e13bc2aded629abc38e04d0",
-                      "size":  2170
+                      "sha256":  "88cd0206156a36bb7ffb5e22bfe71a1031eed7027fb70b3c3eabd049d7858ae1",
+                      "size":  2065
                   },
                   {
                       "path":  "config/Obscuria/obscure-api-client.toml",
-                      "sha256":  "90b60c01677fe0899e1b1fbf0deb8aba975f3540a0abb979a1c9aa7760930fe2",
-                      "size":  359
+                      "sha256":  "caa611136fde92cc4eb9f63fde2bab6678c9309e737fedd9adcf139b4b8d05db",
+                      "size":  344
                   },
                   {
                       "path":  "config/Obscuria/Data/aquamirae_cover.png",
@@ -1698,63 +1698,63 @@
                   },
                   {
                       "path":  "config/valkyrienskies/vs_client.json",
-                      "sha256":  "cf01bce7e3e7e4e2b132b2864a526ee301269c35eca44a690cf7f9f54760ead4",
-                      "size":  278
+                      "sha256":  "744609ee3e824e694dbc68125a2f6c1933f98d321755019e3a462a5de67fde44",
+                      "size":  267
                   },
                   {
                       "path":  "config/valkyrienskies/vs_clockwork_client.json",
-                      "sha256":  "758e008bd83ca2cfad311897ee0d4944170429112b097287dbbb7e95990b692d",
-                      "size":  61
+                      "sha256":  "11fd0b7431f5c5a1a37a1f7b5a2b91c470daca21a92daba06e368ecfabdf00e2",
+                      "size":  59
                   },
                   {
                       "path":  "config/valkyrienskies/vs_clockwork_server.json",
-                      "sha256":  "319eaec2a18e3e4b1cf170ccd93a59c6b3e8803109ba645833952deda2707bc6",
-                      "size":  343
+                      "sha256":  "96e318c600d9ca728ac0eaacb0d40ef5938caab5d4c8fb82130f53d52ca68a83",
+                      "size":  339
                   },
                   {
                       "path":  "config/valkyrienskies/vs_common.json",
-                      "sha256":  "80b0161bbd450eb2e8c64fcd3e643694c052bf43e9e79a985fb639b7a4782466",
-                      "size":  107
+                      "sha256":  "b79fd15ca7286dcfa731ca333f6cffe160a46225e41479cc968dd5d8e24df3a8",
+                      "size":  102
                   },
                   {
                       "path":  "config/valkyrienskies/vs_core_server.json",
-                      "sha256":  "4cce977a70bc4b21f61cd1c81e802971ac0d016e991574d41867222665b78455",
-                      "size":  591
+                      "sha256":  "d5b844f63b888a7ca8bec51f647727fc0ceb44df540d80865ca62e5ecf67327a",
+                      "size":  569
                   },
                   {
                       "path":  "config/valkyrienskies/vs_server.json",
-                      "sha256":  "0b854f9382b87d345abf6be7128218f561f6db875862142e031394e3854ca3d6",
-                      "size":  636
+                      "sha256":  "9c4d0dd79bbe40026d9994d5d4c28ee083bb4023f7ab6bc6c8b1a5dfc1ec5aa8",
+                      "size":  615
                   },
                   {
                       "path":  "config/valkyrienskies/schemas/vs_client.schema.json",
-                      "sha256":  "48356047aa354b0e9aca95954700dbf09530fa0e1a147a10d29fc4ca96c353c0",
-                      "size":  1297
+                      "sha256":  "18ab8a80bb24a7a448e9689f6ec93921f47072b62271ae0c6d7fdf2da4a12078",
+                      "size":  1255
                   },
                   {
                       "path":  "config/valkyrienskies/schemas/vs_clockwork_client.schema.json",
-                      "sha256":  "c335d926a3d773484252e6460257f513e58bb62e470fe059a14a69a09b90d5bd",
-                      "size":  123
+                      "sha256":  "1401463b94a0af5d1b62b6729690f96d6c5e01f6190830240124f8874812a90c",
+                      "size":  119
                   },
                   {
                       "path":  "config/valkyrienskies/schemas/vs_clockwork_server.schema.json",
-                      "sha256":  "966ead7c793e4c459533ac838161ba0e28103e86ba18d38241482e3e0425d2cf",
-                      "size":  603
+                      "sha256":  "d404a5b0b1a786ea22df049e30c3098c41593f546570166cb497444419dee710",
+                      "size":  581
                   },
                   {
                       "path":  "config/valkyrienskies/schemas/vs_common.schema.json",
-                      "sha256":  "6d80484f70f383c02f4c8318d54056767c9a3fe0a22e3fa03ff1f30370a2ce95",
-                      "size":  606
+                      "sha256":  "f5ba425afee7c543f9e010c34c451817bb9c745ffd45106fac5544e9eacadf96",
+                      "size":  586
                   },
                   {
                       "path":  "config/valkyrienskies/schemas/vs_core_server.schema.json",
-                      "sha256":  "469995a2897fdb65b825f4eb6cd550f35d3ba28c9a796dd91de0a7f8d436fb48",
-                      "size":  3648
+                      "sha256":  "a09eb410f6b56c65904aaf5d75d74ebf67d8ed96f9d992f322e8e03fd86b1f6d",
+                      "size":  3548
                   },
                   {
                       "path":  "config/valkyrienskies/schemas/vs_server.schema.json",
-                      "sha256":  "7d9ede889faa1dca89dda84cdbdf8aeb515124d646b15cf78db0dfdbafddd91c",
-                      "size":  3771
+                      "sha256":  "0775d17008cbfd9fcd097f2dcf8aa3062145b2dc53dcb3bab0456e7729fea5c0",
+                      "size":  3685
                   },
                   {
                       "path":  "fancymenu_data/default_scale_set.fm",
@@ -1775,11 +1775,6 @@
                       "path":  "fancymenu_data/buddy/buddy_save.json",
                       "sha256":  "0ab0ae100a4a2fbe67cd96495bd0677d8d2e54396e4cce45c2f352b7e0708401",
                       "size":  260
-                  },
-                  {
-                      "path":  "fancymenu_data/fancymenu_temp/web/videoplayer/player.html",
-                      "sha256":  "04b8966e4c085d002f303d5c221a06a1879966e85f040d5578ac771f50b8c2e6",
-                      "size":  27576
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/DISCLAIMER",

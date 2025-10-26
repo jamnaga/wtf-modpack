@@ -8,7 +8,7 @@ variable {
 
 variable {
   name = packversion
-  value = v1.0r10
+  value = 
   reset_on_launch = false
 }
 
