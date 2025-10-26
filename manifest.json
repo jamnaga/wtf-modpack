@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "26/10/2025 19:45:04,57",
+    "generated":  "26/10/2025 19:58:54,76",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -243,8 +243,8 @@
                   },
                   {
                       "path":  "config/flywheel-client.toml",
-                      "sha256":  "ea6f6fad47db889c3bb5442f00444f09ac68356269b35e53ec860cd64585e79f",
-                      "size":  615
+                      "sha256":  "270bb2b99e7524fc901bff49bcc65fee2bdbcbce71a8ac0d5f409cc7eea2cc46",
+                      "size":  624
                   },
                   {
                       "path":  "config/fml.toml",
@@ -578,7 +578,7 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead",
+                      "sha256":  "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8",
                       "size":  5531
                   },
                   {
