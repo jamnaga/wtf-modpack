@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "26/10/2025 19:58:54,76",
+    "generated":  "26/10/2025 20:31:30,98",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -383,8 +383,8 @@
                   },
                   {
                       "path":  "config/mtr.json",
-                      "sha256":  "b1f62fd2848386e5f4fdf88c28f0910e2b41ddce1849900afeb5aba60bcdf344",
-                      "size":  577
+                      "sha256":  "0a44b8319e0878a90ce981443594b4bfbcd5470528a461ea110a160c7ff73dc6",
+                      "size":  576
                   },
                   {
                       "path":  "config/ntgl-client.toml",
@@ -1083,8 +1083,8 @@
                   },
                   {
                       "path":  "config/fancymenu/user_variables.db",
-                      "sha256":  "d954ef90514ac4580663a8ca4a499cba065723d9087d5b3773c6d16d2d6bb44e",
-                      "size":  396
+                      "sha256":  "5c09ff07cb9d379722af26f05d3ee13c14b19d21c657639a803f361abe076e1b",
+                      "size":  399
                   },
                   {
                       "path":  "config/fancymenu/video_element_controller_metas.json",

@@ -2,7 +2,7 @@
   "client": {
     "chatAnnouncements": true,
     "textToSpeechAnnouncements": true,
-    "hideTranslucentParts": false,
+    "hideTranslucentParts": true,
     "languageDisplay": "NON_CJK_ONLY",
     "vehicleOscillationMultiplier": 1.0,
     "dynamicTextureResolution": 2,
