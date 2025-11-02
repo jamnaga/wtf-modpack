@@ -58,7 +58,7 @@
     "tutorial_toast": true,
     "instant_sneak": false,
     "prevent_shaders": false,
-    "steady_debug_hud": true,
+    "steady_debug_hud": false,
     "steady_debug_hud_refresh_interval": 1
   }
 }

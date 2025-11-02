@@ -11,16 +11,16 @@ allowInternetAccess:true
 updateNotification:true
 minimap:true
 caveMaps:2
-caveZoom:1
+caveZoom:2
 showWaypoints:true
 showIngameWaypoints:true
-displayRedstone:true
+displayRedstone:false
 deathpoints:true
 oldDeathpoints:true
 distance:1
 lockNorth:false
-zoom:0
-minimapSize:0
+zoom:2
+minimapSize:125
 chunkGrid:-1
 slimeChunks:false
 mapSafeMode:false
@@ -35,19 +35,19 @@ lighting:true
 dotsStyle:0
 dotNameScale:1.0
 compassOverEverything:true
-showFlowers:true
+showFlowers:false
 keepWaypointNames:true
 waypointsDistanceExp:0
 waypointsDistanceMin:0.0
 defaultWaypointTPCommandFormat:/tp @s {x} {y} {z}
 defaultWaypointTPCommandRotationFormat:/tp @s {x} {y} {z} {yaw} ~
-arrowScale:1.5
-arrowColour:0
+arrowScale:1.3000000193715096
+arrowColour:4
 smoothDots:true
 worldMap:true
 terrainDepth:true
 terrainSlopes:2
-mainEntityAs:0
+mainEntityAs:2
 blockTransparency:true
 waypointOpacityIngame:80
 waypointOpacityMap:90
@@ -70,7 +70,7 @@ hideWaypointCoordinates:false
 renderAllSets:false
 playerArrowOpacity:100
 waypointsBottom:false
-minimapShape:0
+minimapShape:1
 lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0
@@ -78,8 +78,8 @@ lightOverlayColor:13
 uiScale:0
 bossHealthPushBox:1
 potionEffectPushBox:1
-minimapFrame:0
-minimapFrameColor:9
+minimapFrame:1
+minimapFrameColor:8
 compassColor:9
 northCompassColor:-1
 displayMultipleWaypointInfo:1
@@ -96,9 +96,9 @@ manualCaveModeStartAuto:true
 manualCaveModeStart:-1
 chunkGridLineWidth:1
 temporaryWaypointsGlobal:true
-keepUnlockedWhenEnlarged:false
+keepUnlockedWhenEnlarged:true
 enlargedMinimapAToggle:false
-displayStainedGlass:true
+displayStainedGlass:false
 waypointOnMapScale:0
 switchToAutoOnDeath:true
 infoDisplayBackgroundOpacity:40
@@ -130,4 +130,4 @@ infoDisplay:highlights:true:15:-1
 infoDisplay:light_overlay_indicator:true:15:-1
 infoDisplay:manual_cave_mode_indicator:true:15:-1
 infoDisplay:custom_sub_world:true:15:-1
-module;id=xaerominimap:minimap;active=true;x=0;y=0;centered=false;fromRight=false;fromBottom=false;flippedVer=false;flippedHor=false;
+module;id=xaerominimap:minimap;active=true;x=0;y=0;centered=false;fromRight=false;fromBottom=true;flippedVer=false;flippedHor=false;
