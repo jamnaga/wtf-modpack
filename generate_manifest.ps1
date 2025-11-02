@@ -2,7 +2,16 @@
 $ErrorActionPreference = 'Stop'
 
 $outputFile = "manifest.json"
+$onceListFile = ".oncelist"
 $ignorePatterns = @()
+
+# Carica la lista dei file "once"
+$onceList = @()
+if (Test-Path $onceListFile) {
+    $onceList = Get-Content $onceListFile | Where-Object { 
+        $_ -notmatch '^\s*$' 
+    } | ForEach-Object { $_.Trim() -replace '\\', '/' }
+}
 
 # Carica i pattern da .gitignore e .manifestignore
 foreach ($ignoreFile in @('.gitignore', '.manifestignore')) {
@@ -97,10 +106,14 @@ foreach ($file in $files) {
         $hashObj = Get-FileHash -LiteralPath $file.FullName -Algorithm SHA256 -ErrorAction Stop
         $hash = $hashObj.Hash.ToLower()
         
+        # Determina se il file è nella lista "once"
+        $isOnce = $onceList -contains $relativePath
+        
         $manifestObj.files += @{
             path = $relativePath
             size = $file.Length
             sha256 = $hash
+            once = $isOnce
         }
     }
     catch {
