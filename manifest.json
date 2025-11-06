@@ -1,17 +1,17 @@
 ﻿{
-    "generated":  "06/11/2025 05:11:49,15",
+    "generated":  "06/11/2025 05:14:04,72",
     "files":  [
                   {
                       "path":  ".gitignore",
-                      "sha256":  "491ce0bc3b1341b5e76bc61e0c4d007aae9fa62f3d2d6176f56e8789f81cb1e7",
+                      "sha256":  "d86bf82bf306f1038bdd8293f45d93b04d0c126341c391e27b255f0c82915e77",
                       "once":  false,
-                      "size":  210
+                      "size":  280
                   },
                   {
                       "path":  ".manifestignore",
-                      "sha256":  "edf4a80f022cba1cc4739b6e0ea91af2c526b3353d6403f0319bcb8285ef1254",
+                      "sha256":  "82484dc14ed87751cda87e49139b192967e39999ff13c3dfc364aaf6210edf9d",
                       "once":  false,
-                      "size":  201
+                      "size":  214
                   },
                   {
                       "path":  ".oncelist",
@@ -48,12 +48,6 @@
                       "sha256":  "c25d25af08575fdb27a1d5a615ada7afbfb231b6dae5a95660e7f43c86005975",
                       "once":  false,
                       "size":  84
-                  },
-                  {
-                      "path":  ".mixin.out/class/net/minecraft/client/gui/screens/OptionsScreen.class",
-                      "sha256":  "df0d105e98928d5307907305cf125ffb235923257d4fe1d28b7dba085a7412f7",
-                      "once":  false,
-                      "size":  18921
                   },
                   {
                       "path":  "config/alexsmobs.toml",
@@ -5154,72 +5148,6 @@
                       "sha256":  "0630aa42492f78126da1c4d99769632e03c55b2e63b050efe7e3005e07e3e6fc",
                       "once":  false,
                       "size":  1338368
-                  },
-                  {
-                      "path":  "screenshots/2025-11-02_15.41.47.png",
-                      "sha256":  "7f8b98b1ab6ac1f96d0047134abae8078ac701a1e3df24d122416d8cbd348b46",
-                      "once":  false,
-                      "size":  4635520
-                  },
-                  {
-                      "path":  "screenshots/2025-11-02_15.43.36.png",
-                      "sha256":  "d520f03c2d0329cd1da4d76c3bdb5d70cc5a8c830f6ae0aaf3e68d80b565215c",
-                      "once":  false,
-                      "size":  4362006
-                  },
-                  {
-                      "path":  "screenshots/2025-11-02_15.43.38.png",
-                      "sha256":  "c03e89c21a616cd0879c7057fea576982fe041ac3392d674382b537d1ac0de4f",
-                      "once":  false,
-                      "size":  4347492
-                  },
-                  {
-                      "path":  "screenshots/2025-11-02_16.15.40.png",
-                      "sha256":  "9c3ee965ae06e8e178fc98188dc429df3bd9eb9348efd49fe35c94a641cf80a4",
-                      "once":  false,
-                      "size":  4053315
-                  },
-                  {
-                      "path":  "screenshots/2025-11-02_16.16.12.png",
-                      "sha256":  "cf31f3bf0ec800c08a634e39e74766173bf057c6b28e91a0b5d594e261d62ddd",
-                      "once":  false,
-                      "size":  4069670
-                  },
-                  {
-                      "path":  "screenshots/2025-11-02_16.46.11.png",
-                      "sha256":  "54783aed4124b3d965157251b745af4b741bda9d80820c5789746c482ae93889",
-                      "once":  false,
-                      "size":  4324312
-                  },
-                  {
-                      "path":  "screenshots/2025-11-02_16.46.52.png",
-                      "sha256":  "3ae12c47b8acfc927f9f9468dca38892c719647700851e64ba0f65965e6e57e4",
-                      "once":  false,
-                      "size":  4338652
-                  },
-                  {
-                      "path":  "screenshots/2025-11-02_16.55.43.png",
-                      "sha256":  "1cca17676867712fc23b74f1f552e5a1147d73813a1aed163347b7f5c05ce426",
-                      "once":  false,
-                      "size":  3644224
-                  },
-                  {
-                      "path":  "screenshots/2025-11-02_19.57.09.png",
-                      "sha256":  "6e2e538fcf2809985ed188d363293fded09d38fbc0a01a1f84e4d28cd0a748cc",
-                      "once":  false,
-                      "size":  4059993
-                  },
-                  {
-                      "path":  "screenshots/2025-11-02_20.01.38.png",
-                      "sha256":  "992d6cb1eccb18fe9c96834473aca8b4a777f5bc77c7d62f5e6b447df4daba51",
-                      "once":  false,
-                      "size":  3716176
-                  },
-                  {
-                      "path":  "screenshots/eyemod/photo_1762114318655.png",
-                      "sha256":  "2887353cceddc279bd2afca07211bbc0d868f7ccd43cc0244e368aaa3f8a1054",
-                      "once":  false,
-                      "size":  1285675
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip",
