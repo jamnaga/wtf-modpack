@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "06/11/2025 05:14:04,72",
+    "generated":  "08/11/2025 00:31:48,67",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -33,9 +33,9 @@
                   },
                   {
                       "path":  "options.txt",
-                      "sha256":  "f8333f58646b9e4ed4b807ea9462777c0ac3ab1846b06791d127cba2b1a06d97",
+                      "sha256":  "026e11de145ecb73327118ac8b84ea4ea320d9e9e5accddcaa382a70a03f075f",
                       "once":  true,
-                      "size":  9503
+                      "size":  9504
                   },
                   {
                       "path":  "servers.dat",
@@ -206,6 +206,12 @@
                       "size":  820
                   },
                   {
+                      "path":  "config/DistantHorizons.toml",
+                      "sha256":  "83aa2741d53adc75c8d2077841c7a56059fac6a48377706659ab93a1279776fb",
+                      "once":  false,
+                      "size":  32500
+                  },
+                  {
                       "path":  "config/do_a_barrel_roll-client.json",
                       "sha256":  "c3b8b81ab6fe44c807fb854bc7ad09bd09b8f9f646785768eb8eb649a29dc130",
                       "once":  false,
@@ -279,12 +285,18 @@
                   },
                   {
                       "path":  "config/eyemod-common-1.toml.bak",
-                      "sha256":  "d53e2bc51c84314d207e8c1508d274f557f92a3157a84dc3a6cf3f001bc3dd2d",
+                      "sha256":  "79b7554361aa4542f8253a05b540335ecf1402a66201a87cdf42fa2d50443be7",
                       "once":  false,
                       "size":  2207
                   },
                   {
                       "path":  "config/eyemod-common-2.toml.bak",
+                      "sha256":  "d53e2bc51c84314d207e8c1508d274f557f92a3157a84dc3a6cf3f001bc3dd2d",
+                      "once":  false,
+                      "size":  2207
+                  },
+                  {
+                      "path":  "config/eyemod-common-3.toml.bak",
                       "sha256":  "d53e2bc51c84314d207e8c1508d274f557f92a3157a84dc3a6cf3f001bc3dd2d",
                       "once":  false,
                       "size":  2207
@@ -465,7 +477,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "cf5b20da43e63fc3fc46a9cf9ac0c92bfe0d7a4c34904d554ac11a6a14c5312a",
+                      "sha256":  "0880cddbc293e23411c39bae5413bb59654463b6ad4dd0b8c305574e0b3fceb3",
                       "once":  false,
                       "size":  193
                   },
@@ -507,7 +519,7 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "c78a5acccf55c713b35c19861426f9196a71c145014d71e3888e1c91f5890713",
+                      "sha256":  "5ba4be57793f882a971e4f424eeef8a8179a66cfb1a59004de014650be288542",
                       "once":  false,
                       "size":  284
                   },
@@ -579,7 +591,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "2206a1d8f6d911d7054060dbca6caa5f6b6e4606a338dd5715ad922f8fe0f665",
+                      "sha256":  "3d0da603fe975b28ac9c1e107a50206e249a4bb0be18810c3a39ab083f546b6e",
                       "once":  false,
                       "size":  283
                   },
@@ -663,7 +675,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "b388f8e6e719d93dc9d5c7f99c586df56ddc3c63782e977107d3b7ef098b7313",
+                      "sha256":  "654e717bf1e6b300f20babce1454aef6163043d54afbe70775310f1512c862a2",
                       "once":  false,
                       "size":  508
                   },
@@ -729,7 +741,7 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "f1dfc5dc3a023e0a3d5b7e6f3088b8e3051ffe2943cb9a9cc752f6c78a872ea0",
+                      "sha256":  "e3cd9da215541cf57afa46446ff98eee8216adf6dbd07a4318d8ddc1f9f480c5",
                       "once":  false,
                       "size":  5532
                   },
@@ -2166,6 +2178,12 @@
                       "sha256":  "0775d17008cbfd9fcd097f2dcf8aa3062145b2dc53dcb3bab0456e7729fea5c0",
                       "once":  false,
                       "size":  3685
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite",
+                      "sha256":  "ca59076be8121dba666ccfa7521d5b934563e728e515b4930e3f31278d1f120a",
+                      "once":  false,
+                      "size":  15532032
                   },
                   {
                       "path":  "etched-sounds/b1bf0280e035d574aa740d91711eddc2",
@@ -4712,6 +4730,12 @@
                       "size":  258613
                   },
                   {
+                      "path":  "mods/[client]DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar",
+                      "sha256":  "65c20588ef3cedd770e96f0f1c015841418a043811690455b33d5ebd8a8e137d",
+                      "once":  false,
+                      "size":  25362721
+                  },
+                  {
                       "path":  "mods/[client]drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
                       "sha256":  "cf60e933cbf075c286f60ee259b2ed26da053d1fef1f4e23d88adb0bb558bde5",
                       "once":  false,
@@ -5157,7 +5181,7 @@
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt",
-                      "sha256":  "f00468930f9cd170a34ab543ba21db6d94cf30cea90b3a120a95fc9c62973edb",
+                      "sha256":  "84161b25148fb02de90d68d5ca9ccc20d2a63eb232a0d9d5464e67eca2f624a3",
                       "once":  true,
                       "size":  366
                   }
