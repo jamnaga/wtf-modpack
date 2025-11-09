@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "08/11/2025 16:44:00,60",
+    "generated":  "09/11/2025 22:16:00,15",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -15,9 +15,9 @@
                   },
                   {
                       "path":  ".oncelist",
-                      "sha256":  "9670621cbc6e609e56ea97ec64313491f4f369d2f133da8cb6e5691cb23856d2",
+                      "sha256":  "f2e2350b7ca45e4d28373c28b6519e3e6fbd24063e7be60d1041dbd9f423adf0",
                       "once":  false,
-                      "size":  62
+                      "size":  165
                   },
                   {
                       "path":  "generate_manifest.ps1",
@@ -2182,7 +2182,7 @@
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite",
                       "sha256":  "ee20054a7750c66f001cbf107d59a48ad5f664b5e20c5c9707263f592d6940c8",
-                      "once":  false,
+                      "once":  true,
                       "size":  102526976
                   },
                   {
