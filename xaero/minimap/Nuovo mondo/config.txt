@@ -10,8 +10,4 @@ sortReversed:false
 ignoreHeightmaps:false
 
 //dimension types (DO NOT EDIT)
-dimensionType:minecraft$overworld:minecraft$overworld
-dimensionType:mbackrooms$level_zero:mbackrooms$level_zero
-dimensionType:mbackrooms$level_one:mbackrooms$level_one
-dimensionType:minecraft$the_nether:minecraft$the_nether
 //server waypoints
