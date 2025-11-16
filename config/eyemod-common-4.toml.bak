@@ -1,15 +1,15 @@
 #The item that can be exchanged for money in the bank app
 currency = "minecraft:emerald"
 #Disable apps that are marked as 'OP' apps
-disableCheatApps = true
+disableCheatApps = false
 #Allow apps that let the user buy items for a price (does not include the store app)
 allowShopApps = false
 #The maximum reach of a router block
 #Range: 0 ~ 512
-routerRange = 50
+routerRange = 0
 #The battery drain speed (0 = zero drain, 100 = maximum drain)
 #Range: 0 ~ 100
-battery = 30
+battery = 50
 #The EyePhone NBT tag will be cleared if the size is larger then the defined number. The size is defined by the amount of characters of the tag.
 #Range: > 10000
 maxStorage = 10000
