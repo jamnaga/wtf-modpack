@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "16/11/2025 13:57:48,43",
+    "generated":  "18/11/2025 03:43:25,09",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -33,9 +33,9 @@
                   },
                   {
                       "path":  "options.txt",
-                      "sha256":  "c1d28e25aaf8705c134cf98e06aa2f4c9f5a57538dcf31778c778a9a22e04a1a",
+                      "sha256":  "5decb59a77e4d2b797dbee3f1ba3466aa2e553c709f690f62d815e2de2136e88",
                       "once":  true,
-                      "size":  9849
+                      "size":  9848
                   },
                   {
                       "path":  "servers.dat",
@@ -189,9 +189,9 @@
                   },
                   {
                       "path":  "config/cubes_without_borders.json",
-                      "sha256":  "fc23de68ad82636995de4b3da07d4732767e51d4f8c048a0749f42958b8afa47",
+                      "sha256":  "317c43455aae1cd5c6ca2e276d830b13d7ddc63c7d5a562744784d26e84cb254",
                       "once":  false,
-                      "size":  202
+                      "size":  215
                   },
                   {
                       "path":  "config/curios-client.toml",
@@ -501,9 +501,9 @@
                   },
                   {
                       "path":  "config/mbackrooms-common.toml",
-                      "sha256":  "d943523aa53d16f240d1f4b6f02dbdd4456df22357324a9a8f8a0ab6ec3a804f",
+                      "sha256":  "60837d3f1c337cf960f52a479adb03ec424a31e533b33abdda5b09cedd9a9fcb",
                       "once":  false,
-                      "size":  1558
+                      "size":  1557
                   },
                   {
                       "path":  "config/mbackrooms_cardboard_loot.json",
@@ -759,7 +759,7 @@
                   },
                   {
                       "path":  "config/xaerominimap.txt",
-                      "sha256":  "875406e6a694cf94332d1cf40a03902a6103cdee94cc76b985f4cefef898ffbf",
+                      "sha256":  "27ef533f7e11c6b427f02387cb238cc10a561ebbcb0171f76f06f29e783bec5f",
                       "once":  false,
                       "size":  3660
                   },
@@ -1520,7 +1520,25 @@
                       "size":  95
                   },
                   {
+                      "path":  "config/forgematica/forgematica_play.gangdrogacity.xyz_dim_mbackrooms_level_one.json",
+                      "sha256":  "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                      "once":  false,
+                      "size":  734
+                  },
+                  {
+                      "path":  "config/forgematica/forgematica_play.gangdrogacity.xyz_dim_mbackrooms_level_zero.json",
+                      "sha256":  "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                      "once":  false,
+                      "size":  734
+                  },
+                  {
                       "path":  "config/forgematica/forgematica_play.gangdrogacity.xyz_dim_minecraft_overworld.json",
+                      "sha256":  "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                      "once":  false,
+                      "size":  734
+                  },
+                  {
+                      "path":  "config/forgematica/forgematica_play.gangdrogacity.xyz_dim_minecraft_the_nether.json",
                       "sha256":  "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
                       "once":  false,
                       "size":  734
@@ -2228,10 +2246,28 @@
                       "size":  3685
                   },
                   {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@mbackrooms@@level_one/DistantHorizons.sqlite",
+                      "sha256":  "58866c035fc35b1ed49defe6516302a81743194fcf60861c5a6b5fdb7e454602",
+                      "once":  false,
+                      "size":  155648
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@mbackrooms@@level_zero/DistantHorizons.sqlite",
+                      "sha256":  "0233fb1b84c8efe36ed0216c880103659d944a03aa2100fb4a2c6f88f9652f18",
+                      "once":  false,
+                      "size":  4186112
+                  },
+                  {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite",
                       "sha256":  "afb244365abb10d0346080e5fef8c9e997eade2a61e84f6036f8597c9bc21bcf",
                       "once":  true,
                       "size":  104099840
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@the_nether/DistantHorizons.sqlite",
+                      "sha256":  "a30e32264babf1ad3ffdd726c7b5ac1bc3e57a5ec40e6020731a8a03bd1665b3",
+                      "once":  false,
+                      "size":  1470464
                   },
                   {
                       "path":  "etched-sounds/b1bf0280e035d574aa740d91711eddc2",
@@ -2241,7 +2277,7 @@
                   },
                   {
                       "path":  "etched-sounds/cache.json",
-                      "sha256":  "20110206734bc457ab3e5c57f7823f1847e30ab874b4d2c500d4fec25ce75288",
+                      "sha256":  "4317fda06ed655d161bff251eb2ecd836d137c2b81b8a48df20cf20439d78cd9",
                       "once":  false,
                       "size":  47
                   },
@@ -2253,9 +2289,9 @@
                   },
                   {
                       "path":  "fancymenu_data/last_world.fmdata",
-                      "sha256":  "d91c5b7421821ff7e25fec2dd547f8c3413d4ed7d53664bd5f5269632a4cc5f4",
+                      "sha256":  "ae54f8d6c0c8d7cf8cb472660f6e5acaaa9e77d1cf24354d57ed0ca606d91bed",
                       "once":  false,
-                      "size":  100
+                      "size":  93
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_leveling.json",
@@ -4352,12 +4388,6 @@
                       "size":  138723
                   },
                   {
-                      "path":  "mods/colorwheel-forge-1.1.1+mc1.20.1.jar",
-                      "sha256":  "2440260d49f61cf7e6530a2da5c7c38fc11792e4d62f6caf7377b688c066178f",
-                      "once":  false,
-                      "size":  363116
-                  },
-                  {
                       "path":  "mods/construction deco Forge 1.20.1.jar",
                       "sha256":  "19d3d926f39a4bbc429c4085d0a9515a894b15ea88cd9b37dff21f69b022ed72",
                       "once":  false,
@@ -4788,6 +4818,12 @@
                       "sha256":  "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0",
                       "once":  false,
                       "size":  468517
+                  },
+                  {
+                      "path":  "mods/[client]colorwheel-forge-1.1.1+mc1.20.1.jar",
+                      "sha256":  "2440260d49f61cf7e6530a2da5c7c38fc11792e4d62f6caf7377b688c066178f",
+                      "once":  false,
+                      "size":  363116
                   },
                   {
                       "path":  "mods/[client]cwb-forge-3.0.0+mc1.20.jar",
@@ -5238,6 +5274,12 @@
                       "sha256":  "4f10cc9865c91a9d3fd203884f7383c8099246f9576ac9dfe80a580e1202f4d6",
                       "once":  true,
                       "size":  366
+                  },
+                  {
+                      "path":  "utils/7zr.exe",
+                      "sha256":  "27cbe3d5804ad09e90bbcaa916da0d5c3b0be9462d0e0fb6cb54be5ed9030875",
+                      "once":  false,
+                      "size":  601088
                   }
               ]
 }
