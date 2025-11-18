@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "18/11/2025 05:08:38,26",
+    "generated":  "18/11/2025 05:29:59,21",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -33,9 +33,9 @@
                   },
                   {
                       "path":  "options.txt",
-                      "sha256":  "45e6da1fd0179dc7fc4f6742c9d17ea2a8d3af8d354570b2bf1d7a5c6064b896",
+                      "sha256":  "8d302cd84fa4641fc5e60a6e0940b0c29009d6600e43d8dcf783931ab01522d4",
                       "once":  true,
-                      "size":  9816
+                      "size":  9374
                   },
                   {
                       "path":  "servers.dat",
@@ -392,12 +392,6 @@
                       "size":  1516
                   },
                   {
-                      "path":  "config/firstperson.json",
-                      "sha256":  "6d9d8a3708ccf453fb710f4e10591cedd4d1767acde97c7da7bbc2cd2c4d4101",
-                      "once":  false,
-                      "size":  593
-                  },
-                  {
                       "path":  "config/flans-general.toml",
                       "sha256":  "9bcea72db8d510382724fc5ca5aee7ed72e73ee3fa035368632ad0cd293fc4a3",
                       "once":  false,
@@ -699,9 +693,9 @@
                   },
                   {
                       "path":  "config/shouldersurfing-client.toml",
-                      "sha256":  "e35febc290e6789c1b3c531b8f4dcaac22503852b2fbc267922722d4d37f7309",
+                      "sha256":  "0f6b5efb06926df24886f3afa7133e98b1eca410ad67ca172c9185abf1547573",
                       "once":  false,
-                      "size":  16222
+                      "size":  16218
                   },
                   {
                       "path":  "config/sodium-extra-options.json",
@@ -2295,9 +2289,9 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "ea28fefb028e1b74668dbde2a9826e635170b49bbc0fc3b957cb825deb7165fd",
+                      "sha256":  "2ba6ca61dcc6e9df7fc827cecc6b85b3422a25de2ddc2ae04d5276790171cb2e",
                       "once":  false,
-                      "size":  5539
+                      "size":  5609
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
@@ -2310,6 +2304,18 @@
                       "sha256":  "b24b7a12fd8e5f22dff43927fc373294723c1def9b1e9425ea18cd5714c5e82c",
                       "once":  false,
                       "size":  59
+                  },
+                  {
+                      "path":  "config/roughlyenoughitems/pinyin.properties",
+                      "sha256":  "625f55f3a13743cdfd2b68c6fd2bb06d6f392685ca16ee43df5001be10e319a1",
+                      "once":  false,
+                      "size":  48
+                  },
+                  {
+                      "path":  "config/roughlyenoughitems/pinyin_double.properties",
+                      "sha256":  "71f6e8b1bd7bcec2b64eb80424f3c093d213092ec8cf85bc5522b460e6103c40",
+                      "once":  false,
+                      "size":  73
                   },
                   {
                       "path":  "config/sound_physics_remastered/occlusion.properties",
@@ -2472,6 +2478,18 @@
                       "sha256":  "e943433f7b86abdb4bd8b4146d39e3f1bedfa81e0f286a5c23a7754d98b9a946",
                       "once":  true,
                       "size":  104202240
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite-shm",
+                      "sha256":  "a9ce9a05ca5633bf6d34fda489d6f4993f36dbda20405dfa598220a5c414be21",
+                      "once":  false,
+                      "size":  32768
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite-wal",
+                      "sha256":  "363d6d94935c488caf49e9ddae79209a95b32855ef6782e1e614dac83ba8f684",
+                      "once":  false,
+                      "size":  2043552
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@the_nether/DistantHorizons.sqlite",
@@ -5250,12 +5268,6 @@
                       "sha256":  "f473e8f82831f883853c25d12c47ce2f6e97c860775ccb9ea1f2d27adc8eb1ea",
                       "once":  false,
                       "size":  3628603
-                  },
-                  {
-                      "path":  "mods/[client]firstperson-forge-2.6.0-mc1.20.1.jar",
-                      "sha256":  "b971545b1c47aacd935f139e72bdf857ad33ba7616bec245c12119a0aa8ab9c2",
-                      "once":  false,
-                      "size":  1784179
                   },
                   {
                       "path":  "mods/[client]GeckoLibOculusCompat-Forge-1.0.1.jar",
