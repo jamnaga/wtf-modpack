@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "18/11/2025 05:54:49,73",
+    "generated":  "18/11/2025 18:28:40,79",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -4712,6 +4712,18 @@
                       "size":  850457
                   },
                   {
+                      "path":  "mods/AsyncParticles-2.3.0-beta.3+1.20.1.jar",
+                      "sha256":  "6287386afad2e40043bec6fdec0140b8c5442b4281dc8807125deb9b84f41848",
+                      "once":  false,
+                      "size":  1259943
+                  },
+                  {
+                      "path":  "mods/BadOptimizations-2.3.0-1.20.1.jar",
+                      "sha256":  "9e067ae01b01e6ce8d5869b5be0cbaea500bd27c3652b4b89529d2e34e6be20f",
+                      "once":  false,
+                      "size":  452304
+                  },
+                  {
                       "path":  "mods/BeansBackpacks-forge-1.20.1-2.0.2.jar",
                       "sha256":  "c6e43e5660a1f321c27bbd85ab2102f93603fb252dfbcc1f754f404e0491d549",
                       "once":  false,
@@ -4730,6 +4742,12 @@
                       "size":  343962
                   },
                   {
+                      "path":  "mods/Brute force Rendering Culling-forge-1.20.1-0.5.12.jar",
+                      "sha256":  "7d6c5872f4251d30bdd8dc72a4c37db20d7e4a61f556a77970f1722412435834",
+                      "once":  false,
+                      "size":  141264
+                  },
+                  {
                       "path":  "mods/build.bat",
                       "sha256":  "497a0bab12d24f3b91192787a3ef4acb19a23be2ca010a88d7dea5eec6e81328",
                       "once":  false,
@@ -4740,6 +4758,12 @@
                       "sha256":  "e5fa2c009b28d4093c324f7a6cd840aaaae0db3c1d77905b28cf81b20a6c9acf",
                       "once":  false,
                       "size":  1695
+                  },
+                  {
+                      "path":  "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "a6c0f7fbc1b2a62cafe72a967165caeef0fb671b7e0d377bd60fbb1e7f724cde",
+                      "once":  false,
+                      "size":  1426500
                   },
                   {
                       "path":  "mods/carryon-forge-1.20.1-2.1.2.7.jar",
@@ -4764,6 +4788,12 @@
                       "sha256":  "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
                       "once":  false,
                       "size":  1181413
+                  },
+                  {
+                      "path":  "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+                      "sha256":  "8af01712c0dc32cebaff31795ca6d223fddff2ea9b1f5efbd9c3a586a0dacbc0",
+                      "once":  false,
+                      "size":  20300
                   },
                   {
                       "path":  "mods/CMDCam_FORGE_v2.2.0_mc1.20.1.jar",
@@ -4820,6 +4850,12 @@
                       "size":  6457104
                   },
                   {
+                      "path":  "mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+                      "sha256":  "b91ca5cd028b1c919e28851b984edd61874d44ad8038cdeee87315d2656cb292",
+                      "once":  false,
+                      "size":  22474
+                  },
+                  {
                       "path":  "mods/curios-forge-5.14.1+1.20.1.jar",
                       "sha256":  "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
                       "once":  false,
@@ -4856,6 +4892,12 @@
                       "size":  115947
                   },
                   {
+                      "path":  "mods/embeddium-0.3.31+mc1.20.1.jar",
+                      "sha256":  "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+                      "once":  false,
+                      "size":  1320675
+                  },
+                  {
                       "path":  "mods/emoji-type-2.2.3+1.20.4-forge.jar",
                       "sha256":  "675012e994bf91a8e96013e2cec37aa513a42d0e3e647aa804b0e300bf0114b1",
                       "once":  false,
@@ -4868,6 +4910,18 @@
                       "size":  69476
                   },
                   {
+                      "path":  "mods/enhancedblockentities-0.9+1.20.jar",
+                      "sha256":  "1c4ce2c00d8cc6d2269de3cadaba551607c62692a8e5ad1d7c618462ed7ed05b",
+                      "once":  false,
+                      "size":  490690
+                  },
+                  {
+                      "path":  "mods/entityculling-forge-1.8.2-mc1.20.1.jar",
+                      "sha256":  "b8eb1a4fe48779bdaefcda64468471da148d0eacf93570d55373d05418b2deca",
+                      "once":  false,
+                      "size":  478568
+                  },
+                  {
                       "path":  "mods/etched-3.0.4.jar",
                       "sha256":  "18fa648a887eb8ae284e278b1c361c8bffe73947336761d8b1787052dd34fe69",
                       "once":  false,
@@ -4878,6 +4932,12 @@
                       "sha256":  "510ccd4d070a50d42695cc661f415c25699dd9955a85d4b429861cd2c8687bb3",
                       "once":  false,
                       "size":  432098
+                  },
+                  {
+                      "path":  "mods/fabric-api-0.92.2+1.11.12+1.20.1.jar",
+                      "sha256":  "7cada1e9bbee4b506d7c90471a705a32e6cf1d00f36556129f30a40453fc00fc",
+                      "once":  false,
+                      "size":  3041277
                   },
                   {
                       "path":  "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
@@ -4898,6 +4958,12 @@
                       "size":  10557
                   },
                   {
+                      "path":  "mods/fastitems-forge-1.1.0-forge+1.20.1.jar",
+                      "sha256":  "b604e87f0f7ae8e61ccd2a711fa567fcb9880b314b6178b21c9db66280fc920f",
+                      "once":  false,
+                      "size":  71544
+                  },
+                  {
                       "path":  "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
                       "sha256":  "038a5fa1c044d5afae22502ca1444eeb1a700d34a224996c25f233524ae35a7a",
                       "once":  false,
@@ -4908,6 +4974,12 @@
                       "sha256":  "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
                       "once":  false,
                       "size":  123034
+                  },
+                  {
+                      "path":  "mods/feytweaks-1.20-1.2.7.jar",
+                      "sha256":  "8bd665c712ee8a60c73feb8400465489a8a9d956844315f6f4190546522a1dfa",
+                      "once":  false,
+                      "size":  273847
                   },
                   {
                       "path":  "mods/framework-forge-1.20.1-0.7.12.jar",
@@ -4968,6 +5040,12 @@
                       "sha256":  "f9b95352595882fc3f48d64656ed941e6fab8bdf24eab5769ae5ef05c9148802",
                       "once":  false,
                       "size":  10932092
+                  },
+                  {
+                      "path":  "mods/ImmediatelyFast-Forge-1.5.1+1.20.4.jar",
+                      "sha256":  "c59706b336c03c46330d4e7a6ee1b178242322c0670d190a1fe0a5570aa943e1",
+                      "once":  false,
+                      "size":  425068
                   },
                   {
                       "path":  "mods/ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
@@ -5084,6 +5162,12 @@
                       "size":  227925
                   },
                   {
+                      "path":  "mods/midnightlib-forge-1.4.2.jar",
+                      "sha256":  "dfec70e881e1928b1ea468f3bc1b57cff409d234250ac824f5835b25a7252e25",
+                      "once":  false,
+                      "size":  62156
+                  },
+                  {
                       "path":  "mods/modernnetworking-forge-1.2.0+1.19.2.jar",
                       "sha256":  "98a81855212cdd659590d905581a8d8c0cd60909b525505bd5fca0676336b2be",
                       "once":  false,
@@ -5148,6 +5232,12 @@
                       "sha256":  "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f",
                       "once":  false,
                       "size":  1342987
+                  },
+                  {
+                      "path":  "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+                      "sha256":  "b42584e2672d6b5329959ec2b0f342395b19389fed0ee4d86ea71072f42f77a0",
+                      "once":  false,
+                      "size":  713454
                   },
                   {
                       "path":  "mods/relics-1.20.1-0.8.0.11.jar",
@@ -5220,6 +5310,12 @@
                       "sha256":  "a12f393691d4125c94c0e059592c2e54b1b21e4f887597fccb3a8f743d4cec63",
                       "once":  false,
                       "size":  220435
+                  },
+                  {
+                      "path":  "mods/staaaaaaaaaaaack-forge-1.20.1-1.5-71.jar",
+                      "sha256":  "1b4be0d5c4ea2d9914036e4f14befc59abb29caa67d1f667ab8d2b3dd2b3db75",
+                      "once":  false,
+                      "size":  38494
                   },
                   {
                       "path":  "mods/stealing_villagers-forge-1.20.1-1.0.0.jar",
