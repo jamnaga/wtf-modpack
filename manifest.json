@@ -1,17 +1,17 @@
 ﻿{
-    "generated":  "18/11/2025 18:28:40,79",
+    "generated":  "18/11/2025 18:42:09,40",
     "files":  [
                   {
                       "path":  ".gitignore",
-                      "sha256":  "ef926cba07806897e94a66b857cbd9b9e992f4d0dc74bd4e4e9217584d47df46",
+                      "sha256":  "42990ca51bf2b3029fd73e59ee2fe915719198f062f97c2f8297106be8c65b4c",
                       "once":  false,
-                      "size":  287
+                      "size":  292
                   },
                   {
                       "path":  ".manifestignore",
-                      "sha256":  "82484dc14ed87751cda87e49139b192967e39999ff13c3dfc364aaf6210edf9d",
+                      "sha256":  "e921b6b96ee27622fc9776ee365c57c13ccb7cdf7ccb636d97b7f78281b0fbfc",
                       "once":  false,
-                      "size":  214
+                      "size":  228
                   },
                   {
                       "path":  ".oncelist",
@@ -75,15 +75,15 @@
                   },
                   {
                       "path":  "config/azurelib.json",
-                      "sha256":  "344aaf500d3a86cc4c335a0b4590792254ae6e0eea0fc8df9ebdad5b95a75b8f",
+                      "sha256":  "fce0e9cb008715521d87dd0ba279c61a8a7e9645192711b720fc30f1aaa20ce3",
                       "once":  false,
-                      "size":  101
+                      "size":  105
                   },
                   {
                       "path":  "config/beansbackpacks-client.json5",
-                      "sha256":  "fd9c6e1ea0de05c223016c8885ddd84370c325328387f560154b8860db174b2d",
+                      "sha256":  "5902d72e446a6f609c843e836236f2aefa7a31cfbe794552810659c739fa424c",
                       "once":  false,
-                      "size":  345
+                      "size":  351
                   },
                   {
                       "path":  "config/betteradvancements-client.toml",
@@ -99,9 +99,9 @@
                   },
                   {
                       "path":  "config/ButchersDelight.json",
-                      "sha256":  "dac636a55a374673220275d7260ba223e910c24e4cc1d47a6c3ecb2a805a7843",
+                      "sha256":  "7d2e0dd43c2b9b225fcd50dd1975505ef0100cbc14a56977c952515bd87f8152",
                       "once":  false,
-                      "size":  1167
+                      "size":  1212
                   },
                   {
                       "path":  "config/carryon-client.toml",
@@ -123,15 +123,15 @@
                   },
                   {
                       "path":  "config/cmdcam-client.json",
-                      "sha256":  "4cc716ae09fdccf228bb27be8bda41b892692a8835269788068c684e8d15f5c9",
+                      "sha256":  "2bec39e3e16cf4c828766515eb961c555f0c03efa3ea3519fa106bd028e2a3e4",
                       "once":  false,
-                      "size":  24
+                      "size":  26
                   },
                   {
                       "path":  "config/collective.json5",
-                      "sha256":  "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f",
+                      "sha256":  "7c3c08045b3a7b145c95f9d187a71350a2d2655cfe156beb3b5cfd09ca074528",
                       "once":  false,
-                      "size":  827
+                      "size":  838
                   },
                   {
                       "path":  "config/colorwheel-client.toml",
@@ -153,15 +153,15 @@
                   },
                   {
                       "path":  "config/connector.json",
-                      "sha256":  "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22",
+                      "sha256":  "333880a6715f20f3799a25ad4d0702c36baeedfb2ca8841c314debdad8ecc17a",
                       "once":  false,
-                      "size":  144
+                      "size":  151
                   },
                   {
                       "path":  "config/continuity.json",
-                      "sha256":  "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4",
+                      "sha256":  "77f86e18fff51b0c06b773b5bc9608b5b74e264e2220589d6b1723b044b18e10",
                       "once":  false,
-                      "size":  122
+                      "size":  127
                   },
                   {
                       "path":  "config/create-client.toml",
@@ -177,45 +177,45 @@
                   },
                   {
                       "path":  "config/create-track-map.json",
-                      "sha256":  "edd44548fb8d423d67083a4bed6c12c8bd87e56f927141f58061d1ef804f670f",
+                      "sha256":  "3ed8f35d1b36a5ba80dea0afb44cf5ada619a7e9e73798a55ef1fe74da87e84c",
                       "once":  false,
-                      "size":  1677
+                      "size":  1763
                   },
                   {
                       "path":  "config/createaddition-common.toml",
-                      "sha256":  "1d28b40d466308be422d511bcd662b26807a9616144055591ccabb53b42fad92",
+                      "sha256":  "1f45a741dc79ba3ad0000884a5677bd76f0235ccb81d99957a181247e416cae6",
                       "once":  false,
-                      "size":  4296
+                      "size":  4446
                   },
                   {
                       "path":  "config/creategoggles-client.toml",
-                      "sha256":  "26adedb8b5eb89f116ffed93b40513fc5050d821606b5dda79ed57a146f1d03c",
+                      "sha256":  "ef0b8b4ee9687463f7c96d064c4d2fc14944efd49d166d06a1444ddd96f3eb64",
                       "once":  false,
-                      "size":  220
+                      "size":  228
                   },
                   {
                       "path":  "config/creategoggles-common.toml",
-                      "sha256":  "6e48a6f117925cc05c84363230608aedeb2b82e82b34cb235a1181fb4fb7d5c4",
+                      "sha256":  "8f82ea86bf4f048dd4d08e2b2a10570f9f4569cc6f13500d0c147b2d0fb2c37f",
                       "once":  false,
-                      "size":  343
+                      "size":  353
                   },
                   {
                       "path":  "config/createloveandwar-common.toml",
-                      "sha256":  "17aa500e88c658dbbde200f31978653afaf868f14a4755b5f841d015331ab0aa",
+                      "sha256":  "b269cbb5d5416c24cead73d6b388258a4b93fa0576bb92d967ce218096ca4df0",
                       "once":  false,
-                      "size":  509
+                      "size":  524
                   },
                   {
                       "path":  "config/createoreexcavation-common.toml",
-                      "sha256":  "dcd212e6fc8f5a0ec5f7be4c8f4cf7916ddf4bb4c0d082401ed7dda4371055ca",
+                      "sha256":  "d2bef136c958a76f0f394400c8084ae25167c43c08e1480ca040f412b8375185",
                       "once":  false,
-                      "size":  684
+                      "size":  692
                   },
                   {
                       "path":  "config/cubes_without_borders.json",
-                      "sha256":  "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d",
+                      "sha256":  "317c43455aae1cd5c6ca2e276d830b13d7ddc63c7d5a562744784d26e84cb254",
                       "once":  false,
-                      "size":  209
+                      "size":  215
                   },
                   {
                       "path":  "config/curios-client.toml",
@@ -231,9 +231,9 @@
                   },
                   {
                       "path":  "config/dimthread-common.toml",
-                      "sha256":  "6640fc999d8d4b7d99920be1087c06eee3c9ec909647ba58bb5b841a0a903096",
+                      "sha256":  "7325083b6c48b34dd95320e4ed824d6c02c9b0cae29d021652054819642ce746",
                       "once":  false,
-                      "size":  820
+                      "size":  833
                   },
                   {
                       "path":  "config/DistantHorizons.toml",
@@ -243,15 +243,15 @@
                   },
                   {
                       "path":  "config/doubledoors.json5",
-                      "sha256":  "ed3b25678a185a7c560868e047b60ffd7d7bf9b13d3a45cc5c056f5cfd5b088e",
+                      "sha256":  "5e41e7edaa1066e6ec499dfd3011aad9c8b241ffd3bc3f42223840290b0eec23",
                       "once":  false,
-                      "size":  981
+                      "size":  995
                   },
                   {
                       "path":  "config/do_a_barrel_roll-client.json",
-                      "sha256":  "c3b8b81ab6fe44c807fb854bc7ad09bd09b8f9f646785768eb8eb649a29dc130",
+                      "sha256":  "9360ee779b4c0dbf162215a64e29618e961db85027abd60407f8465c7eaf487b",
                       "once":  false,
-                      "size":  1694
+                      "size":  1755
                   },
                   {
                       "path":  "config/do_a_barrel_roll-server.json",
@@ -273,51 +273,51 @@
                   },
                   {
                       "path":  "config/embeddium-mixins.properties",
-                      "sha256":  "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619",
+                      "sha256":  "2d0bdca74548caee52c95faeb3ce90413938bad47a8967925fd309dd6014a22a",
                       "once":  false,
-                      "size":  269
+                      "size":  275
                   },
                   {
                       "path":  "config/embeddium-options.json",
-                      "sha256":  "3f2a5b03a1d186843ddf7ba1fe0312fa454f9fda9250519f5652951b70f7c8c8",
+                      "sha256":  "1b545c535b478016acf40a034738a7aa78c134008a46902d531ea9b18582f69d",
                       "once":  false,
-                      "size":  847
+                      "size":  876
                   },
                   {
                       "path":  "config/emojitype.json",
-                      "sha256":  "4f5d121721a3b093d0d74a426c353a7a264400d4ddb01433da32ada0934fa970",
+                      "sha256":  "e33db264aefb269b266f17088abf72a0ba92c26432a934bb1b49f5cfc0d0b943",
                       "once":  false,
-                      "size":  3518
+                      "size":  3724
                   },
                   {
                       "path":  "config/enchdesc.json",
-                      "sha256":  "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5",
+                      "sha256":  "9157e59134bc74ba4db355aa68e7137f34349e80133f93cd72c5c091671335f8",
                       "once":  false,
-                      "size":  189
+                      "size":  198
                   },
                   {
                       "path":  "config/entity_model_features.json",
-                      "sha256":  "043432443a4bbe6d2c4f8e7e60c94051e08080a7a2b3dc21be5297b3c32a4a40",
+                      "sha256":  "f72afd49fa050ba2ece722dc3794088af4562525387e520e1cd082108d2e5ec3",
                       "once":  false,
-                      "size":  1035
+                      "size":  1063
                   },
                   {
                       "path":  "config/entity_texture_features.json",
-                      "sha256":  "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2",
+                      "sha256":  "4284266e11add2e03fe5b9a27ce1287e725443dfe12bdf2dcde5473203f62107",
                       "once":  false,
-                      "size":  1420
+                      "size":  1459
                   },
                   {
                       "path":  "config/epicfight-client.toml",
-                      "sha256":  "babb4292c28bcfaacf48b79676dda3ca050d707bf898535a84aae1cd69050041",
+                      "sha256":  "29a7681be04ba6197a3bfc7fd36ebed37f4f886b80ca9edd98a76fe1b4af046c",
                       "once":  false,
-                      "size":  1410
+                      "size":  1462
                   },
                   {
                       "path":  "config/epicfight.toml",
-                      "sha256":  "54df22ac12abad3dd4052d9710b4b8e6a155828c0c1be5d05a9fe323b3d57b29",
+                      "sha256":  "bd079022837a5609788961964492704daf1333b8b17af8b2e219bc93e1ffb299",
                       "once":  false,
-                      "size":  459
+                      "size":  481
                   },
                   {
                       "path":  "config/etched-client.toml",
@@ -327,9 +327,9 @@
                   },
                   {
                       "path":  "config/etf_warnings.json",
-                      "sha256":  "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
+                      "sha256":  "368c428c9edaddb490c2e7339642e79ceddcb0a6fd8fd434c4bd8e1af34c26f8",
                       "once":  false,
-                      "size":  28
+                      "size":  30
                   },
                   {
                       "path":  "config/explosiveenhancement.toml",
@@ -351,15 +351,15 @@
                   },
                   {
                       "path":  "config/eyemod-common-3.toml.bak",
-                      "sha256":  "e7902018ef38069802d8fbed031a884cecf55141383dc1f6a85f128447b2c1ac",
+                      "sha256":  "d53e2bc51c84314d207e8c1508d274f557f92a3157a84dc3a6cf3f001bc3dd2d",
                       "once":  false,
-                      "size":  2177
+                      "size":  2207
                   },
                   {
                       "path":  "config/eyemod-common-4.toml.bak",
-                      "sha256":  "e7902018ef38069802d8fbed031a884cecf55141383dc1f6a85f128447b2c1ac",
+                      "sha256":  "d53e2bc51c84314d207e8c1508d274f557f92a3157a84dc3a6cf3f001bc3dd2d",
                       "once":  false,
-                      "size":  2177
+                      "size":  2207
                   },
                   {
                       "path":  "config/eyemod-common.toml",
@@ -375,15 +375,15 @@
                   },
                   {
                       "path":  "config/farmersdelight-client.toml",
-                      "sha256":  "13a11f20b305f6f975ebc35802d87c7bf22a04dc79464e41089823603b76a227",
+                      "sha256":  "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014",
                       "once":  false,
-                      "size":  359
+                      "size":  369
                   },
                   {
                       "path":  "config/farmersdelight-common.toml",
-                      "sha256":  "76aecd29d065d018c440e93bb107cfbf9793ca73b55e12afab63b17bce25dfb2",
+                      "sha256":  "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf",
                       "once":  false,
-                      "size":  4423
+                      "size":  4540
                   },
                   {
                       "path":  "config/ferritecore-mixin.toml",
@@ -393,9 +393,9 @@
                   },
                   {
                       "path":  "config/flans-general.toml",
-                      "sha256":  "9bcea72db8d510382724fc5ca5aee7ed72e73ee3fa035368632ad0cd293fc4a3",
+                      "sha256":  "e6730f9d2c5bbdf8dd4d4eb19ba9ae2f672e2495bdb2f8353d04f37af583a32f",
                       "once":  false,
-                      "size":  902
+                      "size":  939
                   },
                   {
                       "path":  "config/flywheel-client.toml",
@@ -417,9 +417,9 @@
                   },
                   {
                       "path":  "config/forgematica.json",
-                      "sha256":  "95ce8ae93e24a31dd03f1a8a4b8c41a3b5e5576eefa337827189803cb40f525b",
+                      "sha256":  "6a0887d3748d23276504d69be1be2e81b9bde70dc11bda1fd858bdce05df3206",
                       "once":  false,
-                      "size":  9202
+                      "size":  9556
                   },
                   {
                       "path":  "config/gml-script-mods.toml",
@@ -441,33 +441,33 @@
                   },
                   {
                       "path":  "config/healingcampfire.json5",
-                      "sha256":  "66cb4fa208703d9f68183988cc1d8bec10a9786683775e3c09da618bb59a35ae",
+                      "sha256":  "1344d335629e93d60290b5661c0393d6730405df7ecceb3e1a55fe13756f46c4",
                       "once":  false,
-                      "size":  1229
+                      "size":  1254
                   },
                   {
                       "path":  "config/iammusicplayer.toml",
-                      "sha256":  "1b17f87a0c49d4779a77ff3529833585d6b22ace0cf83754c8a8c08b0e8f4408",
+                      "sha256":  "3c12c65764c46a39f1ceeeaa11c7265b37d2ad24b995ea0828e29fe6c4a5f5ff",
                       "once":  false,
-                      "size":  660
+                      "size":  677
                   },
                   {
                       "path":  "config/illageandspillage-client.toml",
-                      "sha256":  "06deebc87e40abba7cad00e38ca40656ca2684ce03ca9244d9098680f5ef7222",
+                      "sha256":  "b88e48939ed588a0d11d6abb022abdc65356ba20fe1f481989e51d9eb40d76a6",
                       "once":  false,
-                      "size":  473
+                      "size":  486
                   },
                   {
                       "path":  "config/illageandspillage-common.toml",
-                      "sha256":  "34fe7a49b3d394d48bba9fd2fbb69d1cf2d15773f18d22ca1357a21c4c6657a6",
+                      "sha256":  "77588a6b3aab912ed43f5434d48596754b239ce61db4bce53e6efbbfbce0fba9",
                       "once":  false,
-                      "size":  12643
+                      "size":  12911
                   },
                   {
                       "path":  "config/immediatelyfast.json",
-                      "sha256":  "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa",
+                      "sha256":  "3152244144f830eeec003b007bc0045297ff5336ffc81550dab87552aad497ac",
                       "once":  false,
-                      "size":  1060
+                      "size":  1080
                   },
                   {
                       "path":  "config/immersiveengineering-client.toml",
@@ -483,9 +483,9 @@
                   },
                   {
                       "path":  "config/immersiveengineeringartifacts-common.toml",
-                      "sha256":  "c5ff2cc6e0454b4b160f101c82e0c366ad84aaf4423c3499c65a0354948abda6",
+                      "sha256":  "3d29f1312d2c893a7938e977f3ca03ddeffd1c787e7405459601f252dc2c6f24",
                       "once":  false,
-                      "size":  306
+                      "size":  316
                   },
                   {
                       "path":  "config/immersiveengineeringstructures-common.toml",
@@ -495,39 +495,39 @@
                   },
                   {
                       "path":  "config/immersiveengineeringtrade-common.toml",
-                      "sha256":  "2909d7caa2b40d99caca810c3363b0d61fe7f8870d1f71e639a26451f5556103",
+                      "sha256":  "58b496eb848649ec809c99f29e9750ed4335faeb997f9dd059648b048ed89e7f",
                       "once":  false,
-                      "size":  3612
+                      "size":  3725
                   },
                   {
                       "path":  "config/immersive_aircraft.json",
-                      "sha256":  "19cd371408c63afa16764d7f792af8efbbd8cacd135d1154f207d64da88f6b00",
+                      "sha256":  "78ca47cf9154fa4b00e1c875df317224d31508ba317edc46ca84ce3a48dc05ba",
                       "once":  false,
-                      "size":  1518
+                      "size":  1576
                   },
                   {
                       "path":  "config/immersive_mc-client.json",
-                      "sha256":  "d3c18b09553e1bf4be0131a8d5a1308a20fd2069ccf41d08ccf02c9789c752a7",
+                      "sha256":  "408f69a5a29130673d6f552952d01ec3a0d6eeefbeac1151568425b810806a0b",
                       "once":  false,
-                      "size":  2553
+                      "size":  2634
                   },
                   {
                       "path":  "config/immersive_mc-server.json",
-                      "sha256":  "389ea9e152f34c1de3033fbd4737d3c945476f386e5c1ced2997c1d94bcab4a5",
+                      "sha256":  "ed05ed9c66f692249cb186b427645780239cffdf8d14b5863495739ba12f79bb",
                       "once":  false,
-                      "size":  1334
+                      "size":  1374
                   },
                   {
                       "path":  "config/immersive_paintings.json",
-                      "sha256":  "65503c4720dd1017227041ee6ce26650a75a123af7331d66c5fac0a2cdace94c",
+                      "sha256":  "9b79d2a66dc1c5d3fac702f922ee8348f4ca8b0888ea5ff3a0066b6ae7040351",
                       "once":  false,
-                      "size":  584
+                      "size":  603
                   },
                   {
                       "path":  "config/immersive_portals.json",
-                      "sha256":  "1b349fa24ead559abb0a140d8e9fa788b80627791c83eee9be901751762b6b20",
+                      "sha256":  "b7184e218db07ab5d17fce1e7ea54d2323c50375cfad1ff1aa4a3312ce9eb8b7",
                       "once":  false,
-                      "size":  1551
+                      "size":  1596
                   },
                   {
                       "path":  "config/jeg-client.toml",
@@ -549,27 +549,27 @@
                   },
                   {
                       "path":  "config/jeresources.toml",
-                      "sha256":  "dba9b465be70853db2eaa9ab61747b244c2dd1127668dd72121251150a4833a1",
+                      "sha256":  "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5",
                       "once":  false,
-                      "size":  225
+                      "size":  236
                   },
                   {
                       "path":  "config/jsblock_client.json",
-                      "sha256":  "320f9b24c140102c376376591df9d21bd3468d0d784bc6728dcbb1d03f4db813",
+                      "sha256":  "8df11e196ea948d62ad845bd710de55f9cc6f89c5bf27d40af8eaa3a6ecea628",
                       "once":  false,
-                      "size":  86
+                      "size":  91
                   },
                   {
                       "path":  "config/krypton_fnp.yaml",
-                      "sha256":  "f4e13fc8145fcca0c37172b3d36c48a6861c3baa6db4889b543cbf252b6d63a7",
+                      "sha256":  "0a5d4e9c39ba8ac41d3dfad0665167d3ac312cf6ecabf1f2aa78373d22bcfc28",
                       "once":  false,
-                      "size":  144
+                      "size":  148
                   },
                   {
                       "path":  "config/laserbridges.json",
-                      "sha256":  "556957bbafa61aeefc95f038cdd9a20f5449fb0a64cbb1f89c63552101d47f2b",
+                      "sha256":  "191af029a204703e6a645b328ce766fc4ce296281eb04c02f8cd179b6abf5eee",
                       "once":  false,
-                      "size":  269
+                      "size":  281
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
@@ -585,9 +585,9 @@
                   },
                   {
                       "path":  "config/mafglib.json",
-                      "sha256":  "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64",
+                      "sha256":  "3bc7ef7d1653cfa6e29d31d5ae6b72e2d4e2d55fad73556608e548163369e4e4",
                       "once":  false,
-                      "size":  149
+                      "size":  159
                   },
                   {
                       "path":  "config/mbackrooms-common.toml",
@@ -615,27 +615,27 @@
                   },
                   {
                       "path":  "config/mtr.json",
-                      "sha256":  "0a44b8319e0878a90ce981443594b4bfbcd5470528a461ea110a160c7ff73dc6",
+                      "sha256":  "9b94af3eecd8f25e2c1898adda075df9651215bcba52c6ee646ea7de4f76bcc4",
                       "once":  false,
-                      "size":  576
+                      "size":  596
                   },
                   {
                       "path":  "config/notenoughanimations.json",
-                      "sha256":  "9e99928dc642af25902d961c4474a9e221f8124d2a21b4317408945ddbb21b37",
+                      "sha256":  "4210f68232f47622d70dbeb9569d2a11285485c852bf4c0c30537f6306133057",
                       "once":  false,
-                      "size":  2448
+                      "size":  2527
                   },
                   {
                       "path":  "config/ntgl-client.toml",
-                      "sha256":  "5edaab1888ad78c69f472113abe2c5312f54499192894a6de44593a14f324bcb",
+                      "sha256":  "71ad428c830ccbca223ed1a84c792c0d7771296867dbcbe46ec9d48e469287ff",
                       "once":  false,
-                      "size":  3644
+                      "size":  3721
                   },
                   {
                       "path":  "config/ntgl-common.toml",
-                      "sha256":  "d8c9e8ea5d726ffcd4d7f48f1c4ff2f5f2dd5ec34e590668de83bbddefaf7266",
+                      "sha256":  "c4810d354d0011deeea491cd702ca0b0de278d2ce55cfbe1ca2b9b022b503bcb",
                       "once":  false,
-                      "size":  6811
+                      "size":  6943
                   },
                   {
                       "path":  "config/oculus.properties",
@@ -645,15 +645,15 @@
                   },
                   {
                       "path":  "config/parcool-client.toml",
-                      "sha256":  "ce247ca553d622ff5c68a55e35e7b1e812b61f41f59786f9b6fe074097b57910",
+                      "sha256":  "2c043cdcb3f7dd5a709dae5e4f1623e6dac6077aa9b8484bf36718d0fccf73c8",
                       "once":  false,
-                      "size":  7246
+                      "size":  7485
                   },
                   {
                       "path":  "config/placeablesmod_configs.json",
-                      "sha256":  "c375e4b2ac2ba275733a73c7af6c9b57960008ec4920b898e9e26ae5dadafa06",
+                      "sha256":  "fc5b790e181c13306a4df93fd44e328781e534c3a263260c7f3565358b7b9a33",
                       "once":  false,
-                      "size":  57
+                      "size":  60
                   },
                   {
                       "path":  "config/ponder-client.toml",
@@ -663,15 +663,15 @@
                   },
                   {
                       "path":  "config/realcamera.json",
-                      "sha256":  "424da343f873d4a10bdc4ee97e1e11fd3a691635efddc9a4d3a4bc2829ae07e9",
+                      "sha256":  "888fdf8c7960d0d86b93114457cea685630c19ed8b05f0ccffed2546f15c09b9",
                       "once":  false,
-                      "size":  3842
+                      "size":  4002
                   },
                   {
                       "path":  "config/relics.yaml",
-                      "sha256":  "4411078ac8d2107482e0f717576b1d9e1fa6c0938d11135a2541f4d8c2518278",
+                      "sha256":  "0db2e1658ed99a9b70fd3fa872bede34fbcc1c5ee47b56bad753958c88af51ec",
                       "once":  false,
-                      "size":  521
+                      "size":  525
                   },
                   {
                       "path":  "config/ribbits-forge-1_20_1.toml",
@@ -681,9 +681,9 @@
                   },
                   {
                       "path":  "config/ribbits-options.json",
-                      "sha256":  "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b",
+                      "sha256":  "f3dbc2217233cdcbe0b158942b53bf53c32dae5e0d4a7fa0b3a2151b69fe96f8",
                       "once":  false,
-                      "size":  33
+                      "size":  35
                   },
                   {
                       "path":  "config/sandwormmod-common.toml",
@@ -705,15 +705,15 @@
                   },
                   {
                       "path":  "config/sodium-extra-options.json",
-                      "sha256":  "39694de4fe3b4e9645f641e1ed5bc2709893416efcb622f3b542d3fc98c2a817",
+                      "sha256":  "2f5aa54fe6fa3bb99b736dc4f371a6d9277a155b3d11ca20efbbf75c56c517b4",
                       "once":  false,
-                      "size":  1497
+                      "size":  1560
                   },
                   {
                       "path":  "config/sodium-extra.properties",
-                      "sha256":  "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
+                      "sha256":  "ab259e2369fc503c0cd905ec9b57b5867f4dbd249edf7a2b52193b36ffbcdeab",
                       "once":  false,
-                      "size":  360
+                      "size":  367
                   },
                   {
                       "path":  "config/sodiumdynamiclights-client.toml",
@@ -723,9 +723,9 @@
                   },
                   {
                       "path":  "config/solid_mobs.json",
-                      "sha256":  "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0",
+                      "sha256":  "648d9e572da38381d4dd552e49cc4bb104fbae1d6939ffe7604137397ffab848",
                       "once":  false,
-                      "size":  478
+                      "size":  494
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
@@ -735,15 +735,15 @@
                   },
                   {
                       "path":  "config/superbwarfare-client.toml",
-                      "sha256":  "5738b877c624424bd6b99c1e5ea5c0a4162acb18152e8962f87407c41ef38b44",
+                      "sha256":  "3cd50fdbe9c12428fa3fdd62a896e163eb3bdf8df32a8f1287f8c234403c8472",
                       "once":  false,
-                      "size":  962
+                      "size":  996
                   },
                   {
                       "path":  "config/superbwarfare-common.toml",
-                      "sha256":  "5b9b5f5e3bbc8efd0c4d101077bb7a9014a2d94eda95b43d8293ecd263defa5a",
+                      "sha256":  "263fde220c78d913db5436b35fd0cdc27e3a14a2493cd8edff66d3f9b39bf069",
                       "once":  false,
-                      "size":  300
+                      "size":  309
                   },
                   {
                       "path":  "config/supplementaries-client.toml",
@@ -759,27 +759,27 @@
                   },
                   {
                       "path":  "config/suppsquared-common.toml",
-                      "sha256":  "1a5611d619632a973471245209520f703c3e6eff6db8b15f94267ebba02e428d",
+                      "sha256":  "2c20ac633c33b24a105115888730e73444ea6d11a291318de3cf5fa157f83685",
                       "once":  false,
-                      "size":  81
+                      "size":  88
                   },
                   {
                       "path":  "config/talk_balloons.json5",
-                      "sha256":  "958142274d0ad19894ce5a784e6f24fd66a7a6fb369e09a77bf23598b4d44092",
+                      "sha256":  "e35bf260424771931aa639ca45bf5eb2b6ca22053eee130adcd59787967f7a7f",
                       "once":  false,
-                      "size":  335
+                      "size":  349
                   },
                   {
                       "path":  "config/theatrical-client.yml",
-                      "sha256":  "b1185ba3bbd8d6d069d39fb2417fbb584d08cf25de98e2102ef4200e0b9ec3e9",
+                      "sha256":  "2ad81d57611e11cd59f35088fa7bc1db373c1a9bfdeb3d012dfb735494111e0b",
                       "once":  false,
-                      "size":  103
+                      "size":  109
                   },
                   {
                       "path":  "config/theatrical-common.yml",
-                      "sha256":  "f78655daea09eef0241b1b0a96f3ddd525ba2103b05d4aef9d53d54c1cd5abf9",
+                      "sha256":  "2bbef77ef2455140540f7bebc66fc9f9fa8a56c79b81e515fce09c5b7d41ee4d",
                       "once":  false,
-                      "size":  91
+                      "size":  95
                   },
                   {
                       "path":  "config/tia.toml",
@@ -789,21 +789,21 @@
                   },
                   {
                       "path":  "config/tips.json",
-                      "sha256":  "af85f2909fde8c0dbea201fb6fb4afc5070be875c24266b47887f33f03c19321",
+                      "sha256":  "464b9d3d78c6b033e8443d6e14f8c095cf37a11033f3481be3dfc494f76214d2",
                       "once":  false,
-                      "size":  274
+                      "size":  286
                   },
                   {
                       "path":  "config/trackwork-client.toml",
-                      "sha256":  "f0f6f33ec8bf6ea977a75a950c6ce1665c2a6273859eec703e5860c4802748cc",
+                      "sha256":  "1f1d7dcce958bec868c1d84571d205a06b1c66c554dbfd25429a70bca171e670",
                       "once":  false,
-                      "size":  131
+                      "size":  140
                   },
                   {
                       "path":  "config/transition.json",
-                      "sha256":  "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
+                      "sha256":  "11e2fd51f2487c460fd659f0c5824a14e3643d0629888988d0c87a2a1dabcbce",
                       "once":  false,
-                      "size":  62
+                      "size":  65
                   },
                   {
                       "path":  "config/treechop-client.toml",
@@ -819,9 +819,9 @@
                   },
                   {
                       "path":  "config/trender.json",
-                      "sha256":  "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2",
+                      "sha256":  "e28327bfc6526ecf8dbf9f74436da291b36b9a3c72bd76ff6299e800c7bd19d1",
                       "once":  false,
-                      "size":  44
+                      "size":  47
                   },
                   {
                       "path":  "config/visualworkbench-client.toml",
@@ -831,9 +831,9 @@
                   },
                   {
                       "path":  "config/visual_workbench.json",
-                      "sha256":  "7885b862b10bf4b14d3103909971114a736d14a52e4a7994ace0d66a2474c14c",
+                      "sha256":  "9bda993074c56a87405bf37ceb4ac07157445772b6401f46bb13720117eeb4f9",
                       "once":  false,
-                      "size":  11520
+                      "size":  11795
                   },
                   {
                       "path":  "config/vmp.properties",
@@ -861,9 +861,9 @@
                   },
                   {
                       "path":  "config/watut-item-arm-adjustments.json",
-                      "sha256":  "0c365ed28f78c9ace3d822ca6e11043c7600d92822bc1fc1817bb2661766b96b",
+                      "sha256":  "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982",
                       "once":  false,
-                      "size":  3274
+                      "size":  3367
                   },
                   {
                       "path":  "config/watut-server.toml",
@@ -873,33 +873,33 @@
                   },
                   {
                       "path":  "config/waveycapes.json",
-                      "sha256":  "8ba8caf036bac59033157842f7812cf3eca3434a02d2e7e59648214fe42c48fc",
+                      "sha256":  "4af9ffee9cbda839c0fa71ede1942ce6a2a28a63f3b89f2a20c4e182334fe4ad",
                       "once":  false,
-                      "size":  179
+                      "size":  187
                   },
                   {
                       "path":  "config/webdisplays_client.toml",
-                      "sha256":  "dde403b2d9f51955559474b030d13fc111cb3b64ae7358a52f44aedd0c477b51",
+                      "sha256":  "32515f41a0bf22ad9740a310e03e200c61e1851d09fcef113c4634ff435c403a",
                       "once":  false,
-                      "size":  1265
+                      "size":  1291
                   },
                   {
                       "path":  "config/webdisplays_common.toml",
-                      "sha256":  "bc613d6f8a41091f6bd1116ecfa950ec8170f40a03fa60722a907a762335706b",
+                      "sha256":  "deea092db92ef67d2026653e46ead6e0a61fb384bdb2e16514c27f9c1e06acbf",
                       "once":  false,
-                      "size":  1205
+                      "size":  1243
                   },
                   {
                       "path":  "config/wom-client.toml",
-                      "sha256":  "768e59d23afcc8a81b6445e586cf070ea62f2209019a418ba5cfa6691fad3027",
+                      "sha256":  "15fd94c0bf9fb491c4b9344064f3d5ce994a731d351ad89be89e5f1430ac35fb",
                       "once":  false,
-                      "size":  185
+                      "size":  194
                   },
                   {
                       "path":  "config/wom.toml",
-                      "sha256":  "645183147f53cf8ccb04cae9f0062f53f2b8e18dd921acad1d3d8e1d0f55fd2a",
+                      "sha256":  "74947dc61dad14d5cfdc7ac3723d0c31708ec7fa2f114097bdcf68f6b4b9603f",
                       "once":  false,
-                      "size":  152
+                      "size":  160
                   },
                   {
                       "path":  "config/xaerominimap-common.txt",
@@ -915,9 +915,9 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "f1dfc5dc3a023e0a3d5b7e6f3088b8e3051ffe2943cb9a9cc752f6c78a872ea0",
+                      "sha256":  "2018581c5f05e42b1e3ffb17c10c47ceaac37361a4c20fbb7064ab6ba027a2a5",
                       "once":  false,
-                      "size":  5532
+                      "size":  5722
                   },
                   {
                       "path":  "config/xaeropatreon.txt",
@@ -933,567 +933,567 @@
                   },
                   {
                       "path":  "config/xenon-mixins.properties",
-                      "sha256":  "56fc7646ae541e1879c01047e4700b66a64c79b9148cc1524f6c4a5b7eb76252",
+                      "sha256":  "6a8d08667f86ca1fd04e1eb8ca1559e43c3eddb1b4ba1c78a48c237ca66c576f",
+                      "once":  false,
+                      "size":  271
+                  },
+                  {
+                      "path":  "config/xenon-options.json",
+                      "sha256":  "ebcfd6a9da09fdcfb71ea7f03bcc9e13ae962dd4715395dfc5a8bfdcf6811ecc",
+                      "once":  false,
+                      "size":  930
+                  },
+                  {
+                      "path":  "config/alexsmobs/alligator_snapping_turtle_spawns.json",
+                      "sha256":  "a3449f60c5781d08db112dacf1709d0664a5ae09d12a0dd7d72f54a8d6267eb7",
+                      "once":  false,
+                      "size":  795
+                  },
+                  {
+                      "path":  "config/alexsmobs/anaconda_spawns.json",
+                      "sha256":  "a4b21f7eadad2e5b8eb3cedc78e4691d4891e66833e03d4385f2d99bcdc65bab",
+                      "once":  false,
+                      "size":  1093
+                  },
+                  {
+                      "path":  "config/alexsmobs/anteater_spawns.json",
+                      "sha256":  "d4dffa77f0d98aaded4393c296b06d78a530e94ffb8900a607cd8de66f046c16",
+                      "once":  false,
+                      "size":  1228
+                  },
+                  {
+                      "path":  "config/alexsmobs/bald_eagle_spawns.json",
+                      "sha256":  "79706d807dc242d5c6388729bee7f1efda4b1a489a20d6a9f43612210ac3636c",
+                      "once":  false,
+                      "size":  2869
+                  },
+                  {
+                      "path":  "config/alexsmobs/banana_slug_spawns.json",
+                      "sha256":  "eafd26e756874909cdb87fe331bad84a3c12918a469a12763403ca3b0020a7cb",
+                      "once":  false,
+                      "size":  1787
+                  },
+                  {
+                      "path":  "config/alexsmobs/bison_spawns.json",
+                      "sha256":  "27bc5467a75000471af0751f2aa62c783f5ae25d7a1eb943795b7c3af080bc83",
+                      "once":  false,
+                      "size":  1856
+                  },
+                  {
+                      "path":  "config/alexsmobs/blobfish_spawns.json",
+                      "sha256":  "598a33aa535fa5edae67b8b4f83df3bf978e52963c0f5cd379a822c86d8ad9fc",
+                      "once":  false,
+                      "size":  156
+                  },
+                  {
+                      "path":  "config/alexsmobs/blue_jay_spawns.json",
+                      "sha256":  "142f5863bc68b30a4af78de89b6c929690ea85442e8bdb22ef38cc4c6d95494f",
+                      "once":  false,
+                      "size":  4234
+                  },
+                  {
+                      "path":  "config/alexsmobs/bone_serpent_spawns.json",
+                      "sha256":  "7e9fe3cbddc8489efba79f65251d577579c4d923f6bd977bece616a3959353da",
+                      "once":  false,
+                      "size":  272
+                  },
+                  {
+                      "path":  "config/alexsmobs/bunfungus_spawns.json",
+                      "sha256":  "56a4c9b49eebc856232f0d5599ea879d3a5231c4d3b1a119a7c74684fdc5b655",
+                      "once":  false,
+                      "size":  513
+                  },
+                  {
+                      "path":  "config/alexsmobs/cachalot_whale_beached_spawns.json",
+                      "sha256":  "080b3a3a68a4a3b7791ab6ca04c51e8205bd3c6a062e449b3ade64957d454aad",
+                      "once":  false,
+                      "size":  678
+                  },
+                  {
+                      "path":  "config/alexsmobs/cachalot_whale_spawns.json",
+                      "sha256":  "ab088004b0bd28bed0e101cf0ace166b8982610bd3c8a1214b6d3ec849f125c6",
+                      "once":  false,
+                      "size":  941
+                  },
+                  {
+                      "path":  "config/alexsmobs/caiman_spawns.json",
+                      "sha256":  "9fcf42542a9fc8d248516f2572bef05c319975e4e86000cf0dff7f5b15baf159",
+                      "once":  false,
+                      "size":  308
+                  },
+                  {
+                      "path":  "config/alexsmobs/capuchin_monkey_spawns.json",
+                      "sha256":  "26783dc7141cf1d10eb0fb6815e8d6cb8518a7d964e4ecb995b934f757c20329",
+                      "once":  false,
+                      "size":  1248
+                  },
+                  {
+                      "path":  "config/alexsmobs/catfish_spawns.json",
+                      "sha256":  "37aa7dfdf28e2e9a133d7715ea4f90f6f6cf8dda1e4bc037fa3f37bd92d89257",
+                      "once":  false,
+                      "size":  1155
+                  },
+                  {
+                      "path":  "config/alexsmobs/cave_centipede_spawns.json",
+                      "sha256":  "a46da0f8d88297017f065f68c40f5cbcb4febc5ee35bb878bb0cef0f468225aa",
+                      "once":  false,
+                      "size":  2314
+                  },
+                  {
+                      "path":  "config/alexsmobs/cockroach_spawns.json",
+                      "sha256":  "1fb9d9cc0833f50b12c0e8db11580d31bda37e4e4974b0503e54b3eaac4235e9",
+                      "once":  false,
+                      "size":  2194
+                  },
+                  {
+                      "path":  "config/alexsmobs/comb_jelly_spawns.json",
+                      "sha256":  "2631bffa927799862071ee1061c24f4ab4142f15590791e33833b75742eca772",
+                      "once":  false,
+                      "size":  438
+                  },
+                  {
+                      "path":  "config/alexsmobs/cosmaw_spawns.json",
+                      "sha256":  "372df87ed49c27775f68bebd7351059f490ab0ee9d68c40aa1699b6c8c94df3d",
+                      "once":  false,
+                      "size":  391
+                  },
+                  {
+                      "path":  "config/alexsmobs/cosmic_cod_spawns.json",
+                      "sha256":  "16155914c6318d7e77a09f71c034e8aed55474b5df320f30a668bdd3a631cc18",
+                      "once":  false,
+                      "size":  149
+                  },
+                  {
+                      "path":  "config/alexsmobs/crimson_mosquito_spawns.json",
+                      "sha256":  "801f78257d0be4526fe254be06a6d90dbb2cb15a85f2dd676c34a56f00a9d69c",
+                      "once":  false,
+                      "size":  828
+                  },
+                  {
+                      "path":  "config/alexsmobs/crocodile_spawns.json",
+                      "sha256":  "5ea014a69257967097e0be01da171558f8ecf437316572c80f90362009f55dee",
+                      "once":  false,
+                      "size":  1064
+                  },
+                  {
+                      "path":  "config/alexsmobs/crow_spawns.json",
+                      "sha256":  "d6efac8863ba7351eb0c0d94ed16d77aa0b6a1f6f9103e9135e449d452eddb17",
+                      "once":  false,
+                      "size":  5421
+                  },
+                  {
+                      "path":  "config/alexsmobs/devils_hole_pupfish_spawns.json",
+                      "sha256":  "3d5fd3f45bff47cc86ad6baaddea4c482db43d4982e9aa9bd6d14f3c295c6e98",
+                      "once":  false,
+                      "size":  155
+                  },
+                  {
+                      "path":  "config/alexsmobs/dropbear_spawns.json",
+                      "sha256":  "5619af980b5ee2ca5966f22afd51fa91051989aaff4fe95e7274c4c6133b7ff8",
+                      "once":  false,
+                      "size":  425
+                  },
+                  {
+                      "path":  "config/alexsmobs/elephant_spawns.json",
+                      "sha256":  "aebb16920932459843c2c391d5942068f2eaea2043b1d07241b61b14c6e9ef09",
+                      "once":  false,
+                      "size":  1227
+                  },
+                  {
+                      "path":  "config/alexsmobs/emu_spawns.json",
+                      "sha256":  "9d0ece037ecbf535d4678461c1e0c4ab3d6877d2469641ac633f3d674d8f5717",
+                      "once":  false,
+                      "size":  1751
+                  },
+                  {
+                      "path":  "config/alexsmobs/endergrade_spawns.json",
+                      "sha256":  "178d5ac1ca1be1d23f0d5c677224eb4bfb38a24cc7fac7e12289c87d35f9a27f",
                       "once":  false,
                       "size":  265
                   },
                   {
-                      "path":  "config/xenon-options.json",
-                      "sha256":  "f3c9ac5b348d7241481aae3aa08c3c573732f7dfe713156165e62cc5ec6517ac",
-                      "once":  false,
-                      "size":  900
-                  },
-                  {
-                      "path":  "config/alexsmobs/alligator_snapping_turtle_spawns.json",
-                      "sha256":  "df14afd6e1e96ace0dc8e4c71bc325e3baec8dbeaebf61f682561a70fc145f9d",
-                      "once":  false,
-                      "size":  754
-                  },
-                  {
-                      "path":  "config/alexsmobs/anaconda_spawns.json",
-                      "sha256":  "ca961946a7b3c6e9abcb1bb82bbf36e1f9ce01d11769a06a7fbff6351293ff5d",
-                      "once":  false,
-                      "size":  1036
-                  },
-                  {
-                      "path":  "config/alexsmobs/anteater_spawns.json",
-                      "sha256":  "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990",
-                      "once":  false,
-                      "size":  1166
-                  },
-                  {
-                      "path":  "config/alexsmobs/bald_eagle_spawns.json",
-                      "sha256":  "f8b51a798bfa4b51e0ee8fb78c860ca5b2677583db10584792a0e1548f17d396",
-                      "once":  false,
-                      "size":  2723
-                  },
-                  {
-                      "path":  "config/alexsmobs/banana_slug_spawns.json",
-                      "sha256":  "1d5d0ce4ef42e94f0361c41b4b2402b64e87f0b1b987e1f1b2f6b2ac377211a7",
-                      "once":  false,
-                      "size":  1697
-                  },
-                  {
-                      "path":  "config/alexsmobs/bison_spawns.json",
-                      "sha256":  "78e726ed002a31f5084a7b49fcce467c5623a046981d6c59d9ed7c4eb6cdbb1e",
-                      "once":  false,
-                      "size":  1761
-                  },
-                  {
-                      "path":  "config/alexsmobs/blobfish_spawns.json",
-                      "sha256":  "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f",
-                      "once":  false,
-                      "size":  146
-                  },
-                  {
-                      "path":  "config/alexsmobs/blue_jay_spawns.json",
-                      "sha256":  "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644",
-                      "once":  false,
-                      "size":  4020
-                  },
-                  {
-                      "path":  "config/alexsmobs/bone_serpent_spawns.json",
-                      "sha256":  "47eef91378d3d6455a911d58cc3afdbfcdda7fd49968a7921b22620faa8ff672",
-                      "once":  false,
-                      "size":  257
-                  },
-                  {
-                      "path":  "config/alexsmobs/bunfungus_spawns.json",
-                      "sha256":  "5d5a9d2039b6df546b788f62cb376cc29312a7115a5553541652aad7259436a6",
-                      "once":  false,
-                      "size":  486
-                  },
-                  {
-                      "path":  "config/alexsmobs/cachalot_whale_beached_spawns.json",
-                      "sha256":  "73b8f83ddfa936642b38af1003e3c47eab6f089ad61612ee5181137409038f57",
-                      "once":  false,
-                      "size":  642
-                  },
-                  {
-                      "path":  "config/alexsmobs/cachalot_whale_spawns.json",
-                      "sha256":  "fb901f1ea0bce7b9fb51dfaeb565539a3c1a9ee86bafb49caddac7ca1002e296",
-                      "once":  false,
-                      "size":  893
-                  },
-                  {
-                      "path":  "config/alexsmobs/caiman_spawns.json",
-                      "sha256":  "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753",
-                      "once":  false,
-                      "size":  291
-                  },
-                  {
-                      "path":  "config/alexsmobs/capuchin_monkey_spawns.json",
-                      "sha256":  "83b68d395236771ae9276f48b2988cfa9eb65e14dc41531b37a6b4e77c64859a",
-                      "once":  false,
-                      "size":  1184
-                  },
-                  {
-                      "path":  "config/alexsmobs/catfish_spawns.json",
-                      "sha256":  "3c097d29c1f74807815d4c13e3586a76528ac3c104670ce95852bd3b62f9e16e",
-                      "once":  false,
-                      "size":  1097
-                  },
-                  {
-                      "path":  "config/alexsmobs/cave_centipede_spawns.json",
-                      "sha256":  "973b8ebc19fa04e02b050f28359ee6bffbae93367f49ecac10892f4a2c1dad7d",
-                      "once":  false,
-                      "size":  2200
-                  },
-                  {
-                      "path":  "config/alexsmobs/cockroach_spawns.json",
-                      "sha256":  "97a67afb52f1398f2c55e2a74001e5b893394e28d3f0eb00695f049bdd19f204",
-                      "once":  false,
-                      "size":  2085
-                  },
-                  {
-                      "path":  "config/alexsmobs/comb_jelly_spawns.json",
-                      "sha256":  "cf9ba87b0d2001543fe09d8f6a4c602c03644643a9bd49d1e9ca0b041ab4dc02",
-                      "once":  false,
-                      "size":  414
-                  },
-                  {
-                      "path":  "config/alexsmobs/cosmaw_spawns.json",
-                      "sha256":  "8e1d05a9b4ab8b923ff4951ef391665f3bdd218d943152f6f1f57509786bc0f7",
-                      "once":  false,
-                      "size":  371
-                  },
-                  {
-                      "path":  "config/alexsmobs/cosmic_cod_spawns.json",
-                      "sha256":  "aed14e990ed38ee78214b1ea4a15e06bca1b8d098e1e440596be9ab14e4403b8",
-                      "once":  false,
-                      "size":  139
-                  },
-                  {
-                      "path":  "config/alexsmobs/crimson_mosquito_spawns.json",
-                      "sha256":  "104fa9ce71421c5023abba88ce382957828b22341b44c2d03b3300b760482c9d",
-                      "once":  false,
-                      "size":  785
-                  },
-                  {
-                      "path":  "config/alexsmobs/crocodile_spawns.json",
-                      "sha256":  "a73d36d1b5dd75eb20f6143193b991e942f4ef4cef725835b66ec01197d7074f",
-                      "once":  false,
-                      "size":  1007
-                  },
-                  {
-                      "path":  "config/alexsmobs/crow_spawns.json",
-                      "sha256":  "cace87b5d504be10d1fff107ad14349066ae1c39d5200a7a29bdd5476167d9b8",
-                      "once":  false,
-                      "size":  5146
-                  },
-                  {
-                      "path":  "config/alexsmobs/devils_hole_pupfish_spawns.json",
-                      "sha256":  "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402",
-                      "once":  false,
-                      "size":  145
-                  },
-                  {
-                      "path":  "config/alexsmobs/dropbear_spawns.json",
-                      "sha256":  "0fa8f72e4c73805727577a343758cfd39377cbdadebb88b6b2343183053e16cb",
-                      "once":  false,
-                      "size":  403
-                  },
-                  {
-                      "path":  "config/alexsmobs/elephant_spawns.json",
-                      "sha256":  "cac271d780a6ed65db7b22e6944b6d456805d72b309865d6293ad6aa4f60c3e2",
-                      "once":  false,
-                      "size":  1163
-                  },
-                  {
-                      "path":  "config/alexsmobs/emu_spawns.json",
-                      "sha256":  "70e30e058709266e665eb6642df126eeee744d05e63d77344501e78cb4a37851",
-                      "once":  false,
-                      "size":  1661
-                  },
-                  {
-                      "path":  "config/alexsmobs/endergrade_spawns.json",
-                      "sha256":  "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980",
-                      "once":  false,
-                      "size":  250
-                  },
-                  {
                       "path":  "config/alexsmobs/enderiophage_spawns.json",
-                      "sha256":  "846748f4f352dead7fae39221d653713b7cbd775eaf10f80e0dea86f4e9ccb9a",
+                      "sha256":  "c870d92b42e9bfb3c6e9bbc7cf56eeb170ff2b0f916f35f94196062741ad8f6a",
                       "once":  false,
-                      "size":  603
+                      "size":  633
                   },
                   {
                       "path":  "config/alexsmobs/farseer.json",
-                      "sha256":  "c245528d844458d8ac416572ee0df7575bb23d58beb07367d4cd55c66fec9000",
+                      "sha256":  "73a60b77f3b67de5fe30e8253a18c3e65ed15d210419d93b85de3f8ed94d06ba",
                       "once":  false,
-                      "size":  266
+                      "size":  281
                   },
                   {
                       "path":  "config/alexsmobs/flutter_spawns.json",
-                      "sha256":  "f729be2a0bc7bccc88cde40464f990d6074bfcf52a0d1d6719d8ebcd63c496ff",
+                      "sha256":  "0407bbf9b7a554d70d71e0b0a076332ab5577cf2bb08b17add4040caedade241",
                       "once":  false,
-                      "size":  147
+                      "size":  157
                   },
                   {
                       "path":  "config/alexsmobs/flying_fish_spawns.json",
-                      "sha256":  "69904b309696b6081cdec1ea87bdb62f84886cf6dac600a8bca231860c3a3f2f",
+                      "sha256":  "cf9c9731888d219b546eba75cc3b1b957eaf6b15352577e3df2258217770c2a7",
                       "once":  false,
-                      "size":  716
+                      "size":  751
                   },
                   {
                       "path":  "config/alexsmobs/fly_spawns.json",
-                      "sha256":  "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402",
+                      "sha256":  "3d5fd3f45bff47cc86ad6baaddea4c482db43d4982e9aa9bd6d14f3c295c6e98",
                       "once":  false,
-                      "size":  145
+                      "size":  155
                   },
                   {
                       "path":  "config/alexsmobs/frilled_shark_spawns.json",
-                      "sha256":  "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f",
+                      "sha256":  "598a33aa535fa5edae67b8b4f83df3bf978e52963c0f5cd379a822c86d8ad9fc",
                       "once":  false,
-                      "size":  146
+                      "size":  156
                   },
                   {
                       "path":  "config/alexsmobs/froststalker_spawns.json",
-                      "sha256":  "2cc43cdc9df3b20cc2eeb75a3c11736558f544571640607d08dec5c0a939c02d",
+                      "sha256":  "53915780cab68621ce7150d72219f93d8cccf6c084363ee91081abbf29dd4b08",
                       "once":  false,
-                      "size":  934
+                      "size":  986
                   },
                   {
                       "path":  "config/alexsmobs/gazelle_spawns.json",
-                      "sha256":  "17a5c3263942410596f91fb0aece138e5115bfabfa2a5913a63406fcb64b42d0",
+                      "sha256":  "9d9e6126ee723371520eace5ece367ffc2aa977b695e5f5581905b0acd4d7e44",
                       "once":  false,
-                      "size":  1050
+                      "size":  1109
                   },
                   {
                       "path":  "config/alexsmobs/gelada_monkey_spawns.json",
-                      "sha256":  "cdd0380bfa9b754856150966a042f807ac48d2f9409f4f2b543be19e87f4c41f",
+                      "sha256":  "a49c35c91ce7f4f1c4a38bb52cae42f6208f43ad48d23403d5acd382a519c2b0",
                       "once":  false,
-                      "size":  1001
+                      "size":  1056
                   },
                   {
                       "path":  "config/alexsmobs/giant_squid_spawns.json",
-                      "sha256":  "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f",
+                      "sha256":  "598a33aa535fa5edae67b8b4f83df3bf978e52963c0f5cd379a822c86d8ad9fc",
                       "once":  false,
-                      "size":  146
+                      "size":  156
                   },
                   {
                       "path":  "config/alexsmobs/gorilla_spawns.json",
-                      "sha256":  "8c90151f66a632b01e7b8f6998f72618720aae5362c1df0bdd7fefdb13cc20c8",
+                      "sha256":  "7c6b2ddbf6eabe2f6d77fca2e0fb9f854fc07a334f6130e68c40f643cfc32705",
                       "once":  false,
-                      "size":  1053
+                      "size":  1110
                   },
                   {
                       "path":  "config/alexsmobs/grizzly_bear_spawns.json",
-                      "sha256":  "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644",
+                      "sha256":  "142f5863bc68b30a4af78de89b6c929690ea85442e8bdb22ef38cc4c6d95494f",
                       "once":  false,
-                      "size":  4020
+                      "size":  4234
                   },
                   {
                       "path":  "config/alexsmobs/guster_spawns.json",
-                      "sha256":  "263974f58a4b48df633648246820681745da9f9e16f30fefe6e07f576251dfb1",
+                      "sha256":  "e28128fcc9567030803a2274fa109f7985bc2f26e59ccc18db64353c93a56765",
                       "once":  false,
-                      "size":  1132
+                      "size":  1192
                   },
                   {
                       "path":  "config/alexsmobs/hammerhead_shark_spawns.json",
-                      "sha256":  "a5eeb1a3843a12ef4fde1d8a3a5f13161034457c0901d3f938aa71a20e6712f3",
+                      "sha256":  "cdde58f5de5958b895bda3f8834cac0c1e539040274b9aa2d5896fd676726ca8",
                       "once":  false,
-                      "size":  254
+                      "size":  269
                   },
                   {
                       "path":  "config/alexsmobs/hummingbird_spawns.json",
-                      "sha256":  "6aa305d47ca32364d445c04c8a20da36a7ccef97955c27e834d4114604d2785d",
+                      "sha256":  "16598aced8738ca73c3bf37c4c0170719a2a190c5e098bcfe0f4efdc13315726",
                       "once":  false,
-                      "size":  3029
+                      "size":  3193
                   },
                   {
                       "path":  "config/alexsmobs/jerboa_spawns.json",
-                      "sha256":  "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124",
+                      "sha256":  "a27201bc22f049a7730d28e77df4f2f21853fd7ade5e2a657160bae470f2ca11",
                       "once":  false,
-                      "size":  1252
+                      "size":  1319
                   },
                   {
                       "path":  "config/alexsmobs/kangaroo_spawns.json",
-                      "sha256":  "70e30e058709266e665eb6642df126eeee744d05e63d77344501e78cb4a37851",
+                      "sha256":  "9d0ece037ecbf535d4678461c1e0c4ab3d6877d2469641ac633f3d674d8f5717",
                       "once":  false,
-                      "size":  1661
+                      "size":  1751
                   },
                   {
                       "path":  "config/alexsmobs/komodo_dragon_spawns.json",
-                      "sha256":  "695a3eb4d61a8208cc634871c237b0e6efc980ac668793f4686848e32cda0907",
+                      "sha256":  "dd9cacc34fa8e89708f686d2f66f9b1159fb9fef30f908b399e013c0a24e9766",
                       "once":  false,
-                      "size":  775
+                      "size":  818
                   },
                   {
                       "path":  "config/alexsmobs/laviathan_spawns.json",
-                      "sha256":  "07d0215377f12f1299ec46b6277426c3cf957aa1d310c97fa943cdf5ace8d260",
+                      "sha256":  "5e6e4b33b40a70bc8973e6f957bfc02a53d1626665d18fc1c88950b1633b39a3",
                       "once":  false,
-                      "size":  142
+                      "size":  152
                   },
                   {
                       "path":  "config/alexsmobs/leafcutter_anthill_spawns.json",
-                      "sha256":  "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990",
+                      "sha256":  "d4dffa77f0d98aaded4393c296b06d78a530e94ffb8900a607cd8de66f046c16",
                       "once":  false,
-                      "size":  1166
+                      "size":  1228
                   },
                   {
                       "path":  "config/alexsmobs/lobster_spawns.json",
-                      "sha256":  "bb0c918e8dbd4d003417a1bcabb38b8433d1f9be95fe6f8feef95d30616b49a7",
+                      "sha256":  "65803061832d788b32b864367d62c114c68291d8eea9097594dcaf0301306cc5",
                       "once":  false,
-                      "size":  398
+                      "size":  422
                   },
                   {
                       "path":  "config/alexsmobs/maned_wolf_spawns.json",
-                      "sha256":  "8483d96341369b430ff2ebfebd7562b0c58c40b96be541cc88189fc696606a0d",
+                      "sha256":  "c3d7f60acb2e605d0bc3c7461d98bfd6310c64d9c787d5e0879883f6b8c5b28b",
                       "once":  false,
-                      "size":  1037
+                      "size":  1094
                   },
                   {
                       "path":  "config/alexsmobs/mantis_shrimp_spawns.json",
-                      "sha256":  "4f6099fe4d9f99530f9f0f9bae7e55c0713506efdc47da69d227ae62137647e4",
+                      "sha256":  "44869ab38ceb22d186edcfb5362a6eb80760e75f74191fdd5cb6abbdd8b59780",
+                      "once":  false,
+                      "size":  407
+                  },
+                  {
+                      "path":  "config/alexsmobs/mimicube_spawns.json",
+                      "sha256":  "e2545407995880359e692657ec62d5464f83255050cbabdc853bfdc0d591729e",
                       "once":  false,
                       "size":  385
                   },
                   {
-                      "path":  "config/alexsmobs/mimicube_spawns.json",
-                      "sha256":  "fcace6e8c558df6eb13827f7a2b4a7f43c9fdfd3015331bd7e277329ca034c34",
-                      "once":  false,
-                      "size":  365
-                  },
-                  {
                       "path":  "config/alexsmobs/mimic_octopus_spawns.json",
-                      "sha256":  "9c68a433ab6f75ff9e8d46868480158e4c1f46949779cb0b0d973f7759dbfc2d",
+                      "sha256":  "4472a386633f31b2bad0dcfab807cb08c3ec2a90ecb1b1fa227336ff1690713e",
                       "once":  false,
-                      "size":  373
+                      "size":  393
                   },
                   {
                       "path":  "config/alexsmobs/moose_spawns.json",
-                      "sha256":  "abac051da2458ec848604b66a6d7889f7c715060bb9706c1d1822155127d096c",
+                      "sha256":  "9234166d0f01e5bcc198493493ec677c140af12e8300b00e4b893f8f856c7c1f",
                       "once":  false,
-                      "size":  2291
+                      "size":  2412
                   },
                   {
                       "path":  "config/alexsmobs/mudskipper_spawns.json",
-                      "sha256":  "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753",
+                      "sha256":  "9fcf42542a9fc8d248516f2572bef05c319975e4e86000cf0dff7f5b15baf159",
+                      "once":  false,
+                      "size":  308
+                  },
+                  {
+                      "path":  "config/alexsmobs/mungus_spawns.json",
+                      "sha256":  "56a4c9b49eebc856232f0d5599ea879d3a5231c4d3b1a119a7c74684fdc5b655",
+                      "once":  false,
+                      "size":  513
+                  },
+                  {
+                      "path":  "config/alexsmobs/murmur.json",
+                      "sha256":  "a46da0f8d88297017f065f68c40f5cbcb4febc5ee35bb878bb0cef0f468225aa",
+                      "once":  false,
+                      "size":  2314
+                  },
+                  {
+                      "path":  "config/alexsmobs/orca_spawns.json",
+                      "sha256":  "19c60fb7ae61a72d34a1a172fc641c7ad9ee0ba0772ed7fad6d60298f039631d",
+                      "once":  false,
+                      "size":  270
+                  },
+                  {
+                      "path":  "config/alexsmobs/platypus_spawns.json",
+                      "sha256":  "c6bc57ee041fdf145dcb6d2891672ca4fd91a3171066239cab79bd171635a329",
+                      "once":  false,
+                      "size":  659
+                  },
+                  {
+                      "path":  "config/alexsmobs/potoo_spawns.json",
+                      "sha256":  "e6f21da914007cb168c216619404e060ca89e3dc06eeebe53e9de5a5dd1ab88b",
+                      "once":  false,
+                      "size":  158
+                  },
+                  {
+                      "path":  "config/alexsmobs/raccoon_spawns.json",
+                      "sha256":  "d938e39018ada5c4b41438fc979acffde30ccf90a6cb847388517feb01a97efc",
+                      "once":  false,
+                      "size":  3910
+                  },
+                  {
+                      "path":  "config/alexsmobs/rain_frog_spawns.json",
+                      "sha256":  "a27201bc22f049a7730d28e77df4f2f21853fd7ade5e2a657160bae470f2ca11",
+                      "once":  false,
+                      "size":  1319
+                  },
+                  {
+                      "path":  "config/alexsmobs/rattlesnake_spawns.json",
+                      "sha256":  "db297004bd46b2506a5b53dfcbaa8ff9110b8c69f9a9a487d25f077c4dbaa16f",
+                      "once":  false,
+                      "size":  1736
+                  },
+                  {
+                      "path":  "config/alexsmobs/rhinoceros_spawns.json",
+                      "sha256":  "9d9e6126ee723371520eace5ece367ffc2aa977b695e5f5581905b0acd4d7e44",
+                      "once":  false,
+                      "size":  1109
+                  },
+                  {
+                      "path":  "config/alexsmobs/roadrunner_spawns.json",
+                      "sha256":  "db297004bd46b2506a5b53dfcbaa8ff9110b8c69f9a9a487d25f077c4dbaa16f",
+                      "once":  false,
+                      "size":  1736
+                  },
+                  {
+                      "path":  "config/alexsmobs/rocky_roller_spawns.json",
+                      "sha256":  "290b606998c16963b8007ebd79243bbfb1979883e2f9f9898243e1f694825c98",
+                      "once":  false,
+                      "size":  709
+                  },
+                  {
+                      "path":  "config/alexsmobs/seagull_spawns.json",
+                      "sha256":  "93a1ea47739d9505210503c2ba904d8219cc476f46fa98292562e39cc14a455a",
+                      "once":  false,
+                      "size":  1367
+                  },
+                  {
+                      "path":  "config/alexsmobs/seal_spawns.json",
+                      "sha256":  "f00363564ed260b76c6132845d6301d23ea6207185f7b5ccfab0249d36c2f1ed",
+                      "once":  false,
+                      "size":  925
+                  },
+                  {
+                      "path":  "config/alexsmobs/shoebill_spawns.json",
+                      "sha256":  "2ae357ebce2949b1d60db4da9ca2c6cc0e0e0b6ae153f5cb49c119dda1acbc23",
+                      "once":  false,
+                      "size":  657
+                  },
+                  {
+                      "path":  "config/alexsmobs/skelewag_spawns.json",
+                      "sha256":  "d15be6f2b405871fc630b642c43d74010e99d9cfa596fce55ad8f09b45ab1dcb",
+                      "once":  false,
+                      "size":  394
+                  },
+                  {
+                      "path":  "config/alexsmobs/skreecher.json",
+                      "sha256":  "7437c0e259dad0e1e3c6cf7b24b856e4b1efc5f2ade4ea5c1bb32b360d6e2404",
                       "once":  false,
                       "size":  291
                   },
                   {
-                      "path":  "config/alexsmobs/mungus_spawns.json",
-                      "sha256":  "5d5a9d2039b6df546b788f62cb376cc29312a7115a5553541652aad7259436a6",
-                      "once":  false,
-                      "size":  486
-                  },
-                  {
-                      "path":  "config/alexsmobs/murmur.json",
-                      "sha256":  "973b8ebc19fa04e02b050f28359ee6bffbae93367f49ecac10892f4a2c1dad7d",
-                      "once":  false,
-                      "size":  2200
-                  },
-                  {
-                      "path":  "config/alexsmobs/orca_spawns.json",
-                      "sha256":  "2e62ae273c3488a294068e5ed737dbf08791f4758cd3659308824d7bf4ece377",
-                      "once":  false,
-                      "size":  255
-                  },
-                  {
-                      "path":  "config/alexsmobs/platypus_spawns.json",
-                      "sha256":  "b96f9e44f59f54b67460784fb1fdfa06d053f9ca9abb4fc3b04f222fd65ee958",
-                      "once":  false,
-                      "size":  625
-                  },
-                  {
-                      "path":  "config/alexsmobs/potoo_spawns.json",
-                      "sha256":  "59c5832a40ef0e7212a4d499862f931a5dfcd3ff6d68598153f1274191b0939d",
-                      "once":  false,
-                      "size":  148
-                  },
-                  {
-                      "path":  "config/alexsmobs/raccoon_spawns.json",
-                      "sha256":  "2f353aa8720d03fbdef9d9e4932ecc4435b7923bbc72191fab6f46acb66d3a12",
-                      "once":  false,
-                      "size":  3712
-                  },
-                  {
-                      "path":  "config/alexsmobs/rain_frog_spawns.json",
-                      "sha256":  "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124",
-                      "once":  false,
-                      "size":  1252
-                  },
-                  {
-                      "path":  "config/alexsmobs/rattlesnake_spawns.json",
-                      "sha256":  "b8662bb3de9e2e5cc4af3773700fe6446c389980a80f6350f99d51f3fa2cef39",
-                      "once":  false,
-                      "size":  1646
-                  },
-                  {
-                      "path":  "config/alexsmobs/rhinoceros_spawns.json",
-                      "sha256":  "17a5c3263942410596f91fb0aece138e5115bfabfa2a5913a63406fcb64b42d0",
-                      "once":  false,
-                      "size":  1050
-                  },
-                  {
-                      "path":  "config/alexsmobs/roadrunner_spawns.json",
-                      "sha256":  "b8662bb3de9e2e5cc4af3773700fe6446c389980a80f6350f99d51f3fa2cef39",
-                      "once":  false,
-                      "size":  1646
-                  },
-                  {
-                      "path":  "config/alexsmobs/rocky_roller_spawns.json",
-                      "sha256":  "98dc351abc061685560adc82bd3ffa6e4c87d4faab81e9bb6a9e2a6f07cdb177",
-                      "once":  false,
-                      "size":  673
-                  },
-                  {
-                      "path":  "config/alexsmobs/seagull_spawns.json",
-                      "sha256":  "4dca182ebef46ea0076b8e8066add18f69527cf2f81da83e77e0409127c92dc4",
-                      "once":  false,
-                      "size":  1296
-                  },
-                  {
-                      "path":  "config/alexsmobs/seal_spawns.json",
-                      "sha256":  "ef706c1e2ba0b9356523f8aeb3679303ab98d85c9b761d0e55962e930be4d8e6",
-                      "once":  false,
-                      "size":  877
-                  },
-                  {
-                      "path":  "config/alexsmobs/shoebill_spawns.json",
-                      "sha256":  "0d8683c0a1b8176d4e89f88c4f3b1e6fbf6b269781497a190749904c7323eeec",
-                      "once":  false,
-                      "size":  623
-                  },
-                  {
-                      "path":  "config/alexsmobs/skelewag_spawns.json",
-                      "sha256":  "86aad88d05c283679e85900cab1bf3977d496849005ac068a14e40b93db35aa2",
-                      "once":  false,
-                      "size":  374
-                  },
-                  {
-                      "path":  "config/alexsmobs/skreecher.json",
-                      "sha256":  "f812e719afb24421c6853dacf4d1f66864305e335cfdf6193613d7c408ecab30",
-                      "once":  false,
-                      "size":  276
-                  },
-                  {
                       "path":  "config/alexsmobs/skunk_spawns.json",
-                      "sha256":  "01cc2eb4d92ba30b7301b9325a353cd96c5c7ff263c348795bfb34698cf8f11b",
+                      "sha256":  "504216d2e564d3a4df5c9bc5d723cfadeb645ac447c153686797698389421e80",
                       "once":  false,
-                      "size":  2037
+                      "size":  2144
                   },
                   {
                       "path":  "config/alexsmobs/snow_leopard_spawns.json",
-                      "sha256":  "fdf546af7c7ff2307d0862c0802450eef1e99554af3a340e7a6af69fa5785ea5",
+                      "sha256":  "43796a6d9a7b4b18b0a0fbbd119ef6b651f1d25557e499d975ab56e3f163efa4",
                       "once":  false,
-                      "size":  1808
+                      "size":  1905
                   },
                   {
                       "path":  "config/alexsmobs/soul_vulture_spawns.json",
-                      "sha256":  "45407796e49769550eef92fd3953daa191c85aaf032fb2be32fe591b0199a172",
+                      "sha256":  "018b503a2d68a7d369eb4ac4abbc353ef8401f652742980f641dba45f0d1a223",
                       "once":  false,
-                      "size":  523
+                      "size":  552
                   },
                   {
                       "path":  "config/alexsmobs/spectre_spawns.json",
-                      "sha256":  "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980",
+                      "sha256":  "178d5ac1ca1be1d23f0d5c677224eb4bfb38a24cc7fac7e12289c87d35f9a27f",
                       "once":  false,
-                      "size":  250
+                      "size":  265
                   },
                   {
                       "path":  "config/alexsmobs/straddler_spawns.json",
-                      "sha256":  "5ee746cf50b358048a0243e4c45997285cf4a9b736758d388ad730d4ed493900",
+                      "sha256":  "23051f654fc4e973ac2bdfb4bfbcde6b5fb8172b9fb13e35436003f0a106fd1e",
                       "once":  false,
-                      "size":  664
+                      "size":  700
                   },
                   {
                       "path":  "config/alexsmobs/stradpole_spawns.json",
-                      "sha256":  "5ee746cf50b358048a0243e4c45997285cf4a9b736758d388ad730d4ed493900",
+                      "sha256":  "23051f654fc4e973ac2bdfb4bfbcde6b5fb8172b9fb13e35436003f0a106fd1e",
                       "once":  false,
-                      "size":  664
+                      "size":  700
                   },
                   {
                       "path":  "config/alexsmobs/sugar_glider_spawns.json",
-                      "sha256":  "cec5208e2e9f12aa8ce13d0f6d34a18500a77d143441c9b511df21c623fe368f",
+                      "sha256":  "2463a918178f2b963ace75e9c07201d4caf42bb31a825658ea79c61f118f6bc7",
                       "once":  false,
-                      "size":  418
+                      "size":  442
                   },
                   {
                       "path":  "config/alexsmobs/sunbird_spawns.json",
-                      "sha256":  "7b82ff39e191bd213cd8ecf06ff9a78c4658e6f6b9d8b48a4fcc4017e7268cb5",
+                      "sha256":  "cc539036c4065afe0eaeef628a0fd4a0e2b79a968542a0b51f09f117a06ce8c8",
                       "once":  false,
-                      "size":  3925
+                      "size":  4136
                   },
                   {
                       "path":  "config/alexsmobs/tarantula_hawk_spawns.json",
-                      "sha256":  "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124",
+                      "sha256":  "a27201bc22f049a7730d28e77df4f2f21853fd7ade5e2a657160bae470f2ca11",
                       "once":  false,
-                      "size":  1252
+                      "size":  1319
                   },
                   {
                       "path":  "config/alexsmobs/tasmanian_devil_spawns.json",
-                      "sha256":  "40c769365424d492a4c17700bb8cfac4c8ce7fac2bc16728f0c4287e3a043130",
+                      "sha256":  "2de9b79ddc0a39e537c2ae62486305e48bd568e56a0e69e0d636c1f19317bbef",
                       "once":  false,
-                      "size":  1908
+                      "size":  2008
                   },
                   {
                       "path":  "config/alexsmobs/terrapin_spawns.json",
-                      "sha256":  "b96f9e44f59f54b67460784fb1fdfa06d053f9ca9abb4fc3b04f222fd65ee958",
+                      "sha256":  "c6bc57ee041fdf145dcb6d2891672ca4fd91a3171066239cab79bd171635a329",
                       "once":  false,
-                      "size":  625
+                      "size":  659
                   },
                   {
                       "path":  "config/alexsmobs/tiger_spawns.json",
-                      "sha256":  "f88fc1b519759fe41347afca59030619365e173c577e8c1adfcb88777078d066",
+                      "sha256":  "800a83f2643f0851979cb84f6ac737b521fa4885b9f6dd7fa79a24e9b3ef667b",
                       "once":  false,
-                      "size":  1209
+                      "size":  1275
                   },
                   {
                       "path":  "config/alexsmobs/toucan_spawns.json",
-                      "sha256":  "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990",
+                      "sha256":  "d4dffa77f0d98aaded4393c296b06d78a530e94ffb8900a607cd8de66f046c16",
                       "once":  false,
-                      "size":  1166
+                      "size":  1228
                   },
                   {
                       "path":  "config/alexsmobs/triops_spawns.json",
-                      "sha256":  "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124",
+                      "sha256":  "a27201bc22f049a7730d28e77df4f2f21853fd7ade5e2a657160bae470f2ca11",
                       "once":  false,
-                      "size":  1252
+                      "size":  1319
                   },
                   {
                       "path":  "config/alexsmobs/tusklin_spawns.json",
-                      "sha256":  "9ab4772704660c679ea30dff2db2c1272843e00675e2a7e610adcc6486120c3c",
+                      "sha256":  "8c977d267c177a73c2c39a4b0c3fa3cd7fa83ab16b6eca8f66c897ed4e7a85b6",
                       "once":  false,
-                      "size":  882
+                      "size":  930
                   },
                   {
                       "path":  "config/alexsmobs/underminer.json",
-                      "sha256":  "97a67afb52f1398f2c55e2a74001e5b893394e28d3f0eb00695f049bdd19f204",
+                      "sha256":  "1fb9d9cc0833f50b12c0e8db11580d31bda37e4e4974b0503e54b3eaac4235e9",
                       "once":  false,
-                      "size":  2085
+                      "size":  2194
                   },
                   {
                       "path":  "config/alexsmobs/void_worm_spawns.json",
-                      "sha256":  "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273",
+                      "sha256":  "b0849eb96f4816a0c8ccbd346182d50cf300dbf002d392cbe90682c930e0f557",
                       "once":  false,
-                      "size":  18
+                      "size":  20
                   },
                   {
                       "path":  "config/alexsmobs/warped_mosco_spawns.json",
-                      "sha256":  "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273",
+                      "sha256":  "b0849eb96f4816a0c8ccbd346182d50cf300dbf002d392cbe90682c930e0f557",
                       "once":  false,
-                      "size":  18
+                      "size":  20
                   },
                   {
                       "path":  "config/alexsmobs/warped_toad_spawns.json",
-                      "sha256":  "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8",
+                      "sha256":  "a79f61400c2eeaf5f29ccc384638df588374cc794838c6e4529a61e2cc31412c",
                       "once":  false,
-                      "size":  661
+                      "size":  699
                   },
                   {
                       "path":  "config/artifacts/client.json5",
-                      "sha256":  "dfae4a12bf924a5e12380032ff257ec535c6b003fef539a3893adb05c0a69c56",
+                      "sha256":  "d3f4d57475eb31c19b79fb5d6f2c3787fbdeccbeb2e9133c2fd95ff4c477afa4",
                       "once":  false,
-                      "size":  551
+                      "size":  565
                   },
                   {
                       "path":  "config/artifacts/common.json5",
-                      "sha256":  "736bec8c910558091bb749ac7adb013822a253a02f1f70637eb193952768d2b1",
+                      "sha256":  "678ae08b43dfb9fd419d22e645ba31227b5f193aa674ea2d58d85b2e7b3bc65a",
                       "once":  false,
-                      "size":  1584
+                      "size":  1619
                   },
                   {
                       "path":  "config/CoroUtil/General.toml",
@@ -1503,9 +1503,9 @@
                   },
                   {
                       "path":  "config/drippyloadingscreen/options.txt",
-                      "sha256":  "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5",
+                      "sha256":  "7bcb783ef0a2a645675bbd818c717c9f4dc076e1cbb3d83a13e6cb733790e40f",
                       "once":  false,
-                      "size":  162
+                      "size":  167
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
@@ -1515,39 +1515,39 @@
                   },
                   {
                       "path":  "config/fancymenu/customizablemenus.txt",
-                      "sha256":  "9b7aeefad5012bcaa5229adc8c3df2d379affedd319b258bdc9e0a1a84d36eb1",
+                      "sha256":  "1413b694b66e68013587e57ae354a445d0303d212262134ff021afe21cbfc4da",
                       "once":  false,
-                      "size":  260
+                      "size":  274
                   },
                   {
                       "path":  "config/fancymenu/custom_gui_screens.txt",
-                      "sha256":  "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+                      "sha256":  "7d4410bcfc1dcf3265c53842a57f0f9d95a07131d4de67116a9f65def0bcf54a",
                       "once":  false,
-                      "size":  51
+                      "size":  56
                   },
                   {
                       "path":  "config/fancymenu/legacy_checklist.txt",
-                      "sha256":  "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+                      "sha256":  "878c9368bec63cd86822b28ceca345704ebaa411f7b72dd0bb4e682235b790e1",
                       "once":  false,
-                      "size":  42
+                      "size":  44
                   },
                   {
                       "path":  "config/fancymenu/options.txt",
-                      "sha256":  "7f437f86aa7544813b98f1d1ff760f767f35f5d967e5da74eda9c95a169fad08",
+                      "sha256":  "7465d3f23a4a039a0c011ede531e73ff70a24c563280e24ccf053f89439c4b7d",
                       "once":  false,
-                      "size":  2052
+                      "size":  2144
                   },
                   {
                       "path":  "config/fancymenu/user_variables.db",
-                      "sha256":  "5c09ff07cb9d379722af26f05d3ee13c14b19d21c657639a803f361abe076e1b",
+                      "sha256":  "64baf4d7bb048c0ca685299b3c74d8da8b99f3d2a115ca1f35284564d3540cfc",
                       "once":  false,
-                      "size":  399
+                      "size":  431
                   },
                   {
                       "path":  "config/fancymenu/video_element_controller_metas.json",
-                      "sha256":  "afd86279003ac1718d686d77adb765758386a6eb3f9e108a566772fe49a958c6",
+                      "sha256":  "fae04c309eb4f59504d53864c635d08858241b939234f035a99b4e2fd0e957e5",
                       "once":  false,
-                      "size":  642
+                      "size":  668
                   },
                   {
                       "path":  "config/fancymenu/assets/1002.mp4",
@@ -1575,219 +1575,219 @@
                   },
                   {
                       "path":  "config/fancymenu/customization/connect_screen_layout.txt",
-                      "sha256":  "70baddaae084f1294f76d57e7eb92e3e34fe9b1fd49855a9b3ac5fa8dc1ed8b4",
+                      "sha256":  "8e20c66955977d161049d0a36fc686ddeb8fa4b1ff53929006c121cb28ef78ba",
                       "once":  false,
-                      "size":  5240
+                      "size":  5404
                   },
                   {
                       "path":  "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-                      "sha256":  "42f72154f217e0de3c2b001c21edd6610b5c0182d48e908ab82a59fd7360540c",
+                      "sha256":  "0c2582b256d1e12b26caa60a0549d3aef7670f23cb5dbc5180e7c02eb2b7c2b1",
                       "once":  false,
-                      "size":  9049
+                      "size":  9320
                   },
                   {
                       "path":  "config/fancymenu/customization/receiving_level_screen_layout.txt",
-                      "sha256":  "cd55860839e671564ef59e7263ce6595ed53cb98182ae82987a77c30147a4ece",
+                      "sha256":  "ed021a8810cb85dede121823d94cbd482c389ae7df1b1f7bfdb7dc4a7ae263de",
                       "once":  false,
-                      "size":  3278
+                      "size":  3385
                   },
                   {
                       "path":  "config/fancymenu/customization/title_screen_layout.txt",
-                      "sha256":  "14240e38d862a7308dcb0d379f2d5fe88e4eee18cda880b03af012545f2f91c2",
+                      "sha256":  "4aa654412b2cc84e3a65e56acbf55b73a7dc8160b5e0bf6e52b4942ae09db531",
                       "once":  false,
-                      "size":  34689
+                      "size":  35648
                   },
                   {
                       "path":  "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-                      "sha256":  "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495",
+                      "sha256":  "795b81df9004cfd5e4105a0aad484d9a91122880135df21dea4ebcd4da0b7e06",
                       "once":  false,
-                      "size":  197
+                      "size":  209
                   },
                   {
                       "path":  "config/fancymenu/ui_themes/dark.json",
-                      "sha256":  "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4",
+                      "sha256":  "5705632148b4a26645020528c837c7bf23264cccfdcaf20b0e0f08445ff2b636",
                       "once":  false,
-                      "size":  4133
+                      "size":  4313
                   },
                   {
                       "path":  "config/fancymenu/ui_themes/light.json",
-                      "sha256":  "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620",
+                      "sha256":  "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb",
                       "once":  false,
-                      "size":  4135
+                      "size":  4315
                   },
                   {
                       "path":  "config/forgematica/forgematica_mc.stefanodeblasi.it_25566.json",
-                      "sha256":  "bc733d7fcfe4c9cc92c50e2f191deaa79990046d1577c7ac8538abbbd20d66c0",
+                      "sha256":  "e92d6bc166d78b8dfeee7fba53a88cd8242d59df4302c370ac3e23f80ffc8af3",
                       "once":  false,
-                      "size":  460
+                      "size":  468
                   },
                   {
                       "path":  "config/forgematica/forgematica_mc.stefanodeblasi.it_25566_dim_minecraft_bayville.json",
-                      "sha256":  "3a85919395b5b101c32c9d47369127271e8b8d8fd5a76607e9366ca0ca91ae3d",
+                      "sha256":  "233acf414be933ba1f0aabe9e22f027ca0abe6743d800c7a5d60301027d6c62b",
                       "once":  false,
-                      "size":  749
+                      "size":  791
                   },
                   {
                       "path":  "config/forgematica/forgematica_mc.stefanodeblasi.it_25566_dim_minecraft_nb.json",
-                      "sha256":  "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                      "sha256":  "6079dc941a1cdd51885438eb17035b737b6d649465232ced91bc7bc2926abd30",
                       "once":  false,
-                      "size":  734
+                      "size":  776
                   },
                   {
                       "path":  "config/forgematica/forgematica_mc.stefanodeblasi.it_25566_dim_minecraft_overworld.json",
-                      "sha256":  "4ed3b4d0159818fbfd6447d707d468595e20d5084fe354b8660be1bb558bfba3",
+                      "sha256":  "d74e758e9fec815cdccfffa76c8f0d8ecb1bc90bc012a87036e91c4c4c4fe0d5",
                       "once":  false,
-                      "size":  733
+                      "size":  775
                   },
                   {
                       "path":  "config/forgematica/forgematica_new_world.json",
-                      "sha256":  "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+                      "sha256":  "4dca41f28c4415771a4b17048f53c57d7a2ef4dbc40e5da018c6a78a71d7dd34",
                       "once":  false,
-                      "size":  95
+                      "size":  99
                   },
                   {
                       "path":  "config/forgematica/forgematica_new_world_dim_minecraft_overworld.json",
-                      "sha256":  "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                      "sha256":  "6079dc941a1cdd51885438eb17035b737b6d649465232ced91bc7bc2926abd30",
                       "once":  false,
-                      "size":  734
+                      "size":  776
                   },
                   {
                       "path":  "config/forgematica/forgematica_nuovo_mondo.json",
-                      "sha256":  "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+                      "sha256":  "4dca41f28c4415771a4b17048f53c57d7a2ef4dbc40e5da018c6a78a71d7dd34",
                       "once":  false,
-                      "size":  95
+                      "size":  99
                   },
                   {
                       "path":  "config/forgematica/forgematica_nuovo_mondo_dim_minecraft_overworld.json",
-                      "sha256":  "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                      "sha256":  "6079dc941a1cdd51885438eb17035b737b6d649465232ced91bc7bc2926abd30",
                       "once":  false,
-                      "size":  734
+                      "size":  776
                   },
                   {
                       "path":  "config/forgematica/forgematica_play.gangdrogacity.xyz.json",
-                      "sha256":  "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+                      "sha256":  "4dca41f28c4415771a4b17048f53c57d7a2ef4dbc40e5da018c6a78a71d7dd34",
                       "once":  false,
-                      "size":  95
+                      "size":  99
                   },
                   {
                       "path":  "config/forgematica/forgematica_play.gangdrogacity.xyz_dim_mbackrooms_level_one.json",
-                      "sha256":  "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                      "sha256":  "6079dc941a1cdd51885438eb17035b737b6d649465232ced91bc7bc2926abd30",
                       "once":  false,
-                      "size":  734
+                      "size":  776
                   },
                   {
                       "path":  "config/forgematica/forgematica_play.gangdrogacity.xyz_dim_mbackrooms_level_zero.json",
-                      "sha256":  "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                      "sha256":  "6079dc941a1cdd51885438eb17035b737b6d649465232ced91bc7bc2926abd30",
                       "once":  false,
-                      "size":  734
+                      "size":  776
                   },
                   {
                       "path":  "config/forgematica/forgematica_play.gangdrogacity.xyz_dim_minecraft_overworld.json",
-                      "sha256":  "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                      "sha256":  "6079dc941a1cdd51885438eb17035b737b6d649465232ced91bc7bc2926abd30",
                       "once":  false,
-                      "size":  734
+                      "size":  776
                   },
                   {
                       "path":  "config/forgematica/forgematica_play.gangdrogacity.xyz_dim_minecraft_the_nether.json",
-                      "sha256":  "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                      "sha256":  "6079dc941a1cdd51885438eb17035b737b6d649465232ced91bc7bc2926abd30",
                       "once":  false,
-                      "size":  734
+                      "size":  776
                   },
                   {
                       "path":  "config/inventoryprofilesnext/inventoryprofiles.json",
-                      "sha256":  "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3",
+                      "sha256":  "858d18484591260a2f2d39ecd2bae1fbb7a810d9916e5f70f14ccf2aee783a18",
                       "once":  false,
-                      "size":  57
+                      "size":  61
                   },
                   {
                       "path":  "config/inventoryprofilesnext/prev-villager-trading-config.json",
-                      "sha256":  "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef",
+                      "sha256":  "bcf3134002f9a9ff6f14be2370e769211b8d36b777ba69994d83ef65b6a78e92",
                       "once":  false,
-                      "size":  1177
+                      "size":  1229
                   },
                   {
                       "path":  "config/inventoryprofilesnext/villager-trading-config.json",
-                      "sha256":  "124bdf33c80283d5327d5d47bb58d39e81d0b80e0910e5c66e5cf55abc416a0b",
+                      "sha256":  "539eb117188782dbe8d2f304da26d6de2e1c975a3fceb9885da94deacf822194",
                       "once":  false,
-                      "size":  1312
+                      "size":  1367
                   },
                   {
                       "path":  "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
-                      "sha256":  "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a",
+                      "sha256":  "f0c885470e7ecdbed0a9fdf7cf584e84d8dfc200ca38a44e9bfaa773ee8800e2",
                       "once":  false,
-                      "size":  1450
+                      "size":  1496
                   },
                   {
                       "path":  "config/inventoryprofilesnext/New World/villager-trading-config.json",
-                      "sha256":  "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef",
+                      "sha256":  "bcf3134002f9a9ff6f14be2370e769211b8d36b777ba69994d83ef65b6a78e92",
                       "once":  false,
-                      "size":  1177
+                      "size":  1229
                   },
                   {
                       "path":  "config/inventoryprofilesnext/Nuovo mondo/prev-villager-trading-config.json",
-                      "sha256":  "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef",
+                      "sha256":  "bcf3134002f9a9ff6f14be2370e769211b8d36b777ba69994d83ef65b6a78e92",
                       "once":  false,
-                      "size":  1177
+                      "size":  1229
                   },
                   {
                       "path":  "config/inventoryprofilesnext/Nuovo mondo/villager-trading-config.json",
-                      "sha256":  "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef",
+                      "sha256":  "bcf3134002f9a9ff6f14be2370e769211b8d36b777ba69994d83ef65b6a78e92",
                       "once":  false,
-                      "size":  1177
+                      "size":  1229
                   },
                   {
                       "path":  "config/inventoryprofilesnext/play.gangdrogacity.xyz/villager-trading-config.json",
-                      "sha256":  "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef",
+                      "sha256":  "bcf3134002f9a9ff6f14be2370e769211b8d36b777ba69994d83ef65b6a78e92",
                       "once":  false,
-                      "size":  1177
+                      "size":  1229
                   },
                   {
                       "path":  "config/jeg/pack.mcmeta",
-                      "sha256":  "82b0bfa6c644e674d31fae1abb7950a9b6ab9442a5509aa50a7e99968d5cd44e",
+                      "sha256":  "34b894cd1ed8605cd8e8293e0ad28d8ca2abf9ad5a21a9e50e76dfb6b44e3170",
                       "once":  false,
-                      "size":  101
+                      "size":  107
                   },
                   {
                       "path":  "config/jeg/assets/jeg/animations/fire_sweeper.animation.json",
-                      "sha256":  "2f4eed3d187cf1892d781f859ef26bc9f4c6f479345c7c81865271d135354b94",
+                      "sha256":  "b980f046c8ded5a4256778e37b873f36a0d6d516572785ef5c522a217fbfb27c",
                       "once":  false,
-                      "size":  30239
+                      "size":  31692
                   },
                   {
                       "path":  "config/jeg/assets/jeg/animations/primitive_blowpipe.animation.json",
-                      "sha256":  "569baa24a7717b6f180cae2084fcd3c3027a5523e97dd57812b893e032a127b0",
+                      "sha256":  "f9f0b83712d90304099597727f99a12576b4231aa73a4dfec09a7b7b13d4b754",
                       "once":  false,
-                      "size":  5459
+                      "size":  5773
                   },
                   {
                       "path":  "config/jeg/assets/jeg/animations/vindicator_smg.animation.json",
-                      "sha256":  "d65d1771ed682c65d9535b114c28b024a9c58bb64e2689774bf4ef17d735983f",
+                      "sha256":  "5b7e2808051ec6961a05bc5bfc79adb439dd52594eaa59a2c5273914f21f9c7b",
                       "once":  false,
-                      "size":  18995
+                      "size":  19914
                   },
                   {
                       "path":  "config/jeg/assets/jeg/geo/fire_sweeper.geo.json",
-                      "sha256":  "d2b5cdecbb9173f9d87114e9a0e47d17f129655a231b093ea999bbd68aef7f34",
+                      "sha256":  "543a12ec2d1c1a378f716e7f6ba2c50ff16548b0a95af5c4b2d4f2c4bffbbd32",
                       "once":  false,
-                      "size":  25143
+                      "size":  25962
                   },
                   {
                       "path":  "config/jeg/assets/jeg/geo/primitive_blowpipe.geo.json",
-                      "sha256":  "697cf6b6a0fe37e6ca87558145720226821807c0eb24353b49b4f721ad30abda",
+                      "sha256":  "da5dc588e7f41c11c3d0729d32cb3724c395b85fb2a45180e096f60957fcdd91",
                       "once":  false,
-                      "size":  4216
+                      "size":  4358
                   },
                   {
                       "path":  "config/jeg/assets/jeg/geo/vindicator_smg.geo.json",
-                      "sha256":  "54c4372c17bac659136879f4044b69aec66114ab381611ca93009585a013fd79",
+                      "sha256":  "ced4069442945fd53f27e9cad08cf85f421d7c21b1646c9673d5f8819f12f11e",
                       "once":  false,
-                      "size":  18212
+                      "size":  18794
                   },
                   {
                       "path":  "config/jeg/assets/jeg/lang/en_us.json",
-                      "sha256":  "53cf533c3ef674c8a5a427b8c337e6024786f85e5730ad7a3a5c6ffa05488774",
+                      "sha256":  "65b5e8c0708455737c78be0d71e7ddd302b91f95d57558a755b4efbef02f880f",
                       "once":  false,
-                      "size":  147
+                      "size":  151
                   },
                   {
                       "path":  "config/jeg/assets/jeg/textures/fire_sweeper.png",
@@ -1797,9 +1797,9 @@
                   },
                   {
                       "path":  "config/jeg/assets/jeg/textures/fire_sweeper.png.mcmeta",
-                      "sha256":  "8a10d735aec9450a6491157eed90bde6033005139e76ad684135a13134f10b7b",
+                      "sha256":  "161e927cff017e626ba156b8c4e61c6bb9af5c4ca88dec0df1cb2fbf8bfa6ad1",
                       "once":  false,
-                      "size":  126
+                      "size":  137
                   },
                   {
                       "path":  "config/jeg/assets/jeg/textures/primitive_blowpipe.png",
@@ -1815,21 +1815,21 @@
                   },
                   {
                       "path":  "config/jeg/data/guns/fire_sweeper.json",
-                      "sha256":  "ead4b9d8bdb24b48ff798dd0cc29ae3669e15b5706ae2e99cfb0ff2182eed5cd",
+                      "sha256":  "0289a1ace0d8a525201f328d4d8ff2be46695d8ed69231dbef1dddc6a6e09427",
                       "once":  false,
-                      "size":  1505
+                      "size":  1567
                   },
                   {
                       "path":  "config/jeg/data/guns/primitive_blowpipe.json",
-                      "sha256":  "33393d3eaf64c4d36a3f2ec08b7324a3ddab7c3f28d9b7961ad0bc3970adee1a",
+                      "sha256":  "a4e5b1f148a0542ab2f876e87929fce9dbd26f3b6e196c4c57aeb6d3eb2cc01e",
                       "once":  false,
-                      "size":  1073
+                      "size":  1113
                   },
                   {
                       "path":  "config/jeg/data/guns/vindicator_smg.json",
-                      "sha256":  "a24e5c63177a57acc2604a504a66f4d966b0317e0273858dcba8b7d309f7db53",
+                      "sha256":  "e30a6171b8a6abe1eb5cb1c2c6e0107397c0ace43dc246b023188e85e72122f6",
                       "once":  false,
-                      "size":  1474
+                      "size":  1536
                   },
                   {
                       "path":  "config/jei/blacklist.cfg",
@@ -1845,9 +1845,9 @@
                   },
                   {
                       "path":  "config/jei/ingredient-list-type-sort-order.ini",
-                      "sha256":  "ca6f0515891afed86c30c9d3d8ad1496a7d03de9ea532ab431f2ec1d3968826b",
+                      "sha256":  "39b5426fb7faf645a83c210d457352b05f64859d4b9adb58242c113c2c8e6878",
                       "once":  false,
-                      "size":  72
+                      "size":  74
                   },
                   {
                       "path":  "config/jei/jei-client.ini",
@@ -1875,171 +1875,171 @@
                   },
                   {
                       "path":  "config/jei/recipe-category-sort-order.ini",
-                      "sha256":  "b6fc348e1363655cbbf1b67599b633f5df0854a49541dcacca35fbaa44dbec3e",
+                      "sha256":  "30106f8d35fa52c302e520881e6c2f719a4e6d9a5246fe82a5e63cbfb072d64c",
                       "once":  false,
-                      "size":  1983
+                      "size":  2063
                   },
                   {
                       "path":  "config/jei/world/local/Nuovo_mondo/bookmarks.ini",
-                      "sha256":  "5394b98de111a5978ee388a29d703da80b00fc0e0c5e2ce6c316c1c2e02d50ef",
+                      "sha256":  "0ee79c651a2ed27f0a92dca537b21d70a43ea0d633678654e19541242131c9da",
                       "once":  false,
-                      "size":  55
+                      "size":  56
                   },
                   {
                       "path":  "config/jei/world/server/Server_di_Minecraft_5dc99ead/bookmarks.ini",
-                      "sha256":  "645c076dae144fe96421422fb0ac79ccfd68e74885213dff3bd7bcaf2c715971",
+                      "sha256":  "e33ba8a5b9b3427ab256639c6da23397068e25f7697fe834c304b9d420ca9c29",
                       "once":  false,
-                      "size":  197
+                      "size":  202
                   },
                   {
                       "path":  "config/jei/world/server/Server_di_Minecraft_cab003f1/bookmarks.ini",
-                      "sha256":  "05dcc00317df6d5659d99e0ae0d7a5fd88ea5b159d44baa5bf7748a972b753d3",
+                      "sha256":  "c3a460a819bb71bc6a7ac146d9be19daa96a1a5f1ded99ab9d27eeb2ed4d6061",
                       "once":  false,
-                      "size":  455
+                      "size":  461
                   },
                   {
                       "path":  "config/justzoom/config.txt",
-                      "sha256":  "60cec24e5b28de27af93fa22a02e5f16db865f80f661b85e080f2a4524db7f62",
+                      "sha256":  "7ac0131882fffc596db992d309f81698ba43b1bfd0ec4750944d6b226cb35e72",
                       "once":  false,
-                      "size":  474
+                      "size":  490
                   },
                   {
                       "path":  "config/konkrete/locals/de_de.local",
-                      "sha256":  "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+                      "sha256":  "9cf580b889772edd244b5ea7cf42439bbae7bf2834bd759b819052d8f147e5fd",
                       "once":  false,
-                      "size":  369
+                      "size":  385
                   },
                   {
                       "path":  "config/konkrete/locals/en_us.local",
-                      "sha256":  "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+                      "sha256":  "7e47765e16c56722a24ff7343191913b00ef2c8493b7172c641d61c8b583b0d4",
                       "once":  false,
-                      "size":  426
+                      "size":  445
                   },
                   {
                       "path":  "config/konkrete/locals/pl_pl.local",
-                      "sha256":  "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+                      "sha256":  "29e0e9f6e599f34ce351814cd4bbfa1bbea884122aff4b5072bff105d94f6862",
                       "once":  false,
-                      "size":  313
+                      "size":  328
                   },
                   {
                       "path":  "config/konkrete/locals/pt_br.local",
-                      "sha256":  "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+                      "sha256":  "d53707bca34d3d11ef17642d819a4444550bf5d1c3557d0d8c19c5d47e46bbc4",
                       "once":  false,
-                      "size":  322
+                      "size":  337
                   },
                   {
                       "path":  "config/mcef/mcef.properties",
-                      "sha256":  "22757f836dc79f9062e8958cc6c830d8a46846cb1c10ef4b4dcb6857d0ffa978",
+                      "sha256":  "e2b2cc13b2502c3129e9f8985e4dfa101631bf6cabde6f805454c17f832d877a",
                       "once":  false,
-                      "size":  135
+                      "size":  140
                   },
                   {
                       "path":  "config/Mekanism/additions-client.toml",
-                      "sha256":  "7bf81e79c36e1ff5ceea435f5493000f27821b1c72329ea4298955609c6591c8",
+                      "sha256":  "a05bfc8be3a127696063cf45d705f251d2c04bc9a092f3c01f0464abda1fac57",
                       "once":  false,
-                      "size":  274
+                      "size":  280
                   },
                   {
                       "path":  "config/Mekanism/additions.toml",
-                      "sha256":  "0788522bba20d8e72bdd355a0ea0e11810268956f7dbb0b45781d2bbb79b7347",
+                      "sha256":  "4338312bb3adfdecfa567ccb08b8a303ebc2c2dfa4b203383fd3ed99afac2bb2",
                       "once":  false,
-                      "size":  6270
+                      "size":  6408
                   },
                   {
                       "path":  "config/Mekanism/client.toml",
-                      "sha256":  "524ee2e536cd58b11719b136b98bd018f3f3d87a9cc52eef0a5892c12662d465",
+                      "sha256":  "30a73f0ba89720c9dac8ebdfa2fd6ae7676d80e8ebadb2b5931c9c263483e701",
                       "once":  false,
-                      "size":  4115
+                      "size":  4245
                   },
                   {
                       "path":  "config/Mekanism/common.toml",
-                      "sha256":  "aded0937dff550c18f0656661333ad9f37990cc5d38e6840497cab3ff7a266fc",
+                      "sha256":  "dab6dbae43bb67fd6a10438c0cbf997c70560c6af3493b60330ac9248587905d",
                       "once":  false,
-                      "size":  681
+                      "size":  693
                   },
                   {
                       "path":  "config/Mekanism/gear.toml",
-                      "sha256":  "02d464d81e33020e6ad28e0021829f1727f02821014c251afef14cfc85c99660",
+                      "sha256":  "04a7c6e344d9f60ee95a5ddc4dfeccf7aab98df7120eb7a29d7f7dbb69ca4d08",
                       "once":  false,
-                      "size":  12205
+                      "size":  12489
                   },
                   {
                       "path":  "config/Mekanism/general.toml",
-                      "sha256":  "930408c80a41c9e7e39b2c31f7764b85e61d88b382f8bff3992404585f1d0bc2",
+                      "sha256":  "ed3012efc424ba4ea7555eb9c65eee84cbb7d07d0a74f2f7fef5b3cc2c51f694",
                       "once":  false,
-                      "size":  11041
+                      "size":  11273
                   },
                   {
                       "path":  "config/Mekanism/generator-storage.toml",
-                      "sha256":  "c28e7cc320f69327d5f2affdd2d3cbb85ffee6ba577a75a98618cedd02e564f4",
+                      "sha256":  "db6aa0b38e4dadfe9fae3970599c415d96058e1a47363180d63c647ccd20d084",
                       "once":  false,
-                      "size":  389
+                      "size":  403
                   },
                   {
                       "path":  "config/Mekanism/generators-gear.toml",
-                      "sha256":  "9dfdefd08e85a5089eb6ba33478913e1c96d984e18a5edcf9b5310616fee18c9",
+                      "sha256":  "b3c50755f421aff5ba6b23a9b1aa8dddf9be0d200b363635134db3ee68e11338",
                       "once":  false,
-                      "size":  767
+                      "size":  781
                   },
                   {
                       "path":  "config/Mekanism/generators.toml",
-                      "sha256":  "dc3b90dacbb87a5ac278007bf806e63100e47f419492a5a390a55471f6724c08",
+                      "sha256":  "c861d7b1b9438b6950d503a80e9e16cf64b010bf2688d2c3e003410590682560",
                       "once":  false,
-                      "size":  7044
+                      "size":  7193
                   },
                   {
                       "path":  "config/Mekanism/machine-storage.toml",
-                      "sha256":  "5762af5926b2312aaff9bda0cbbb44748d6ad2ed1b12a5d19af28407bc604dc6",
+                      "sha256":  "ade378e93c7dd046ee9317c424a3675784034ef23602b9d25a57c8a048face5f",
                       "once":  false,
-                      "size":  2348
+                      "size":  2424
                   },
                   {
                       "path":  "config/Mekanism/machine-usage.toml",
-                      "sha256":  "331ae2bd0031e3d8c65f3572f17bf81af186363c4a4a630e4184f6d427d2f136",
+                      "sha256":  "9b8b7a7532f4f5bfaa17613677a904a48b1503db660e22084949192b1945eb86",
                       "once":  false,
-                      "size":  2539
+                      "size":  2614
                   },
                   {
                       "path":  "config/Mekanism/tiers.toml",
-                      "sha256":  "b5fb9d3325f776146cd6d891be2ff373a406494fe51e4cf2551b360241210d26",
+                      "sha256":  "c9bac7a9ff512efaf495ce5d89299a5c6533cecae11d3c87c9bc2a28595db77e",
                       "once":  false,
-                      "size":  9015
+                      "size":  9279
                   },
                   {
                       "path":  "config/Mekanism/tools-client.toml",
-                      "sha256":  "b12d9391ca6da6d45a0247daac7dd21a1400f42fccc51edd180e18459ad5fe00",
+                      "sha256":  "adf9f43d65b332f8212d72dd847cdd19ff3f92bd80dd072011adcc53758db747",
                       "once":  false,
-                      "size":  174
+                      "size":  180
                   },
                   {
                       "path":  "config/Mekanism/tools.toml",
-                      "sha256":  "6aa5e61a9b6280310e85e127431166fcb4d3826cf2b7ea07d2b42b75c25ab87c",
+                      "sha256":  "6e82f7c5434e96eb928c6c9f1c3d4108dd07debc48001c4fa7a38689edcca032",
                       "once":  false,
-                      "size":  30299
+                      "size":  31070
                   },
                   {
                       "path":  "config/Mekanism/world.toml",
-                      "sha256":  "54971d6ffd03a2bd66d146d77f421e07133752f7b9c2f66a0a8196c7a85bac50",
+                      "sha256":  "544ac46d6c31a23a028f6b871ff187fdf13aae57050c5d8b7dac3be5e10353b3",
                       "once":  false,
-                      "size":  17862
+                      "size":  18322
                   },
                   {
                       "path":  "config/Obscuria/aquamirae-client.toml",
-                      "sha256":  "a82e105f1155d34148b19625e7d169ad92673caafbb50c9b1edb0bcfc5191b88",
+                      "sha256":  "c5913558bc43a17ff28e21853f6be9713f3d0a6416235e11aaedb8a3998bcb4d",
                       "once":  false,
-                      "size":  189
+                      "size":  200
                   },
                   {
                       "path":  "config/Obscuria/aquamirae-common.toml",
-                      "sha256":  "88cd0206156a36bb7ffb5e22bfe71a1031eed7027fb70b3c3eabd049d7858ae1",
+                      "sha256":  "fe135b7cc515c930335ff2e2a279f2f5b50851746e13bc2aded629abc38e04d0",
                       "once":  false,
-                      "size":  2065
+                      "size":  2170
                   },
                   {
                       "path":  "config/Obscuria/obscure-api-client.toml",
-                      "sha256":  "caa611136fde92cc4eb9f63fde2bab6678c9309e737fedd9adcf139b4b8d05db",
+                      "sha256":  "90b60c01677fe0899e1b1fbf0deb8aba975f3540a0abb979a1c9aa7760930fe2",
                       "once":  false,
-                      "size":  344
+                      "size":  359
                   },
                   {
                       "path":  "config/Obscuria/Data/aquamirae_cover.png",
@@ -2061,51 +2061,51 @@
                   },
                   {
                       "path":  "config/otyacraftengine/client.toml",
-                      "sha256":  "296562f31498578124f780431b54e94e722a5a4d9dd3c1453630dd23391ad700",
+                      "sha256":  "dd70197a6f872be441ef1fa2c1ac607fad645ef434484ad6d99636a570b70756",
                       "once":  false,
-                      "size":  86
+                      "size":  89
                   },
                   {
                       "path":  "config/otyacraftengine/client_debug.toml",
-                      "sha256":  "8f050b5467f258f0b89aac2ccb8149607d9d194ecc0836e701ee1be796084541",
+                      "sha256":  "ca9c4e9f7e190eafa2a941177ae274dc17c5edaec6014f3b66fff2a4ef93d2c1",
                       "once":  false,
-                      "size":  101
+                      "size":  105
                   },
                   {
                       "path":  "config/physicsmod/physics_animations_client_config.json",
-                      "sha256":  "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b",
+                      "sha256":  "995699b91eadd940756cf3764922983b27226c61dd1cbc647dad2ab4e310c0b7",
                       "once":  false,
-                      "size":  2704
+                      "size":  2821
                   },
                   {
                       "path":  "config/physicsmod/physics_blocks_client_config.json",
-                      "sha256":  "2fe9f5960b7e72a3da3ad64d63c286de959f5dd8294fbdd187b30c178a625b00",
+                      "sha256":  "f30d1b471c4597d80352ba6165806a07cd9ce7791029a9506215446100d678db",
                       "once":  false,
-                      "size":  187768
+                      "size":  195795
                   },
                   {
                       "path":  "config/physicsmod/physics_client_config.json",
-                      "sha256":  "80b6c77d25996c98b9d9f131bcf9835c111ee7559aba9d0c50cb845130efcb44",
+                      "sha256":  "cc89c8cdb36bd108efdb4a25bd0e284faec9c46355bb5a5e7c7131af4021d233",
                       "once":  false,
-                      "size":  3586
+                      "size":  3718
                   },
                   {
                       "path":  "config/physicsmod/physics_cloth_config.json",
-                      "sha256":  "c004242898b912a2ad1a836a4e017d921c1e8660180565ce56dc4cadc027e939",
+                      "sha256":  "0586b523814ae1610c4aed7f91160150737020b6d9645845657afe4860c45721",
                       "once":  false,
-                      "size":  49
+                      "size":  52
                   },
                   {
                       "path":  "config/physicsmod/physics_mobs_client_config.json",
-                      "sha256":  "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14",
+                      "sha256":  "8573ae2afa100c63bb1775a5e7adb2f0e089c7e8ffe2810c6ba4e9cb59053c00",
                       "once":  false,
-                      "size":  26
+                      "size":  28
                   },
                   {
                       "path":  "config/physicsmod/physics_server_config.json",
-                      "sha256":  "c91d77ef5a8bacc273b6c85d39e2767e2b43fceadc0dc6ddb5c6eb2c4f7835f6",
+                      "sha256":  "e18b91617444c20665eb1816d96228fc6f9d5fd07fdc883a9e9e73a3880ad658",
                       "once":  false,
-                      "size":  98
+                      "size":  103
                   },
                   {
                       "path":  "config/pickupnotifier/pickupnotifier-client.toml",
@@ -2115,195 +2115,195 @@
                   },
                   {
                       "path":  "config/reborncore/misc.json",
-                      "sha256":  "01b9aa50c5ea6978d65bef4bfea6247a550d1d85e716b408c84a698ee2a25576",
+                      "sha256":  "a188a73a84ce3f206c8e5de22d9183f3cdbde69e97a5da91b962ad5173e0aa4c",
                       "once":  false,
-                      "size":  134
+                      "size":  141
                   },
                   {
                       "path":  "config/relics/relics/amphibian_boot.yaml",
-                      "sha256":  "39b8a55d06987657fc8ef15c6c85ba048544c1b05396312b5f2753d583f3738e",
+                      "sha256":  "e761b8f1391873363e5f5a59ae20f32a72369961732d3a2300d28cb5ca44f347",
                       "once":  false,
-                      "size":  8786
+                      "size":  8914
                   },
                   {
                       "path":  "config/relics/relics/aqua_walker.yaml",
-                      "sha256":  "68e3e439dcb721259e3985ce4515ef5260a166212ba63b569f6b648363090dc2",
+                      "sha256":  "4cd8a7f3364c5405c09255f360ea1e736fa3ad87b730c1c16a535e1ad3f55f32",
                       "once":  false,
-                      "size":  2397
+                      "size":  2437
                   },
                   {
                       "path":  "config/relics/relics/arrow_quiver.yaml",
-                      "sha256":  "524af2f5d9f1a57983936ab75d2042e53d49b657e40114d91b946f3ca78f2bf9",
+                      "sha256":  "4424e40a86ee27eae8d8ba38a6d0327a0041f395c1b98658b40ea2f34b643dff",
                       "once":  false,
-                      "size":  13309
+                      "size":  13498
                   },
                   {
                       "path":  "config/relics/relics/bastion_ring.yaml",
-                      "sha256":  "78cc299a4c492321823721997f8b90ca5672de63976d267885e084ba5f761ac2",
+                      "sha256":  "90a005863936f382873f27a5da20ef217c055f3d12d3da247326d6476d6b61e8",
                       "once":  false,
-                      "size":  2660
+                      "size":  2708
                   },
                   {
                       "path":  "config/relics/relics/blazing_flask.yaml",
-                      "sha256":  "8af42f810a66263852c16f8749376346080a5fecef9488bb3bc12912c08cc1a4",
+                      "sha256":  "53900bd8470eef8f7c98afbb3ddfdbf5b029758ba35280a7dae42f78f54fc305",
                       "once":  false,
-                      "size":  5314
+                      "size":  5391
                   },
                   {
                       "path":  "config/relics/relics/chorus_inhibitor.yaml",
-                      "sha256":  "8d0e4663ac5e07ed77f0d5c68d06dc8710d4981b2e0a9dd4e224f7217e341153",
+                      "sha256":  "8cfdc4718a8c632cd2b57a3cb1075bcf83adc5532565b68d814e6ff477047551",
                       "once":  false,
-                      "size":  3748
+                      "size":  3805
                   },
                   {
                       "path":  "config/relics/relics/drowned_belt.yaml",
-                      "sha256":  "b84c6b0e5f89432ac73cd9c294ea44f58927f5f80bc96f71348f5cc824e7f03d",
+                      "sha256":  "80c3feeff9e4e57b93d54a05b46952eafa6db34072d69323987e43c9c3aafc0d",
                       "once":  false,
-                      "size":  9064
+                      "size":  9200
                   },
                   {
                       "path":  "config/relics/relics/elytra_booster.yaml",
-                      "sha256":  "21de4aa1b35eb1f6845f78ba0352dc4fd388b79e9ea1279f5c7524fd14282f01",
+                      "sha256":  "7dc10f58deff5ea6ed9d803b18fa3137c4994fb4c634e6ddaac736b06bf19593",
                       "once":  false,
-                      "size":  3755
+                      "size":  3812
                   },
                   {
                       "path":  "config/relics/relics/enders_hand.yaml",
-                      "sha256":  "0e64ec0885a1286814d49af57c791a9b4369382c53a33350828ec8057de2ff1c",
+                      "sha256":  "e97e630ad61da4a0fabcbc143e789db456324d4783393df8a6c87d7570037f34",
                       "once":  false,
-                      "size":  2672
+                      "size":  2720
                   },
                   {
                       "path":  "config/relics/relics/holy_locket.yaml",
-                      "sha256":  "3a5b2a427b9e0de593688b952ad1d0856c1c0fe2076997b65c515badacd9050f",
+                      "sha256":  "fd190d32ee4df971dfa0b0861360730550aeef292e34185b33f3bbefae0c51a6",
                       "once":  false,
-                      "size":  11568
+                      "size":  11731
                   },
                   {
                       "path":  "config/relics/relics/horse_flute.yaml",
-                      "sha256":  "03f0644ebcfbe433139f9aaaf004357c87c249eea7bbd38451984a4f5a59e961",
+                      "sha256":  "348e6dd38cf14adb95987be4ac392455b380decf0dd7ae7267b348b5a99bce5a",
                       "once":  false,
-                      "size":  2850
+                      "size":  2901
                   },
                   {
                       "path":  "config/relics/relics/hunter_belt.yaml",
-                      "sha256":  "bc79e132db585506ba69baf0849a6a5aec9e8bd86951f5f5a2fcab28c9ca761e",
+                      "sha256":  "07dd2bd8ac6573ec17a0e4f4c8e1d5ae85696efaae5f59ce1388b648219a5376",
                       "once":  false,
-                      "size":  4065
+                      "size":  4130
                   },
                   {
                       "path":  "config/relics/relics/ice_breaker.yaml",
-                      "sha256":  "ff60615f0d0f7208f04f9b7f2fc07fe350b2a383eb71b3798df722d6105cb1cf",
+                      "sha256":  "c64b654f3c630cdd833256fb2636131ccd7a9ef2f0dd8bf24c3a7a589d556208",
                       "once":  false,
-                      "size":  5641
+                      "size":  5726
                   },
                   {
                       "path":  "config/relics/relics/ice_skates.yaml",
-                      "sha256":  "92400db4163b2cddd59104b0dca35865b9dd9ac30c1b7973aa9e2adce67342ea",
+                      "sha256":  "1354e25f7932af3a16b48dacd9fed845204644b18ce26ad2c506b42bcd9ff235",
                       "once":  false,
-                      "size":  5646
+                      "size":  5731
                   },
                   {
                       "path":  "config/relics/relics/infinity_ham.yaml",
-                      "sha256":  "d8d96d73fa32983adefd3d4d5cf73585237f7fd458108c347689692840a7d186",
+                      "sha256":  "2c7fef428f112ec79ac0048e6dcf8a5b71ab26a7f4fb56f98156ca7e59467196",
                       "once":  false,
-                      "size":  4079
+                      "size":  4144
                   },
                   {
                       "path":  "config/relics/relics/jellyfish_necklace.yaml",
-                      "sha256":  "f7d63686df01246598f33725ed7a347a6387653b21cee29882b4424465994744",
+                      "sha256":  "96be39ccb6239508637f6c99bbe74c66fdc0fdf899e98106a81509b5996727fe",
                       "once":  false,
-                      "size":  4503
+                      "size":  4578
                   },
                   {
                       "path":  "config/relics/relics/leather_belt.yaml",
-                      "sha256":  "ff08f2a3ffed4ac5b4e3282d4087055a15d58e722a004e9efa6919fc560bb01d",
+                      "sha256":  "a9b9ac4b023f65deb02d142b3f5d8fa60f0db92a9cc05f298919ef8e6cea512c",
                       "once":  false,
-                      "size":  2306
+                      "size":  2345
                   },
                   {
                       "path":  "config/relics/relics/magic_mirror.yaml",
-                      "sha256":  "b2f48329c46e363dcf406824d3819de86a4abc9d30e50b8f647738cc2416f06c",
+                      "sha256":  "90d41003975b69caea44fc58174ed96922be361d30891c54b9eca27e867212b4",
                       "once":  false,
-                      "size":  3897
+                      "size":  3956
                   },
                   {
                       "path":  "config/relics/relics/magma_walker.yaml",
-                      "sha256":  "91495c617e65d40cb38610f300374d6ddce426a4cb32f7731280a493fb1fd105",
+                      "sha256":  "9f33ed13ff1f1042e95fdaab53115fcae84b53b19c2860f45d63a6ad8ec165c3",
                       "once":  false,
-                      "size":  2815
+                      "size":  2865
                   },
                   {
                       "path":  "config/relics/relics/midnight_robe.yaml",
-                      "sha256":  "2dc72fd64caeb846661359085664b578908658104f5674f21ca6c727659eae65",
+                      "sha256":  "0c7582939053cd26b4fe4646e0d4bee021e0980ba955b33178da8e451a4cbcee",
                       "once":  false,
-                      "size":  7055
+                      "size":  7158
                   },
                   {
                       "path":  "config/relics/relics/rage_glove.yaml",
-                      "sha256":  "a882a417d0654ec75f7ad6d69022a0b39de0d1214f58a3e7cf3a479d388e68aa",
+                      "sha256":  "26bc24ca3b638773b4c242e5eebe5256e254c8b71736850afc995a54a5e4c9cf",
                       "once":  false,
-                      "size":  14617
+                      "size":  14818
                   },
                   {
                       "path":  "config/relics/relics/reflection_necklace.yaml",
-                      "sha256":  "831de8669d3a87ac0c674a564e854ed76d2159831a083942ae5bbd894f372108",
+                      "sha256":  "8b7f995089f3acd08f7b91206fc208f13d1a0d6030fb4dadcd5e9c1fe151a301",
                       "once":  false,
-                      "size":  5332
+                      "size":  5409
                   },
                   {
                       "path":  "config/relics/relics/roller_skates.yaml",
-                      "sha256":  "cf23559b6acead1187cb717a5c6baec8282022e04593cce0dcbf7b048e43f442",
+                      "sha256":  "20844b910a1a484ab0851cceef471e68eb863758a8230cbe986fdbc7dc9ba97d",
                       "once":  false,
-                      "size":  3945
+                      "size":  4005
                   },
                   {
                       "path":  "config/relics/relics/shadow_glaive.yaml",
-                      "sha256":  "b2c7ded48d76878f5bf7ea69acca460dd46e7460c942e64facafe2128d171de1",
+                      "sha256":  "4ee1b414294282dabed7ecd4ef4742ca8378f51e0e8f50153e5bd77c0037c181",
                       "once":  false,
-                      "size":  9949
+                      "size":  10089
                   },
                   {
                       "path":  "config/relics/relics/space_dissector.yaml",
-                      "sha256":  "95b5c8774dc1effb0aed7feca6f02f6a9212c6a405b8d6d7fdf3a9dbd9125417",
+                      "sha256":  "fd2314e9abc13d15810152f76906e6d377693d67fdf270275ccb3f3b8b9e04c4",
                       "once":  false,
-                      "size":  3902
+                      "size":  3961
                   },
                   {
                       "path":  "config/relics/relics/spatial_sign.yaml",
-                      "sha256":  "79e5e1a2d63e4677142d3254c578bb473f1f5b04bf9c13becfbfb56813f44f8e",
+                      "sha256":  "d169cd53879356f29492e4603c35df5c4587c619add876d8dc4b495ae2140db4",
                       "once":  false,
-                      "size":  2448
+                      "size":  2489
                   },
                   {
                       "path":  "config/relics/relics/spore_sack.yaml",
-                      "sha256":  "1a31566828ba46d2019b9316f29a440da72eb3ce084c3013398ad734d24b926f",
+                      "sha256":  "4e64b36ef7f09921e0307a8596d175d60b41ac11d68a5a2f30601fb777835650",
                       "once":  false,
-                      "size":  16198
+                      "size":  16423
                   },
                   {
                       "path":  "config/relics/relics/wool_mitten.yaml",
-                      "sha256":  "2dc50e02a423d5c2b7b926bc03346abd1cba2bba63875b3f51747d88c3e5fd90",
+                      "sha256":  "f6db05d578dbadb5886b4c32d00b42a9a41a764622bce51ae7656a1cc460e3a8",
                       "once":  false,
-                      "size":  6746
+                      "size":  6841
                   },
                   {
                       "path":  "config/roughlyenoughitems/collapsible.json5",
-                      "sha256":  "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919",
+                      "sha256":  "ea503118f4e7ba4af0fd6baabc6ee97f74e3b75d38f1eb57b55fb66491af8e27",
                       "once":  false,
-                      "size":  46
+                      "size":  49
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "2ba6ca61dcc6e9df7fc827cecc6b85b3422a25de2ddc2ae04d5276790171cb2e",
+                      "sha256":  "65f72ef69769d82bca5ea6e77466419b4d3f7a77b107ac04f77ea376ec474ba1",
                       "once":  false,
-                      "size":  5609
+                      "size":  5786
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
-                      "sha256":  "73e6b93a6057f4a070f940ce75885016e2838f77588a66f8c92bb1cab4fcd31b",
+                      "sha256":  "9f7e79609422e995fb7bd49ee1bef3c2c422dbd6b2a539eecf7a4d53c82e6992",
                       "once":  false,
-                      "size":  295
+                      "size":  302
                   },
                   {
                       "path":  "config/roughlyenoughitems/hints.json",
@@ -2349,117 +2349,117 @@
                   },
                   {
                       "path":  "config/spark/activity.json",
-                      "sha256":  "1e09f07cb20563c37dc8604ead164db35170dc6fb0e223e46040c682de1aabc9",
+                      "sha256":  "09944d4ce6949f3a007967961923751dcb9841c55209fc28b8b2f578ff89701c",
                       "once":  false,
-                      "size":  572
+                      "size":  599
                   },
                   {
                       "path":  "config/spark/config.json",
-                      "sha256":  "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42",
+                      "sha256":  "b071042d4a9730310e33e26d1d9a28f2012c52aa512b7c5110b496dcd8fd17aa",
                       "once":  false,
-                      "size":  117
+                      "size":  120
                   },
                   {
                       "path":  "config/techreborn/generators.json",
-                      "sha256":  "734be3731d1972aef664fd75644dfbb8e4a376a8888420fc2560b65abb2700d7",
+                      "sha256":  "472b0cd55e7d953e77fc30b9ba8c94e8fca34b8fd47f1f192bff4b5c87c8688d",
                       "once":  false,
-                      "size":  5756
+                      "size":  5961
                   },
                   {
                       "path":  "config/techreborn/items.json",
-                      "sha256":  "efa37dc19eaf1c624b3a7c713af63a2c9afdbd70bee670e4d62be64282ba1d40",
+                      "sha256":  "b68b81319c8ce0c2317dd057d0a9e183f70b8cc91d7dadda349bcff4663a4d4c",
                       "once":  false,
-                      "size":  5906
+                      "size":  6123
                   },
                   {
                       "path":  "config/techreborn/machines.json",
-                      "sha256":  "11a8f48a32c664c8c5a8137df7d89d7afbd4ef4934de3f37e8dd5f1c5e23b83a",
+                      "sha256":  "f2d3309c855651cf77ecb616ef53d2de91899239f0410cfbf745f80ba1d3a537",
                       "once":  false,
-                      "size":  14697
+                      "size":  15239
                   },
                   {
                       "path":  "config/techreborn/misc.json",
-                      "sha256":  "3a3bf43cad738606cc857a596f710ffe05053495ddf807ecc5e41331a73c03e0",
+                      "sha256":  "0bfefb144d73f0ba5d2325182658c7e947399151e706c11dc8dd697a8c3a8a59",
                       "once":  false,
-                      "size":  1761
+                      "size":  1822
                   },
                   {
                       "path":  "config/techreborn/world.json",
-                      "sha256":  "a3bc675a685240812b13c23d56cf524944543e981260ad498b99bed971469e53",
+                      "sha256":  "e5391ff6794328fb20ab7af51e81583130733eafbe0f18113a89aa0b0e13216e",
                       "once":  false,
-                      "size":  4046
+                      "size":  4147
                   },
                   {
                       "path":  "config/valkyrienskies/vs_client.json",
-                      "sha256":  "744609ee3e824e694dbc68125a2f6c1933f98d321755019e3a462a5de67fde44",
+                      "sha256":  "cf01bce7e3e7e4e2b132b2864a526ee301269c35eca44a690cf7f9f54760ead4",
                       "once":  false,
-                      "size":  267
+                      "size":  278
                   },
                   {
                       "path":  "config/valkyrienskies/vs_clockwork_client.json",
-                      "sha256":  "11fd0b7431f5c5a1a37a1f7b5a2b91c470daca21a92daba06e368ecfabdf00e2",
+                      "sha256":  "758e008bd83ca2cfad311897ee0d4944170429112b097287dbbb7e95990b692d",
                       "once":  false,
-                      "size":  59
+                      "size":  61
                   },
                   {
                       "path":  "config/valkyrienskies/vs_clockwork_server.json",
-                      "sha256":  "96e318c600d9ca728ac0eaacb0d40ef5938caab5d4c8fb82130f53d52ca68a83",
+                      "sha256":  "319eaec2a18e3e4b1cf170ccd93a59c6b3e8803109ba645833952deda2707bc6",
                       "once":  false,
-                      "size":  339
+                      "size":  343
                   },
                   {
                       "path":  "config/valkyrienskies/vs_common.json",
-                      "sha256":  "b79fd15ca7286dcfa731ca333f6cffe160a46225e41479cc968dd5d8e24df3a8",
+                      "sha256":  "80b0161bbd450eb2e8c64fcd3e643694c052bf43e9e79a985fb639b7a4782466",
                       "once":  false,
-                      "size":  102
+                      "size":  107
                   },
                   {
                       "path":  "config/valkyrienskies/vs_core_server.json",
-                      "sha256":  "d5b844f63b888a7ca8bec51f647727fc0ceb44df540d80865ca62e5ecf67327a",
+                      "sha256":  "4cce977a70bc4b21f61cd1c81e802971ac0d016e991574d41867222665b78455",
                       "once":  false,
-                      "size":  569
+                      "size":  591
                   },
                   {
                       "path":  "config/valkyrienskies/vs_server.json",
-                      "sha256":  "9c4d0dd79bbe40026d9994d5d4c28ee083bb4023f7ab6bc6c8b1a5dfc1ec5aa8",
+                      "sha256":  "0b854f9382b87d345abf6be7128218f561f6db875862142e031394e3854ca3d6",
                       "once":  false,
-                      "size":  615
+                      "size":  636
                   },
                   {
                       "path":  "config/valkyrienskies/schemas/vs_client.schema.json",
-                      "sha256":  "18ab8a80bb24a7a448e9689f6ec93921f47072b62271ae0c6d7fdf2da4a12078",
+                      "sha256":  "48356047aa354b0e9aca95954700dbf09530fa0e1a147a10d29fc4ca96c353c0",
                       "once":  false,
-                      "size":  1255
+                      "size":  1297
                   },
                   {
                       "path":  "config/valkyrienskies/schemas/vs_clockwork_client.schema.json",
-                      "sha256":  "1401463b94a0af5d1b62b6729690f96d6c5e01f6190830240124f8874812a90c",
+                      "sha256":  "c335d926a3d773484252e6460257f513e58bb62e470fe059a14a69a09b90d5bd",
                       "once":  false,
-                      "size":  119
+                      "size":  123
                   },
                   {
                       "path":  "config/valkyrienskies/schemas/vs_clockwork_server.schema.json",
-                      "sha256":  "d404a5b0b1a786ea22df049e30c3098c41593f546570166cb497444419dee710",
+                      "sha256":  "966ead7c793e4c459533ac838161ba0e28103e86ba18d38241482e3e0425d2cf",
                       "once":  false,
-                      "size":  581
+                      "size":  603
                   },
                   {
                       "path":  "config/valkyrienskies/schemas/vs_common.schema.json",
-                      "sha256":  "f5ba425afee7c543f9e010c34c451817bb9c745ffd45106fac5544e9eacadf96",
+                      "sha256":  "6d80484f70f383c02f4c8318d54056767c9a3fe0a22e3fa03ff1f30370a2ce95",
                       "once":  false,
-                      "size":  586
+                      "size":  606
                   },
                   {
                       "path":  "config/valkyrienskies/schemas/vs_core_server.schema.json",
-                      "sha256":  "a09eb410f6b56c65904aaf5d75d74ebf67d8ed96f9d992f322e8e03fd86b1f6d",
+                      "sha256":  "469995a2897fdb65b825f4eb6cd550f35d3ba28c9a796dd91de0a7f8d436fb48",
                       "once":  false,
-                      "size":  3548
+                      "size":  3648
                   },
                   {
                       "path":  "config/valkyrienskies/schemas/vs_server.schema.json",
-                      "sha256":  "0775d17008cbfd9fcd097f2dcf8aa3062145b2dc53dcb3bab0456e7729fea5c0",
+                      "sha256":  "7d9ede889faa1dca89dda84cdbdf8aeb515124d646b15cf78db0dfdbafddd91c",
                       "once":  false,
-                      "size":  3685
+                      "size":  3771
                   },
                   {
                       "path":  "data/fabricDefaultResourcePacks.dat",
@@ -2511,21 +2511,21 @@
                   },
                   {
                       "path":  "fancymenu_data/last_world.fmdata",
-                      "sha256":  "ae54f8d6c0c8d7cf8cb472660f6e5acaaa9e77d1cf24354d57ed0ca606d91bed",
+                      "sha256":  "d91c5b7421821ff7e25fec2dd547f8c3413d4ed7d53664bd5f5269632a4cc5f4",
                       "once":  false,
-                      "size":  93
+                      "size":  100
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_leveling.json",
-                      "sha256":  "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+                      "sha256":  "ab6b2cbcf1aa5b002b696e2b3c17a38f199b02ab0850b218c8b213cace3e2c81",
                       "once":  false,
-                      "size":  1619
+                      "size":  1700
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_save.json",
-                      "sha256":  "83e6f328e1e3cd1c451f8251304ae0cdb1a9d92bf1236a1a5acb852db4509027",
+                      "sha256":  "20bd18d207e90f20665bfc6c10aa3f5bf8fd20bfd83ce4f0eb2453f99e129284",
                       "once":  false,
-                      "size":  260
+                      "size":  273
                   },
                   {
                       "path":  "immersive_paintings_cache/16333659-af6a-4542-bf80-25eba03e7123.png",
@@ -2685,15 +2685,15 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/DISCLAIMER",
-                      "sha256":  "d83d865ecf5cdbc8fe11c279a7f00876027f0f1eb8b521c76075480496db4ffb",
+                      "sha256":  "b65def8650fda7dcd0abb9339b4854c7f755790080b5019e54ddbae07c4417ee",
                       "once":  false,
-                      "size":  2765
+                      "size":  2812
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/readme.txt",
-                      "sha256":  "91a2ee7783a44da2804a5db7853f03e478c615d79b52ebbd8d15cb58750f197f",
+                      "sha256":  "3c4f0dc2aa16af0e3e575e9fb20c3f29d7081aea46fce3d40a33d11f3e688f71",
                       "once":  false,
-                      "size":  863
+                      "size":  882
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/release",
@@ -2703,9 +2703,9 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/Welcome.html",
-                      "sha256":  "c8ebf772ea7d874dd67df462d8be9047d1fb4c5993b39f308478016a0e7a1bcb",
+                      "sha256":  "1333602465c30693bc44e7c0e03ed57f41f798da6e6e1c16be225e8582fbc029",
                       "once":  false,
-                      "size":  1213
+                      "size":  1235
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-console-l1-1-0.dll",
@@ -2985,9 +2985,9 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/debug.log",
-                      "sha256":  "87815c3b747daef500915981b3c74a6ddc16dc06cd04fd577149c160c9087dfc",
+                      "sha256":  "893069b722828da5deedd752bf965fdbe67f45c6377c130f2410f4b4b94359fb",
                       "once":  false,
-                      "size":  380903
+                      "size":  382551
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/dt_socket.dll",
@@ -3315,45 +3315,45 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/logging.properties",
-                      "sha256":  "b62d2733ab99556b108a1951d894c5a8d76b1ac7a00c02c388f9eb9be046c56f",
+                      "sha256":  "a1ded732dc66c271e2d42dd54c13623e1400209c71ab7ea5e40d82692ca75540",
                       "once":  false,
-                      "size":  2732
+                      "size":  2795
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/net.properties",
-                      "sha256":  "56dd1f6095c189c1052f6baa32e457efc09de4832e19cdb82bb236dc8abfee9f",
+                      "sha256":  "9d66f9ce24af0f4ccdbc9d360c4947ba141fba2ea0e06457f461ac85b3391d5a",
                       "once":  false,
-                      "size":  7504
+                      "size":  7672
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/sound.properties",
-                      "sha256":  "299c2360b6155eb28990ec49cd21753f97e43442fe8fab03e04f3e213df43a66",
+                      "sha256":  "633015ad63728dfe7a51bf26e55b766dd3e935f1fcccffa8054bf6e158ea89b2",
                       "once":  false,
-                      "size":  1210
+                      "size":  1249
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/management/jmxremote.access",
-                      "sha256":  "0c25d26ee212ca1e8c33f67c3c460d43fe849c3a1d23dbe341148517602b280c",
+                      "sha256":  "39bffa596df3ea84b5088667dcece4fa014cf00c3110e6db4e8406abeaa6e7ec",
                       "once":  false,
-                      "size":  3997
+                      "size":  4076
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/management/jmxremote.password.template",
-                      "sha256":  "0273b6a6b9e20e6ce54c5aee70164028e0395063b2b7d39060a40b6495543dbf",
+                      "sha256":  "5d374f4aa9232e6dece88fbcdd5dac76acafb377557074869b242ca20f5d5646",
                       "once":  false,
-                      "size":  5690
+                      "size":  5804
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/management/management.properties",
-                      "sha256":  "f80096ec028dcb71625c398ec16d12023cafc6a1c055aceaed07d02e8d56f637",
+                      "sha256":  "aa51ad6776c604ec500319548a71c1d6ec08b3e698bcb64421291f3e285e711a",
                       "once":  false,
-                      "size":  14410
+                      "size":  14714
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/java.policy",
-                      "sha256":  "1224c11b69032c80e1493416641c82a37e558913a41f959f83ab2f96f097d6c0",
+                      "sha256":  "030d3bc839b5ff58e2b88256712f13d61059f0840af66a4a42462762311d18b0",
                       "once":  false,
-                      "size":  2293
+                      "size":  2339
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/java.security",
@@ -3363,39 +3363,39 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/policy/README.txt",
-                      "sha256":  "6da0747334b0fea7592fd92614b2bbc8b126535e129b1fee483774d914e98eb5",
+                      "sha256":  "6a65f0d6e90876e85c4c95a909325145b3063287af5b4ed6e4c6ff9f85891147",
                       "once":  false,
-                      "size":  2390
+                      "size":  2444
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/policy/limited/default_local.policy",
-                      "sha256":  "2b2627548e61316150d47ffc3e6cad465ca05b3cccd4785eb7d21aa7baa0f441",
+                      "sha256":  "49b404ab42f83a3ae13185b3db6611fe76d5ad306f6393d7ff1c93a1801a6b32",
                       "once":  false,
-                      "size":  647
+                      "size":  661
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/policy/limited/default_US_export.policy",
-                      "sha256":  "758b930a526fc670ab7537f8c26321527050a31f5f42149a2dda623c56a0a1a9",
+                      "sha256":  "0c5dae32dc4a68e3e2d4aaa54d074077dc0a138745f31ee89ce3eb6d79b2eb23",
                       "once":  false,
-                      "size":  146
+                      "size":  152
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/policy/limited/exempt_local.policy",
-                      "sha256":  "8c3d7648abcd95a272ce12db870082937f4d7f6878d730d83cb7fbb31eb8b2c9",
+                      "sha256":  "205ed2c34d89876a764194abbdbb3819742a19d51e50a6e63d2007a91792678d",
                       "once":  false,
-                      "size":  566
+                      "size":  579
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/policy/unlimited/default_local.policy",
-                      "sha256":  "8d8a318e6d90dfd7e26612d2b6385aa704f686ca6134c551f8928418d92b851a",
+                      "sha256":  "9727dbdef29be72a9b2707264feacc463eb04c5b9fb4d9231494a2b19bca57a8",
                       "once":  false,
-                      "size":  193
+                      "size":  199
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/policy/unlimited/default_US_export.policy",
-                      "sha256":  "758b930a526fc670ab7537f8c26321527050a31f5f42149a2dda623c56a0a1a9",
+                      "sha256":  "0c5dae32dc4a68e3e2d4aaa54d074077dc0a138745f31ee89ce3eb6d79b2eb23",
                       "once":  false,
-                      "size":  146
+                      "size":  152
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/com.azul.crs.client/ADDITIONAL_LICENSE_INFO",
@@ -3411,9 +3411,9 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/com.azul.crs.client/crs-asm.md",
-                      "sha256":  "db966057af84b64a34949ef5b08ed73c285149e7e32689821d4816d6c45f522f",
+                      "sha256":  "f0a1716452ce33dbcd467a66ac975ddc1fd9a9515fec6aa94b3abe7017cd61e6",
                       "once":  false,
-                      "size":  1578
+                      "size":  1610
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/com.azul.crs.client/LICENSE",
@@ -3441,81 +3441,81 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/ADDITIONAL_LICENSE_INFO",
-                      "sha256":  "a69bce275ba7a3570af6579cb0f55682cd75fedfcd49e0e8e9022270c447c916",
+                      "sha256":  "2be95e456091b5b296d604e845fdf07e5c7df283cea0190479ebe41e2c47e842",
                       "once":  false,
-                      "size":  2114
+                      "size":  2151
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/aes.md",
-                      "sha256":  "45c6d4da48325edfbff3dcf71c704e504c057904435ed23c6d57046d551eb69d",
+                      "sha256":  "468122144938251936f40e3b53b01aef0fa37573865e2b37a9ef74a4e9010ea7",
                       "once":  false,
-                      "size":  1444
+                      "size":  1480
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/asm.md",
-                      "sha256":  "1ff912740e84e024711def5fa482ffbb46eff64559760c467352dfa7c39a3307",
+                      "sha256":  "007d6b3332cd4c35f4e1896daef77bfdbc07e1076fd17dea6dac3aff376d12f1",
                       "once":  false,
-                      "size":  1584
+                      "size":  1620
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/ASSEMBLY_EXCEPTION",
-                      "sha256":  "a44eb7b5caf5534c6ef536b21edb40b4d6babf91bf97d9d45596868618b2c6fb",
+                      "sha256":  "ffd732b027f8e74c013b0e18a31f326caae2d8b46e7918da9181505af27e29c4",
                       "once":  false,
-                      "size":  1522
+                      "size":  1549
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/c-libutl.md",
-                      "sha256":  "bef40679922d6fdfb7e4ddb223ad6722300f6054ba737bbf6188d60fcec517f9",
+                      "sha256":  "f35d8dca3f576c6d54752ee03416be92da7be73fcd0e2204aa054b735f4564fa",
                       "once":  false,
-                      "size":  1556
+                      "size":  1591
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/cldr.md",
-                      "sha256":  "f2bd33ded550a05d59e8f659416ef382490504548d846e6388b1dffd273aa077",
+                      "sha256":  "4d3e87206ffe82e8e7cf2d4001b55b87f0ee14813df0fa205e107ef4d21605af",
                       "once":  false,
-                      "size":  9130
+                      "size":  9235
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/icu.md",
-                      "sha256":  "af0057e8553906083f69c2fb9fe9ed4ae8bc2340a0b1e376a424702f00300b29",
+                      "sha256":  "940c60d33db69622ce5f6a7e8d4f25be7efe37afca291c773a879cf0a4ad5705",
                       "once":  false,
-                      "size":  11086
+                      "size":  11226
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/LICENSE",
-                      "sha256":  "4b9abebc4338048a7c2dc184e9f800deb349366bdf28eb23c2677a77b4c87726",
+                      "sha256":  "b71b9ac72f1b646d1baf99ebe68c2afa040c8874d76f7c393e92a02287b90e8e",
                       "once":  false,
-                      "size":  19274
+                      "size":  19621
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/public_suffix.md",
-                      "sha256":  "54bd8ebaa51b530b13082da28457ae188f76cc64977607e0bc61e0ab11cd7aa7",
+                      "sha256":  "55c7a403618376da097e12f16da3b8ad2345d59c88d06cffe165ac3be9f8ec9f",
                       "once":  false,
-                      "size":  17785
+                      "size":  18184
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/siphash.md",
-                      "sha256":  "5a792b5a74ad2a5f3d6a7ad8b7a841116e58a772c18bc6e392320a365b222c76",
+                      "sha256":  "d7b3aa0e491dcec861b0582cda930a260c35365a7d56ba2131bd1fe24ee9a515",
                       "once":  false,
-                      "size":  8256
+                      "size":  8406
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/unicode.md",
-                      "sha256":  "5e4e6623a21a63f9bc16ea54af4133b8038e490c0d499a74676f9e5a61b9c5b2",
+                      "sha256":  "67961fb26c1f32092b0df641d8f4d50bf55579ed49b5ba2e7783c8074c7d176c",
                       "once":  false,
-                      "size":  2384
+                      "size":  2438
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/wepoll.md",
-                      "sha256":  "3ac2992770080453b98c42afa807ba4b2c1738ef756b92a55c645f55e7df48f0",
+                      "sha256":  "c39d4f0cd00d13c01257edae424286c812308e087be17726f94a8638437b2407",
                       "once":  false,
-                      "size":  1454
+                      "size":  1488
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/zlib.md",
-                      "sha256":  "809b62ba648e02302f7d9ea6b6886c10d5253ac86ad528038a50c73eada5fce2",
+                      "sha256":  "401550b028e27da166eb4a7c958a1fd293aa4a071530680c776029f445c64782",
                       "once":  false,
-                      "size":  1010
+                      "size":  1037
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.compiler/ADDITIONAL_LICENSE_INFO",
@@ -3567,45 +3567,45 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/colorimaging.md",
-                      "sha256":  "129dd272e6343cb400abbe3df310d85c79e4e753d50c53b0c1f928c047aca4b0",
+                      "sha256":  "7442140d1305cbafa1529497d30680fb739d1866ee3394f98a1981c8967a2b8a",
                       "once":  false,
-                      "size":  741
+                      "size":  759
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/freetype.md",
-                      "sha256":  "ea4bec570ed35eb163aff9420f7ce08f6f9378c115bdcf7865dc1cd1d4d4ea48",
+                      "sha256":  "405a652c4a9b43189bdd0ae92b293812ecc1a543b1a5e2282b0fc806a85e1d70",
                       "once":  false,
-                      "size":  30422
+                      "size":  31071
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/giflib.md",
-                      "sha256":  "6cd971730d3047ea57f6865b7bdca2509a9876ae24d5c0ed0c4e32def5f9107e",
+                      "sha256":  "ca520e90d0193d45da661a09eca3c48da41073482e36c5a03ff79dd00814d259",
                       "once":  false,
-                      "size":  1646
+                      "size":  1696
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/harfbuzz.md",
-                      "sha256":  "721d7c5a24bd0c0a59fe5ee1fde1c17541a745c038e3883d4b184a21779f4e48",
+                      "sha256":  "03fc7a3b74ff772f3ce009c743075b1b151f34af831583144b734c03eb4b4e0f",
                       "once":  false,
-                      "size":  3627
+                      "size":  3730
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/jpeg.md",
-                      "sha256":  "580be596216ee11e2554b24ce944973acaede2ebf5ffba34a6bd8cc441c05043",
+                      "sha256":  "7998d1b294c6fc05217d89ab2815d8ac5e34be8fdbd72d7e7445450946814de2",
                       "once":  false,
-                      "size":  3475
+                      "size":  3552
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/lcms.md",
-                      "sha256":  "e9f5f374cb4116acbd82ec39b0a1f93ab1f5adfd8c208488ba8f97de65e86446",
+                      "sha256":  "c8807545cf02985c1af72421e3c3702e54afb12b0db5455f9ea603170a130452",
                       "once":  false,
-                      "size":  2544
+                      "size":  2647
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/libpng.md",
-                      "sha256":  "26429c1eb65db41cac81999bebd705a60a5dba1d837664e4cc94f54d5867d818",
+                      "sha256":  "00ce93b903f9daba5721ed5fa203530a129f81f88263ea11f17107106ddbf8fb",
                       "once":  false,
-                      "size":  7195
+                      "size":  7410
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/LICENSE",
@@ -3615,9 +3615,9 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/mesa3d.md",
-                      "sha256":  "63f4e6f75caebbccb95d903fb43e46ac7111b3624d0a34f146b276d7d9e7b152",
+                      "sha256":  "15ad43b653acd1915d8a265943c8bcec46f4f63a951a64dd372a7e96c6591960",
                       "once":  false,
-                      "size":  5732
+                      "size":  5866
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.instrument/ADDITIONAL_LICENSE_INFO",
@@ -3921,21 +3921,21 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/bcel.md",
-                      "sha256":  "853a1e7ce397bb10de0e2b3bde0844bcc651f17d983decd07d2d003c0304c311",
+                      "sha256":  "c4decf06f2cb4cf25f504611d3697dd000ae3f21ab553f34012b72dd733d8dc3",
                       "once":  false,
-                      "size":  11195
+                      "size":  11414
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/dom.md",
-                      "sha256":  "6686e8877667584a3a7c07344baadca1a03e29f677162d87c3c0811e990d1148",
+                      "sha256":  "f37e376a85f7f3ef695d1de9e9fb83900edaf745c7ae39bb48f79a1dd51fb42e",
                       "once":  false,
-                      "size":  3761
+                      "size":  3838
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/jcup.md",
-                      "sha256":  "8d5dcfdf50455a3c34c753a98f21e953248af200415a9084e3f102cb6c43b8bf",
+                      "sha256":  "c77584b555ce35ce5c936d9cf44d293b90fb88f1459c8420a283199f1902e4b3",
                       "once":  false,
-                      "size":  1448
+                      "size":  1479
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/LICENSE",
@@ -3945,15 +3945,15 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/xalan.md",
-                      "sha256":  "ea67226be5cfe19c7e79725c2c24a16676323264d69f9747c528de0b44541b03",
+                      "sha256":  "5862f2c4739434b642f405e2d808c8b01efaac937fa93432195573b324df41fd",
                       "once":  false,
-                      "size":  13494
+                      "size":  13749
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/xerces.md",
-                      "sha256":  "472224f99de833f4f4c19f2f8a0317f22114e1c641f5d77ffa3a4280a1b80176",
+                      "sha256":  "8836c41e757311a64ebbad66154d4abcf1040660fdb80bc3f8bf81f2df848f97",
                       "once":  false,
-                      "size":  11852
+                      "size":  12081
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml.crypto/ADDITIONAL_LICENSE_INFO",
@@ -3975,9 +3975,9 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml.crypto/santuario.md",
-                      "sha256":  "b7764b61731d4ee9567b090f34d02237afcfb0377e5d1136c7ad3ef345cc4937",
+                      "sha256":  "532722afd958a33c3b4bdbef79a0cdeb743b337214dbf2df44f10d6c931c9e28",
                       "once":  false,
-                      "size":  11499
+                      "size":  11726
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO",
@@ -4035,15 +4035,15 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md",
-                      "sha256":  "1f36ff1342a581142c858f90064e20633d43529ac82adb85345bd902a14e18b2",
+                      "sha256":  "529435f7a698d58e0d861ce6637a04173e06c2698503a8b334c86c23f4fc3e20",
                       "once":  false,
-                      "size":  4095
+                      "size":  4171
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.cryptoki/pkcs11wrapper.md",
-                      "sha256":  "371974b1fca3744a3892c7ee1fcc593b8b4281fc218f4cafd2f709e9df5fd81d",
+                      "sha256":  "f3a1eac3cb9d8ae679be30d11c070619adeea73132e70b67f317e1f95dc17610",
                       "once":  false,
-                      "size":  2131
+                      "size":  2177
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO",
@@ -4095,9 +4095,9 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.dynalink/dynalink.md",
-                      "sha256":  "17312591cabee3ef6c34ed8897d92e4e361ba9cea41ec00dcd61a322a8fc2cdb",
+                      "sha256":  "dab0dc87a5599b0820d5e261e26c2dd7638474ab8340e627fd4c6a6a3f3a3dd3",
                       "once":  false,
-                      "size":  1502
+                      "size":  1534
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.dynalink/LICENSE",
@@ -4293,9 +4293,9 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.localedata/thaidict.md",
-                      "sha256":  "c326144a2351c9608fa708b5d7d3c5a3da03e82b66479b128e9db4969539824a",
+                      "sha256":  "7f1e0620aeb4be5c61eb156e18474b19d7c013cc937fb922a99c2d6b6fed04ae",
                       "once":  false,
-                      "size":  1346
+                      "size":  1377
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.management/ADDITIONAL_LICENSE_INFO",
@@ -4563,9 +4563,9 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/fontconfig.properties.src",
-                      "sha256":  "b44540473b97364e0f7a8a0002dd21d7a0717028fa1533f139bc98f40c91c0f0",
+                      "sha256":  "6986a594d0ac7ded968097fa3640a6418605cd663acd92deed7d3a59aa94e306",
                       "once":  false,
-                      "size":  12345
+                      "size":  12673
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/jawt.lib",
@@ -4581,9 +4581,9 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/jvm.cfg",
-                      "sha256":  "aa9efb969444c1484e29adecab55a122458090616e766b2f1230ef05bc3867e0",
+                      "sha256":  "243bde1d1450030dea10500930fea182b6cce5eb9756930784abfc7f6143278e",
                       "once":  false,
-                      "size":  29
+                      "size":  31
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/jvm.lib",
@@ -4599,15 +4599,15 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/psfont.properties.ja",
-                      "sha256":  "5a4bd51b969bf187ff86d94f4a71fdfbfa602762975fa3c73d264b4575f7c78f",
+                      "sha256":  "bd6a479602c08ca8e1f412796ac61e893ff8c76641e8df4859c00f728641d933",
                       "once":  false,
-                      "size":  3793
+                      "size":  3912
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/psfontj2d.properties",
-                      "sha256":  "780c565d5af3ee6f68b887b75c041cdf46a0592f67012f12eeb691283e92630a",
+                      "sha256":  "9dc21eea7f88f35e4eed214e055a591510e6f9a4c5d274ba77f1951febf1193e",
                       "once":  false,
-                      "size":  11390
+                      "size":  11713
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/tzdb.dat",
@@ -4623,15 +4623,15 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/jfr/default.jfc",
-                      "sha256":  "361f53708abb16fad960cc1acdbf2e0c44d26bba19f25f0f701c7b956b8c207e",
+                      "sha256":  "cbefb581e94d5bbd0e41017ae497e1aa7ba86069051175c9665068b2606e10a4",
                       "once":  false,
-                      "size":  35912
+                      "size":  36986
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/jfr/profile.jfc",
-                      "sha256":  "9da7ab71c763344677cabe8898496b0aad1fb42fe49363d5e1ae00df8a1baded",
+                      "sha256":  "4c71de059bd4fc2869245edf392c9d61366687cf6eef533c6168261e01642088",
                       "once":  false,
-                      "size":  35871
+                      "size":  36945
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/security/blocked.certs",
@@ -4647,9 +4647,9 @@
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/security/default.policy",
-                      "sha256":  "8367df1325de0f00bb9b7201c7b4b217ae01da7e03fcdcd9f8ae62869cd751fb",
+                      "sha256":  "41d3dc7b15dc0e87f0c3de0e45c7e46151375638a7070d00abf0547071d0145c",
                       "once":  false,
-                      "size":  12493
+                      "size":  12771
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/security/public_suffix_list.dat",
@@ -4712,18 +4712,6 @@
                       "size":  850457
                   },
                   {
-                      "path":  "mods/AsyncParticles-2.3.0-beta.3+1.20.1.jar",
-                      "sha256":  "6287386afad2e40043bec6fdec0140b8c5442b4281dc8807125deb9b84f41848",
-                      "once":  false,
-                      "size":  1259943
-                  },
-                  {
-                      "path":  "mods/BadOptimizations-2.3.0-1.20.1.jar",
-                      "sha256":  "9e067ae01b01e6ce8d5869b5be0cbaea500bd27c3652b4b89529d2e34e6be20f",
-                      "once":  false,
-                      "size":  452304
-                  },
-                  {
                       "path":  "mods/BeansBackpacks-forge-1.20.1-2.0.2.jar",
                       "sha256":  "c6e43e5660a1f321c27bbd85ab2102f93603fb252dfbcc1f754f404e0491d549",
                       "once":  false,
@@ -4742,12 +4730,6 @@
                       "size":  343962
                   },
                   {
-                      "path":  "mods/Brute force Rendering Culling-forge-1.20.1-0.5.12.jar",
-                      "sha256":  "7d6c5872f4251d30bdd8dc72a4c37db20d7e4a61f556a77970f1722412435834",
-                      "once":  false,
-                      "size":  141264
-                  },
-                  {
                       "path":  "mods/build.bat",
                       "sha256":  "497a0bab12d24f3b91192787a3ef4acb19a23be2ca010a88d7dea5eec6e81328",
                       "once":  false,
@@ -4758,12 +4740,6 @@
                       "sha256":  "e5fa2c009b28d4093c324f7a6cd840aaaae0db3c1d77905b28cf81b20a6c9acf",
                       "once":  false,
                       "size":  1695
-                  },
-                  {
-                      "path":  "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
-                      "sha256":  "a6c0f7fbc1b2a62cafe72a967165caeef0fb671b7e0d377bd60fbb1e7f724cde",
-                      "once":  false,
-                      "size":  1426500
                   },
                   {
                       "path":  "mods/carryon-forge-1.20.1-2.1.2.7.jar",
@@ -4788,12 +4764,6 @@
                       "sha256":  "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
                       "once":  false,
                       "size":  1181413
-                  },
-                  {
-                      "path":  "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
-                      "sha256":  "8af01712c0dc32cebaff31795ca6d223fddff2ea9b1f5efbd9c3a586a0dacbc0",
-                      "once":  false,
-                      "size":  20300
                   },
                   {
                       "path":  "mods/CMDCam_FORGE_v2.2.0_mc1.20.1.jar",
@@ -4850,12 +4820,6 @@
                       "size":  6457104
                   },
                   {
-                      "path":  "mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
-                      "sha256":  "b91ca5cd028b1c919e28851b984edd61874d44ad8038cdeee87315d2656cb292",
-                      "once":  false,
-                      "size":  22474
-                  },
-                  {
                       "path":  "mods/curios-forge-5.14.1+1.20.1.jar",
                       "sha256":  "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
                       "once":  false,
@@ -4892,12 +4856,6 @@
                       "size":  115947
                   },
                   {
-                      "path":  "mods/embeddium-0.3.31+mc1.20.1.jar",
-                      "sha256":  "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
-                      "once":  false,
-                      "size":  1320675
-                  },
-                  {
                       "path":  "mods/emoji-type-2.2.3+1.20.4-forge.jar",
                       "sha256":  "675012e994bf91a8e96013e2cec37aa513a42d0e3e647aa804b0e300bf0114b1",
                       "once":  false,
@@ -4910,18 +4868,6 @@
                       "size":  69476
                   },
                   {
-                      "path":  "mods/enhancedblockentities-0.9+1.20.jar",
-                      "sha256":  "1c4ce2c00d8cc6d2269de3cadaba551607c62692a8e5ad1d7c618462ed7ed05b",
-                      "once":  false,
-                      "size":  490690
-                  },
-                  {
-                      "path":  "mods/entityculling-forge-1.8.2-mc1.20.1.jar",
-                      "sha256":  "b8eb1a4fe48779bdaefcda64468471da148d0eacf93570d55373d05418b2deca",
-                      "once":  false,
-                      "size":  478568
-                  },
-                  {
                       "path":  "mods/etched-3.0.4.jar",
                       "sha256":  "18fa648a887eb8ae284e278b1c361c8bffe73947336761d8b1787052dd34fe69",
                       "once":  false,
@@ -4932,12 +4878,6 @@
                       "sha256":  "510ccd4d070a50d42695cc661f415c25699dd9955a85d4b429861cd2c8687bb3",
                       "once":  false,
                       "size":  432098
-                  },
-                  {
-                      "path":  "mods/fabric-api-0.92.2+1.11.12+1.20.1.jar",
-                      "sha256":  "7cada1e9bbee4b506d7c90471a705a32e6cf1d00f36556129f30a40453fc00fc",
-                      "once":  false,
-                      "size":  3041277
                   },
                   {
                       "path":  "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
@@ -4958,12 +4898,6 @@
                       "size":  10557
                   },
                   {
-                      "path":  "mods/fastitems-forge-1.1.0-forge+1.20.1.jar",
-                      "sha256":  "b604e87f0f7ae8e61ccd2a711fa567fcb9880b314b6178b21c9db66280fc920f",
-                      "once":  false,
-                      "size":  71544
-                  },
-                  {
                       "path":  "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
                       "sha256":  "038a5fa1c044d5afae22502ca1444eeb1a700d34a224996c25f233524ae35a7a",
                       "once":  false,
@@ -4974,12 +4908,6 @@
                       "sha256":  "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
                       "once":  false,
                       "size":  123034
-                  },
-                  {
-                      "path":  "mods/feytweaks-1.20-1.2.7.jar",
-                      "sha256":  "8bd665c712ee8a60c73feb8400465489a8a9d956844315f6f4190546522a1dfa",
-                      "once":  false,
-                      "size":  273847
                   },
                   {
                       "path":  "mods/framework-forge-1.20.1-0.7.12.jar",
@@ -5040,12 +4968,6 @@
                       "sha256":  "f9b95352595882fc3f48d64656ed941e6fab8bdf24eab5769ae5ef05c9148802",
                       "once":  false,
                       "size":  10932092
-                  },
-                  {
-                      "path":  "mods/ImmediatelyFast-Forge-1.5.1+1.20.4.jar",
-                      "sha256":  "c59706b336c03c46330d4e7a6ee1b178242322c0670d190a1fe0a5570aa943e1",
-                      "once":  false,
-                      "size":  425068
                   },
                   {
                       "path":  "mods/ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
@@ -5162,12 +5084,6 @@
                       "size":  227925
                   },
                   {
-                      "path":  "mods/midnightlib-forge-1.4.2.jar",
-                      "sha256":  "dfec70e881e1928b1ea468f3bc1b57cff409d234250ac824f5835b25a7252e25",
-                      "once":  false,
-                      "size":  62156
-                  },
-                  {
                       "path":  "mods/modernnetworking-forge-1.2.0+1.19.2.jar",
                       "sha256":  "98a81855212cdd659590d905581a8d8c0cd60909b525505bd5fca0676336b2be",
                       "once":  false,
@@ -5232,12 +5148,6 @@
                       "sha256":  "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f",
                       "once":  false,
                       "size":  1342987
-                  },
-                  {
-                      "path":  "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
-                      "sha256":  "b42584e2672d6b5329959ec2b0f342395b19389fed0ee4d86ea71072f42f77a0",
-                      "once":  false,
-                      "size":  713454
                   },
                   {
                       "path":  "mods/relics-1.20.1-0.8.0.11.jar",
@@ -5310,12 +5220,6 @@
                       "sha256":  "a12f393691d4125c94c0e059592c2e54b1b21e4f887597fccb3a8f743d4cec63",
                       "once":  false,
                       "size":  220435
-                  },
-                  {
-                      "path":  "mods/staaaaaaaaaaaack-forge-1.20.1-1.5-71.jar",
-                      "sha256":  "1b4be0d5c4ea2d9914036e4f14befc59abb29caa67d1f667ab8d2b3dd2b3db75",
-                      "once":  false,
-                      "size":  38494
                   },
                   {
                       "path":  "mods/stealing_villagers-forge-1.20.1-1.0.0.jar",
@@ -5649,15 +5553,15 @@
                   },
                   {
                       "path":  "mod_data/gml/1.20.1/official.txt",
-                      "sha256":  "67bfc33ef0c7103f002d6ac134f8eddd3d67e2ce45d266e83816d1a2e2c9b01d",
+                      "sha256":  "0061d3ad12ab306d12577c556895af4e926b5af02d8a2bad7479c93f76a24ef3",
                       "once":  false,
-                      "size":  8001795
+                      "size":  8105844
                   },
                   {
                       "path":  "mod_data/gml/1.20.1/README",
-                      "sha256":  "880a787f5b06b15a94e4b83b8c6d2fabf6bdd22269df2d6b9b887393140d8f9f",
+                      "sha256":  "6194d79abdb5a425c29ab63f71d535ead3e05e4c4b70f6cafdf1472e6454d7b2",
                       "once":  false,
-                      "size":  178
+                      "size":  180
                   },
                   {
                       "path":  "mod_data/gml/1.20.1/srg.zip",
