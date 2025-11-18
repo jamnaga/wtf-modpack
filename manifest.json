@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "18/11/2025 18:56:23,88",
+    "generated":  "18/11/2025 19:15:10,40",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -78,12 +78,6 @@
                       "sha256":  "fce0e9cb008715521d87dd0ba279c61a8a7e9645192711b720fc30f1aaa20ce3",
                       "once":  false,
                       "size":  105
-                  },
-                  {
-                      "path":  "config/badoptimizations.txt",
-                      "sha256":  "9f56bd826fea6a8c6d68db34b09218e9c66154b82854150f954ddf56ec80f439",
-                      "once":  false,
-                      "size":  3004
                   },
                   {
                       "path":  "config/beansbackpacks-client.json5",
@@ -579,7 +573,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "d3ea841d820ca11786d2a81993bd11ae52119224d75a6c28e822213109907fcd",
+                      "sha256":  "28d37d06217473e4511788fc8742a0ac8b221de4b1a92caaf1adbaded84618c2",
                       "once":  false,
                       "size":  193
                   },
@@ -645,7 +639,7 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "938b5421a869807ebe69899d73b03a1135639d4a467ef2d10633aa68e2e8616d",
+                      "sha256":  "b69620e9264ce8121317e4c55fc70ab8a6ff64a896c7092ee3f7e885ee679150",
                       "once":  false,
                       "size":  284
                   },
@@ -735,7 +729,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "7b826b47f48c69c5ce6bb288f1778a3c3749098ab42e8fac8120916d56fae822",
+                      "sha256":  "9e11b921e0820b34b073cb4243f07ab31ac9ec43748bc9c9b5d96658ddf01add",
                       "once":  false,
                       "size":  283
                   },
@@ -800,12 +794,6 @@
                       "size":  274
                   },
                   {
-                      "path":  "config/toadlib_config.toadcfg",
-                      "sha256":  "58bf90d0d1dfa6bdba54eddd6b76273872a472b26066ee2aa7009222af0f32cc",
-                      "once":  false,
-                      "size":  82
-                  },
-                  {
                       "path":  "config/trackwork-client.toml",
                       "sha256":  "1f1d7dcce958bec868c1d84571d205a06b1c66c554dbfd25429a70bca171e670",
                       "once":  false,
@@ -849,7 +837,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "b7a18d8936fe6c9206493b052d7256ffc56bf30df5195b19fcd870dc59a9153f",
+                      "sha256":  "56d417f81e3f9ace2997e999b6307e8e2122cd2de07bbe3ddedf16f6827fc45e",
                       "once":  false,
                       "size":  508
                   },
@@ -927,9 +915,9 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "f21abe0bd37172e5f9e575d5489295de91bcd5c7c70b7d103ba51f6902e6ec5b",
+                      "sha256":  "2018581c5f05e42b1e3ffb17c10c47ceaac37361a4c20fbb7064ab6ba027a2a5",
                       "once":  false,
-                      "size":  5532
+                      "size":  5722
                   },
                   {
                       "path":  "config/xaeropatreon.txt",
@@ -1508,18 +1496,6 @@
                       "size":  1584
                   },
                   {
-                      "path":  "config/asyncparticles/asyncparticles-mixin.properties",
-                      "sha256":  "562062a72cc0b869663779ed545c2892802e885e61d3b1b70d89567cef7b93a2",
-                      "once":  false,
-                      "size":  2723
-                  },
-                  {
-                      "path":  "config/asyncparticles/asyncparticles.json",
-                      "sha256":  "72bfde8438ee8dc1c6f234315eda6487aa684b6561a60c0df14c150f4f90e6a4",
-                      "once":  false,
-                      "size":  1357
-                  },
-                  {
                       "path":  "config/CoroUtil/General.toml",
                       "sha256":  "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398",
                       "once":  false,
@@ -1533,7 +1509,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "f3b295c600c15580d72f33856debac829f3eb9011af9279d3c875e2934ec946c",
+                      "sha256":  "917ebc81f0ca0e86ef042ab5ab8511d97a273cbd090522e10796655e84f1120e",
                       "once":  false,
                       "size":  290
                   },
@@ -2319,9 +2295,9 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "ea28fefb028e1b74668dbde2a9826e635170b49bbc0fc3b957cb825deb7165fd",
+                      "sha256":  "65f72ef69769d82bca5ea6e77466419b4d3f7a77b107ac04f77ea376ec474ba1",
                       "once":  false,
-                      "size":  5539
+                      "size":  5786
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
@@ -2505,7 +2481,7 @@
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite",
-                      "sha256":  "af04f35ec66c6b9162adfaf6290ab2fc2317f845f31259f45c485207001e39d4",
+                      "sha256":  "fd4e0606cd2ca33091cd0528002937538165d022f85ef16fb9108e4fd7510daa",
                       "once":  true,
                       "size":  104640512
                   },
@@ -4742,12 +4718,6 @@
                       "size":  1297496
                   },
                   {
-                      "path":  "mods/BadOptimizations-2.3.1-1.20.1.jar",
-                      "sha256":  "bf7f251b92c55d6359ec76e108150604158e698322bb8f87fb76213879765c1c",
-                      "once":  false,
-                      "size":  452475
-                  },
-                  {
                       "path":  "mods/BeansBackpacks-forge-1.20.1-2.0.2.jar",
                       "sha256":  "c6e43e5660a1f321c27bbd85ab2102f93603fb252dfbcc1f754f404e0491d549",
                       "once":  false,
@@ -5919,7 +5889,7 @@
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt",
-                      "sha256":  "04196a03b3a65d797df57d30043655dc40c33f8d5fd2cc260a9b9a2b395e7e9d",
+                      "sha256":  "bb88d89b50574142cb7e7186c85fe2a580b66083705d0c6b5c1437d98992dcc4",
                       "once":  true,
                       "size":  366
                   },
