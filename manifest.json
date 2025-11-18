@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "18/11/2025 18:28:40,79",
+    "generated":  "18/11/2025 18:34:04,54",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -4670,12 +4670,6 @@
                       "size":  97
                   },
                   {
-                      "path":  "mods/aaa_particles-1.20.1-1.4.11-forge.jar",
-                      "sha256":  "687ed116f862b8914a3a80d55ac354ca387bf24f16f15faf3329fab25655c8cf",
-                      "once":  false,
-                      "size":  5255759
-                  },
-                  {
                       "path":  "mods/alcocraftplus-1.20-2.1.0-forge.jar",
                       "sha256":  "b0005e37573521113e807cfa098ba023ceecf75da386d3a180af4b5af11c188f",
                       "once":  false,
@@ -5432,6 +5426,12 @@
                       "size":  4769715
                   },
                   {
+                      "path":  "mods/[client]aaa_particles-1.20.1-1.4.11-forge.jar",
+                      "sha256":  "687ed116f862b8914a3a80d55ac354ca387bf24f16f15faf3329fab25655c8cf",
+                      "once":  false,
+                      "size":  5255759
+                  },
+                  {
                       "path":  "mods/[client]BetterF3-7.0.2-Forge-1.20.1.jar",
                       "sha256":  "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0",
                       "once":  false,
@@ -5564,6 +5564,378 @@
                       "size":  251309
                   },
                   {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$asyncutil-0.1.0_mapped_srg_1.20.1.jar",
+                      "sha256":  "368f1078a45bafbd5bffbd8feef5aef1e24cdd7598da2ba74400a6fb2d83a265",
+                      "once":  false,
+                      "size":  124715
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$asyncutil-0.1.0_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "c3854e7c30bfb0c508525405d329b8fa9f9faee43edd44a40d96a2f01f1a7a7e",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-base-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "0322b286250d2a428dc3adc74a715470b1ba5e86cb05a371b6a715c95c73da59",
+                      "once":  false,
+                      "size":  112581
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-base-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "f260af21ef1468658c45d436d514990627c3a60dd2ac1f5b038420818f13875f",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-client-uncapvd-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "e40fb30bc817ed9471a39bb6b67d1f7cee4c86ac19fa6171d45a377bfbf8a53c",
+                      "once":  false,
+                      "size":  9919
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-client-uncapvd-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "cfb8c93047bd64399da14f620e38057f2ec3c86c1a2f1acf7d4a2f4979eca203",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-chunkio-threading-issues-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "ae5efb813821fc5c33bf6659bf44af95995063e842e8b12aef2e2b9f06d055f9",
+                      "once":  false,
+                      "size":  10385
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-chunkio-threading-issues-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "f1223f05f3f82039c56cef6d101d909a7e34d701f58a6f2260ba08ede6766e81",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-general-threading-issues-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "ce3b1fd482b65fb576f07ae7ae0e21a40fac244d673f664e52ecb0290f701226",
+                      "once":  false,
+                      "size":  16415
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-general-threading-issues-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "e8c5d737d910720f0ff24b22eeec14615f863e93415e074011d4161d47dc13d7",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-worldgen-threading-issues-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "797dbb47bfa74f0f0321de7eae183c976528d689b3510617498847495ffa9278",
+                      "once":  false,
+                      "size":  67109
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-worldgen-threading-issues-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "7460997ccd5d1442dd70afbdd10ddddfce6c11da80649f90cc7ff317f172ee14",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-worldgen-vanilla-bugs-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "4a6ca8348bdc72867817bdeff3bda41c0f7b3c7fdf1bf035ecee70543e0535f1",
+                      "once":  false,
+                      "size":  7306
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-worldgen-vanilla-bugs-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "8eef28fa782db564e2e87fa0288edaa6b782029b677c7c2ab0228f6f05e0e757",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-notickvd-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "397199cae3636850656436afdc896438b79b8edb78749e8002c825c9769a5eeb",
+                      "once":  false,
+                      "size":  33420
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-notickvd-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "a903916d5a98396dce124b106bf7a83317cf56a161b8fd311ae03a7294ea9c98",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-allocs-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "9909859040a8710b101e9a355e2f8fea69974a389a326fabdf1f16b9638ecff6",
+                      "once":  false,
+                      "size":  31511
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-allocs-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "9c5be91dea54a042f6ee180538fd2a733deaaa93047f57358e4a496c971bd9ae",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-chunk-access-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "e1a1401bbe5922ba7b7c8000a27059a547efa109a6e3b58f7ff3b2914267b696",
+                      "once":  false,
+                      "size":  18387
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-chunk-access-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "5213f7094ef3a90ba546adcf84d64f0b945f3b6ec9f335b881c885d5f63bb483",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-chunkio-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "44bd4467c34d37e6ef65a749df93aa00cb66260058b854e959076f669de6ca2c",
+                      "once":  false,
+                      "size":  13916
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-chunkio-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "32f8d28ca3413afd0fc355fa673176b2788e0192e4a8eb19949c9522554bc1b5",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-math-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "54bfb5aae824534b38155a62ba74f7375aa370ddf7101c3c44c538befe9f3529",
+                      "once":  false,
+                      "size":  9560
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-math-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "711de6e56d3a4f52bcc3dc67ccc0545f1decc5baccb403e061e750c3ad3df7ad",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-scheduling-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "d78799fe1f8378374f1df88f16b5349b9c9a5890542357c6c3aaf5d95b1d4ec2",
+                      "once":  false,
+                      "size":  36629
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-scheduling-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "5f1d7098b4f33b99a88755f7c50395b92203627040ad9d7865fa37be229ae895",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-worldgen-general-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "3d3c956e003b3d5aad89604ebead87362c5488818acf2c45367643b255ded210",
+                      "once":  false,
+                      "size":  12382
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-worldgen-general-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "527b9a78dc4acb5b30cc4756ab04ef705d2807c9a14d465bd4098e7c042e35bb",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-worldgen-vanilla-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "b391a679ff26ead9eb94b3bd685863143f830446e0651a5e6bb5e375a7d1d24b",
+                      "once":  false,
+                      "size":  18632
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-worldgen-vanilla-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "d0200cae9c82d05a1f119b48c8af68e4c05e9b86c3ad5c4ba7a3079ee0d9f902",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-rewrites-chunk-serializer-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "b94d1015fb1c1f7c52cc08a90d2bdd6f41da63146ca65539704c404681de0202",
+                      "once":  false,
+                      "size":  52360
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-rewrites-chunk-serializer-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "5d99f02363edb21cc568141b4c8b4f53279d5913b4a773fc93a2cc72e63d52b7",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-rewrites-chunkio-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "f946a2c67e13152e9190004170980a594e4a130774b7761ade162ae20157a55f",
+                      "once":  false,
+                      "size":  23726
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-rewrites-chunkio-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "5dd6a6cbcf37c60402b45b4119f1620828ee2776397d5c56a4facbeaf870e12a",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-server-utils-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "881548f5ad68af1ecb3583ee41ad4389636f7a6194d878482aefaa6dd7da3e5d",
+                      "once":  false,
+                      "size":  8754
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-server-utils-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "82ebd9233f0734434d581b1ec5eda96521588514562e64f0c978ef3a7d3627e7",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-threading-chunkio-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "96ba475ce3562269a69398e4308f6eb46b8fa15b7bd98642286b610b5f7fd380",
+                      "once":  false,
+                      "size":  45078
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-threading-chunkio-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "fb2f92910d0dc9cf9339cb9da221464ddd886a49841f54cfe75721fa3bb726e6",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-threading-lighting-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "a5fafc88b0dec0f7e81cbed2beb60ce3368ceb6ee4cfa6c0b30176179f4bdaf9",
+                      "once":  false,
+                      "size":  8217
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-threading-lighting-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "3f4084ff7629f7c69ccde6ecf83095504d54e664139e62f155b731ffc0115a73",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-threading-worldgen-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "1d3ef7b29b14dbe32175e5a17f7354cd8df5bb9fb407bc11fd8996fe34550e88",
+                      "once":  false,
+                      "size":  40050
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-threading-worldgen-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "3085f079bfd9dbf147619483cef3c0297ebad72bb1203cb4d9cdd8c16c58e650",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$core-3.6.5_mapped_srg_1.20.1.jar",
+                      "sha256":  "f2cad50e7665c8b320ae562a67b346330ad9c12c934c65d5ef91d4b16271a5b1",
+                      "once":  false,
+                      "size":  205713
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$core-3.6.5_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "3d69eb60661b5266ac6c643dfc02ea65252c6a0f7d24eb2811e5867f46119cbd",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$exp4j-0.4.8_mapped_srg_1.20.1.jar",
+                      "sha256":  "0c1d1bd845b229e5066ee99ea81a34dda6a5bf8d774495e6caf2169bf4f55844",
+                      "once":  false,
+                      "size":  49873
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$exp4j-0.4.8_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "e27effe896f5834ec6c306a1e698c221e17f97705e9518c01890d817ee850377",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$threadly-7.0_mapped_srg_1.20.1.jar",
+                      "sha256":  "2c445e9f39fdf1462903b87b1d2c63c4b1d6a35429ff9fa15c3b45cd9e1fe832",
+                      "once":  false,
+                      "size":  441478
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$threadly-7.0_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "4c196ae018754cff54ef29e3a3bfbe73b3f9235c701371d6f6cbff242dff7b3c",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$toml-3.6.5_mapped_srg_1.20.1.jar",
+                      "sha256":  "0a854f6f4fbc48ebd464251f800b9adf4e2b802b5d1c1f2c915596f09dddb3b0",
+                      "once":  false,
+                      "size":  32766
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$toml-3.6.5_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "0ad969a0e5e1fbfebe823c4a3cf24d8cab2207a91746b9e76daa7367d20358c7",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar",
+                      "sha256":  "fbfd76ced1283a6ddd7d81b21ca23ac1884b9fb18c9b716774901aca0cebfa76",
+                      "once":  false,
+                      "size":  1427047
+                  },
+                  {
+                      "path":  "mods/.connector/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "22c3ce079bfdb533aea1875f80f15fe7163b564fb04f9968e5ad42533f965a60",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/enhancedblockentities-0.9+1.20$arrp-0.6.7_mapped_srg_1.20.1.jar",
+                      "sha256":  "8bd284474fb0085f2abdc86aa69df7ac850603214b94655d58e5bbe719064db9",
+                      "once":  false,
+                      "size":  154242
+                  },
+                  {
+                      "path":  "mods/.connector/enhancedblockentities-0.9+1.20$arrp-0.6.7_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "97ac59c0a97d261899a9fd1906fd8a35b5f49917e2081fcda407402edb6b1ddf",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/enhancedblockentities-0.9+1.20$spruceui-5.0.0+1.20_mapped_srg_1.20.1.jar",
+                      "sha256":  "5b61f13088a639db9f690b76e56f60e257c73d25a85d64636a119100dca9dd1d",
+                      "once":  false,
+                      "size":  191235
+                  },
+                  {
+                      "path":  "mods/.connector/enhancedblockentities-0.9+1.20$spruceui-5.0.0+1.20_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "8c20d58d09d36b63d20c07075aa99bb0cc16e965745cd821508965177cb2ec0a",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/enhancedblockentities-0.9+1.20_mapped_srg_1.20.1.jar",
+                      "sha256":  "0ce13055fedbcc8f845f4d7d3f6c9b2c27af1d77fcb6eedccca1a683235920e8",
+                      "once":  false,
+                      "size":  484882
+                  },
+                  {
+                      "path":  "mods/.connector/enhancedblockentities-0.9+1.20_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "7eae5b68771b714e9b674ce887fdfb9e6639d2fa7c4a491a88af13425797d023",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/feytweaks-1.20-1.2.7$mixinextras-fabric-0.2.0-beta.8_mapped_srg_1.20.1.jar",
+                      "sha256":  "54bfcc9722e47633382c3db8c710f8017d8009e17feedd7ca36aa64e9093c12e",
+                      "once":  false,
+                      "size":  107750
+                  },
+                  {
+                      "path":  "mods/.connector/feytweaks-1.20-1.2.7$mixinextras-fabric-0.2.0-beta.8_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "842626af089bf42bce9d2d9228e27caeebc28d8db562c9971bdd1ddaef349fa9",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/feytweaks-1.20-1.2.7_mapped_srg_1.20.1.jar",
+                      "sha256":  "caae3b6dd2806adf85b55a494ed018581fb9fe7c13f1ccbfc07fc9289d7b62ba",
+                      "once":  false,
+                      "size":  275187
+                  },
+                  {
+                      "path":  "mods/.connector/feytweaks-1.20-1.2.7_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "38a2ff3d26b61d970c4e4dfadacf9df8eb0bc58f0024fddc04e15d085466fb36",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
                       "path":  "mods/.connector/TechReborn-5.8.8$energy-3.0.0_mapped_srg_1.20.1.jar",
                       "sha256":  "500694ed99d0d33928127226dbc4cff033678ce4e26a4ad1192b89f03cea7d07",
                       "once":  false,
@@ -5608,6 +5980,378 @@
                   {
                       "path":  "mods/.connector/[client]continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
                       "sha256":  "be881cc02d6d86b62cd7946b18c3510b6e3abb0e6ba559c338365945bfe0dd4b",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$asyncutil-0.1.0.jar",
+                      "sha256":  "45509fc844892010c889be6e17f041461d025d39f6d782e071e81179a4f9c0be",
+                      "once":  false,
+                      "size":  121609
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$asyncutil-0.1.0.jar.input",
+                      "sha256":  "c3854e7c30bfb0c508525405d329b8fa9f9faee43edd44a40d96a2f01f1a7a7e",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-base-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "b18e6a69a6db65a96f44389202b6f922bab1c681c60f40869524f10327b43057",
+                      "once":  false,
+                      "size":  112740
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-base-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "f260af21ef1468658c45d436d514990627c3a60dd2ac1f5b038420818f13875f",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-client-uncapvd-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "49503888fd0a46e9766c4ab20a2c20b79776b45e260df46663625ad9adfbdf6a",
+                      "once":  false,
+                      "size":  8772
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-client-uncapvd-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "cfb8c93047bd64399da14f620e38057f2ec3c86c1a2f1acf7d4a2f4979eca203",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-chunkio-threading-issues-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "5183ecd67edc3c05d51d655be751c0381b3a5f2384db57c31d39b9cc2049d9de",
+                      "once":  false,
+                      "size":  9127
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-chunkio-threading-issues-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "f1223f05f3f82039c56cef6d101d909a7e34d701f58a6f2260ba08ede6766e81",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-general-threading-issues-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "71882223ebbf01aa9a417ee6a2bb2aa082d3e5ed68729f2d141b108228475b3e",
+                      "once":  false,
+                      "size":  15101
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-general-threading-issues-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "e8c5d737d910720f0ff24b22eeec14615f863e93415e074011d4161d47dc13d7",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-worldgen-threading-issues-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "31df71d44ef66241fbe7a2454b91065a2292e3e2402a868940994b45c5114777",
+                      "once":  false,
+                      "size":  65446
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-worldgen-threading-issues-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "7460997ccd5d1442dd70afbdd10ddddfce6c11da80649f90cc7ff317f172ee14",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-worldgen-vanilla-bugs-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "fbe477d738befef099bb69dd1e3d0689716765180542e1f200b4b7b662784103",
+                      "once":  false,
+                      "size":  5985
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-fixes-worldgen-vanilla-bugs-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "8eef28fa782db564e2e87fa0288edaa6b782029b677c7c2ab0228f6f05e0e757",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-notickvd-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "12ce5edebeaaf60c4feaadaa0d752b1294997e935d158009cd226427e40a2672",
+                      "once":  false,
+                      "size":  32180
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-notickvd-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "a903916d5a98396dce124b106bf7a83317cf56a161b8fd311ae03a7294ea9c98",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-allocs-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "e48ba3b754a59555308269e8e4666e39f575537f95249851712f46635e5b201c",
+                      "once":  false,
+                      "size":  30359
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-allocs-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "9c5be91dea54a042f6ee180538fd2a733deaaa93047f57358e4a496c971bd9ae",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-chunk-access-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "88d8f555b6a95eadec8eaf8f16614ff7d85eb5b839c049d205f6a5b5251d2ff2",
+                      "once":  false,
+                      "size":  16981
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-chunk-access-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "5213f7094ef3a90ba546adcf84d64f0b945f3b6ec9f335b881c885d5f63bb483",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-chunkio-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "c845c2fc09a375c5b18f9cf85a928d4de0f635593bee2fe8a39401a8d96e347a",
+                      "once":  false,
+                      "size":  12741
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-chunkio-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "32f8d28ca3413afd0fc355fa673176b2788e0192e4a8eb19949c9522554bc1b5",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-math-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "3d3f49f632e62755a694015bb54bd0c330fc213f716d0f594402be59ec5df216",
+                      "once":  false,
+                      "size":  8372
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-math-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "711de6e56d3a4f52bcc3dc67ccc0545f1decc5baccb403e061e750c3ad3df7ad",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-scheduling-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "53c35aadebb2918b95f84b3079aa87243d84632a5080c9760fa98c73980e5974",
+                      "once":  false,
+                      "size":  35509
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-scheduling-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "5f1d7098b4f33b99a88755f7c50395b92203627040ad9d7865fa37be229ae895",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-worldgen-general-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "dc8536b05cd1e69398f2c39b4d42504df09e621946fdbcbc3db823168d6053b1",
+                      "once":  false,
+                      "size":  11005
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-worldgen-general-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "527b9a78dc4acb5b30cc4756ab04ef705d2807c9a14d465bd4098e7c042e35bb",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-worldgen-vanilla-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "9ef54812b928d6370ef2eea587a49b86701be5da2b2094e33431f25194a73499",
+                      "once":  false,
+                      "size":  17177
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-opts-worldgen-vanilla-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "d0200cae9c82d05a1f119b48c8af68e4c05e9b86c3ad5c4ba7a3079ee0d9f902",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-rewrites-chunk-serializer-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "8051cff9d80402507f1c8c3888953642546a2acb2ecc7c94b39f9b89a1b824ef",
+                      "once":  false,
+                      "size":  50722
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-rewrites-chunk-serializer-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "5d99f02363edb21cc568141b4c8b4f53279d5913b4a773fc93a2cc72e63d52b7",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-rewrites-chunkio-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "c1a19b74f34eec5fc15a1c2601890c85c1f134e13f125f98c863d0d145914741",
+                      "once":  false,
+                      "size":  22466
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-rewrites-chunkio-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "5dd6a6cbcf37c60402b45b4119f1620828ee2776397d5c56a4facbeaf870e12a",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-server-utils-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "bd6af7460cee82d13bcf8ce466f952a0cf19ab06190cb9240963f2f4e8856e77",
+                      "once":  false,
+                      "size":  7533
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-server-utils-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "82ebd9233f0734434d581b1ec5eda96521588514562e64f0c978ef3a7d3627e7",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-threading-chunkio-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "6d67a9a125c88bb1e4e74e1e67268a259f9a34d3e5c6610855da5d7d85ef7973",
+                      "once":  false,
+                      "size":  43267
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-threading-chunkio-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "fb2f92910d0dc9cf9339cb9da221464ddd886a49841f54cfe75721fa3bb726e6",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-threading-lighting-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "3e9e12cdf3c577bf311065af050c3770aa2064b76914d9cf3478b8cf35a063a3",
+                      "once":  false,
+                      "size":  6816
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-threading-lighting-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "3f4084ff7629f7c69ccde6ecf83095504d54e664139e62f155b731ffc0115a73",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-threading-worldgen-mc1.20.1-0.2.0+alpha.11.16.jar",
+                      "sha256":  "bf3d34894aac4cc720947e920e95ed9750d84431bfeb7ae626c9904fe6160260",
+                      "once":  false,
+                      "size":  38443
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$c2me-threading-worldgen-mc1.20.1-0.2.0+alpha.11.16.jar.input",
+                      "sha256":  "3085f079bfd9dbf147619483cef3c0297ebad72bb1203cb4d9cdd8c16c58e650",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$core-3.6.5.jar",
+                      "sha256":  "c0aeca59f55367bb452b7296004c34328db3e1ed0cd2fbdfb7771d2fd532b251",
+                      "once":  false,
+                      "size":  201384
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$core-3.6.5.jar.input",
+                      "sha256":  "3d69eb60661b5266ac6c643dfc02ea65252c6a0f7d24eb2811e5867f46119cbd",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$exp4j-0.4.8.jar",
+                      "sha256":  "2249b231fdcf38e1728e1b584e4f2d77da08b8b8c84a00a58f4d1725e47c2a9f",
+                      "once":  false,
+                      "size":  47792
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$exp4j-0.4.8.jar.input",
+                      "sha256":  "e27effe896f5834ec6c306a1e698c221e17f97705e9518c01890d817ee850377",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$mixinextras-fabric-0.3.6.jar",
+                      "sha256":  "b22963a59bea6a3fc2c1f8983a5073085c7ca83be46a90d1c005d4431a4e2d47",
+                      "once":  false,
+                      "size":  175216
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$mixinextras-fabric-0.3.6.jar.input",
+                      "sha256":  "259fc8101ca367291ac7e0d13380d27638c534d53e3c41b1bdbc12f37b1d6343",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$threadly-7.0.jar",
+                      "sha256":  "4756601413ccddb6e596e7804b4699e8fe7af22b6dc00f9bb8d1adf8c4ba98b3",
+                      "once":  false,
+                      "size":  432895
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$threadly-7.0.jar.input",
+                      "sha256":  "4c196ae018754cff54ef29e3a3bfbe73b3f9235c701371d6f6cbff242dff7b3c",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$toml-3.6.5.jar",
+                      "sha256":  "c53528f4475ea24bde3a7be3e5a1bd0fe2336b08272261f21e3a0a51be710f8a",
+                      "once":  false,
+                      "size":  31893
+                  },
+                  {
+                      "path":  "mods/.connector/temp/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16$toml-3.6.5.jar.input",
+                      "sha256":  "0ad969a0e5e1fbfebe823c4a3cf24d8cab2207a91746b9e76daa7367d20358c7",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/enhancedblockentities-0.9+1.20$arrp-0.6.7$fabric-api-base-0.4.19+8d1895cf72.jar",
+                      "sha256":  "246d7fb90576a85b83eb31d57a0707fc905f56eda175b80ce331d66e7dea7a5a",
+                      "once":  false,
+                      "size":  28772
+                  },
+                  {
+                      "path":  "mods/.connector/temp/enhancedblockentities-0.9+1.20$arrp-0.6.7$fabric-api-base-0.4.19+8d1895cf72.jar.input",
+                      "sha256":  "2a8a1cd5b94312e14d8b3a262c6ff8175b34c9ff4051fd547a3f0452ddea036d",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/enhancedblockentities-0.9+1.20$arrp-0.6.7.jar",
+                      "sha256":  "8b5dc560e3f2c8a8565df04a95eaacadf9e21811bccc008b1d4cfa65bfa63cfc",
+                      "once":  false,
+                      "size":  158777
+                  },
+                  {
+                      "path":  "mods/.connector/temp/enhancedblockentities-0.9+1.20$arrp-0.6.7.jar.input",
+                      "sha256":  "97ac59c0a97d261899a9fd1906fd8a35b5f49917e2081fcda407402edb6b1ddf",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/enhancedblockentities-0.9+1.20$spruceui-5.0.0+1.20.jar",
+                      "sha256":  "33cd2633f38cbeacabe634fb6a2f94e3211d85b1da0f2535f831432d79424f11",
+                      "once":  false,
+                      "size":  190081
+                  },
+                  {
+                      "path":  "mods/.connector/temp/enhancedblockentities-0.9+1.20$spruceui-5.0.0+1.20.jar.input",
+                      "sha256":  "8c20d58d09d36b63d20c07075aa99bb0cc16e965745cd821508965177cb2ec0a",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/feytweaks-1.20-1.2.7$midnightlib-1.4.1-fabric.jar",
+                      "sha256":  "e94c144416219f39f19483f7a52339021e09ddbf7e820cb086a087298e7e7f2b",
+                      "once":  false,
+                      "size":  57229
+                  },
+                  {
+                      "path":  "mods/.connector/temp/feytweaks-1.20-1.2.7$midnightlib-1.4.1-fabric.jar.input",
+                      "sha256":  "ce527edbbb0d9c3c9252731b4bb2549c600868b5875baad953dfdbe30c3aa9eb",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
+                      "path":  "mods/.connector/temp/feytweaks-1.20-1.2.7$mixinextras-fabric-0.2.0-beta.8.jar",
+                      "sha256":  "369fef77525b7a92463dcb653766f5bb4472ec5c610148d79f6fcd7478f55be9",
+                      "once":  false,
+                      "size":  104713
+                  },
+                  {
+                      "path":  "mods/.connector/temp/feytweaks-1.20-1.2.7$mixinextras-fabric-0.2.0-beta.8.jar.input",
+                      "sha256":  "842626af089bf42bce9d2d9228e27caeebc28d8db562c9971bdd1ddaef349fa9",
                       "once":  false,
                       "size":  92
                   },
