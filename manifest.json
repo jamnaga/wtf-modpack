@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "18/11/2025 03:55:29,26",
+    "generated":  "18/11/2025 05:08:38,26",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -33,9 +33,9 @@
                   },
                   {
                       "path":  "options.txt",
-                      "sha256":  "5decb59a77e4d2b797dbee3f1ba3466aa2e553c709f690f62d815e2de2136e88",
+                      "sha256":  "45e6da1fd0179dc7fc4f6742c9d17ea2a8d3af8d354570b2bf1d7a5c6064b896",
                       "once":  true,
-                      "size":  9848
+                      "size":  9816
                   },
                   {
                       "path":  "servers.dat",
@@ -92,6 +92,12 @@
                       "size":  924
                   },
                   {
+                      "path":  "config/blur-client.toml",
+                      "sha256":  "5d1f67d3dabefcc6eed0b1ac4074e79e6d918f000691f2c727f4d8739f6f59e7",
+                      "once":  false,
+                      "size":  801
+                  },
+                  {
                       "path":  "config/ButchersDelight.json",
                       "sha256":  "dac636a55a374673220275d7260ba223e910c24e4cc1d47a6c3ecb2a805a7843",
                       "once":  false,
@@ -122,10 +128,22 @@
                       "size":  24
                   },
                   {
+                      "path":  "config/collective.json5",
+                      "sha256":  "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f",
+                      "once":  false,
+                      "size":  827
+                  },
+                  {
                       "path":  "config/colorwheel-client.toml",
                       "sha256":  "36b5d2eebd3ec8bcade14f6c0798453e3698677d25b3b6c231001579e8250113",
                       "once":  false,
                       "size":  275
+                  },
+                  {
+                      "path":  "config/comforts-server.toml",
+                      "sha256":  "24702276d0b1d6f7b5e94b4b34cbc5bd426c524a31bc005231324fc1b7976438",
+                      "once":  false,
+                      "size":  1854
                   },
                   {
                       "path":  "config/computercraft-client.toml",
@@ -138,6 +156,12 @@
                       "sha256":  "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22",
                       "once":  false,
                       "size":  144
+                  },
+                  {
+                      "path":  "config/continuity.json",
+                      "sha256":  "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4",
+                      "once":  false,
+                      "size":  122
                   },
                   {
                       "path":  "config/create-client.toml",
@@ -189,9 +213,9 @@
                   },
                   {
                       "path":  "config/cubes_without_borders.json",
-                      "sha256":  "317c43455aae1cd5c6ca2e276d830b13d7ddc63c7d5a562744784d26e84cb254",
+                      "sha256":  "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d",
                       "once":  false,
-                      "size":  215
+                      "size":  209
                   },
                   {
                       "path":  "config/curios-client.toml",
@@ -218,6 +242,12 @@
                       "size":  32500
                   },
                   {
+                      "path":  "config/doubledoors.json5",
+                      "sha256":  "ed3b25678a185a7c560868e047b60ffd7d7bf9b13d3a45cc5c056f5cfd5b088e",
+                      "once":  false,
+                      "size":  981
+                  },
+                  {
                       "path":  "config/do_a_barrel_roll-client.json",
                       "sha256":  "c3b8b81ab6fe44c807fb854bc7ad09bd09b8f9f646785768eb8eb649a29dc130",
                       "once":  false,
@@ -228,6 +258,12 @@
                       "sha256":  "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
                       "once":  false,
                       "size":  2
+                  },
+                  {
+                      "path":  "config/easymagic-client.toml",
+                      "sha256":  "187085002566bc0ad0bd0262459f92716261ae66c3b96147096a5a4ef7a25abf",
+                      "once":  false,
+                      "size":  977
                   },
                   {
                       "path":  "config/embeddium-fingerprint.json",
@@ -252,6 +288,12 @@
                       "sha256":  "4f5d121721a3b093d0d74a426c353a7a264400d4ddb01433da32ada0934fa970",
                       "once":  false,
                       "size":  3518
+                  },
+                  {
+                      "path":  "config/enchdesc.json",
+                      "sha256":  "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5",
+                      "once":  false,
+                      "size":  189
                   },
                   {
                       "path":  "config/entity_model_features.json",
@@ -290,6 +332,12 @@
                       "size":  28
                   },
                   {
+                      "path":  "config/explosiveenhancement.toml",
+                      "sha256":  "c4cc1062283e65fc81ea1493522b1dc45c3b40330441752c2f0c83a9be728e28",
+                      "once":  false,
+                      "size":  1639
+                  },
+                  {
                       "path":  "config/eyemod-common-1.toml.bak",
                       "sha256":  "79b7554361aa4542f8253a05b540335ecf1402a66201a87cdf42fa2d50443be7",
                       "once":  false,
@@ -320,6 +368,12 @@
                       "size":  2207
                   },
                   {
+                      "path":  "config/fallingleaves-client.toml",
+                      "sha256":  "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3",
+                      "once":  false,
+                      "size":  796
+                  },
+                  {
                       "path":  "config/farmersdelight-client.toml",
                       "sha256":  "13a11f20b305f6f975ebc35802d87c7bf22a04dc79464e41089823603b76a227",
                       "once":  false,
@@ -336,6 +390,12 @@
                       "sha256":  "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6",
                       "once":  false,
                       "size":  1516
+                  },
+                  {
+                      "path":  "config/firstperson.json",
+                      "sha256":  "6d9d8a3708ccf453fb710f4e10591cedd4d1767acde97c7da7bbc2cd2c4d4101",
+                      "once":  false,
+                      "size":  593
                   },
                   {
                       "path":  "config/flans-general.toml",
@@ -368,10 +428,28 @@
                       "size":  9202
                   },
                   {
+                      "path":  "config/gml-script-mods.toml",
+                      "sha256":  "dc9b0f9c9c29949bcb91cebb2bcdc111a7d99bee1d2b2ea168f2edbc7b9a1ba6",
+                      "once":  false,
+                      "size":  121
+                  },
+                  {
                       "path":  "config/gravestone-client.toml",
                       "sha256":  "0f7657373c8cccc3e9f11a79533c0c85c84e68762b65e5c6f9728ca9226873d3",
                       "once":  false,
                       "size":  217
+                  },
+                  {
+                      "path":  "config/Harmful-smoke-config.toml",
+                      "sha256":  "18d183f1d78ed1c17e23de03ab9952babab57083883430dc815ee74dd59e8c6d",
+                      "once":  false,
+                      "size":  739
+                  },
+                  {
+                      "path":  "config/healingcampfire.json5",
+                      "sha256":  "66cb4fa208703d9f68183988cc1d8bec10a9786683775e3c09da618bb59a35ae",
+                      "once":  false,
+                      "size":  1229
                   },
                   {
                       "path":  "config/iammusicplayer.toml",
@@ -482,6 +560,12 @@
                       "size":  86
                   },
                   {
+                      "path":  "config/krypton_fnp.yaml",
+                      "sha256":  "f4e13fc8145fcca0c37172b3d36c48a6861c3baa6db4889b543cbf252b6d63a7",
+                      "once":  false,
+                      "size":  144
+                  },
+                  {
                       "path":  "config/laserbridges.json",
                       "sha256":  "556957bbafa61aeefc95f038cdd9a20f5449fb0a64cbb1f89c63552101d47f2b",
                       "once":  false,
@@ -489,9 +573,15 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "a24710ac887a84d0e12b449833fc9a1d0a889180090dac87aa40fc2faea4d4fd",
+                      "sha256":  "c9ab8acd80e45fa593f8b316e8f5c2b95dd4d6b9fd4c2da5891f79306de6103d",
                       "once":  false,
                       "size":  193
+                  },
+                  {
+                      "path":  "config/lodestone-client.toml",
+                      "sha256":  "0d5d3f6d9c15663c62c18b27d7ff826bc5edf776ccb0d6279fb3b6bc9aa5553e",
+                      "once":  false,
+                      "size":  880
                   },
                   {
                       "path":  "config/mafglib.json",
@@ -530,6 +620,12 @@
                       "size":  576
                   },
                   {
+                      "path":  "config/notenoughanimations.json",
+                      "sha256":  "88642f626cc3ee0604f04c65b2d1efbad0c276f1ad50455bfa8b74c0504cf7bd",
+                      "once":  false,
+                      "size":  2448
+                  },
+                  {
                       "path":  "config/ntgl-client.toml",
                       "sha256":  "5edaab1888ad78c69f472113abe2c5312f54499192894a6de44593a14f324bcb",
                       "once":  false,
@@ -543,7 +639,7 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "7274d931b0a7374893fa0c6c6fc4951262062a06de808143bc5e0437dc2e6ff9",
+                      "sha256":  "fed08f5636ec647b7769b44e3b4caded49b1814e99ee08ddbbfbd29eb2838b65",
                       "once":  false,
                       "size":  284
                   },
@@ -590,10 +686,22 @@
                       "size":  33
                   },
                   {
-                      "path":  "config/securitycraft-client.toml",
-                      "sha256":  "cfcb8e6f02c9dcab45bc89c4087faece94ca2254d3bda312768985e53207c499",
+                      "path":  "config/sandwormmod-common.toml",
+                      "sha256":  "17dd8abfe432be2fe7d4b0c8ad16b46ac0089741b0e8add3a1cb07dd2bba566f",
                       "once":  false,
-                      "size":  1307
+                      "size":  1397
+                  },
+                  {
+                      "path":  "config/securitycraft-client.toml",
+                      "sha256":  "600d83bb7ef94b1f2a4ab055026cd592429d3903ff620940e1d06665082f1ca8",
+                      "once":  false,
+                      "size":  1552
+                  },
+                  {
+                      "path":  "config/shouldersurfing-client.toml",
+                      "sha256":  "e35febc290e6789c1b3c531b8f4dcaac22503852b2fbc267922722d4d37f7309",
+                      "once":  false,
+                      "size":  16222
                   },
                   {
                       "path":  "config/sodium-extra-options.json",
@@ -614,8 +722,14 @@
                       "size":  659
                   },
                   {
+                      "path":  "config/solid_mobs.json",
+                      "sha256":  "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0",
+                      "once":  false,
+                      "size":  478
+                  },
+                  {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "e800dbcd2d0a69407d6804201049327e25f6b2de54ee6312566fe3e2c37837f1",
+                      "sha256":  "db217b35687cfbb603c9264bb754ba2f779fe59671349f3c8424c994c0a10c3c",
                       "once":  false,
                       "size":  283
                   },
@@ -686,6 +800,12 @@
                       "size":  131
                   },
                   {
+                      "path":  "config/transition.json",
+                      "sha256":  "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
+                      "once":  false,
+                      "size":  62
+                  },
+                  {
                       "path":  "config/treechop-client.toml",
                       "sha256":  "1be81dc7c3d0fa1e108510e9435f56a6b9d46779e977a5976d25e5b6997bfab5",
                       "once":  false,
@@ -698,10 +818,34 @@
                       "size":  8869
                   },
                   {
+                      "path":  "config/trender.json",
+                      "sha256":  "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2",
+                      "once":  false,
+                      "size":  44
+                  },
+                  {
+                      "path":  "config/visualworkbench-client.toml",
+                      "sha256":  "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954",
+                      "once":  false,
+                      "size":  315
+                  },
+                  {
+                      "path":  "config/visual_workbench.json",
+                      "sha256":  "7885b862b10bf4b14d3103909971114a736d14a52e4a7994ace0d66a2474c14c",
+                      "once":  false,
+                      "size":  11520
+                  },
+                  {
                       "path":  "config/vmp.properties",
-                      "sha256":  "bbcc85f8d890f0956fd16e6ac8f95346d94549fafb803c2bb488ccd4c5b21ce3",
+                      "sha256":  "9854e5a6147cafcf0a43fbb27d946645ee55b84dd5b85fd01958431e74bb92c1",
                       "once":  false,
                       "size":  508
+                  },
+                  {
+                      "path":  "config/wakes-client.toml",
+                      "sha256":  "8bc818a342d873a965d523cfb6226205366848989fabded6535ec0b4f209c574",
+                      "once":  false,
+                      "size":  2173
                   },
                   {
                       "path":  "config/watut-client.toml",
@@ -726,6 +870,12 @@
                       "sha256":  "690202e25181bb7ab70d0cd61cf05fa84d45117764dc3bf3498457dc13309c65",
                       "once":  false,
                       "size":  2880
+                  },
+                  {
+                      "path":  "config/waveycapes.json",
+                      "sha256":  "8ba8caf036bac59033157842f7812cf3eca3434a02d2e7e59648214fe42c48fc",
+                      "once":  false,
+                      "size":  179
                   },
                   {
                       "path":  "config/webdisplays_client.toml",
@@ -765,7 +915,7 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "e3cd9da215541cf57afa46446ff98eee8216adf6dbd07a4318d8ddc1f9f480c5",
+                      "sha256":  "45ed9e226a7b54412deaa78c8a773f02f30aef62ca719e747565401f9115daff",
                       "once":  false,
                       "size":  5532
                   },
@@ -1359,9 +1509,9 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "93e1d62d00d7a6fd88c87a9f58e35c99c68fecba9ca70b3a52c8e749960bb3de",
+                      "sha256":  "53d06dedaac6845223fe7c37132e355291ae6762c4dde532b593807520689a2e",
                       "once":  false,
-                      "size":  282
+                      "size":  290
                   },
                   {
                       "path":  "config/fancymenu/customizablemenus.txt",
@@ -1701,9 +1851,9 @@
                   },
                   {
                       "path":  "config/jei/jei-client.ini",
-                      "sha256":  "8c5ae3646c07bfd87fe9259333c2df2b7eb2670cd0c64c21f48f69e0a5629a18",
+                      "sha256":  "30503916553a0a302f433abd1c99a54303312cf426b7a6b49d0dff0461c82aba",
                       "once":  false,
-                      "size":  7991
+                      "size":  8658
                   },
                   {
                       "path":  "config/jei/jei-colors.ini",
@@ -1958,6 +2108,12 @@
                       "size":  98
                   },
                   {
+                      "path":  "config/pickupnotifier/pickupnotifier-client.toml",
+                      "sha256":  "242a0f58407ecc71ff5e2c6cd2910001c089ee4e6130454c377115e8a8f3c83a",
+                      "once":  false,
+                      "size":  3355
+                  },
+                  {
                       "path":  "config/reborncore/misc.json",
                       "sha256":  "01b9aa50c5ea6978d65bef4bfea6247a550d1d85e716b408c84a698ee2a25576",
                       "once":  false,
@@ -2132,6 +2288,54 @@
                       "size":  6746
                   },
                   {
+                      "path":  "config/roughlyenoughitems/collapsible.json5",
+                      "sha256":  "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919",
+                      "once":  false,
+                      "size":  46
+                  },
+                  {
+                      "path":  "config/roughlyenoughitems/config.json5",
+                      "sha256":  "ea28fefb028e1b74668dbde2a9826e635170b49bbc0fc3b957cb825deb7165fd",
+                      "once":  false,
+                      "size":  5539
+                  },
+                  {
+                      "path":  "config/roughlyenoughitems/favorites.json5",
+                      "sha256":  "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47",
+                      "once":  false,
+                      "size":  61
+                  },
+                  {
+                      "path":  "config/roughlyenoughitems/hints.json",
+                      "sha256":  "b24b7a12fd8e5f22dff43927fc373294723c1def9b1e9425ea18cd5714c5e82c",
+                      "once":  false,
+                      "size":  59
+                  },
+                  {
+                      "path":  "config/sound_physics_remastered/occlusion.properties",
+                      "sha256":  "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb",
+                      "once":  false,
+                      "size":  4831
+                  },
+                  {
+                      "path":  "config/sound_physics_remastered/reflectivity.properties",
+                      "sha256":  "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a",
+                      "once":  false,
+                      "size":  4713
+                  },
+                  {
+                      "path":  "config/sound_physics_remastered/soundphysics.properties",
+                      "sha256":  "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d",
+                      "once":  false,
+                      "size":  5104
+                  },
+                  {
+                      "path":  "config/sound_physics_remastered/sound_rates.properties",
+                      "sha256":  "c7cc8633e640730d3b28b1f5a53db043b0314548cceb0fa2580688c81b3ec810",
+                      "once":  false,
+                      "size":  80916
+                  },
+                  {
                       "path":  "config/spark/activity.json",
                       "sha256":  "1e09f07cb20563c37dc8604ead164db35170dc6fb0e223e46040c682de1aabc9",
                       "once":  false,
@@ -2246,6 +2450,12 @@
                       "size":  3685
                   },
                   {
+                      "path":  "data/fabricDefaultResourcePacks.dat",
+                      "sha256":  "56dcdc36f4d3fe993c688cd6d60c2ef0d83480a63305425e068d171f8fcda7db",
+                      "once":  false,
+                      "size":  34
+                  },
+                  {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@mbackrooms@@level_one/DistantHorizons.sqlite",
                       "sha256":  "58866c035fc35b1ed49defe6516302a81743194fcf60861c5a6b5fdb7e454602",
                       "once":  false,
@@ -2259,9 +2469,9 @@
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite",
-                      "sha256":  "afb244365abb10d0346080e5fef8c9e997eade2a61e84f6036f8597c9bc21bcf",
+                      "sha256":  "e943433f7b86abdb4bd8b4146d39e3f1bedfa81e0f286a5c23a7754d98b9a946",
                       "once":  true,
-                      "size":  104099840
+                      "size":  104202240
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@the_nether/DistantHorizons.sqlite",
@@ -4292,6 +4502,12 @@
                       "size":  97
                   },
                   {
+                      "path":  "mods/aaa_particles-1.20.1-1.4.11-forge.jar",
+                      "sha256":  "687ed116f862b8914a3a80d55ac354ca387bf24f16f15faf3329fab25655c8cf",
+                      "once":  false,
+                      "size":  5255759
+                  },
+                  {
                       "path":  "mods/alcocraftplus-1.20-2.1.0-forge.jar",
                       "sha256":  "b0005e37573521113e807cfa098ba023ceecf75da386d3a180af4b5af11c188f",
                       "once":  false,
@@ -4388,6 +4604,24 @@
                       "size":  138723
                   },
                   {
+                      "path":  "mods/collective-1.20.1-8.13.jar",
+                      "sha256":  "80dd754b75c530768904e912ace11e0cf4deac7d1784b883dbeaead082469cd2",
+                      "once":  false,
+                      "size":  665169
+                  },
+                  {
+                      "path":  "mods/comforts-forge-6.4.0+1.20.1.jar",
+                      "sha256":  "56398103e0e3821c98f21a5b556d57deb0686b9f50868b4278ecb73cc9d2f42c",
+                      "once":  false,
+                      "size":  382083
+                  },
+                  {
+                      "path":  "mods/Connector-1.0.0-beta.46+1.20.1.jar",
+                      "sha256":  "79d58fd7ced77df600eefc927adbbd8e217c2d6b0778c17aa8b27756703145ac",
+                      "once":  false,
+                      "size":  5043375
+                  },
+                  {
                       "path":  "mods/construction deco Forge 1.20.1.jar",
                       "sha256":  "19d3d926f39a4bbc429c4085d0a9515a894b15ea88cd9b37dff21f69b022ed72",
                       "once":  false,
@@ -4442,10 +4676,28 @@
                       "size":  183094
                   },
                   {
+                      "path":  "mods/doubledoors-1.20.1-7.2.jar",
+                      "sha256":  "1847baf0f97a3ebc07735743b0e226c45dd7c289cd03214bcfc7f49ed44ccb1e",
+                      "once":  false,
+                      "size":  54300
+                  },
+                  {
+                      "path":  "mods/EasyMagic-v8.0.1-1.20.1-Forge.jar",
+                      "sha256":  "235a2b0be24bc83a89253e0ee4fc973abfc7cc7caed0fdd698dd139ba91ec367",
+                      "once":  false,
+                      "size":  115947
+                  },
+                  {
                       "path":  "mods/emoji-type-2.2.3+1.20.4-forge.jar",
                       "sha256":  "675012e994bf91a8e96013e2cec37aa513a42d0e3e647aa804b0e300bf0114b1",
                       "once":  false,
                       "size":  28212
+                  },
+                  {
+                      "path":  "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+                      "sha256":  "d8501371240082c3436c03380f7a59820fd981e9c5d9fb2978a222ea114b23ae",
+                      "once":  false,
+                      "size":  69476
                   },
                   {
                       "path":  "mods/etched-3.0.4.jar",
@@ -4460,10 +4712,16 @@
                       "size":  432098
                   },
                   {
-                      "path":  "mods/faithfulBackroomsWAE(1.20).jar.disabled",
-                      "sha256":  "549ea3b2e269e5e133166298dda2365cba0736a0bf0cb4146f91d306a1545169",
+                      "path":  "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+                      "sha256":  "9b140af437581d32e5ee17d20f8fe882000e6a34cba85c152ae5bccc9570cc03",
                       "once":  false,
-                      "size":  12287498
+                      "size":  3065813
+                  },
+                  {
+                      "path":  "mods/faithfulbackrooms-0.2-forge-1.20.1.jar.disabled",
+                      "sha256":  "a6be8c0d32fec9c0cb45cf1ba92d100bef1d3892a6a8938dcb1365f2f2d81467",
+                      "once":  false,
+                      "size":  37903613
                   },
                   {
                       "path":  "mods/fast-ip-ping-v1.0.7-mc1.20.4-forge.jar",
@@ -4490,10 +4748,22 @@
                       "size":  308420
                   },
                   {
+                      "path":  "mods/fusion-1.2.11a-forge-mc1.20.1.jar",
+                      "sha256":  "992b954322943e3ce9eeb16b327f8f1500a7840c62ad03fd279d4a7daa41c4c2",
+                      "once":  false,
+                      "size":  544250
+                  },
+                  {
                       "path":  "mods/geckolib-forge-1.20.1-4.8.2.jar",
                       "sha256":  "a2e4bcc986ce360f4e85d545a86b04c8c9350543ebd17069b6a44c0a8939ffdc",
                       "once":  false,
                       "size":  1038979
+                  },
+                  {
+                      "path":  "mods/gml-4.0.10-all.jar",
+                      "sha256":  "f99ed0c1df92ae4168e9831962581ccd4de7d77fcb96e951205c133eef922962",
+                      "once":  false,
+                      "size":  11125462
                   },
                   {
                       "path":  "mods/gravestone-forge-1.20.1-1.0.35.jar",
@@ -4512,6 +4782,18 @@
                       "sha256":  "977c180e3b883a49289a71f888dea5d9a06815cdb63caaf9d158a98527b5a805",
                       "once":  false,
                       "size":  85832
+                  },
+                  {
+                      "path":  "mods/harmfulsmoke-1.0.7-alpha-forge-1.20.1.jar",
+                      "sha256":  "deb4012a319923eecc5e8839116cf52e9d4c08ecf5686aae6a3ea0d2ed6684fe",
+                      "once":  false,
+                      "size":  168166
+                  },
+                  {
+                      "path":  "mods/healingcampfire-1.20.1-6.2.jar",
+                      "sha256":  "dc4a354f1ca28d42993815028eb6254b6395529825c42ccb08b7f139bde12873",
+                      "once":  false,
+                      "size":  35644
                   },
                   {
                       "path":  "mods/iammusicplayer-forge-mc1.20-3.22.0-alpha.5.jar.disabled",
@@ -4544,6 +4826,12 @@
                       "size":  2428368
                   },
                   {
+                      "path":  "mods/immersive_paintings-0.6.8+1.20.1-forge.jar",
+                      "sha256":  "3979cadefd63846f4929db5d6557c873bf29900da10d2b85703e6e3678bd8ad9",
+                      "once":  false,
+                      "size":  4854834
+                  },
+                  {
                       "path":  "mods/InventoryProfilesNext-forge-1.20-1.10.19.jar",
                       "sha256":  "d4f22942888438f7fabf40e16f47d2e454ece7585a262cdfb7d20b4b13683013",
                       "once":  false,
@@ -4556,12 +4844,6 @@
                       "size":  9921629
                   },
                   {
-                      "path":  "mods/jei-1.20.1-forge-15.20.0.121.jar",
-                      "sha256":  "721e3669a2499649376f3597a21853649ff393de696e16a8fbb20afc61745539",
-                      "once":  false,
-                      "size":  1408557
-                  },
-                  {
                       "path":  "mods/justenoughbreeding-forge-1.20-1.20.1-2.3.0.jar",
                       "sha256":  "b3dc733b4323e0c64af357eeaf19fc767ef841795f8ce0122707556d2a791a3e",
                       "once":  false,
@@ -4572,12 +4854,6 @@
                       "sha256":  "c1802f0bdc1526dcecf89d944606e0685f92aaf663e8837c73dae02890d5f6da",
                       "once":  false,
                       "size":  9877729
-                  },
-                  {
-                      "path":  "mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
-                      "sha256":  "cfea462b5ab4f15b38da6003f7d151bdbb68fa5af30084ae81b8ac0970d7aaae",
-                      "once":  false,
-                      "size":  276231
                   },
                   {
                       "path":  "mods/justzoom_forge_2.1.1_MC_1.20.1.jar",
@@ -4614,6 +4890,12 @@
                       "sha256":  "66a151ed397904135c0109ce390bee93961ef7dd329a2d66860ef5f27adff335",
                       "once":  false,
                       "size":  244410
+                  },
+                  {
+                      "path":  "mods/lodestone-1.20.1-1.6.4.1.jar",
+                      "sha256":  "e9f8b7bc70ba99d97005f2acee2061b149785fbae3c1e37db08c79197bcc7c2d",
+                      "once":  false,
+                      "size":  670934
                   },
                   {
                       "path":  "mods/mbackrooms-1.3.3.jar",
@@ -4682,6 +4964,12 @@
                       "size":  649723
                   },
                   {
+                      "path":  "mods/Psychadelic-Chemistry_1.20.1-1.4.5.jar",
+                      "sha256":  "4770bd0a2f20c2ec0a95c76cc537687fc06aaa0c3d6ad1dd74d295cf98ea3fbb",
+                      "once":  false,
+                      "size":  69276668
+                  },
+                  {
                       "path":  "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
                       "sha256":  "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f",
                       "once":  false,
@@ -4698,6 +4986,18 @@
                       "sha256":  "25a43f08397cf44d1e53a1fd9a99df2232a61d6dae4201c66f0f3cf2f715aefb",
                       "once":  false,
                       "size":  2218573
+                  },
+                  {
+                      "path":  "mods/RoughlyEnoughItems-12.1.785-forge.jar",
+                      "sha256":  "95d2b55868301c9d97dd020ce8049e59dc15cc8d9c88aa648f0bef1f30a728e3",
+                      "once":  false,
+                      "size":  2384003
+                  },
+                  {
+                      "path":  "mods/sandworm_mod-1.1.0.jar",
+                      "sha256":  "80c0a2af12ae223ad9b2ab82a60677bed22b18fd99bf46cfcd4252465dddbd2b",
+                      "once":  false,
+                      "size":  4515705
                   },
                   {
                       "path":  "mods/smokeleafindustry-0.4.7-1.20.1.jar",
@@ -4718,16 +5018,46 @@
                       "size":  443978
                   },
                   {
+                      "path":  "mods/solid_mobs_forge.1.19.4+1.20-1.7.1.jar",
+                      "sha256":  "3a2a9c2da15e66e9aa3bf433e1586d67053984c40a9dc4cf950b96c9da57ae6e",
+                      "once":  false,
+                      "size":  147723
+                  },
+                  {
+                      "path":  "mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+                      "sha256":  "1d7a0d4cdbdee61532dd23ddbc2833292e945d8ec2d20f3271af86b02b0fc108",
+                      "once":  false,
+                      "size":  206984
+                  },
+                  {
                       "path":  "mods/spark-1.10.53-forge.jar",
                       "sha256":  "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed",
                       "once":  false,
                       "size":  3114590
                   },
                   {
+                      "path":  "mods/spawn-animations-compats-12.0.jar",
+                      "sha256":  "2ece9b9cbb2e658a2ebf5baa33b0f667aeb1b7a73f378f8642fd82db94d2ce70",
+                      "once":  false,
+                      "size":  59821
+                  },
+                  {
+                      "path":  "mods/spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar",
+                      "sha256":  "a12f393691d4125c94c0e059592c2e54b1b21e4f887597fccb3a8f743d4cec63",
+                      "once":  false,
+                      "size":  220435
+                  },
+                  {
                       "path":  "mods/stealing_villagers-forge-1.20.1-1.0.0.jar",
                       "sha256":  "44fc45aa3a7a61c7b862454d0ec508d5f10f31eb3a52e3ee05e737fd6e8e61fb",
                       "once":  false,
                       "size":  72829
+                  },
+                  {
+                      "path":  "mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+                      "sha256":  "b89c7703f909c75bff8981be7a3c7219138e01549666bd5cd5c47a1d6330489e",
+                      "once":  false,
+                      "size":  515362
                   },
                   {
                       "path":  "mods/supplementaries-1.20-3.1.41.jar",
@@ -4766,16 +5096,34 @@
                       "size":  16750614
                   },
                   {
+                      "path":  "mods/VisualWorkbench-v8.0.1-1.20.1-Forge.jar",
+                      "sha256":  "915f226fa14ce274879487dd14f38af5c57e1a9ada85099501134c4c8a03897a",
+                      "once":  false,
+                      "size":  82557
+                  },
+                  {
                       "path":  "mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.101-all.jar",
                       "sha256":  "83989e3e2188d520ca71083c0840d8d6c3a89d35f79232f98bc476c113505ca3",
                       "once":  false,
                       "size":  452457
                   },
                   {
+                      "path":  "mods/wakes-1.20.1-Forge-1.0.5.jar",
+                      "sha256":  "368b1362b439f544812e97cddc3f82e5ae714d9b6db3eb9ce5654bdcf5ef669d",
+                      "once":  false,
+                      "size":  191632
+                  },
+                  {
                       "path":  "mods/watut-forge-1.20.1-1.2.3.jar",
                       "sha256":  "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e",
                       "once":  false,
                       "size":  435496
+                  },
+                  {
+                      "path":  "mods/waveycapes-forge-1.8.0-mc1.20.1.jar",
+                      "sha256":  "19b154e006ad0b9bb899b7b3bbfcf4c531018c2f905d3832f9a935ffa70af27d",
+                      "once":  false,
+                      "size":  1835196
                   },
                   {
                       "path":  "mods/WeirdCommands-1.20-0.1.0.jar",
@@ -4820,10 +5168,28 @@
                       "size":  468517
                   },
                   {
+                      "path":  "mods/[client]blur-forge-3.1.1.jar",
+                      "sha256":  "7ab7248ecfc0fa9cf2e6dd7530732263e580d7a794a6ba999366af345e7c8e71",
+                      "once":  false,
+                      "size":  177259
+                  },
+                  {
                       "path":  "mods/[client]colorwheel-forge-1.1.1+mc1.20.1.jar",
                       "sha256":  "2440260d49f61cf7e6530a2da5c7c38fc11792e4d62f6caf7377b688c066178f",
                       "once":  false,
                       "size":  363116
+                  },
+                  {
+                      "path":  "mods/[client]connectedglass-1.1.14-forge-mc1.20.1.jar",
+                      "sha256":  "a00e37b978c6d73110157879373fe3e97784bbf0c8d4e5fc8dbd9f00e1113fc0",
+                      "once":  false,
+                      "size":  873714
+                  },
+                  {
+                      "path":  "mods/[client]continuity-3.0.0+1.20.1.forge.jar",
+                      "sha256":  "855ee87de79b0e161713a2689f3f2d07259e9490af194b8cfb6a4400c6ea1c76",
+                      "once":  false,
+                      "size":  1016666
                   },
                   {
                       "path":  "mods/[client]cwb-forge-3.0.0+mc1.20.jar",
@@ -4844,6 +5210,12 @@
                       "size":  239365
                   },
                   {
+                      "path":  "mods/[client]eatinganimation-1.20.1-5.1.0.jar",
+                      "sha256":  "506ffc2e2bcc5709c8121382c5d0428ca642ceaeebe2a9169c9b0475a83c657c",
+                      "once":  false,
+                      "size":  294792
+                  },
+                  {
                       "path":  "mods/[client]embeddium-0.3.31+mc1.20.1.jar",
                       "sha256":  "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
                       "once":  false,
@@ -4862,10 +5234,28 @@
                       "size":  894117
                   },
                   {
+                      "path":  "mods/[client]explosiveenhancement-forge-1.20.1-1.1.0-client.jar",
+                      "sha256":  "a95ccaa83a94468357bd57806a2e1fd36f1e0aa04fd04b51df632f56ccb53e66",
+                      "once":  false,
+                      "size":  85868
+                  },
+                  {
+                      "path":  "mods/[client]fallingleaves-1.20.1-2.1.2.jar",
+                      "sha256":  "6202d8241f01e21278fd5de644fd2e992824069f2cf0fc9dc6a74ab2218015b6",
+                      "once":  false,
+                      "size":  124212
+                  },
+                  {
                       "path":  "mods/[client]fancymenu_forge_3.7.0_MC_1.20.1.jar",
                       "sha256":  "f473e8f82831f883853c25d12c47ce2f6e97c860775ccb9ea1f2d27adc8eb1ea",
                       "once":  false,
                       "size":  3628603
+                  },
+                  {
+                      "path":  "mods/[client]firstperson-forge-2.6.0-mc1.20.1.jar",
+                      "sha256":  "b971545b1c47aacd935f139e72bdf857ad33ba7616bec245c12119a0aa8ab9c2",
+                      "once":  false,
+                      "size":  1784179
                   },
                   {
                       "path":  "mods/[client]GeckoLibOculusCompat-Forge-1.0.1.jar",
@@ -4886,16 +5276,34 @@
                       "size":  37178
                   },
                   {
+                      "path":  "mods/[client]notenoughanimations-forge-1.10.6-mc1.20.1.jar",
+                      "sha256":  "6f9d7a22e49357183ea2125c83cd8eb87ce3033b8eaa307b0cd3dacbfb954b5a",
+                      "once":  false,
+                      "size":  843250
+                  },
+                  {
                       "path":  "mods/[client]oculus-mc1.20.1-1.8.0.jar",
                       "sha256":  "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
                       "once":  false,
                       "size":  2851119
                   },
                   {
+                      "path":  "mods/[client]PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+                      "sha256":  "b343d2068413d895deb45417f56d2c823fe07b173879c1b03575eebfc189011d",
+                      "once":  false,
+                      "size":  102164
+                  },
+                  {
                       "path":  "mods/[client]rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
                       "sha256":  "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da",
                       "once":  false,
                       "size":  568608
+                  },
+                  {
+                      "path":  "mods/[client]ShoulderSurfing-Forge-1.20.1-4.15.0.jar",
+                      "sha256":  "fed05648ba7250c77aa2d38a5cffd26a8d1fda584a8d865be6b2e815d227230a",
+                      "once":  false,
+                      "size":  251309
                   },
                   {
                       "path":  "mods/.connector/TechReborn-5.8.8$energy-3.0.0_mapped_srg_1.20.1.jar",
@@ -4934,6 +5342,18 @@
                       "size":  92
                   },
                   {
+                      "path":  "mods/.connector/[client]continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
+                      "sha256":  "3b3fe8fdc052df87c3c195e637109fea775e89f15e235fa792a821c0806d8ce2",
+                      "once":  false,
+                      "size":  1023767
+                  },
+                  {
+                      "path":  "mods/.connector/[client]continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "be881cc02d6d86b62cd7946b18c3510b6e3abb0e6ba559c338365945bfe0dd4b",
+                      "once":  false,
+                      "size":  92
+                  },
+                  {
                       "path":  "mods/.connector/temp/TechReborn-5.8.8$energy-3.0.0.jar",
                       "sha256":  "fa90c3e7bfd5f17ba60981e57c5b965d3618ebc6c512fd3b5947920e9cb81aef",
                       "once":  false,
@@ -4968,6 +5388,36 @@
                       "sha256":  "75bc6527cb2a7a2a2ba7cff8f3919915e0f69f5b11517f26e7e9b3b8390e92af",
                       "once":  false,
                       "size":  92
+                  },
+                  {
+                      "path":  "mod_data/gml/1.20.1/official.txt",
+                      "sha256":  "67bfc33ef0c7103f002d6ac134f8eddd3d67e2ce45d266e83816d1a2e2c9b01d",
+                      "once":  false,
+                      "size":  8001795
+                  },
+                  {
+                      "path":  "mod_data/gml/1.20.1/README",
+                      "sha256":  "880a787f5b06b15a94e4b83b8c6d2fabf6bdd22269df2d6b9b887393140d8f9f",
+                      "once":  false,
+                      "size":  178
+                  },
+                  {
+                      "path":  "mod_data/gml/1.20.1/srg.zip",
+                      "sha256":  "f46d1050d8bed9046886b90a0d2fb80b4c6b5120fc35d32e5d37498dbe0a6d2a",
+                      "once":  false,
+                      "size":  1740711
+                  },
+                  {
+                      "path":  "mod_data/gml/1.20.1/version.json",
+                      "sha256":  "e58c0ea913262d11ba25c9ff275f156ba66c71c203b9065fe45acb508d22f7bd",
+                      "once":  false,
+                      "size":  34974
+                  },
+                  {
+                      "path":  "natives/EffekseerNativeForJava.dll",
+                      "sha256":  "cd6309b22db267ea9f96b7b759156617fb4d5299151203d1bd831db9710c4fde",
+                      "once":  false,
+                      "size":  2112000
                   },
                   {
                       "path":  "natives/1.20.1/glfw.dll",
@@ -5271,7 +5721,7 @@
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt",
-                      "sha256":  "4f10cc9865c91a9d3fd203884f7383c8099246f9576ac9dfe80a580e1202f4d6",
+                      "sha256":  "2a02dd2ee0972d863e90cb763ecba879cc12309472ff292c9a56ce7170f2ac49",
                       "once":  true,
                       "size":  366
                   },
