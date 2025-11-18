@@ -1,0 +1,9 @@
+
+[Settings]
+	#If set to true, there will be no wither effect after smoking, if false (as by default), the wither effect will be after smoking
+	"Smoking without harm" = false
+	#By default it is false, if you switch to true, then smoking will have the Nausea effect, if not, with blindness, as usual.
+	Nausea = false
+	#Changes the position of decorative tobacco products on the player's skin, in order to change the position you need to change the first number (by default it is set to 0.0), to the range [-6; 1] (when using negative numbers the cigarette will shift up, if you use positive ones the shift will be down), the changes will come into effect after re-entering the game
+	"Position of decorative tobacco products" = 0.0
+
