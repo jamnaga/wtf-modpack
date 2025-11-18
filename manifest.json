@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "18/11/2025 05:29:59,21",
+    "generated":  "18/11/2025 05:41:42,77",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -567,7 +567,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "c9ab8acd80e45fa593f8b316e8f5c2b95dd4d6b9fd4c2da5891f79306de6103d",
+                      "sha256":  "28d37d06217473e4511788fc8742a0ac8b221de4b1a92caaf1adbaded84618c2",
                       "once":  false,
                       "size":  193
                   },
@@ -615,7 +615,7 @@
                   },
                   {
                       "path":  "config/notenoughanimations.json",
-                      "sha256":  "88642f626cc3ee0604f04c65b2d1efbad0c276f1ad50455bfa8b74c0504cf7bd",
+                      "sha256":  "9e99928dc642af25902d961c4474a9e221f8124d2a21b4317408945ddbb21b37",
                       "once":  false,
                       "size":  2448
                   },
@@ -633,7 +633,7 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "fed08f5636ec647b7769b44e3b4caded49b1814e99ee08ddbbfbd29eb2838b65",
+                      "sha256":  "b69620e9264ce8121317e4c55fc70ab8a6ff64a896c7092ee3f7e885ee679150",
                       "once":  false,
                       "size":  284
                   },
@@ -723,7 +723,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "db217b35687cfbb603c9264bb754ba2f779fe59671349f3c8424c994c0a10c3c",
+                      "sha256":  "9e11b921e0820b34b073cb4243f07ab31ac9ec43748bc9c9b5d96658ddf01add",
                       "once":  false,
                       "size":  283
                   },
@@ -831,7 +831,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "9854e5a6147cafcf0a43fbb27d946645ee55b84dd5b85fd01958431e74bb92c1",
+                      "sha256":  "56d417f81e3f9ace2997e999b6307e8e2122cd2de07bbe3ddedf16f6827fc45e",
                       "once":  false,
                       "size":  508
                   },
@@ -909,7 +909,7 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "45ed9e226a7b54412deaa78c8a773f02f30aef62ca719e747565401f9115daff",
+                      "sha256":  "f1dfc5dc3a023e0a3d5b7e6f3088b8e3051ffe2943cb9a9cc752f6c78a872ea0",
                       "once":  false,
                       "size":  5532
                   },
@@ -1503,7 +1503,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "53d06dedaac6845223fe7c37132e355291ae6762c4dde532b593807520689a2e",
+                      "sha256":  "917ebc81f0ca0e86ef042ab5ab8511d97a273cbd090522e10796655e84f1120e",
                       "once":  false,
                       "size":  290
                   },
@@ -2103,7 +2103,7 @@
                   },
                   {
                       "path":  "config/pickupnotifier/pickupnotifier-client.toml",
-                      "sha256":  "242a0f58407ecc71ff5e2c6cd2910001c089ee4e6130454c377115e8a8f3c83a",
+                      "sha256":  "6b268903b8d128eba72360bc611f571387706f2671d1342ec26a5561491fcace",
                       "once":  false,
                       "size":  3355
                   },
@@ -2295,9 +2295,9 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
-                      "sha256":  "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47",
+                      "sha256":  "3d1ac1aa559667c09fd0d9902bc603fdb03cb18a3b08d82933eee0d3dd042b58",
                       "once":  false,
-                      "size":  61
+                      "size":  180
                   },
                   {
                       "path":  "config/roughlyenoughitems/hints.json",
@@ -2307,13 +2307,13 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin.properties",
-                      "sha256":  "625f55f3a13743cdfd2b68c6fd2bb06d6f392685ca16ee43df5001be10e319a1",
+                      "sha256":  "fbceec734bb5ba8a6a1797e20f61a4d3f794507215d2479c2c3e3c50ecbeffa1",
                       "once":  false,
                       "size":  48
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin_double.properties",
-                      "sha256":  "71f6e8b1bd7bcec2b64eb80424f3c093d213092ec8cf85bc5522b460e6103c40",
+                      "sha256":  "231526807ecc9623c914dacfcb89ffe9754afcaccaed9bab1f5cc2b586f86966",
                       "once":  false,
                       "size":  73
                   },
@@ -2475,21 +2475,9 @@
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite",
-                      "sha256":  "e943433f7b86abdb4bd8b4146d39e3f1bedfa81e0f286a5c23a7754d98b9a946",
+                      "sha256":  "63f76a6d455dac617f45c236cfeaabddba48f9728a07ad0fe4a7b7cb3fb3891f",
                       "once":  true,
-                      "size":  104202240
-                  },
-                  {
-                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite-shm",
-                      "sha256":  "a9ce9a05ca5633bf6d34fda489d6f4993f36dbda20405dfa598220a5c414be21",
-                      "once":  false,
-                      "size":  32768
-                  },
-                  {
-                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite-wal",
-                      "sha256":  "363d6d94935c488caf49e9ddae79209a95b32855ef6782e1e614dac83ba8f684",
-                      "once":  false,
-                      "size":  2043552
+                      "size":  104452096
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@the_nether/DistantHorizons.sqlite",
@@ -4982,6 +4970,12 @@
                       "size":  649723
                   },
                   {
+                      "path":  "mods/PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+                      "sha256":  "b343d2068413d895deb45417f56d2c823fe07b173879c1b03575eebfc189011d",
+                      "once":  false,
+                      "size":  102164
+                  },
+                  {
                       "path":  "mods/Psychadelic-Chemistry_1.20.1-1.4.5.jar",
                       "sha256":  "4770bd0a2f20c2ec0a95c76cc537687fc06aaa0c3d6ad1dd74d295cf98ea3fbb",
                       "once":  false,
@@ -5298,12 +5292,6 @@
                       "sha256":  "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
                       "once":  false,
                       "size":  2851119
-                  },
-                  {
-                      "path":  "mods/[client]PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
-                      "sha256":  "b343d2068413d895deb45417f56d2c823fe07b173879c1b03575eebfc189011d",
-                      "once":  false,
-                      "size":  102164
                   },
                   {
                       "path":  "mods/[client]rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
@@ -5733,7 +5721,7 @@
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt",
-                      "sha256":  "2a02dd2ee0972d863e90cb763ecba879cc12309472ff292c9a56ce7170f2ac49",
+                      "sha256":  "bb88d89b50574142cb7e7186c85fe2a580b66083705d0c6b5c1437d98992dcc4",
                       "once":  true,
                       "size":  366
                   },

@@ -6,7 +6,7 @@
 	inventory_count = false
 	#Mode for drawing a background behind entries for better visibility. 'CHAT' is similar to the chat background, 'TOOLTIP' uses the tooltip background rendering instead.
 	#Allowed Values: NONE, CHAT, TOOLTIP
-	entry_background = "NONE"
+	entry_background = "TOOLTIP"
 	#Add the name of the item to the entry.
 	display_item_name = true
 	#Where and if to display the amount of items picked up. 'SPRITE' will render the amount on the item sprite like in inventories, 'TEXT' will add a dedicated text including the amount to the item name display.
@@ -21,7 +21,7 @@
 	ignore_rarity = false
 	#Screen corner for entry list to be drawn in.
 	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
-	screen_corner = "BOTTOM_RIGHT"
+	screen_corner = "TOP_RIGHT"
 	#Offset on x-axis from screen border.
 	#Range: > 0
 	offset_x = 8
@@ -30,7 +30,7 @@
 	offset_y = 4
 	#Percentage of relative screen height entries are allowed to fill at max.
 	#Range: 0.0 ~ 1.0
-	max_height = 0.5
+	max_height = 1.0
 	#Scale of entries. A lower scale will make room for more rows to show. Works together with "GUI Scale" option in "Video Settings".
 	#Range: 1 ~ 24
 	scale = 4
