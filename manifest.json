@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "18/11/2025 05:41:42,77",
+    "generated":  "18/11/2025 05:54:49,73",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -33,9 +33,9 @@
                   },
                   {
                       "path":  "options.txt",
-                      "sha256":  "8d302cd84fa4641fc5e60a6e0940b0c29009d6600e43d8dcf783931ab01522d4",
+                      "sha256":  "fb3e235f13f4e26d723f158cd034b26153a1e4b9e26f4636a5eb0e5742a4e920",
                       "once":  true,
-                      "size":  9374
+                      "size":  9329
                   },
                   {
                       "path":  "servers.dat",
@@ -516,6 +516,12 @@
                       "sha256":  "389ea9e152f34c1de3033fbd4737d3c945476f386e5c1ced2997c1d94bcab4a5",
                       "once":  false,
                       "size":  1334
+                  },
+                  {
+                      "path":  "config/immersive_paintings.json",
+                      "sha256":  "65503c4720dd1017227041ee6ce26650a75a123af7331d66c5fac0a2cdace94c",
+                      "once":  false,
+                      "size":  584
                   },
                   {
                       "path":  "config/immersive_portals.json",
@@ -2295,9 +2301,9 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
-                      "sha256":  "3d1ac1aa559667c09fd0d9902bc603fdb03cb18a3b08d82933eee0d3dd042b58",
+                      "sha256":  "73e6b93a6057f4a070f940ce75885016e2838f77588a66f8c92bb1cab4fcd31b",
                       "once":  false,
-                      "size":  180
+                      "size":  295
                   },
                   {
                       "path":  "config/roughlyenoughitems/hints.json",
@@ -2307,13 +2313,13 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin.properties",
-                      "sha256":  "fbceec734bb5ba8a6a1797e20f61a4d3f794507215d2479c2c3e3c50ecbeffa1",
+                      "sha256":  "2f5da638c6c6508cd5540fe7b978ce41e8e58da7d08106c0e54d2952255c717e",
                       "once":  false,
                       "size":  48
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin_double.properties",
-                      "sha256":  "231526807ecc9623c914dacfcb89ffe9754afcaccaed9bab1f5cc2b586f86966",
+                      "sha256":  "884caffa69f5f72317c837080f31a18e097594409ec520736d39c57f36e50cbe",
                       "once":  false,
                       "size":  73
                   },
@@ -2475,9 +2481,9 @@
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite",
-                      "sha256":  "63f76a6d455dac617f45c236cfeaabddba48f9728a07ad0fe4a7b7cb3fb3891f",
+                      "sha256":  "af04f35ec66c6b9162adfaf6290ab2fc2317f845f31259f45c485207001e39d4",
                       "once":  true,
-                      "size":  104452096
+                      "size":  104640512
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@the_nether/DistantHorizons.sqlite",
@@ -2520,6 +2526,162 @@
                       "sha256":  "83e6f328e1e3cd1c451f8251304ae0cdb1a9d92bf1236a1a5acb852db4509027",
                       "once":  false,
                       "size":  260
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/16333659-af6a-4542-bf80-25eba03e7123.png",
+                      "sha256":  "8daf2eede20dab48944532fc7b8f3d1a91bba36898a2d3fd7eac43d0093e8357",
+                      "once":  false,
+                      "size":  485002
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/5d4bea76-958e-4a50-83c9-774f39580774.png",
+                      "sha256":  "7a5f18471a685b56a2646504ad1abe5dd3ed3059d7c52c1aebf9c257eb07e58b",
+                      "once":  false,
+                      "size":  199164
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsairshipsalexruizart32pxpng_thumbnail.png",
+                      "sha256":  "3ada507abd1f37c01cd9291f090f7644e6df3673d502bb1cdb3f2f2a891c2b40",
+                      "once":  false,
+                      "size":  26947
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsautumnnostalgiatree32pxpng.png",
+                      "sha256":  "3dce428972835ffe8f7f93b586494bc38aca9f3a842cf580c57192694dca3216",
+                      "once":  false,
+                      "size":  16099
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsbeyondhillanddalealenaaenami32pxpng.png",
+                      "sha256":  "1a33eac4cad33744e61ad8beaf2143a128111100a8f51dd73c4af64f34b74800",
+                      "once":  false,
+                      "size":  4281
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingscavernsennin1332pxpng.png",
+                      "sha256":  "f27b156373a5be53860852b76e7b9ee8b8145bd41b28e0e12a1007fee4fb7a11",
+                      "once":  false,
+                      "size":  6469
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsconceptbinubalan32pxpng_thumbnail.png",
+                      "sha256":  "b6969e2c8484beceb5fec06a2e6e056542372e3c2127af2527db7620db9692fd",
+                      "once":  false,
+                      "size":  11382
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingscthulhuandreewallin32pxpng.png",
+                      "sha256":  "6c037a2e066a32fdac336e86a460b818c0fdcf899fb582e450bc7e2da7b6f6bd",
+                      "once":  false,
+                      "size":  9138
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsdarkphoenixstarkiteckt32pxpng_thumbnail.png",
+                      "sha256":  "f1fa466be4f21b192bc91a0a8c7678c34798d126b90ee6dcd06e480488ab4381",
+                      "once":  false,
+                      "size":  13622
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsdeerlandscapebyzwadher32pxpng.png",
+                      "sha256":  "acf26b445dd722491f68cf45fff3d48247ae40d8d8e9c7431ee0893931518c4b",
+                      "once":  false,
+                      "size":  3970
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsfrostvalleyjorgejacinto32pxpng.png",
+                      "sha256":  "583ed636ad3d919af3c13ebef8cf974df75fe020c1ebe725cb1f88384530ca4c",
+                      "once":  false,
+                      "size":  10108
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsgothiclandscapesorokaalexej32pxpng.png",
+                      "sha256":  "e3bcc0f31781625df694e93cb2d44daa9eeb012f46c64cb81a10c8f58ca84baf",
+                      "once":  false,
+                      "size":  11576
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingshazycastledavidfrasheski32pxpng_thumbnail.png",
+                      "sha256":  "3a861251809af9c5593c810bd6876ff037489d490e1fb535f4f7e8399de1163f",
+                      "once":  false,
+                      "size":  12582
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsikrannebulastarkiteckt32pxpng.png",
+                      "sha256":  "6ac51c1024be11bafcf9e4d09f7a6b9ca985ab16cb5d828d951599b9c73086c4",
+                      "once":  false,
+                      "size":  3217
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingslakesareltheron32pxpng.png",
+                      "sha256":  "ed57b3a2a2cbd02a35e20dc2bb8144f965fc3568a54aaa9656d146b0f016803c",
+                      "once":  false,
+                      "size":  10965
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingslifeintheskyvladimirkostuchek32pxpng.png",
+                      "sha256":  "9f3e33d406d393acc5143898a3413aa2d75c6dec62c2cc33470ea425c3e46b66",
+                      "once":  false,
+                      "size":  11341
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsnevermorejosefbarton32pxpng.png",
+                      "sha256":  "216de657d20a992ca17a52dbff44e1100070bb97dace95680506115959a19092",
+                      "once":  false,
+                      "size":  14061
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingssmallmemorymikaelgustafsson32pxpng.png",
+                      "sha256":  "81cbc53b8beeb1282c826acf8db5fb2222f0d3993a7194b43a7dd3890aceb27b",
+                      "once":  false,
+                      "size":  9336
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingstheancientonesjessicawoulfe32pxpng.png",
+                      "sha256":  "7fa4073b86ae4748c1d69d595bc99e030dca1a731a67234e04f89a4598552723",
+                      "once":  false,
+                      "size":  4019
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingstheesteemedpalacechrisostrowski32pxpng.png",
+                      "sha256":  "cfecaa4a494176cc82c2dbca30aa016b3d2a0709adc0320060090dcedd17f4f7",
+                      "once":  false,
+                      "size":  8355
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsthelostlegendxutianhua32pxpng.png",
+                      "sha256":  "ad309c1b5c9604a43ba9d45c7b86aad6194757c4f3cca5ee87e4e5dc0d3ec1c4",
+                      "once":  false,
+                      "size":  9994
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsthetorchstarkiteckt32pxpng.png",
+                      "sha256":  "29c7478b6cf80333f42df82a0f5efd719c9d6a13bc273ab3d3aa6d969e1afa1e",
+                      "once":  false,
+                      "size":  15166
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingstranquilsundaywalkscilex32pxpng_thumbnail.png",
+                      "sha256":  "e5d1536bcb5ba732672d0cee59398463bae003eb8201a42f2da696b3f1c002e8",
+                      "once":  false,
+                      "size":  6389
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsunderwatertox500032pxpng_thumbnail.png",
+                      "sha256":  "d22228bd06237e57048c62a20771ea9b6b715b39afcdd8d3dd00231f16bea3f3",
+                      "once":  false,
+                      "size":  18101
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingsvenedigverena32pxpng.png",
+                      "sha256":  "293d91b1efdaf09521da749362352ece7b7b9466a1eef4b3c4d96dc632ccec02",
+                      "once":  false,
+                      "size":  2705
+                  },
+                  {
+                      "path":  "immersive_paintings_cache/immersivepaintingspaintingswindmilltowndarekzabrocki32pxpng_thumbnail.png",
+                      "sha256":  "c4d12b23e2dffcd453de6d6cc99e02c194a24903cbd2ff90f4cb661ed51bb3e0",
+                      "once":  false,
+                      "size":  25112
                   },
                   {
                       "path":  "java/zulu17.58.21-ca-jre17.0.15-win_x64/DISCLAIMER",
