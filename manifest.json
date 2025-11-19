@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "18/11/2025 22:19:22,81",
+    "generated":  "19/11/2025 01:47:15,71",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -33,9 +33,9 @@
                   },
                   {
                       "path":  "options.txt",
-                      "sha256":  "e3171030d823f05ed3edd3ed1976ee521b91bd058792b5b8b766f8c3aa8921a5",
+                      "sha256":  "fb3e235f13f4e26d723f158cd034b26153a1e4b9e26f4636a5eb0e5742a4e920",
                       "once":  true,
-                      "size":  9330
+                      "size":  9329
                   },
                   {
                       "path":  "servers.dat",
@@ -213,9 +213,9 @@
                   },
                   {
                       "path":  "config/cubes_without_borders.json",
-                      "sha256":  "fc23de68ad82636995de4b3da07d4732767e51d4f8c048a0749f42958b8afa47",
+                      "sha256":  "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d",
                       "once":  false,
-                      "size":  202
+                      "size":  209
                   },
                   {
                       "path":  "config/curios-client.toml",
@@ -351,12 +351,18 @@
                   },
                   {
                       "path":  "config/eyemod-common-3.toml.bak",
-                      "sha256":  "d53e2bc51c84314d207e8c1508d274f557f92a3157a84dc3a6cf3f001bc3dd2d",
+                      "sha256":  "79b7554361aa4542f8253a05b540335ecf1402a66201a87cdf42fa2d50443be7",
                       "once":  false,
                       "size":  2207
                   },
                   {
                       "path":  "config/eyemod-common-4.toml.bak",
+                      "sha256":  "d53e2bc51c84314d207e8c1508d274f557f92a3157a84dc3a6cf3f001bc3dd2d",
+                      "once":  false,
+                      "size":  2207
+                  },
+                  {
+                      "path":  "config/eyemod-common-5.toml.bak",
                       "sha256":  "d53e2bc51c84314d207e8c1508d274f557f92a3157a84dc3a6cf3f001bc3dd2d",
                       "once":  false,
                       "size":  2207
@@ -573,7 +579,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "28d37d06217473e4511788fc8742a0ac8b221de4b1a92caaf1adbaded84618c2",
+                      "sha256":  "8d5d14cabca66b24a8a350879eede6d9a810c748b0c08aae597acbe020db0688",
                       "once":  false,
                       "size":  193
                   },
@@ -639,7 +645,7 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "b69620e9264ce8121317e4c55fc70ab8a6ff64a896c7092ee3f7e885ee679150",
+                      "sha256":  "e79b2e488a51f18e8627d5010700f8c8e75e91a0ef69f496f1c940a1b2c9d92c",
                       "once":  false,
                       "size":  284
                   },
@@ -729,7 +735,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "9e11b921e0820b34b073cb4243f07ab31ac9ec43748bc9c9b5d96658ddf01add",
+                      "sha256":  "df91fb50f82ff7f42c23776942a1c5541ecc045d880f589670fe56ee8083ac13",
                       "once":  false,
                       "size":  283
                   },
@@ -837,7 +843,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "56d417f81e3f9ace2997e999b6307e8e2122cd2de07bbe3ddedf16f6827fc45e",
+                      "sha256":  "755ae38152d69d37ac5a5ed9a97e518119cdf29a3796b8129404345304de26e5",
                       "once":  false,
                       "size":  508
                   },
@@ -915,9 +921,9 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "2018581c5f05e42b1e3ffb17c10c47ceaac37361a4c20fbb7064ab6ba027a2a5",
+                      "sha256":  "f1dfc5dc3a023e0a3d5b7e6f3088b8e3051ffe2943cb9a9cc752f6c78a872ea0",
                       "once":  false,
-                      "size":  5722
+                      "size":  5532
                   },
                   {
                       "path":  "config/xaeropatreon.txt",
@@ -1496,6 +1502,18 @@
                       "size":  1584
                   },
                   {
+                      "path":  "config/asyncparticles/asyncparticles-mixin.properties",
+                      "sha256":  "e73186680bfe362677a893c2d2e79a687b84f7d0e0dc69dc4a3c208462ffd5e3",
+                      "once":  false,
+                      "size":  2723
+                  },
+                  {
+                      "path":  "config/asyncparticles/asyncparticles.json",
+                      "sha256":  "72bfde8438ee8dc1c6f234315eda6487aa684b6561a60c0df14c150f4f90e6a4",
+                      "once":  false,
+                      "size":  1357
+                  },
+                  {
                       "path":  "config/CoroUtil/General.toml",
                       "sha256":  "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398",
                       "once":  false,
@@ -1509,7 +1527,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "917ebc81f0ca0e86ef042ab5ab8511d97a273cbd090522e10796655e84f1120e",
+                      "sha256":  "8d14a42654abcdd73c98025b7b7d6c70799348a0ce3744d149d034dae349daf7",
                       "once":  false,
                       "size":  290
                   },
@@ -1562,12 +1580,6 @@
                       "size":  16759544
                   },
                   {
-                      "path":  "config/fancymenu/assets/image.png",
-                      "sha256":  "ebc0b00339961abb0fdb41541719c2ec4f3f7db46d68cbd90bc1abb7e68ee946",
-                      "once":  false,
-                      "size":  1670072
-                  },
-                  {
                       "path":  "config/fancymenu/assets/logo.png",
                       "sha256":  "343671583145ceb83ff088063c2fa6f623e2fd4a4f393317460478d3a07a0859",
                       "once":  false,
@@ -1593,15 +1605,63 @@
                   },
                   {
                       "path":  "config/fancymenu/customization/title_screen_layout.txt",
-                      "sha256":  "4aa654412b2cc84e3a65e56acbf55b73a7dc8160b5e0bf6e52b4942ae09db531",
+                      "sha256":  "8a90beddf41ae26266216f1ee546bf230346370c4c29a87d1d03285285ef019f",
                       "once":  false,
-                      "size":  35648
+                      "size":  34510
                   },
                   {
                       "path":  "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-                      "sha256":  "795b81df9004cfd5e4105a0aad484d9a91122880135df21dea4ebcd4da0b7e06",
+                      "sha256":  "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495",
                       "once":  false,
-                      "size":  209
+                      "size":  197
+                  },
+                  {
+                      "path":  "config/fancymenu/slideshows/show/properties.txt",
+                      "sha256":  "7837786bd81dd3b47e9a961b136824c3f1d0a578c54e696d5e5fb072bafb712a",
+                      "once":  false,
+                      "size":  181
+                  },
+                  {
+                      "path":  "config/fancymenu/slideshows/show/images/2025-11-19_01.24.41.png",
+                      "sha256":  "6a0bb411438020987f4c17059f25e2b9aa444e5e8c2da4e79c62861f9c292f7d",
+                      "once":  false,
+                      "size":  3572947
+                  },
+                  {
+                      "path":  "config/fancymenu/slideshows/show/images/2025-11-19_01.30.45.png",
+                      "sha256":  "97551c8892ade027a95dcb09f49bd254ecd4bdb8f5b31b651a562ed652a0aab1",
+                      "once":  false,
+                      "size":  4086637
+                  },
+                  {
+                      "path":  "config/fancymenu/slideshows/show/images/2025-11-19_01.31.13.png",
+                      "sha256":  "ce819f26075ea16f2fd32b79ceee7b8a90e300e61fe0723b5532886763ebb507",
+                      "once":  false,
+                      "size":  4329293
+                  },
+                  {
+                      "path":  "config/fancymenu/slideshows/show/images/2025-11-19_01.31.29.png",
+                      "sha256":  "2b9d93f4c36099a4fb6997196dc64047de1de10a135c237b389db09722e5fd35",
+                      "once":  false,
+                      "size":  4009989
+                  },
+                  {
+                      "path":  "config/fancymenu/slideshows/show/images/2025-11-19_01.31.54.png",
+                      "sha256":  "0db520c69128a27771b0184df962ff7a5af58e8af63320f701069a7ecfd15619",
+                      "once":  false,
+                      "size":  4187235
+                  },
+                  {
+                      "path":  "config/fancymenu/slideshows/show/images/2025-11-19_01.31.56.png",
+                      "sha256":  "7cc6417ea4a6f4fbd6e6364d8b2f15cba41db730899abf11d2b1e1154d5fa634",
+                      "once":  false,
+                      "size":  3733655
+                  },
+                  {
+                      "path":  "config/fancymenu/slideshows/show/images/image.png",
+                      "sha256":  "ebc0b00339961abb0fdb41541719c2ec4f3f7db46d68cbd90bc1abb7e68ee946",
+                      "once":  false,
+                      "size":  1670072
                   },
                   {
                       "path":  "config/fancymenu/ui_themes/dark.json",
@@ -2295,9 +2355,9 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "65f72ef69769d82bca5ea6e77466419b4d3f7a77b107ac04f77ea376ec474ba1",
+                      "sha256":  "ea28fefb028e1b74668dbde2a9826e635170b49bbc0fc3b957cb825deb7165fd",
                       "once":  false,
-                      "size":  5786
+                      "size":  5539
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
@@ -2517,15 +2577,15 @@
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_leveling.json",
-                      "sha256":  "ab6b2cbcf1aa5b002b696e2b3c17a38f199b02ab0850b218c8b213cace3e2c81",
+                      "sha256":  "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
                       "once":  false,
-                      "size":  1700
+                      "size":  1619
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_save.json",
-                      "sha256":  "20bd18d207e90f20665bfc6c10aa3f5bf8fd20bfd83ce4f0eb2453f99e129284",
+                      "sha256":  "c005d0e5448afd0a2747b54b94e7040228d4a9ffa181d32ab10ceb92c75c24ff",
                       "once":  false,
-                      "size":  273
+                      "size":  260
                   },
                   {
                       "path":  "immersive_paintings_cache/16333659-af6a-4542-bf80-25eba03e7123.png",
@@ -5889,7 +5949,7 @@
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt",
-                      "sha256":  "bb88d89b50574142cb7e7186c85fe2a580b66083705d0c6b5c1437d98992dcc4",
+                      "sha256":  "9fbd6e4d5dd55e0e904eb78cffd787e32f6464afe96d0e9c65c5cb2f8822d566",
                       "once":  true,
                       "size":  366
                   },
