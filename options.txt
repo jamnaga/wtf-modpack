@@ -15,14 +15,14 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.5
-fov:0.5
+fov:1.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
@@ -215,6 +215,7 @@ key_key.mtr.debug_2_positive:key.keyboard.keypad.8
 key_key.mtr.debug_3_positive:key.keyboard.keypad.9
 key_key.mtr.debug_cycle_negative:key.keyboard.keypad.subtract
 key_key.mtr.debug_cycle_positive:key.keyboard.keypad.add
+key_Inspect Key:key.keyboard.j
 key_justzoom.keybinds.keybind.zoom:key.keyboard.z
 key_key.ponder.ponder:key.keyboard.w
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
