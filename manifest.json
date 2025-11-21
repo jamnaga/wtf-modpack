@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "19/11/2025 22:03:02,19",
+    "generated":  "21/11/2025 21:03:37,94",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -26,6 +26,12 @@
                       "size":  3965
                   },
                   {
+                      "path":  "hs_err_pid2740.log",
+                      "sha256":  "1684812ef5efdfa471966c3ba99b8234b5d8b8a984080584f5de695c7a453f44",
+                      "once":  false,
+                      "size":  359570
+                  },
+                  {
                       "path":  "launcher_profiles.json",
                       "sha256":  "f84fbec13fc23c55941f508261ea3cf4055e6dec8fd63a88ce95ca0b9c36e1c9",
                       "once":  false,
@@ -33,19 +39,19 @@
                   },
                   {
                       "path":  "options.txt",
-                      "sha256":  "2a7f6dbcba4abd8d03a4853a644fa236afead4d3f57ef0f6ae8f4f51c77ea5e4",
+                      "sha256":  "3f3c413b547dae9296b84f03e2f740c9e79be55f13e9bda279392a9f90ec528c",
                       "once":  true,
-                      "size":  9361
+                      "size":  9469
                   },
                   {
                       "path":  "servers.dat",
-                      "sha256":  "c25d25af08575fdb27a1d5a615ada7afbfb231b6dae5a95660e7f43c86005975",
+                      "sha256":  "5c4ee851d6452bfd865a42a97daac28d55763332a40a0bc554f91e60ce133e21",
                       "once":  false,
                       "size":  84
                   },
                   {
                       "path":  "servers.dat_old",
-                      "sha256":  "c25d25af08575fdb27a1d5a615ada7afbfb231b6dae5a95660e7f43c86005975",
+                      "sha256":  "5c4ee851d6452bfd865a42a97daac28d55763332a40a0bc554f91e60ce133e21",
                       "once":  false,
                       "size":  84
                   },
@@ -102,6 +108,12 @@
                       "sha256":  "7d2e0dd43c2b9b225fcd50dd1975505ef0100cbc14a56977c952515bd87f8152",
                       "once":  false,
                       "size":  1212
+                  },
+                  {
+                      "path":  "config/canary.properties",
+                      "sha256":  "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855",
+                      "once":  false,
+                      "size":  422
                   },
                   {
                       "path":  "config/carryon-client.toml",
@@ -213,9 +225,9 @@
                   },
                   {
                       "path":  "config/cubes_without_borders.json",
-                      "sha256":  "317c43455aae1cd5c6ca2e276d830b13d7ddc63c7d5a562744784d26e84cb254",
+                      "sha256":  "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d",
                       "once":  false,
-                      "size":  215
+                      "size":  209
                   },
                   {
                       "path":  "config/curios-client.toml",
@@ -279,9 +291,9 @@
                   },
                   {
                       "path":  "config/embeddium-options.json",
-                      "sha256":  "3f2a5b03a1d186843ddf7ba1fe0312fa454f9fda9250519f5652951b70f7c8c8",
+                      "sha256":  "813ce5add374625885c4bfea8947e4db2a7af0f7a1f933e6d09aca77f02a3764",
                       "once":  false,
-                      "size":  847
+                      "size":  846
                   },
                   {
                       "path":  "config/emojitype.json",
@@ -585,7 +597,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "0192b411619c6ddd25ed8727f1ad9b21d3e746170a0f2b58660192560d6dd75b",
+                      "sha256":  "120c992d0551d32cc449d1506f2fe2237c31705809a7f1014398b310628d8fc9",
                       "once":  false,
                       "size":  193
                   },
@@ -597,9 +609,9 @@
                   },
                   {
                       "path":  "config/mafglib.json",
-                      "sha256":  "3bc7ef7d1653cfa6e29d31d5ae6b72e2d4e2d55fad73556608e548163369e4e4",
+                      "sha256":  "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64",
                       "once":  false,
-                      "size":  159
+                      "size":  149
                   },
                   {
                       "path":  "config/mbackrooms-common.toml",
@@ -651,7 +663,7 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "3d523228841e4ba2536f5b3c8401ba0da4a5e994e0874fc3b8fb8e2bff923963",
+                      "sha256":  "088655324abadbc61d26c2571e35f2f20dc5ad269119fde32d247e01838b8cb8",
                       "once":  false,
                       "size":  284
                   },
@@ -704,6 +716,12 @@
                       "size":  1397
                   },
                   {
+                      "path":  "config/saturn-optimizations.toml",
+                      "sha256":  "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3",
+                      "once":  false,
+                      "size":  445
+                  },
+                  {
                       "path":  "config/securitycraft-client.toml",
                       "sha256":  "600d83bb7ef94b1f2a4ab055026cd592429d3903ff620940e1d06665082f1ca8",
                       "once":  false,
@@ -741,7 +759,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "009ed32aefe7b8881838609a545faa1a006820a5fc5e2e13db3f68572fe32c84",
+                      "sha256":  "fa958f42e98c4dc86cdbd2ccce556f2aef3312be7e352fe21427916dff449e06",
                       "once":  false,
                       "size":  283
                   },
@@ -849,7 +867,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "1596b8468d67eb2b76c392510ee444e0d658425bbac19dc6308fd5b93f7d9fad",
+                      "sha256":  "a6944f158cd9a972f7b3af9260655ea66bbd6a418a278fc9f9daf64724337add",
                       "once":  false,
                       "size":  508
                   },
@@ -927,7 +945,7 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "f21abe0bd37172e5f9e575d5489295de91bcd5c7c70b7d103ba51f6902e6ec5b",
+                      "sha256":  "ef384ca86e4d4afb48d0f71db62c5fac9fb28bc072f2b24035af02ba0abedf1f",
                       "once":  false,
                       "size":  5532
                   },
@@ -1533,7 +1551,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "cc2dd77d403ce583d8e825f710ad07de28aa0bcf0f6f37ceadfc2695afb44354",
+                      "sha256":  "cfa57e7e175c5ec476ad3a2df084d4965f0f4882d4241336d2884f668ff3b90a",
                       "once":  false,
                       "size":  290
                   },
@@ -1760,10 +1778,16 @@
                       "size":  776
                   },
                   {
-                      "path":  "config/inventoryprofilesnext/inventoryprofiles.json",
-                      "sha256":  "858d18484591260a2f2d39ecd2bae1fbb7a810d9916e5f70f14ccf2aee783a18",
+                      "path":  "config/fpsreducer/fpsreducer-client.toml",
+                      "sha256":  "f7637fe490fad786a7c62914711f068bc3d6909eff244f22788eb6f13d14fd0c",
                       "once":  false,
-                      "size":  61
+                      "size":  3351
+                  },
+                  {
+                      "path":  "config/inventoryprofilesnext/inventoryprofiles.json",
+                      "sha256":  "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3",
+                      "once":  false,
+                      "size":  57
                   },
                   {
                       "path":  "config/inventoryprofilesnext/prev-villager-trading-config.json",
@@ -2361,15 +2385,15 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "2ba6ca61dcc6e9df7fc827cecc6b85b3422a25de2ddc2ae04d5276790171cb2e",
+                      "sha256":  "bdc6a8897a2130ee7c76f609adcc2d45a46352d21b34ec1ff1a676db0c00ca61",
                       "once":  false,
-                      "size":  5609
+                      "size":  5612
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
-                      "sha256":  "f9daf378351a33a212eb89327fe73b90f3295e152a7507c46a96e9f2f319ae42",
+                      "sha256":  "bbd4c8ba35b5edab1cb701e877466ddeec858bbbba64509e38b60143fc412497",
                       "once":  false,
-                      "size":  410
+                      "size":  1849
                   },
                   {
                       "path":  "config/roughlyenoughitems/hints.json",
@@ -2379,13 +2403,13 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin.properties",
-                      "sha256":  "58db0eb34d1afa5c4c958092e1cc93139f97af405c76b36b6e73c5644acd1e79",
+                      "sha256":  "c4a50fb00d16ab6c554582474e5da21f8ee87b8c00399cdbc450619ccf2f311a",
                       "once":  false,
                       "size":  48
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin_double.properties",
-                      "sha256":  "109084367dfc55c20712cb35b0fbfe86fa5ade4568dcfce6086c3dfa5d2e2a98",
+                      "sha256":  "d7a0be0279aef8945352604c9ed6d0fec85ebde185e5a3849632234bdc04f678",
                       "once":  false,
                       "size":  73
                   },
@@ -2541,9 +2565,33 @@
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@mbackrooms@@level_zero/DistantHorizons.sqlite",
-                      "sha256":  "ca43e9c1ae91c39ce72b5840bc13c0c3b9d76a8eee87279b067f8892a310662d",
+                      "sha256":  "f688389d29a3fefae0572a1b62ba2f4c1d4bf71f1e45f83737d9556ebc3783bd",
                       "once":  false,
                       "size":  4386816
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite",
+                      "sha256":  "d43aff99b9d8fa799231974b7eb6c8f40acc6f3d46727d760fbc9f52a734d757",
+                      "once":  true,
+                      "size":  330842112
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite-shm",
+                      "sha256":  "2ea210a1a4624a32af1eea8eb554894f0466bf1f50d425cc4761d85206a4adde",
+                      "once":  false,
+                      "size":  32768
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite-wal",
+                      "sha256":  "5e8b0fcead27c2a953830b47c2a8333a960cf8945ecbb3facfdd9ccd40149dbc",
+                      "once":  false,
+                      "size":  4511432
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite.mid",
+                      "sha256":  "928d1b7ae4d14e009a7ab80323641bacfb0a97d91306901530f357011d28d4b6",
+                      "once":  false,
+                      "size":  242978816
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@the_nether/DistantHorizons.sqlite",
@@ -4772,7 +4820,7 @@
                       "size":  850457
                   },
                   {
-                      "path":  "mods/AsyncParticles-2.4.0-beta.3+1.20.1.jar",
+                      "path":  "mods/AsyncParticles-2.4.0-beta.3+1.20.1.jar.disabled",
                       "sha256":  "31548d363fa90bc7611df3457a953d0498316fd5d4bcea3300546d6e82504cfc",
                       "once":  false,
                       "size":  1297496
@@ -4806,6 +4854,12 @@
                       "sha256":  "e5fa2c009b28d4093c324f7a6cd840aaaae0db3c1d77905b28cf81b20a6c9acf",
                       "once":  false,
                       "size":  1695
+                  },
+                  {
+                      "path":  "mods/canary-mc1.20.1-0.3.3.jar",
+                      "sha256":  "51f6d78dd6c7874657e5757fd2f5d780aa3cd415052ad071077b8894c6430942",
+                      "once":  false,
+                      "size":  594191
                   },
                   {
                       "path":  "mods/carryon-forge-1.20.1-2.1.2.7.jar",
@@ -4974,6 +5028,12 @@
                       "sha256":  "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
                       "once":  false,
                       "size":  123034
+                  },
+                  {
+                      "path":  "mods/FpsReducer2-forge-1.20.1-2.5.1.jar",
+                      "sha256":  "997f034210e0fca20fa5a0e6ddd370c5444854fc97e69910161104160cea41ce",
+                      "once":  false,
+                      "size":  125660
                   },
                   {
                       "path":  "mods/framework-forge-1.20.1-0.7.12.jar",
@@ -5244,6 +5304,12 @@
                       "sha256":  "80c0a2af12ae223ad9b2ab82a60677bed22b18fd99bf46cfcd4252465dddbd2b",
                       "once":  false,
                       "size":  4515705
+                  },
+                  {
+                      "path":  "mods/saturn-mc1.20.1-0.1.3.jar",
+                      "sha256":  "7e6dcc7c2b0db19ec2f965fac91a49e13dcc611f2d86f6bb56d7d68da901aaf8",
+                      "once":  false,
+                      "size":  92319
                   },
                   {
                       "path":  "mods/smokeleafindustry-0.4.7-1.20.1.jar",
@@ -5955,7 +6021,7 @@
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt",
-                      "sha256":  "3d2010f17e4b58f5c1f7cf0132e38d6e2594e4e114c3a706510ee8ad8999d29e",
+                      "sha256":  "d71ef8b7632158c6f782701c1fe810f5e85686a782eb1d31aad4311778abcb54",
                       "once":  true,
                       "size":  366
                   },

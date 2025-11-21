@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -31,7 +31,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.5
-renderDistance:2
+renderDistance:4
 simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:2
@@ -130,10 +130,10 @@ key_key.jeg.inspect:key.keyboard.y
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
-key_key.shouldersurfing.adjust_camera_left:key.keyboard.left
-key_key.shouldersurfing.adjust_camera_right:key.keyboard.right
-key_key.shouldersurfing.adjust_camera_in:key.keyboard.up
-key_key.shouldersurfing.adjust_camera_out:key.keyboard.down
+key_key.shouldersurfing.adjust_camera_left:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_right:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_in:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_out:key.keyboard.unknown
 key_key.shouldersurfing.adjust_camera_up:key.keyboard.page.up
 key_key.shouldersurfing.adjust_camera_down:key.keyboard.page.down
 key_key.shouldersurfing.swap_shoulder:key.keyboard.o
@@ -188,6 +188,8 @@ key_key.immersive_aircraft.fallback_use:key.keyboard.unknown
 key_key.immersive_aircraft.dismount:key.keyboard.r
 key_key.immersive_aircraft.boost:key.keyboard.b
 key_key.relics.ability_list:key.keyboard.left.alt
+key_fpsreducer.key.openGui:key.keyboard.end
+key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_key.carry.desc:key.keyboard.left.shift
 key_key.beansbackpacks.action:key.keyboard.unknown
 key_key.beansbackpacks.inventory:key.keyboard.unknown
