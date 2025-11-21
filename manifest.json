@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "21/11/2025 21:03:37,94",
+    "generated":  "21/11/2025 21:09:30,02",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -2571,9 +2571,9 @@
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite",
-                      "sha256":  "d43aff99b9d8fa799231974b7eb6c8f40acc6f3d46727d760fbc9f52a734d757",
+                      "sha256":  "fd4e0606cd2ca33091cd0528002937538165d022f85ef16fb9108e4fd7510daa",
                       "once":  true,
-                      "size":  330842112
+                      "size":  104640512
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite-shm",
@@ -2586,12 +2586,6 @@
                       "sha256":  "5e8b0fcead27c2a953830b47c2a8333a960cf8945ecbb3facfdd9ccd40149dbc",
                       "once":  false,
                       "size":  4511432
-                  },
-                  {
-                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite.mid",
-                      "sha256":  "928d1b7ae4d14e009a7ab80323641bacfb0a97d91306901530f357011d28d4b6",
-                      "once":  false,
-                      "size":  242978816
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@the_nether/DistantHorizons.sqlite",
