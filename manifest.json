@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "21/11/2025 21:09:30,02",
+    "generated":  "22/11/2025 03:01:28,05",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -5084,12 +5084,6 @@
                       "size":  35644
                   },
                   {
-                      "path":  "mods/holdmyitems-1.20.1-4v2.0.jar",
-                      "sha256":  "f307bfa98da0742b3c6dc164e04766f45e911a81d1eaf79025d6d92ff74875cc",
-                      "once":  false,
-                      "size":  100362
-                  },
-                  {
                       "path":  "mods/iammusicplayer-forge-mc1.20-3.22.0-alpha.5.jar.disabled",
                       "sha256":  "f9b95352595882fc3f48d64656ed941e6fab8bdf24eab5769ae5ef05c9148802",
                       "once":  false,
@@ -5562,6 +5556,12 @@
                       "sha256":  "d2047c888aa0ded9ba13a24d3eafd37239e28a9eea0b18d20a3e3e74a3a19250",
                       "once":  false,
                       "size":  6239
+                  },
+                  {
+                      "path":  "mods/[client]holdmyitems-1.20.1-4v2.0.jar",
+                      "sha256":  "f307bfa98da0742b3c6dc164e04766f45e911a81d1eaf79025d6d92ff74875cc",
+                      "once":  false,
+                      "size":  100362
                   },
                   {
                       "path":  "mods/[client]MaFgLib-0.1.14-mc1.20.1.jar",
