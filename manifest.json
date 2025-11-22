@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "22/11/2025 05:48:50,37",
+    "generated":  "22/11/2025 05:50:19,54",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -6025,7 +6025,7 @@
                          "action":  "extract",
                          "description":  "Distant Horizons LOD data",
                          "progressMessage":  "*currentPart* di *totalParts* - Ricezione dei chunks di Distant Horizons *percentage*%",
-                         "extractTo":  "Distant_Horizons_server_data",
+                         "extractTo":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/",
                          "version":  "1.0.0",
                          "required":  false,
                          "name":  "dh",
