@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "22/11/2025 03:01:28,05",
+    "generated":  "22/11/2025 03:02:59,88",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -4790,10 +4790,10 @@
                       "size":  26350793
                   },
                   {
-                      "path":  "mods/amendments-1.20-2.2.2.jar",
-                      "sha256":  "564f709a72cb3ada3cc66a838bda1f73c7012231542351be64b8ee086c4cf5ab",
+                      "path":  "mods/amendments-1.20-2.2.3.jar",
+                      "sha256":  "4161147b086952e584e58f90f49ae7def049abf74beeb2e2e7bd5ddd6d68a86a",
                       "once":  false,
-                      "size":  1293224
+                      "size":  1294274
                   },
                   {
                       "path":  "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -4898,10 +4898,10 @@
                       "size":  382083
                   },
                   {
-                      "path":  "mods/Connector-1.0.0-beta.46+1.20.1.jar",
-                      "sha256":  "79d58fd7ced77df600eefc927adbbd8e217c2d6b0778c17aa8b27756703145ac",
+                      "path":  "mods/Connector-1.0.0-beta.47+1.20.1.jar",
+                      "sha256":  "0bccd4f226ee05d8444e92670642de2a28355cf4196fa09593791f613de719cb",
                       "once":  false,
-                      "size":  5043375
+                      "size":  5043924
                   },
                   {
                       "path":  "mods/construction deco Forge 1.20.1.jar",
@@ -4980,6 +4980,18 @@
                       "sha256":  "d8501371240082c3436c03380f7a59820fd981e9c5d9fb2978a222ea114b23ae",
                       "once":  false,
                       "size":  69476
+                  },
+                  {
+                      "path":  "mods/entity_model_features_1.20.1-forge-3.0.6.jar",
+                      "sha256":  "bbe508f91db1f3d221dc6453e9004a636c4868551424e4fde5ec631432fece7b",
+                      "once":  false,
+                      "size":  658753
+                  },
+                  {
+                      "path":  "mods/entity_texture_features_1.20.1-forge-7.0.5.jar",
+                      "sha256":  "26574e7aac03f1c3580041ce6330bbef490bb1d6169b12cd9abe2e90e8596637",
+                      "once":  false,
+                      "size":  950610
                   },
                   {
                       "path":  "mods/etched-3.0.4.jar",
@@ -5204,10 +5216,10 @@
                       "size":  227925
                   },
                   {
-                      "path":  "mods/modernnetworking-forge-1.2.0+1.19.2.jar",
-                      "sha256":  "98a81855212cdd659590d905581a8d8c0cd60909b525505bd5fca0676336b2be",
+                      "path":  "mods/modernnetworking-forge-1.2.2+1.19.2.jar",
+                      "sha256":  "8c8d9078ef9a6fbd284149905e9441b170a5df6ca1112d2540927adb1f11e83c",
                       "once":  false,
-                      "size":  407687
+                      "size":  407225
                   },
                   {
                       "path":  "mods/moonlight-1.20-2.16.16-forge.jar",
@@ -5408,10 +5420,10 @@
                       "size":  452457
                   },
                   {
-                      "path":  "mods/wakes-1.20.1-Forge-1.0.5.jar",
-                      "sha256":  "368b1362b439f544812e97cddc3f82e5ae714d9b6db3eb9ce5654bdcf5ef669d",
+                      "path":  "mods/wakes-1.20.1-Forge-1.0.7.jar",
+                      "sha256":  "93ddee6da311ff585667a58a442dee53a7ee0fc2da6fb881fa9597a19ff6694f",
                       "once":  false,
-                      "size":  191632
+                      "size":  212908
                   },
                   {
                       "path":  "mods/watut-forge-1.20.1-1.2.3.jar",
@@ -5520,18 +5532,6 @@
                       "sha256":  "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
                       "once":  false,
                       "size":  1320675
-                  },
-                  {
-                      "path":  "mods/[client]entity_model_features_1.20.1-forge-3.0.1.jar",
-                      "sha256":  "0ec6ce36f712accf8fb89ce7213602957e22e5980d4a97873e405f6b0272fa44",
-                      "once":  false,
-                      "size":  657484
-                  },
-                  {
-                      "path":  "mods/[client]entity_texture_features_1.20.1-forge-7.0.2.jar",
-                      "sha256":  "6688f8dccda549e2288ec6b006578c6899788e4c745fb626afd5954da95874e3",
-                      "once":  false,
-                      "size":  894117
                   },
                   {
                       "path":  "mods/[client]explosiveenhancement-forge-1.20.1-1.1.0-client.jar",
