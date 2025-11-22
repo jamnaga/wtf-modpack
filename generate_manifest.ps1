@@ -85,9 +85,68 @@ $files = Get-ChildItem -Path . -Recurse -File -ErrorAction SilentlyContinue | Wh
 
 Write-Host "Generazione del manifest per $($files.Count) file..."
 
+# Scansiona i pacchetti
+Write-Host "Scansione dei pacchetti..."
+$packages = @()
+$packagesDir = "packages"
+
+if (Test-Path $packagesDir) {
+    $packageDirs = Get-ChildItem -Path $packagesDir -Directory -ErrorAction SilentlyContinue
+    
+    foreach ($packageDir in $packageDirs) {
+        $packageJsonPath = Join-Path $packageDir.FullName "package.json"
+        
+        if (Test-Path $packageJsonPath) {
+            try {
+                $packageConfig = Get-Content $packageJsonPath -Raw | ConvertFrom-Json
+                
+                # Ottieni i file del pacchetto
+                $packageFiles = Get-ChildItem -Path $packageDir.FullName -File -ErrorAction SilentlyContinue | Where-Object {
+                    $_.Name -ne "package.json"
+                }
+                
+                # Crea l'oggetto pacchetto con le info dal JSON
+                $packageObj = @{
+                    name = $packageConfig.name
+                    description = $packageConfig.description
+                    version = $packageConfig.version
+                    archiveType = $packageConfig.archiveType
+                    parts = $packageConfig.parts
+                    extractTo = $packageConfig.extractTo
+                    filesToExtract = $packageConfig.filesToExtract
+                    action = $packageConfig.action
+                    overwrite = $packageConfig.overwrite
+                    required = $packageConfig.required
+                    files = @()
+                }
+                
+                # Aggiungi le info dei file
+                foreach ($file in $packageFiles) {
+                    $relativePath = $file.FullName.Substring((Get-Location).Path.Length + 1) -replace '\\', '/'
+                    $hashObj = Get-FileHash -LiteralPath $file.FullName -Algorithm SHA256 -ErrorAction Stop
+                    
+                    $packageObj.files += @{
+                        path = $relativePath
+                        size = $file.Length
+                        sha256 = $hashObj.Hash.ToLower()
+                    }
+                }
+                
+                $packages += $packageObj
+            }
+            catch {
+                Write-Warning "Impossibile processare il pacchetto: $($packageDir.Name) - $($_.Exception.Message)"
+            }
+        }
+    }
+}
+
+Write-Host "Trovati $($packages.Count) pacchetti"
+
 # Crea l'oggetto JSON
 $manifestObj = @{
     files = @()
+    packages = $packages
     generated = (Get-Date -Format "dd/MM/yyyy HH:mm:ss,ff")
 }
 

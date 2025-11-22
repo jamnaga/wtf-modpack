@@ -1,0 +1,22 @@
+{
+  "name": "dh",
+  "description": "Distant Horizons LOD data",
+  "version": "1.0.0",
+  "archiveType": "7z",
+  "parts": [
+    "DistantHorizons.sqlite.7z.001",
+    "DistantHorizons.sqlite.7z.002",
+    "DistantHorizons.sqlite.7z.003",
+    "DistantHorizons.sqlite.7z.004",
+    "DistantHorizons.sqlite.7z.005",
+    "DistantHorizons.sqlite.7z.006",
+    "DistantHorizons.sqlite.7z.007"
+  ],
+  "extractTo": "Distant_Horizons_server_data",
+  "filesToExtract": [
+    "DistantHorizons.sqlite"
+  ],
+  "action": "extract",
+  "overwrite": false,
+  "required": false
+}

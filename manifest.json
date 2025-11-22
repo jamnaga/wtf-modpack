@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "22/11/2025 03:24:33,59",
+    "generated":  "22/11/2025 05:45:50,84",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -9,9 +9,9 @@
                   },
                   {
                       "path":  ".manifestignore",
-                      "sha256":  "e921b6b96ee27622fc9776ee365c57c13ccb7cdf7ccb636d97b7f78281b0fbfc",
+                      "sha256":  "851577dcfec4db2953159c3e39a50d5d1aa9138ea243fef6dc64507f8ed56b95",
                       "once":  false,
-                      "size":  228
+                      "size":  239
                   },
                   {
                       "path":  ".oncelist",
@@ -21,9 +21,9 @@
                   },
                   {
                       "path":  "generate_manifest.ps1",
-                      "sha256":  "e42f262db52a196671f9ff96efae2a4b7b93b0ba0cb8f3f903cc3f11224f2578",
+                      "sha256":  "4462d4663a35e4bbf3ea11cbf20cb043b6c08376ab31278b704fe726f6789fab",
                       "once":  false,
-                      "size":  3965
+                      "size":  6407
                   },
                   {
                       "path":  "hs_err_pid2740.log",
@@ -6019,5 +6019,66 @@
                       "once":  false,
                       "size":  601088
                   }
-              ]
+              ],
+    "packages":  [
+                     {
+                         "filesToExtract":  [
+                                                "DistantHorizons.sqlite"
+                                            ],
+                         "description":  "Distant Horizons LOD data",
+                         "required":  false,
+                         "version":  "1.0.0",
+                         "archiveType":  "7z",
+                         "parts":  [
+                                       "DistantHorizons.sqlite.7z.001",
+                                       "DistantHorizons.sqlite.7z.002",
+                                       "DistantHorizons.sqlite.7z.003",
+                                       "DistantHorizons.sqlite.7z.004",
+                                       "DistantHorizons.sqlite.7z.005",
+                                       "DistantHorizons.sqlite.7z.006",
+                                       "DistantHorizons.sqlite.7z.007"
+                                   ],
+                         "name":  "dh",
+                         "action":  "extract",
+                         "files":  [
+                                       {
+                                           "path":  "packages/dh/DistantHorizons.sqlite.7z.001",
+                                           "sha256":  "d788916c51c14996d869664b8fa0c60b93bec5596edcdba5d7f494952a5e248c",
+                                           "size":  52428800
+                                       },
+                                       {
+                                           "path":  "packages/dh/DistantHorizons.sqlite.7z.002",
+                                           "sha256":  "cf3e559044a4d387ccef005b632d023e099513cf7f17dae84009df57936aeede",
+                                           "size":  52428800
+                                       },
+                                       {
+                                           "path":  "packages/dh/DistantHorizons.sqlite.7z.003",
+                                           "sha256":  "62cfa8f42cd70b9d44ee5545eabeb96233cebdfafed9451d00570151c7d3c0eb",
+                                           "size":  52428800
+                                       },
+                                       {
+                                           "path":  "packages/dh/DistantHorizons.sqlite.7z.004",
+                                           "sha256":  "8391498bb47488ed007a2ed6958b1be18fb5d55c7103471e3b1e3675cd3f0bcb",
+                                           "size":  52428800
+                                       },
+                                       {
+                                           "path":  "packages/dh/DistantHorizons.sqlite.7z.005",
+                                           "sha256":  "8d0f189bdba0b9b6be371335116219284b8a4bb624443452dd3220b8ef696988",
+                                           "size":  52428800
+                                       },
+                                       {
+                                           "path":  "packages/dh/DistantHorizons.sqlite.7z.006",
+                                           "sha256":  "5799ab6074deceeb6e29fa6835793abd30b51b19d9b5161864c165f3825549b2",
+                                           "size":  52428800
+                                       },
+                                       {
+                                           "path":  "packages/dh/DistantHorizons.sqlite.7z.007",
+                                           "sha256":  "ceb3dcd5d64cbf5aa31352207045021bfca8fab7dce2b0f8d6e0287276352e8d",
+                                           "size":  13295747
+                                       }
+                                   ],
+                         "extractTo":  "Distant_Horizons_server_data",
+                         "overwrite":  false
+                     }
+                 ]
 }
