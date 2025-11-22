@@ -18,5 +18,6 @@
   ],
   "action": "extract",
   "overwrite": false,
-  "required": false
+  "required": false,
+  "progressMessage": "*currentPart* di *totalParts* - Ricezione dei chunks di Distant Horizons *percentage*%"
 }

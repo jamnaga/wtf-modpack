@@ -117,6 +117,7 @@ if (Test-Path $packagesDir) {
                     action = $packageConfig.action
                     overwrite = $packageConfig.overwrite
                     required = $packageConfig.required
+                    progressMessage = $packageConfig.progressMessage
                     files = @()
                 }
                 
