@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "22/11/2025 03:02:59,88",
+    "generated":  "22/11/2025 03:16:32,07",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -597,7 +597,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "120c992d0551d32cc449d1506f2fe2237c31705809a7f1014398b310628d8fc9",
+                      "sha256":  "e40f8c6f8a4366830fbd3e5b4d90330ef25cafb73ba298ea2314592795a03b7c",
                       "once":  false,
                       "size":  193
                   },
@@ -663,7 +663,7 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "088655324abadbc61d26c2571e35f2f20dc5ad269119fde32d247e01838b8cb8",
+                      "sha256":  "ccb65a6510f74dcb690eca8a3464205a4e660c9b796560e3a46f86d7cd47aba4",
                       "once":  false,
                       "size":  284
                   },
@@ -759,7 +759,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "fa958f42e98c4dc86cdbd2ccce556f2aef3312be7e352fe21427916dff449e06",
+                      "sha256":  "2cd34557147b3d9b6979703aad6527a57d1e8a0e298c72576aab9891aa33eea6",
                       "once":  false,
                       "size":  283
                   },
@@ -867,15 +867,15 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "a6944f158cd9a972f7b3af9260655ea66bbd6a418a278fc9f9daf64724337add",
+                      "sha256":  "fe20a612119efaf31beefb02ac876931971d99e9843fb7d04cf5ceeb2ca97ac1",
                       "once":  false,
                       "size":  508
                   },
                   {
                       "path":  "config/wakes-client.toml",
-                      "sha256":  "8bc818a342d873a965d523cfb6226205366848989fabded6535ec0b4f209c574",
+                      "sha256":  "09b32d5e9bc1d548f18a4797db9c9fb5c8c3855094110ce6ebcffd8a71cad5ce",
                       "once":  false,
-                      "size":  2173
+                      "size":  2467
                   },
                   {
                       "path":  "config/watut-client.toml",
@@ -1551,7 +1551,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "cfa57e7e175c5ec476ad3a2df084d4965f0f4882d4241336d2884f668ff3b90a",
+                      "sha256":  "dffc7a448d21b570321c2ba1a56c5f61624fe49805f4a2c6f9aab863edbf0be9",
                       "once":  false,
                       "size":  290
                   },
@@ -2385,9 +2385,9 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "bdc6a8897a2130ee7c76f609adcc2d45a46352d21b34ec1ff1a676db0c00ca61",
+                      "sha256":  "c9088c2bd0da8694c0dfd2e8c0fe45d3fef876e5e4af7d59f017ca2c1fd702ce",
                       "once":  false,
-                      "size":  5612
+                      "size":  5542
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
@@ -5216,12 +5216,6 @@
                       "size":  227925
                   },
                   {
-                      "path":  "mods/modernnetworking-forge-1.2.2+1.19.2.jar",
-                      "sha256":  "8c8d9078ef9a6fbd284149905e9441b170a5df6ca1112d2540927adb1f11e83c",
-                      "once":  false,
-                      "size":  407225
-                  },
-                  {
                       "path":  "mods/moonlight-1.20-2.16.16-forge.jar",
                       "sha256":  "6a6eedadf09f1133c44db37fa5eb5ee37aaa9c40df9fbe6ea36bc5123415b4f7",
                       "once":  false,
@@ -5637,13 +5631,13 @@
                   },
                   {
                       "path":  "mods/.connector/[client]continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
-                      "sha256":  "3b3fe8fdc052df87c3c195e637109fea775e89f15e235fa792a821c0806d8ce2",
+                      "sha256":  "48a46ae73c040fa3d92d4bb162980e4f5bbc463e7455459271bfba24ae38b8e1",
                       "once":  false,
-                      "size":  1023767
+                      "size":  1023766
                   },
                   {
                       "path":  "mods/.connector/[client]continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
-                      "sha256":  "be881cc02d6d86b62cd7946b18c3510b6e3abb0e6ba559c338365945bfe0dd4b",
+                      "sha256":  "309df1660cc2c895291af06a779ec947ea258e5f2fd11f47e7b47ca3a6fbe72f",
                       "once":  false,
                       "size":  92
                   },
@@ -6015,7 +6009,7 @@
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt",
-                      "sha256":  "d71ef8b7632158c6f782701c1fe810f5e85686a782eb1d31aad4311778abcb54",
+                      "sha256":  "b6f116ef4ff676431a9fca861f0f60f431e06389fb21ad95fc840a705793b14f",
                       "once":  true,
                       "size":  366
                   },
