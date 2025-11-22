@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "22/11/2025 03:16:32,07",
+    "generated":  "22/11/2025 03:19:28,53",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -39,9 +39,9 @@
                   },
                   {
                       "path":  "options.txt",
-                      "sha256":  "3f3c413b547dae9296b84f03e2f740c9e79be55f13e9bda279392a9f90ec528c",
+                      "sha256":  "778a59f874d6ecf459c74ea8c8e80152c82ed2e56f3eb2e1e5f5bd3c7835cad5",
                       "once":  true,
-                      "size":  9469
+                      "size":  9468
                   },
                   {
                       "path":  "servers.dat",
@@ -4898,7 +4898,7 @@
                       "size":  382083
                   },
                   {
-                      "path":  "mods/Connector-1.0.0-beta.47+1.20.1.jar",
+                      "path":  "mods/Connector-1.0.0-beta.47+1.20.1.jar.disabled",
                       "sha256":  "0bccd4f226ee05d8444e92670642de2a28355cf4196fa09593791f613de719cb",
                       "once":  false,
                       "size":  5043924
