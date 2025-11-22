@@ -7,6 +7,12 @@ variable {
 }
 
 variable {
+  name = password
+  value = asdasd12
+  reset_on_launch = false
+}
+
+variable {
   name = packversion
   value = N/A
   reset_on_launch = false
