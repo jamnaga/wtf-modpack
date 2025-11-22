@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "22/11/2025 17:04:01,94",
+    "generated":  "22/11/2025 18:31:58,45",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -24,12 +24,6 @@
                       "sha256":  "88569c61b32c7328bb58eb439616c2a5a3f88d0c7839baef202708cf25728383",
                       "once":  false,
                       "size":  6477
-                  },
-                  {
-                      "path":  "hs_err_pid2740.log",
-                      "sha256":  "1684812ef5efdfa471966c3ba99b8234b5d8b8a984080584f5de695c7a453f44",
-                      "once":  false,
-                      "size":  359570
                   },
                   {
                       "path":  "launcher_profiles.json",
@@ -2582,6 +2576,24 @@
                       "size":  4386816
                   },
                   {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite",
+                      "sha256":  "fd4e0606cd2ca33091cd0528002937538165d022f85ef16fb9108e4fd7510daa",
+                      "once":  true,
+                      "size":  104640512
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite-shm",
+                      "sha256":  "21024f24f25af5de9c05c7da315f77a6454e71c9efbd3ba15f84778d6984fa2d",
+                      "once":  false,
+                      "size":  65536
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite-wal",
+                      "sha256":  "fdc7e92d03bd051790412b11201748e34f72c59f70dabd1814d5fb1738065e05",
+                      "once":  false,
+                      "size":  20542352
+                  },
+                  {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@the_nether/DistantHorizons.sqlite",
                       "sha256":  "a30e32264babf1ad3ffdd726c7b5ac1bc3e57a5ec40e6020731a8a03bd1665b3",
                       "once":  false,
@@ -5060,10 +5072,10 @@
                       "size":  1038979
                   },
                   {
-                      "path":  "mods/gml-4.0.10-all.jar",
-                      "sha256":  "f99ed0c1df92ae4168e9831962581ccd4de7d77fcb96e951205c133eef922962",
+                      "path":  "mods/gml-4.0.11-all.jar",
+                      "sha256":  "4f1014d242c944771d798206c2d38d44d9d77148c4bb7a1f141aa405e7afd9d4",
                       "once":  false,
-                      "size":  11125462
+                      "size":  11125541
                   },
                   {
                       "path":  "mods/gravestone-forge-1.20.1-1.0.35.jar",
