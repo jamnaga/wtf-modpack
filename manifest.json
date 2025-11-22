@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "22/11/2025 03:19:28,53",
+    "generated":  "22/11/2025 03:24:33,59",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -597,7 +597,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "e40f8c6f8a4366830fbd3e5b4d90330ef25cafb73ba298ea2314592795a03b7c",
+                      "sha256":  "5daf8f14fd995fc6b1e5d1f41e975d887744bd1d253d020c999951e1cfa1d45a",
                       "once":  false,
                       "size":  193
                   },
@@ -663,7 +663,7 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "ccb65a6510f74dcb690eca8a3464205a4e660c9b796560e3a46f86d7cd47aba4",
+                      "sha256":  "f6e509c06c05219cdfdeef12c5adc4b932c5e076752edd1b54489e8c0b4a44ff",
                       "once":  false,
                       "size":  284
                   },
@@ -759,7 +759,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "2cd34557147b3d9b6979703aad6527a57d1e8a0e298c72576aab9891aa33eea6",
+                      "sha256":  "890345700d60f777d9914802af62566c612cba7fe6b2718a3708ccf431c331da",
                       "once":  false,
                       "size":  283
                   },
@@ -867,7 +867,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "fe20a612119efaf31beefb02ac876931971d99e9843fb7d04cf5ceeb2ca97ac1",
+                      "sha256":  "f50ae0cd5e0530b4b55672d0936ddfa8b6d0827af089b0b55d492385abf354b1",
                       "once":  false,
                       "size":  508
                   },
@@ -1551,7 +1551,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "dffc7a448d21b570321c2ba1a56c5f61624fe49805f4a2c6f9aab863edbf0be9",
+                      "sha256":  "5ca7ea0d930835e6ec6fd9de4053485c7993ccb3d86e6be750bd758443a7e02e",
                       "once":  false,
                       "size":  290
                   },
@@ -5492,7 +5492,7 @@
                       "size":  873714
                   },
                   {
-                      "path":  "mods/[client]continuity-3.0.0+1.20.1.forge.jar",
+                      "path":  "mods/[client]continuity-3.0.0+1.20.1.forge.jar.disabled",
                       "sha256":  "855ee87de79b0e161713a2689f3f2d07259e9490af194b8cfb6a4400c6ea1c76",
                       "once":  false,
                       "size":  1016666
@@ -6009,7 +6009,7 @@
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt",
-                      "sha256":  "b6f116ef4ff676431a9fca861f0f60f431e06389fb21ad95fc840a705793b14f",
+                      "sha256":  "fbd941861ec95bffa2d21145d4ddb066227bdfa9d15dff229ca8a039bafb1031",
                       "once":  true,
                       "size":  366
                   },
