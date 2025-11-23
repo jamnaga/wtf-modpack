@@ -31,6 +31,18 @@ variable {
 }
 
 variable {
+  name = password1
+  value = asdasd12
+  reset_on_launch = false
+}
+
+variable {
+  name = message
+  value =    
+  reset_on_launch = false
+}
+
+variable {
   name = button1
   value = Singleplayer
   reset_on_launch = false

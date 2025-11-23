@@ -3,3 +3,21 @@ type = custom_gui_screens
 overridden_screens {
 }
 
+custom_gui {
+  identifier = register_screen
+  title = Registrati a GangDrogaCity Online
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = false
+  pause_game = true
+}
+
+custom_gui {
+  identifier = login_screen
+  title = Accedi a GangDrogaCity Online
+  allow_esc = false
+  transparent_world_background = true
+  transparent_world_background_overlay = false
+  pause_game = true
+}
+
