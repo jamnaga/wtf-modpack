@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "09/12/2025 19:10:12,38",
+    "generated":  "09/12/2025 19:21:50,20",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -597,7 +597,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "2acb0f37563493d1c20bfe5517b02871faa1d4768d491661e71a1ae55b921109",
+                      "sha256":  "c16b4de063f7e2453e8a865cf7cd7f09274b002d7fbcbe462b0c21d35e774bf4",
                       "once":  false,
                       "size":  193
                   },
@@ -663,7 +663,7 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "39cff665077e4cb2495292872a7327e1dc6d46c74431a7c9820a27722ad5544b",
+                      "sha256":  "9a3e128f9d61416820406193d041b87c5c000c7743a11f3e92efc11ba29a5e4f",
                       "once":  false,
                       "size":  284
                   },
@@ -771,7 +771,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "2bec9a72dd6cceba35d1f430c77aad4fac159eca4649043f553510ed5675c995",
+                      "sha256":  "49a7f622f2c5e9aa05bb500e38374582a85fbebea79d91d73ac65792213f1625",
                       "once":  false,
                       "size":  283
                   },
@@ -879,7 +879,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "08780fb1be8bde1c5138454e5a633031850f7f9eb23e9866abb6c51e215a50e0",
+                      "sha256":  "4804d044d3652e8f36a9e42c13d4b24f3fc5b0559a88dc4e57bc03d4921d0046",
                       "once":  false,
                       "size":  508
                   },
@@ -1575,7 +1575,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "ddb85089e8905c177788e7263ea4f1b7da96298a753fa6ee5945b6e5417e61f5",
+                      "sha256":  "880d9a89a8ae5dad90dcc81a7734de1e3fa9b6289764cd7e8468ef9f04beca5e",
                       "once":  false,
                       "size":  290
                   },
@@ -1599,9 +1599,9 @@
                   },
                   {
                       "path":  "config/fancymenu/options.txt",
-                      "sha256":  "428bf64da2e7fb99813fac4bc0350bb675b11fe1ebed88addb65dc03179547a5",
+                      "sha256":  "19efd293f74ee2ebc655e017e29a973e4b7f229b26283b8ef15c63ada3cc6d87",
                       "once":  false,
-                      "size":  2091
+                      "size":  2180
                   },
                   {
                       "path":  "config/fancymenu/user_variables.db",
@@ -2433,9 +2433,9 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "bdc6a8897a2130ee7c76f609adcc2d45a46352d21b34ec1ff1a676db0c00ca61",
+                      "sha256":  "c9088c2bd0da8694c0dfd2e8c0fe45d3fef876e5e4af7d59f017ca2c1fd702ce",
                       "once":  false,
-                      "size":  5612
+                      "size":  5542
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
@@ -4970,10 +4970,10 @@
                       "size":  64187
                   },
                   {
-                      "path":  "mods/create-1.20.1-6.0.8.jar",
-                      "sha256":  "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0",
+                      "path":  "mods/create-1.20.1-6.0.7.jar",
+                      "sha256":  "b8b77f9539025f126a0adb286cead2a5c69eafd7906c97135ad3ca2ca66b9219",
                       "once":  false,
-                      "size":  19170905
+                      "size":  19171989
                   },
                   {
                       "path":  "mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
@@ -5264,10 +5264,10 @@
                       "size":  670934
                   },
                   {
-                      "path":  "mods/mbackrooms-1.4.0.jar",
-                      "sha256":  "562bade0fc1f3055c45c0dcf62446cf6498e843080ded615f5c4a92d7a5ddc52",
+                      "path":  "mods/mbackrooms-1.3.3.jar",
+                      "sha256":  "c2bdfa31cbf6f6f94bd13ab8eabf865eafcbe0fc3eda9f6f67c6d62ed14719cd",
                       "once":  false,
-                      "size":  16241808
+                      "size":  8423594
                   },
                   {
                       "path":  "mods/mcef-forge-2.1.6-1.20.1.jar",
