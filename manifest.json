@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "09/12/2025 19:36:25,86",
+    "generated":  "09/12/2025 19:41:10,59",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -5012,12 +5012,6 @@
                       "size":  54300
                   },
                   {
-                      "path":  "mods/drippyloadingscreen_forge_3.1.0_MC_1.20.1.jar",
-                      "sha256":  "5dc8087df6d6d8849fe1df5a6a342268a6986731ee801cb46a58d725d9e1e204",
-                      "once":  false,
-                      "size":  285003
-                  },
-                  {
                       "path":  "mods/EasyMagic-v8.0.1-1.20.1-Forge.jar",
                       "sha256":  "235a2b0be24bc83a89253e0ee4fc973abfc7cc7caed0fdd698dd139ba91ec367",
                       "once":  false,
@@ -5372,12 +5366,6 @@
                       "size":  92319
                   },
                   {
-                      "path":  "mods/ShoulderSurfing-Forge-1.20.1-4.17.0.jar",
-                      "sha256":  "9af2c90bd0f54a79918ad15fe24bdb4d1786dac87a0903c07379b365cf18e54e",
-                      "once":  false,
-                      "size":  263677
-                  },
-                  {
                       "path":  "mods/smokeleafindustry-0.4.7-1.20.1.jar",
                       "sha256":  "d519c0c1d8b6b2f3aaa39bbd2613c88f631b63cf535fc9754367575a3675d225",
                       "once":  false,
@@ -5588,6 +5576,12 @@
                       "size":  25362721
                   },
                   {
+                      "path":  "mods/[client]drippyloadingscreen_forge_3.1.0_MC_1.20.1.jar",
+                      "sha256":  "5dc8087df6d6d8849fe1df5a6a342268a6986731ee801cb46a58d725d9e1e204",
+                      "once":  false,
+                      "size":  285003
+                  },
+                  {
                       "path":  "mods/[client]eatinganimation-1.20.1-5.1.0.jar",
                       "sha256":  "506ffc2e2bcc5709c8121382c5d0428ca642ceaeebe2a9169c9b0475a83c657c",
                       "once":  false,
@@ -5652,6 +5646,12 @@
                       "sha256":  "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da",
                       "once":  false,
                       "size":  568608
+                  },
+                  {
+                      "path":  "mods/[client]ShoulderSurfing-Forge-1.20.1-4.17.0.jar",
+                      "sha256":  "9af2c90bd0f54a79918ad15fe24bdb4d1786dac87a0903c07379b365cf18e54e",
+                      "once":  false,
+                      "size":  263677
                   },
                   {
                       "path":  "mods/.connector/TechReborn-5.8.8$energy-3.0.0_mapped_srg_1.20.1.jar",
