@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "09/12/2025 19:59:41,65",
+    "generated":  "09/12/2025 20:02:28,17",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -5216,12 +5216,6 @@
                       "size":  9877729
                   },
                   {
-                      "path":  "mods/justzoom_forge_2.1.1_MC_1.20.1.jar",
-                      "sha256":  "778c75c388a8dffed5bfad25ab9a420dfd6c4ec3bdc1699ec6c2bab2336b5040",
-                      "once":  false,
-                      "size":  204574
-                  },
-                  {
                       "path":  "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
                       "sha256":  "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b",
                       "once":  false,
@@ -5516,12 +5510,6 @@
                       "size":  1723029
                   },
                   {
-                      "path":  "mods/XaeroZoomout-Forge-1.20-1.1.0.jar",
-                      "sha256":  "6e0448b38f4850d20a213f4f869e95a81d7e38994976c89d03b5dc1adaa5a71a",
-                      "once":  false,
-                      "size":  32691
-                  },
-                  {
                       "path":  "mods/YungsApi-1.20-Forge-4.0.6.jar",
                       "sha256":  "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
                       "once":  false,
@@ -5618,6 +5606,12 @@
                       "size":  100362
                   },
                   {
+                      "path":  "mods/[client]justzoom_forge_2.1.1_MC_1.20.1.jar",
+                      "sha256":  "778c75c388a8dffed5bfad25ab9a420dfd6c4ec3bdc1699ec6c2bab2336b5040",
+                      "once":  false,
+                      "size":  204574
+                  },
+                  {
                       "path":  "mods/[client]MaFgLib-0.1.14-mc1.20.1.jar",
                       "sha256":  "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1",
                       "once":  false,
@@ -5652,6 +5646,12 @@
                       "sha256":  "9af2c90bd0f54a79918ad15fe24bdb4d1786dac87a0903c07379b365cf18e54e",
                       "once":  false,
                       "size":  263677
+                  },
+                  {
+                      "path":  "mods/[client]XaeroZoomout-Forge-1.20-1.1.0.jar",
+                      "sha256":  "6e0448b38f4850d20a213f4f869e95a81d7e38994976c89d03b5dc1adaa5a71a",
+                      "once":  false,
+                      "size":  32691
                   },
                   {
                       "path":  "mods/.connector/TechReborn-5.8.8$energy-3.0.0_mapped_srg_1.20.1.jar",
