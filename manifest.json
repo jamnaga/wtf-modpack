@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "23/11/2025 03:50:17,18",
+    "generated":  "09/12/2025 18:55:59,33",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -219,9 +219,9 @@
                   },
                   {
                       "path":  "config/cubes_without_borders.json",
-                      "sha256":  "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d",
+                      "sha256":  "fc23de68ad82636995de4b3da07d4732767e51d4f8c048a0749f42958b8afa47",
                       "once":  false,
-                      "size":  209
+                      "size":  202
                   },
                   {
                       "path":  "config/curios-client.toml",
@@ -4820,6 +4820,12 @@
                       "size":  47428
                   },
                   {
+                      "path":  "mods/appliedenergistics2-forge-15.4.10.jar",
+                      "sha256":  "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+                      "once":  false,
+                      "size":  8495956
+                  },
+                  {
                       "path":  "mods/architectury-9.2.14-forge.jar",
                       "sha256":  "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
                       "once":  false,
@@ -5102,6 +5108,12 @@
                       "size":  44217
                   },
                   {
+                      "path":  "mods/guideme-20.1.14.jar",
+                      "sha256":  "a0ba5a0288dab6e413f1456de8dd162f9479146ee681569837f6d6b17930a0e2",
+                      "once":  false,
+                      "size":  9413204
+                  },
+                  {
                       "path":  "mods/gun-1.20.1.jar",
                       "sha256":  "977c180e3b883a49289a71f888dea5d9a06815cdb63caaf9d158a98527b5a805",
                       "once":  false,
@@ -5382,6 +5394,12 @@
                       "sha256":  "44fc45aa3a7a61c7b862454d0ec508d5f10f31eb3a52e3ee05e737fd6e8e61fb",
                       "once":  false,
                       "size":  72829
+                  },
+                  {
+                      "path":  "mods/Steam_Rails-1.6.14-beta+forge-mc1.20.1.jar",
+                      "sha256":  "f28e8544357a70ec709815aee0a5cfa7aefc496a7e3a3b4b7acebbb2d207a2e4",
+                      "once":  false,
+                      "size":  9999782
                   },
                   {
                       "path":  "mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
