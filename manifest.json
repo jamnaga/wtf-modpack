@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "09/12/2025 19:41:10,59",
+    "generated":  "09/12/2025 19:59:41,65",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -2433,9 +2433,9 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "c9088c2bd0da8694c0dfd2e8c0fe45d3fef876e5e4af7d59f017ca2c1fd702ce",
+                      "sha256":  "bdc6a8897a2130ee7c76f609adcc2d45a46352d21b34ec1ff1a676db0c00ca61",
                       "once":  false,
-                      "size":  5542
+                      "size":  5612
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
@@ -2451,13 +2451,13 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin.properties",
-                      "sha256":  "a23bea7bb0950611a8edbdad0af79e8ae02ebf4cb5bf131caeab34a00d7cb87c",
+                      "sha256":  "72aa81c62a36503723adfdeff43853b460e6f1a1cc9cb38b52c2d98575fb9748",
                       "once":  false,
                       "size":  48
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin_double.properties",
-                      "sha256":  "97fafcb9f1e919e55ec7e144892c4a45598c00500e3e83f2dec0b2908130e9e5",
+                      "sha256":  "abc18597202d4f7e66a48979dd459283ddbd1501b9e0857aad43dc11095ec02e",
                       "once":  false,
                       "size":  73
                   },
@@ -2625,7 +2625,7 @@
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite-shm",
-                      "sha256":  "fc9e3098bb47ab180defa41865c0a7e1a2300b5430b7f40b6d9c14586c485e86",
+                      "sha256":  "49389f3a0b93080f927997f7286f7f0985f67a0150561043ac4959c4b12711dd",
                       "once":  false,
                       "size":  131072
                   },
@@ -4970,10 +4970,10 @@
                       "size":  64187
                   },
                   {
-                      "path":  "mods/create-1.20.1-6.0.7.jar",
-                      "sha256":  "b8b77f9539025f126a0adb286cead2a5c69eafd7906c97135ad3ca2ca66b9219",
+                      "path":  "mods/create-1.20.1-6.0.8.jar",
+                      "sha256":  "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0",
                       "once":  false,
-                      "size":  19171989
+                      "size":  19170905
                   },
                   {
                       "path":  "mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
