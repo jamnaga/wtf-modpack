@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "09/12/2025 19:21:50,20",
+    "generated":  "09/12/2025 19:36:25,86",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -597,7 +597,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "c16b4de063f7e2453e8a865cf7cd7f09274b002d7fbcbe462b0c21d35e774bf4",
+                      "sha256":  "32a3d8fb8f794081c53fa8196404031fb281b8ff53115dd596c60dd6f344f8ff",
                       "once":  false,
                       "size":  193
                   },
@@ -663,7 +663,7 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "9a3e128f9d61416820406193d041b87c5c000c7743a11f3e92efc11ba29a5e4f",
+                      "sha256":  "3a9feac2a41b62325407af552937f715d38560acaeac2ff0f5c8b14f902dfea1",
                       "once":  false,
                       "size":  284
                   },
@@ -741,9 +741,9 @@
                   },
                   {
                       "path":  "config/shouldersurfing-client.toml",
-                      "sha256":  "0f6b5efb06926df24886f3afa7133e98b1eca410ad67ca172c9185abf1547573",
+                      "sha256":  "587a76394b5bb447c789883b2f0ff898e67e9a47182307f029ee8f6bf1a27ead",
                       "once":  false,
-                      "size":  16218
+                      "size":  16395
                   },
                   {
                       "path":  "config/sodium-extra-options.json",
@@ -771,7 +771,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "49a7f622f2c5e9aa05bb500e38374582a85fbebea79d91d73ac65792213f1625",
+                      "sha256":  "a54a182574fee3cb1e4ae6a26b2f7f0eacb3d677ed404db57bd792cfba8dee75",
                       "once":  false,
                       "size":  283
                   },
@@ -879,7 +879,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "4804d044d3652e8f36a9e42c13d4b24f3fc5b0559a88dc4e57bc03d4921d0046",
+                      "sha256":  "900b504fb0aeb7412e0ff2e97e44accbdf0dcf6cead1591fffb64f78af4acd70",
                       "once":  false,
                       "size":  508
                   },
@@ -957,7 +957,7 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "e3cd9da215541cf57afa46446ff98eee8216adf6dbd07a4318d8ddc1f9f480c5",
+                      "sha256":  "f21abe0bd37172e5f9e575d5489295de91bcd5c7c70b7d103ba51f6902e6ec5b",
                       "once":  false,
                       "size":  5532
                   },
@@ -1569,13 +1569,13 @@
                   },
                   {
                       "path":  "config/drippyloadingscreen/options.txt",
-                      "sha256":  "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5",
+                      "sha256":  "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5",
                       "once":  false,
-                      "size":  162
+                      "size":  2465
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "880d9a89a8ae5dad90dcc81a7734de1e3fa9b6289764cd7e8468ef9f04beca5e",
+                      "sha256":  "af03c67a8b50227366984776042d8600c251e79116ff403b34c7ea388f0d4e49",
                       "once":  false,
                       "size":  290
                   },
@@ -1587,9 +1587,9 @@
                   },
                   {
                       "path":  "config/fancymenu/custom_gui_screens.txt",
-                      "sha256":  "c0704c01feadf0d579d2684b2b65644ceb20a6d0c971c3789f8f66359ee70d4a",
+                      "sha256":  "d6a128df03750d436f06dddff86bd32fddad9f1e60868f291da96ec5621c971b",
                       "once":  false,
-                      "size":  475
+                      "size":  595
                   },
                   {
                       "path":  "config/fancymenu/legacy_checklist.txt",
@@ -1737,15 +1737,15 @@
                   },
                   {
                       "path":  "config/fancymenu/ui_themes/dark.json",
-                      "sha256":  "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4",
+                      "sha256":  "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850",
                       "once":  false,
-                      "size":  4133
+                      "size":  6218
                   },
                   {
                       "path":  "config/fancymenu/ui_themes/light.json",
-                      "sha256":  "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620",
+                      "sha256":  "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41",
                       "once":  false,
-                      "size":  4135
+                      "size":  6220
                   },
                   {
                       "path":  "config/forgematica/forgematica_mc.stefanodeblasi.it_25566.json",
@@ -6069,7 +6069,7 @@
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt",
-                      "sha256":  "3d57692f314569cc853824b9bc841e417c99b0e40a50d375c3b0820229960f79",
+                      "sha256":  "4e57a0c6eb0200e61e31d13d83f2840a6505dc43a04c9ec1d963f34d1416b84d",
                       "once":  true,
                       "size":  366
                   },
