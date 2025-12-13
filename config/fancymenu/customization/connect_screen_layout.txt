@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = connect_screen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1759423211391
+  last_edited_time = 1765667452579
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:252cfe36-9b09-4eb3-bafd-0c0e0cb368de-1759423197287] = [groups:][instances:]
+  [loading_requirement_container_meta:6b6be5a5-0588-4de0-b8ac-180fb04c2632-1765667445542] = [groups:][instances:]
 }
 
 customization {
@@ -80,12 +80,12 @@ vanilla_button {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1010
+  auto_sizing_base_screen_width = 1360
+  auto_sizing_base_screen_height = 770
   sticky_anchor = false
-  anchor_point = mid-centered
-  x = -95
-  y = 161
+  anchor_point = bottom-centered
+  x = -100
+  y = -22
   width = 200
   height = 9
   stretch_x = false
@@ -101,6 +101,12 @@ vanilla_button {
   load_once_per_session = false
   in_editor_color = #FFC800FF
   layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
   is_hidden = false
   automated_button_clicks = 0
 }
@@ -137,13 +143,13 @@ vanilla_button {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1010
+  auto_sizing_base_screen_width = 1360
+  auto_sizing_base_screen_height = 770
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -100
-  y = 185
-  width = 200
+  x = -330
+  y = -170
+  width = 72
   height = 20
   stretch_x = false
   stretch_y = false
@@ -158,6 +164,12 @@ vanilla_button {
   load_once_per_session = false
   in_editor_color = #FFC800FF
   layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
   is_hidden = false
   automated_button_clicks = 0
 }

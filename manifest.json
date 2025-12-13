@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "14/12/2025 00:05:48,36",
+    "generated":  "14/12/2025 00:11:10,00",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -1665,9 +1665,9 @@
                   },
                   {
                       "path":  "config/fancymenu/customization/connect_screen_layout.txt",
-                      "sha256":  "8e20c66955977d161049d0a36fc686ddeb8fa4b1ff53929006c121cb28ef78ba",
+                      "sha256":  "f684f0eee6563cbe453a08134275a4e12c26005a6ea81be17fdaba923ddd69ae",
                       "once":  false,
-                      "size":  5404
+                      "size":  5638
                   },
                   {
                       "path":  "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
@@ -2703,7 +2703,7 @@
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_save.json",
-                      "sha256":  "d6957ab2cdc3babd263156c6d0294806b0a3b42ff0f5854d634455deca232cb6",
+                      "sha256":  "e400ff2e93bc79811e02921fc2f5c578e7ff288b0c4fa56a5b6cb2676be9b6fe",
                       "once":  false,
                       "size":  260
                   },
