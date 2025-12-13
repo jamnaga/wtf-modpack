@@ -11,3 +11,5 @@ fancymenu_data/fancymenu_temp/web/videoplayer/player.html
 /screenshots
 .mixin.out/class/net/minecraft/client/gui/screens/OptionsScreen.class
 /saves
+/.replay_cache
+/replay_recordings

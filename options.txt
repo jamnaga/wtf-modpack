@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -53,7 +53,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:false
 overrideWidth:0
 overrideHeight:0
@@ -97,7 +97,7 @@ key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
-key_key.pickItem:key.mouse.middle
+key_key.pickItem:key.keyboard.keypad.0
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.p
 key_key.screenshot:key.keyboard.f2
@@ -118,6 +118,24 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.replaymod.playeroverview:key.keyboard.b
+key_key.replaymod.lighting:key.keyboard.z
+key_key.replaymod.quickmode:key.keyboard.q
+key_key.replaymod.settings:key.keyboard.unknown
+key_key.replaymod.marker:key.keyboard.m
+key_key.replaymod.thumbnail:key.keyboard.n
+key_key.replaymod.playpause:key.keyboard.p
+key_key.replaymod.rollclockwise:key.keyboard.l
+key_key.replaymod.rollcounterclockwise:key.keyboard.j
+key_key.replaymod.resettilt:key.keyboard.k
+key_key.replaymod.pathpreview:key.keyboard.h
+key_key.replaymod.keyframerepository:key.keyboard.x
+key_key.replaymod.clearkeyframes:key.keyboard.c
+key_key.replaymod.synctimeline:key.keyboard.v
+key_key.replaymod.positionkeyframe:key.keyboard.i
+key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
+key_key.replaymod.timekeyframe:key.keyboard.o
+key_key.replaymod.bothkeyframes:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.g
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
@@ -188,6 +206,8 @@ key_key.immersive_aircraft.fallback_use:key.keyboard.unknown
 key_key.immersive_aircraft.dismount:key.keyboard.r
 key_key.immersive_aircraft.boost:key.keyboard.b
 key_key.relics.ability_list:key.keyboard.left.alt
+key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
+key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_key.carry.desc:key.keyboard.left.shift
@@ -217,6 +237,12 @@ key_key.mtr.debug_2_positive:key.keyboard.keypad.8
 key_key.mtr.debug_3_positive:key.keyboard.keypad.9
 key_key.mtr.debug_cycle_negative:key.keyboard.keypad.subtract
 key_key.mtr.debug_cycle_positive:key.keyboard.keypad.add
+key_key.guideme.guide:key.keyboard.g
+key_key.ae2.portable_item_cell:key.keyboard.unknown
+key_key.ae2.portable_fluid_cell:key.keyboard.unknown
+key_key.ae2.wireless_terminal:key.keyboard.unknown
+key_gui.jsblock.keybinds.script_debug_source_previous:key.keyboard.left.bracket
+key_gui.jsblock.keybinds.script_debug_source_next:key.keyboard.right.bracket
 key_Inspect Key:key.keyboard.j
 key_justzoom.keybinds.keybind.zoom:key.keyboard.z
 key_key.ponder.ponder:key.keyboard.w

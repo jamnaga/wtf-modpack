@@ -70,7 +70,7 @@
 		// Declares whether entry panel is scrolled.
 		"scrollingEntryListWidget": false,
 		// Declares whether entry panel should be invisible when not searching
-		"hideEntryPanelIfIdle": false,
+		"hideEntryPanelIfIdle": true,
 		"rainbow": false,
 		"horizontalEntriesBoundaries": 1.0,
 		"verticalEntriesBoundaries": 1.0,
@@ -161,7 +161,41 @@
 			"cachingDisplayLookup": true,
 			"categorySettings": {
 				"filteringQuickCraftCategories": { },
-				"categoryOrdering": [],
+				"categoryOrdering": [
+					"minecraft:plugins/crafting",
+					"minecraft:plugins/smelting",
+					"minecraft:plugins/smoking",
+					"minecraft:plugins/blasting",
+					"minecraft:plugins/campfire",
+					"minecraft:plugins/stone_cutting",
+					"minecraft:plugins/fuel",
+					"minecraft:plugins/brewing",
+					"minecraft:plugins/composting",
+					"minecraft:plugins/stripping",
+					"minecraft:plugins/smithing",
+					"minecraft:plugins/anvil",
+					"minecraft:plugins/beacon_base",
+					"minecraft:plugins/beacon_payment",
+					"minecraft:plugins/tilling",
+					"minecraft:plugins/pathing",
+					"minecraft:plugins/waxing",
+					"minecraft:plugins/wax_scraping",
+					"minecraft:plugins/oxidizing",
+					"minecraft:plugins/oxidation_scraping",
+					"justenoughbreeding:allay_duplication",
+					"justenoughbreeding:breeding",
+					"justenoughbreeding:taming",
+					"justenoughbreeding:temper",
+					"justenoughbreeding:transformation",
+					"justenoughbreeding:trusting",
+					"ae2:item_transformation",
+					"ae2:condenser",
+					"ae2:ae2.inscriber",
+					"ae2:attunement",
+					"ae2:charger",
+					"roughlyenoughitems:plugins/information",
+					"minecraft:plugins/tag"
+				],
 				"hiddenCategories": []
 			}
 		},
@@ -170,8 +204,7 @@
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}",
-				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
+				"{id:\"roughlyenoughitems:basic\",rule:{}}"
 			]
 		}
 	}
