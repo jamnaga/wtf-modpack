@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "14/12/2025 01:31:41,26",
+    "generated":  "14/12/2025 01:49:15,55",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -278,6 +278,12 @@
                       "size":  1639
                   },
                   {
+                      "path":  "config/eyemod-common-1.toml.bak",
+                      "sha256":  "79b7554361aa4542f8253a05b540335ecf1402a66201a87cdf42fa2d50443be7",
+                      "once":  false,
+                      "size":  2207
+                  },
+                  {
                       "path":  "config/eyemod-common.toml",
                       "sha256":  "79b7554361aa4542f8253a05b540335ecf1402a66201a87cdf42fa2d50443be7",
                       "once":  false,
@@ -416,8 +422,20 @@
                       "size":  15850
                   },
                   {
+                      "path":  "config/jsblock_client.json",
+                      "sha256":  "7b93e9c7e3171017a792f5d412ac95211c65fcb0ab54d2fc062bf7de42bdff60",
+                      "once":  false,
+                      "size":  129
+                  },
+                  {
+                      "path":  "config/krypton_fnp.yaml",
+                      "sha256":  "f4e13fc8145fcca0c37172b3d36c48a6861c3baa6db4889b543cbf252b6d63a7",
+                      "once":  false,
+                      "size":  144
+                  },
+                  {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "bbb832a29c8c9368815ab31415429cacddcbe4c66250fcfaa1f496fd0ba9b789",
+                      "sha256":  "6733312dfcf5674fc758e54e8a33e2b6701a8ac8b0cb763ffe2a0af1e8cea69c",
                       "once":  false,
                       "size":  193
                   },
@@ -426,6 +444,18 @@
                       "sha256":  "0d5d3f6d9c15663c62c18b27d7ff826bc5edf776ccb0d6279fb3b6bc9aa5553e",
                       "once":  false,
                       "size":  880
+                  },
+                  {
+                      "path":  "config/mbackrooms-common.toml",
+                      "sha256":  "bafb77ac063e633d4d683afdd467191b16973018a2a8b4b8ee77f98ecb071311",
+                      "once":  false,
+                      "size":  1557
+                  },
+                  {
+                      "path":  "config/mbackrooms_cardboard_loot.json",
+                      "sha256":  "ba0b56b50d20cc49fb9f57a3a70c01726edd25640451b069f2f4c68abfae619e",
+                      "once":  false,
+                      "size":  3739
                   },
                   {
                       "path":  "config/moonlight-client.toml",
@@ -452,6 +482,54 @@
                       "size":  2527
                   },
                   {
+                      "path":  "config/oculus.properties",
+                      "sha256":  "2e06a5ca58c93dc578530be465f6476c5e8703d6dd06883faab1ccee53b846fc",
+                      "once":  false,
+                      "size":  254
+                  },
+                  {
+                      "path":  "config/ponder-client.toml",
+                      "sha256":  "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8",
+                      "once":  false,
+                      "size":  619
+                  },
+                  {
+                      "path":  "config/railways-client.toml",
+                      "sha256":  "4cfa4eea83724d9a7c9404edf69e27bed2134571d6286df21bc413d1cc12a668",
+                      "once":  false,
+                      "size":  1823
+                  },
+                  {
+                      "path":  "config/railways-common.toml",
+                      "sha256":  "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f",
+                      "once":  false,
+                      "size":  337
+                  },
+                  {
+                      "path":  "config/ribbits-forge-1_20_1.toml",
+                      "sha256":  "a3a347104c669a4847fbcea06cabe3a5fb79c474164137b01074fde0c1e649be",
+                      "once":  false,
+                      "size":  420
+                  },
+                  {
+                      "path":  "config/ribbits-options.json",
+                      "sha256":  "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b",
+                      "once":  false,
+                      "size":  33
+                  },
+                  {
+                      "path":  "config/sandwormmod-common.toml",
+                      "sha256":  "17dd8abfe432be2fe7d4b0c8ad16b46ac0089741b0e8add3a1cb07dd2bba566f",
+                      "once":  false,
+                      "size":  1397
+                  },
+                  {
+                      "path":  "config/saturn-optimizations.toml",
+                      "sha256":  "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3",
+                      "once":  false,
+                      "size":  445
+                  },
+                  {
                       "path":  "config/securitycraft-client.toml",
                       "sha256":  "600d83bb7ef94b1f2a4ab055026cd592429d3903ff620940e1d06665082f1ca8",
                       "once":  false,
@@ -462,6 +540,18 @@
                       "sha256":  "587a76394b5bb447c789883b2f0ff898e67e9a47182307f029ee8f6bf1a27ead",
                       "once":  false,
                       "size":  16395
+                  },
+                  {
+                      "path":  "config/sodium-extra-options.json",
+                      "sha256":  "fcbbbe7b2ec653da17b80dd0075afe1a57418560067d8936232d06b6dd998783",
+                      "once":  false,
+                      "size":  1461
+                  },
+                  {
+                      "path":  "config/sodium-extra.properties",
+                      "sha256":  "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
+                      "once":  false,
+                      "size":  360
                   },
                   {
                       "path":  "config/sodiumdynamiclights-client.toml",
@@ -477,7 +567,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "ff186a2f0fde662c1fff9a7d14798023b1145ec851ae4a564085431b32145fb9",
+                      "sha256":  "e92a0d1fabc655d0e2ae35d1a061325759ddf8a1c01a3cef02aad72ea7bf37f2",
                       "once":  false,
                       "size":  283
                   },
@@ -518,6 +608,12 @@
                       "size":  274
                   },
                   {
+                      "path":  "config/transition.json",
+                      "sha256":  "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
+                      "once":  false,
+                      "size":  62
+                  },
+                  {
                       "path":  "config/treechop-client.toml",
                       "sha256":  "1be81dc7c3d0fa1e108510e9435f56a6b9d46779e977a5976d25e5b6997bfab5",
                       "once":  false,
@@ -528,6 +624,12 @@
                       "sha256":  "aed067acf3903af1f420416f24de01cd27d7968384ad2f2787fffc21e45852cb",
                       "once":  false,
                       "size":  8869
+                  },
+                  {
+                      "path":  "config/trender.json",
+                      "sha256":  "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2",
+                      "once":  false,
+                      "size":  44
                   },
                   {
                       "path":  "config/visualworkbench-client.toml",
@@ -543,7 +645,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "2d27797092f7c8bd212f945543fc965428f557a8b70407535c6803d9d8f43b12",
+                      "sha256":  "06bb18645581c7b8e5a6782e30c7979913e6a82fbc01eb69ed65462a4bd07bdb",
                       "once":  false,
                       "size":  506
                   },
@@ -597,7 +699,7 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "da484d16e61bbd9255a323d9e340ecad4a7eccc03dcba3a2372c1d02d5483472",
+                      "sha256":  "f21abe0bd37172e5f9e575d5489295de91bcd5c7c70b7d103ba51f6902e6ec5b",
                       "once":  false,
                       "size":  5532
                   },
@@ -632,8 +734,20 @@
                       "size":  1584
                   },
                   {
+                      "path":  "config/CoroUtil/General.toml",
+                      "sha256":  "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398",
+                      "once":  false,
+                      "size":  133
+                  },
+                  {
+                      "path":  "config/drippyloadingscreen/options.txt",
+                      "sha256":  "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5",
+                      "once":  false,
+                      "size":  2465
+                  },
+                  {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "23110f369a97222027d3e520dc437871cbc56fd71ab9b93abf25947b8c4179ef",
+                      "sha256":  "34fdb13e2f218f0501faace8c9fb5b012ef6ccfe2c8a9683a6e01d2fdd700758",
                       "once":  false,
                       "size":  290
                   },
@@ -1052,6 +1166,24 @@
                       "size":  140
                   },
                   {
+                      "path":  "config/otyacraftengine/client.toml",
+                      "sha256":  "296562f31498578124f780431b54e94e722a5a4d9dd3c1453630dd23391ad700",
+                      "once":  false,
+                      "size":  86
+                  },
+                  {
+                      "path":  "config/otyacraftengine/client_debug.toml",
+                      "sha256":  "8f050b5467f258f0b89aac2ccb8149607d9d194ecc0836e701ee1be796084541",
+                      "once":  false,
+                      "size":  101
+                  },
+                  {
+                      "path":  "config/pickupnotifier/pickupnotifier-client.toml",
+                      "sha256":  "242a0f58407ecc71ff5e2c6cd2910001c089ee4e6130454c377115e8a8f3c83a",
+                      "once":  false,
+                      "size":  3355
+                  },
+                  {
                       "path":  "config/roughlyenoughitems/collapsible.json5",
                       "sha256":  "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919",
                       "once":  false,
@@ -1059,9 +1191,9 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "d686cfd55087ced52221cd301aa7c290c49cc59de46af21f5d5a6bb47d7c62b0",
+                      "sha256":  "f4637be1fa9fbcd9c1b3d31b672aed7b2dbbcdffdf95fb7676baed1c9d4a6633",
                       "once":  false,
-                      "size":  6761
+                      "size":  6691
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
@@ -3854,7 +3986,7 @@
                       "size":  2384003
                   },
                   {
-                      "path":  "mods/sandworm_mod-1.1.0.jar",
+                      "path":  "mods/sandworm_mod-1.1.0.jar.disabled",
                       "sha256":  "80c0a2af12ae223ad9b2ab82a60677bed22b18fd99bf46cfcd4252465dddbd2b",
                       "once":  false,
                       "size":  4515705
