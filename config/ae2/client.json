@@ -7,7 +7,7 @@
     "enableFacadeRecipesInJEI": true,
     "exposeInventoryToEmi_comment": "Expose the full network inventory to EMI, which might cause performance problems.",
     "exposeInventoryToEmi": false,
-    "enableEffects": true,
+    "enableEffects": false,
     "useTerminalUseLargeFont": false,
     "useColoredCraftingStatus": true,
     "PowerUnit_comment": "Power unit shown in AE UIs",
