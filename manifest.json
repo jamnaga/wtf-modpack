@@ -1,11 +1,11 @@
 ﻿{
-    "generated":  "14/12/2025 00:11:10,00",
+    "generated":  "14/12/2025 01:14:49,92",
     "files":  [
                   {
                       "path":  ".gitignore",
-                      "sha256":  "f5699523ac12038ae0015a6bb4323717e7c88a05ef0ff55639d55723145dd103",
+                      "sha256":  "d27373762a2fc3ee8b0f2401b4471fcc0c4e87ec400be9ca8472d64ab59d28ce",
                       "once":  false,
-                      "size":  326
+                      "size":  328
                   },
                   {
                       "path":  ".manifestignore",
@@ -51,9 +51,9 @@
                   },
                   {
                       "path":  "options.txt",
-                      "sha256":  "33121cd2bc69f5371f038762c296c32740eddf850f6cdba65d5eabcec03f609c",
+                      "sha256":  "9d0f154a65ca60cca33b033edd0175e707f247c742eb30d972fa84b39e5bfba3",
                       "once":  true,
-                      "size":  10807
+                      "size":  9938
                   },
                   {
                       "path":  "servers.dat",
@@ -237,9 +237,9 @@
                   },
                   {
                       "path":  "config/cubes_without_borders.json",
-                      "sha256":  "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d",
+                      "sha256":  "e55546f368fc9cc3ba24c5233384b61e492aa97d5f624fbd8e5552dd7cd8650f",
                       "once":  false,
-                      "size":  209
+                      "size":  208
                   },
                   {
                       "path":  "config/curios-client.toml",
@@ -615,7 +615,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "8b508e64e92c9fc823292cdadcec9e448fbfe622ae238f385bee6afecf4abf04",
+                      "sha256":  "bbb832a29c8c9368815ab31415429cacddcbe4c66250fcfaa1f496fd0ba9b789",
                       "once":  false,
                       "size":  193
                   },
@@ -681,7 +681,7 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "5a15f988018d2a32a051716277e49d2fe6c5a0a3400f3c9fe42e3059b4c4a904",
+                      "sha256":  "95729b5021a499d9b55fb83107e3d3c02552d5b9c39163b48e9e396a2986311c",
                       "once":  false,
                       "size":  285
                   },
@@ -795,7 +795,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "649ce94c3864e4d66c612d0eb5c6a354816ad04e01f57ff40e8c5e1d4e0bee01",
+                      "sha256":  "ff186a2f0fde662c1fff9a7d14798023b1145ec851ae4a564085431b32145fb9",
                       "once":  false,
                       "size":  283
                   },
@@ -903,7 +903,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "eb4cc6bd8c8f91d0d685e010481ffe270a10008a9e233a29da5b8dc02383afc9",
+                      "sha256":  "2d27797092f7c8bd212f945543fc965428f557a8b70407535c6803d9d8f43b12",
                       "once":  false,
                       "size":  506
                   },
@@ -975,13 +975,13 @@
                   },
                   {
                       "path":  "config/xaerominimap.txt",
-                      "sha256":  "27ef533f7e11c6b427f02387cb238cc10a561ebbcb0171f76f06f29e783bec5f",
+                      "sha256":  "875406e6a694cf94332d1cf40a03902a6103cdee94cc76b985f4cefef898ffbf",
                       "once":  false,
                       "size":  3660
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "ef384ca86e4d4afb48d0f71db62c5fac9fb28bc072f2b24035af02ba0abedf1f",
+                      "sha256":  "da484d16e61bbd9255a323d9e340ecad4a7eccc03dcba3a2372c1d02d5483472",
                       "once":  false,
                       "size":  5532
                   },
@@ -1599,7 +1599,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "bb4fc2d1076afc1ce7d8f85fd16616d6e27790023d25b54e510798ca522991b1",
+                      "sha256":  "23110f369a97222027d3e520dc437871cbc56fd71ab9b93abf25947b8c4179ef",
                       "once":  false,
                       "size":  290
                   },
@@ -2457,9 +2457,9 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "f4637be1fa9fbcd9c1b3d31b672aed7b2dbbcdffdf95fb7676baed1c9d4a6633",
+                      "sha256":  "d686cfd55087ced52221cd301aa7c290c49cc59de46af21f5d5a6bb47d7c62b0",
                       "once":  false,
-                      "size":  6691
+                      "size":  6761
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
@@ -2475,13 +2475,13 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin.properties",
-                      "sha256":  "31c2e1815b0bf82a5e405adfe87650ebe19e22c8cfd4516d26a1da9288ada0c0",
+                      "sha256":  "48a52c6d7d6263ba9e4a1cc22c2da5ee50799257e5b77d716a6757f868494db9",
                       "once":  false,
                       "size":  48
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin_double.properties",
-                      "sha256":  "5bcff0a8931d8c2691061597ab7a8e46046c8810bda1239bc44012384546fcc2",
+                      "sha256":  "c9fe5a1a35030b59cf204d5f0d823cb9fab06ebcf54f7004dcde88088a96302d",
                       "once":  false,
                       "size":  73
                   },
@@ -4850,7 +4850,7 @@
                       "size":  97
                   },
                   {
-                      "path":  "mods/aaa_particles-1.20.1-1.4.11-forge.jar",
+                      "path":  "mods/aaa_particles-1.20.1-1.4.11-forge.jar.disabled",
                       "sha256":  "687ed116f862b8914a3a80d55ac354ca387bf24f16f15faf3329fab25655c8cf",
                       "once":  false,
                       "size":  5255759
@@ -4862,7 +4862,7 @@
                       "size":  280211
                   },
                   {
-                      "path":  "mods/alexsmobs-1.22.9.jar",
+                      "path":  "mods/alexsmobs-1.22.9.jar.disabled",
                       "sha256":  "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
                       "once":  false,
                       "size":  26350793
@@ -5360,7 +5360,7 @@
                       "size":  1342987
                   },
                   {
-                      "path":  "mods/relics-1.20.1-0.8.0.11.jar",
+                      "path":  "mods/relics-1.20.1-0.8.0.11.jar.disabled",
                       "sha256":  "eb67ef6da9631cac1ccacb542dce3e03f3f5f3594acb5f88647efc2cd8f8b15a",
                       "once":  false,
                       "size":  1518437
@@ -6105,7 +6105,7 @@
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt",
-                      "sha256":  "f799000ee1340436727a697db0b38676bae9327c48c32940a612676eaa455d63",
+                      "sha256":  "fbf6bff95a47b85f9ed484a831d001dc41c74bdf2b792e5abc57a927e874c90b",
                       "once":  true,
                       "size":  366
                   },
