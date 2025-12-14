@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "14/12/2025 03:24:16,07",
+    "generated":  "14/12/2025 03:30:34,47",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -18,24 +18,6 @@
                       "sha256":  "f2e2350b7ca45e4d28373c28b6519e3e6fbd24063e7be60d1041dbd9f423adf0",
                       "once":  false,
                       "size":  165
-                  },
-                  {
-                      "path":  "ffmpeg.exe",
-                      "sha256":  "dcaa223f80db57e9a32efec7c41856ec99e5504090843b0bc284133e5d4cfabd",
-                      "once":  false,
-                      "size":  100779520
-                  },
-                  {
-                      "path":  "ffplay.exe",
-                      "sha256":  "06850a9f19ca2ee2de82c2dd65197202de7b5cfae40afc01969e6ee27ff80af5",
-                      "once":  false,
-                      "size":  102251520
-                  },
-                  {
-                      "path":  "ffprobe.exe",
-                      "sha256":  "6aaba6e0a6527afbe13789ecab93a1f68be40e2b9ba2537a545f3d7fe81d75f9",
-                      "once":  false,
-                      "size":  100572672
                   },
                   {
                       "path":  "generate_manifest.ps1",
@@ -4740,18 +4722,6 @@
                       "sha256":  "0630aa42492f78126da1c4d99769632e03c55b2e63b050efe7e3005e07e3e6fc",
                       "once":  false,
                       "size":  1338368
-                  },
-                  {
-                      "path":  "replay_recordings/2025_12_11_23_29_08.mcpr",
-                      "sha256":  "c492f3d8f881120d183767efeb97dd21439c801e8de85d9f9545071fdcadf5eb",
-                      "once":  false,
-                      "size":  78963953
-                  },
-                  {
-                      "path":  "replay_recordings/raw/2025_12_11_23_29_08.mcpr",
-                      "sha256":  "2812b3e7e66b09f1a75ccaec79ef95c7cbe38ea20d84f280f6593be1391e0af4",
-                      "once":  false,
-                      "size":  79840504
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip",
