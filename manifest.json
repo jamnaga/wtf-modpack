@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "14/12/2025 01:29:18,27",
+    "generated":  "14/12/2025 01:31:41,26",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -3560,18 +3560,6 @@
                       "size":  69476
                   },
                   {
-                      "path":  "mods/entity_model_features_1.20.1-forge-3.0.7.jar",
-                      "sha256":  "fef4f682c6143efbb228e91a3023a663e717e27928e345727363832f249afeee",
-                      "once":  false,
-                      "size":  661640
-                  },
-                  {
-                      "path":  "mods/entity_texture_features_1.20.1-forge-7.0.6.jar",
-                      "sha256":  "93c5809268b8a7752e6ccca49a611e61368365dfe5647ec31ee263d2d95cf532",
-                      "once":  false,
-                      "size":  951154
-                  },
-                  {
                       "path":  "mods/etched-3.0.4.jar",
                       "sha256":  "18fa648a887eb8ae284e278b1c361c8bffe73947336761d8b1787052dd34fe69",
                       "once":  false,
@@ -3884,18 +3872,6 @@
                       "size":  877499
                   },
                   {
-                      "path":  "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
-                      "sha256":  "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4",
-                      "once":  false,
-                      "size":  511601
-                  },
-                  {
-                      "path":  "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
-                      "sha256":  "37ec0b6248f04e856e6e5ba2066c4ded9981ce128282a9b45cdb10b67b9c8415",
-                      "once":  false,
-                      "size":  443978
-                  },
-                  {
                       "path":  "mods/solid_mobs_forge.1.19.4+1.20-1.7.1.jar",
                       "sha256":  "3a2a9c2da15e66e9aa3bf433e1586d67053984c40a9dc4cf950b96c9da57ae6e",
                       "once":  false,
@@ -4082,6 +4058,18 @@
                       "size":  1320675
                   },
                   {
+                      "path":  "mods/[client]entity_model_features_1.20.1-forge-3.0.7.jar",
+                      "sha256":  "fef4f682c6143efbb228e91a3023a663e717e27928e345727363832f249afeee",
+                      "once":  false,
+                      "size":  661640
+                  },
+                  {
+                      "path":  "mods/[client]entity_texture_features_1.20.1-forge-7.0.6.jar",
+                      "sha256":  "93c5809268b8a7752e6ccca49a611e61368365dfe5647ec31ee263d2d95cf532",
+                      "once":  false,
+                      "size":  951154
+                  },
+                  {
                       "path":  "mods/[client]explosiveenhancement-forge-1.20.1-1.1.0-client.jar",
                       "sha256":  "a95ccaa83a94468357bd57806a2e1fd36f1e0aa04fd04b51df632f56ccb53e66",
                       "once":  false,
@@ -4158,6 +4146,18 @@
                       "sha256":  "9af2c90bd0f54a79918ad15fe24bdb4d1786dac87a0903c07379b365cf18e54e",
                       "once":  false,
                       "size":  263677
+                  },
+                  {
+                      "path":  "mods/[client]sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+                      "sha256":  "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4",
+                      "once":  false,
+                      "size":  511601
+                  },
+                  {
+                      "path":  "mods/[client]sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+                      "sha256":  "37ec0b6248f04e856e6e5ba2066c4ded9981ce128282a9b45cdb10b67b9c8415",
+                      "once":  false,
+                      "size":  443978
                   },
                   {
                       "path":  "mods/[client]spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar",
