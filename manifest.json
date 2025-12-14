@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "14/12/2025 01:49:15,55",
+    "generated":  "14/12/2025 03:24:16,07",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -51,9 +51,9 @@
                   },
                   {
                       "path":  "options.txt",
-                      "sha256":  "9d0f154a65ca60cca33b033edd0175e707f247c742eb30d972fa84b39e5bfba3",
+                      "sha256":  "bdf597c97d3e0df502dcc92596cfb390dc3ec9465c54234c66f402de248d3ecd",
                       "once":  true,
-                      "size":  9938
+                      "size":  9887
                   },
                   {
                       "path":  "servers.dat",
@@ -435,7 +435,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "6733312dfcf5674fc758e54e8a33e2b6701a8ac8b0cb763ffe2a0af1e8cea69c",
+                      "sha256":  "0060e59567190ef8cb4131922cb79ec05f9b86a68b802dd0d38d568bb6a5bc98",
                       "once":  false,
                       "size":  193
                   },
@@ -444,6 +444,12 @@
                       "sha256":  "0d5d3f6d9c15663c62c18b27d7ff826bc5edf776ccb0d6279fb3b6bc9aa5553e",
                       "once":  false,
                       "size":  880
+                  },
+                  {
+                      "path":  "config/mafglib.json",
+                      "sha256":  "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64",
+                      "once":  false,
+                      "size":  149
                   },
                   {
                       "path":  "config/mbackrooms-common.toml",
@@ -483,9 +489,9 @@
                   },
                   {
                       "path":  "config/oculus.properties",
-                      "sha256":  "2e06a5ca58c93dc578530be465f6476c5e8703d6dd06883faab1ccee53b846fc",
+                      "sha256":  "5f41c3d7b042dc3657a9a62e8ead3892de2f25b873e4e417d63c1689412f9ee9",
                       "once":  false,
-                      "size":  254
+                      "size":  285
                   },
                   {
                       "path":  "config/ponder-client.toml",
@@ -567,7 +573,7 @@
                   },
                   {
                       "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "e92a0d1fabc655d0e2ae35d1a061325759ddf8a1c01a3cef02aad72ea7bf37f2",
+                      "sha256":  "39d964059ef9b5864f451e23bf2ac87c725e9baa11eb3da81de1f92fa9b9514a",
                       "once":  false,
                       "size":  283
                   },
@@ -645,7 +651,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "sha256":  "06bb18645581c7b8e5a6782e30c7979913e6a82fbc01eb69ed65462a4bd07bdb",
+                      "sha256":  "aaad56b4cf5bc6c12e23f9b2251bdf846c1e0ea493c91dbd1adb27448b4b786f",
                       "once":  false,
                       "size":  506
                   },
@@ -699,7 +705,7 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "f21abe0bd37172e5f9e575d5489295de91bcd5c7c70b7d103ba51f6902e6ec5b",
+                      "sha256":  "b4cae825a9fbee594507e2b8346ac1927d6cfcdcadeaa2dc090bbac968791310",
                       "once":  false,
                       "size":  5532
                   },
@@ -747,7 +753,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "34fdb13e2f218f0501faace8c9fb5b012ef6ccfe2c8a9683a6e01d2fdd700758",
+                      "sha256":  "1b3bd1444b4e397df93d6c37a20bed15f6672b0e2a3683a57e2e6cb99d66c714",
                       "once":  false,
                       "size":  290
                   },
@@ -1191,9 +1197,9 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "f4637be1fa9fbcd9c1b3d31b672aed7b2dbbcdffdf95fb7676baed1c9d4a6633",
+                      "sha256":  "d686cfd55087ced52221cd301aa7c290c49cc59de46af21f5d5a6bb47d7c62b0",
                       "once":  false,
-                      "size":  6691
+                      "size":  6761
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
@@ -1209,13 +1215,13 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin.properties",
-                      "sha256":  "48a52c6d7d6263ba9e4a1cc22c2da5ee50799257e5b77d716a6757f868494db9",
+                      "sha256":  "6d9e862567c0e03338d00e08a4459a15133d8c56fd3c36749c2484f44549547f",
                       "once":  false,
                       "size":  48
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin_double.properties",
-                      "sha256":  "c9fe5a1a35030b59cf204d5f0d823cb9fab06ebcf54f7004dcde88088a96302d",
+                      "sha256":  "f10d2cfb1e3035de68ea3d41120dc4d2d266abc04d8e912c566a831dd68c3900",
                       "once":  false,
                       "size":  73
                   },
@@ -1262,6 +1268,12 @@
                       "size":  34
                   },
                   {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/3tjduj99q61pi@minecraft@@flat/DistantHorizons.sqlite",
+                      "sha256":  "93afe08bcb14644fc0794edccafe57661e4a88decb4b4be4614bd86b6a252018",
+                      "once":  false,
+                      "size":  172032
+                  },
+                  {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@mbackrooms@@level_one/DistantHorizons.sqlite",
                       "sha256":  "58866c035fc35b1ed49defe6516302a81743194fcf60861c5a6b5fdb7e454602",
                       "once":  false,
@@ -1281,21 +1293,33 @@
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite-shm",
-                      "sha256":  "5cfb5da095dc96a652f96f9598cb208531251d053d2170041960330fe691dacc",
+                      "sha256":  "c9045cf763511ed072dcda6ef46a9a11ebc74ba12752cee358a94fde7e255039",
                       "once":  false,
-                      "size":  163840
+                      "size":  196608
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@overworld/DistantHorizons.sqlite-wal",
-                      "sha256":  "c4e5ca68543be8ec2c1ba1abef54f66456050488a4b083f36c3c3c0a18edd960",
+                      "sha256":  "352526e661a355a4c75190932fda2a823578191923651a699fb8cbde158a9e53",
                       "once":  false,
-                      "size":  82152832
+                      "size":  84962672
                   },
                   {
                       "path":  "Distant_Horizons_server_data/Minecraft+Server/dq7rr1eafnoa8@minecraft@@the_nether/DistantHorizons.sqlite",
                       "sha256":  "a30e32264babf1ad3ffdd726c7b5ac1bc3e57a5ec40e6020731a8a03bd1665b3",
                       "once":  false,
                       "size":  1470464
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/sn91jun3bjdlk@minecraft@@void2/DistantHorizons.sqlite",
+                      "sha256":  "4dc56b157239873ccf24f18d360595dc2d8d428e02ac7bfacd882257eb1d7a5d",
+                      "once":  false,
+                      "size":  1044480
+                  },
+                  {
+                      "path":  "Distant_Horizons_server_data/Minecraft+Server/sodnnsi6i1jg2@minecraft@@void/DistantHorizons.sqlite",
+                      "sha256":  "d24d10aeb4c19e2a75ca0bade028b2a4db6576cea16deb67db3f8790071023fd",
+                      "once":  false,
+                      "size":  765952
                   },
                   {
                       "path":  "etched-sounds/b1bf0280e035d574aa740d91711eddc2",
@@ -4298,7 +4322,7 @@
                       "size":  220435
                   },
                   {
-                      "path":  "mods/[client]wakes-1.20.1-Forge-1.0.7.jar",
+                      "path":  "mods/[client]wakes-1.20.1-Forge-1.0.7.jar.disabled",
                       "sha256":  "93ddee6da311ff585667a58a442dee53a7ee0fc2da6fb881fa9597a19ff6694f",
                       "once":  false,
                       "size":  212908
@@ -4737,7 +4761,7 @@
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt",
-                      "sha256":  "fbf6bff95a47b85f9ed484a831d001dc41c74bdf2b792e5abc57a927e874c90b",
+                      "sha256":  "0c071a9e63cd6322407974960b10a8d7a8bf3b5e699d6898dca9ca6f826fb524",
                       "once":  true,
                       "size":  366
                   },
