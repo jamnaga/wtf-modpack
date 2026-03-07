@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "14/12/2025 21:44:54,62",
+    "generated":  "07/03/2026 19:30:40,49",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -86,12 +86,6 @@
                       "size":  801
                   },
                   {
-                      "path":  "config/canary.properties",
-                      "sha256":  "0f5fb05b7d5f7fbdadfc6e3424106b00021f8d6cb8ff9403d7fdb5392ce8f87c",
-                      "once":  false,
-                      "size":  742
-                  },
-                  {
                       "path":  "config/carryon-client.toml",
                       "sha256":  "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db",
                       "once":  false,
@@ -102,18 +96,6 @@
                       "sha256":  "9c31f7f00ebe4025a6a11ee6257fe672b57866f7ec6206f97656b6cdf095b0b1",
                       "once":  false,
                       "size":  7153
-                  },
-                  {
-                      "path":  "config/citadel-common.toml",
-                      "sha256":  "3fcd8013137a86c00953d4be1e56945b84b87594be722bbf3b3be8d752e2577f",
-                      "once":  false,
-                      "size":  648
-                  },
-                  {
-                      "path":  "config/cmdcam-client.json",
-                      "sha256":  "4cc716ae09fdccf228bb27be8bda41b892692a8835269788068c684e8d15f5c9",
-                      "once":  false,
-                      "size":  24
                   },
                   {
                       "path":  "config/collective.json5",
@@ -164,24 +146,6 @@
                       "size":  208
                   },
                   {
-                      "path":  "config/curios-client.toml",
-                      "sha256":  "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc",
-                      "once":  false,
-                      "size":  706
-                  },
-                  {
-                      "path":  "config/curios-common.toml",
-                      "sha256":  "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea",
-                      "once":  false,
-                      "size":  161
-                  },
-                  {
-                      "path":  "config/dimthread-common.toml",
-                      "sha256":  "7325083b6c48b34dd95320e4ed824d6c02c9b0cae29d021652054819642ce746",
-                      "once":  false,
-                      "size":  833
-                  },
-                  {
                       "path":  "config/DistantHorizons.toml",
                       "sha256":  "83aa2741d53adc75c8d2077841c7a56059fac6a48377706659ab93a1279776fb",
                       "once":  false,
@@ -198,24 +162,6 @@
                       "sha256":  "187085002566bc0ad0bd0262459f92716261ae66c3b96147096a5a4ef7a25abf",
                       "once":  false,
                       "size":  977
-                  },
-                  {
-                      "path":  "config/embeddium-fingerprint.json",
-                      "sha256":  "7ce73fcedca8713a076d25825f8b38cf067d91f771357af9346f76a9fba1e041",
-                      "once":  false,
-                      "size":  427
-                  },
-                  {
-                      "path":  "config/embeddium-mixins.properties",
-                      "sha256":  "2d0bdca74548caee52c95faeb3ce90413938bad47a8967925fd309dd6014a22a",
-                      "once":  false,
-                      "size":  275
-                  },
-                  {
-                      "path":  "config/embeddium-options.json",
-                      "sha256":  "2f5e536a27b9614611daa8355dcf9d1b7023ccdfb33e6e3639dc7b643b6b8274",
-                      "once":  false,
-                      "size":  846
                   },
                   {
                       "path":  "config/emojitype.json",
@@ -242,12 +188,6 @@
                       "size":  1423
                   },
                   {
-                      "path":  "config/etched-client.toml",
-                      "sha256":  "f2ba2f9022471e4b945cf7ed31a3392dd2c62bbee46f4776c47dcc5a812a5915",
-                      "once":  false,
-                      "size":  207
-                  },
-                  {
                       "path":  "config/etf_warnings.json",
                       "sha256":  "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
                       "once":  false,
@@ -258,18 +198,6 @@
                       "sha256":  "c4cc1062283e65fc81ea1493522b1dc45c3b40330441752c2f0c83a9be728e28",
                       "once":  false,
                       "size":  1639
-                  },
-                  {
-                      "path":  "config/eyemod-common-1.toml.bak",
-                      "sha256":  "79b7554361aa4542f8253a05b540335ecf1402a66201a87cdf42fa2d50443be7",
-                      "once":  false,
-                      "size":  2207
-                  },
-                  {
-                      "path":  "config/eyemod-common.toml",
-                      "sha256":  "79b7554361aa4542f8253a05b540335ecf1402a66201a87cdf42fa2d50443be7",
-                      "once":  false,
-                      "size":  2207
                   },
                   {
                       "path":  "config/fallingleaves-client.toml",
@@ -302,48 +230,6 @@
                       "size":  939
                   },
                   {
-                      "path":  "config/flywheel-client.toml",
-                      "sha256":  "270bb2b99e7524fc901bff49bcc65fee2bdbcbce71a8ac0d5f409cc7eea2cc46",
-                      "once":  false,
-                      "size":  624
-                  },
-                  {
-                      "path":  "config/fml.toml",
-                      "sha256":  "0a19f827abac613bbce62232a2e661aec4b4be1f972dbd23f52b5eb6826a972a",
-                      "once":  false,
-                      "size":  1148
-                  },
-                  {
-                      "path":  "config/forge-client.toml",
-                      "sha256":  "1f776cff255a62036f2f721c1b516a20a49fd7fd11de442e36a19fe4ecd4f3a0",
-                      "once":  false,
-                      "size":  1627
-                  },
-                  {
-                      "path":  "config/gml-script-mods.toml",
-                      "sha256":  "dc9b0f9c9c29949bcb91cebb2bcdc111a7d99bee1d2b2ea168f2edbc7b9a1ba6",
-                      "once":  false,
-                      "size":  121
-                  },
-                  {
-                      "path":  "config/gravestone-client.toml",
-                      "sha256":  "0f7657373c8cccc3e9f11a79533c0c85c84e68762b65e5c6f9728ca9226873d3",
-                      "once":  false,
-                      "size":  217
-                  },
-                  {
-                      "path":  "config/guideme.toml",
-                      "sha256":  "89a3f43b3cb90476c75121fecdd5f77375e6a95bfbd7f8bb057574e70cec660c",
-                      "once":  false,
-                      "size":  563
-                  },
-                  {
-                      "path":  "config/Harmful-smoke-config.toml",
-                      "sha256":  "18d183f1d78ed1c17e23de03ab9952babab57083883430dc815ee74dd59e8c6d",
-                      "once":  false,
-                      "size":  739
-                  },
-                  {
                       "path":  "config/healingcampfire.json5",
                       "sha256":  "1344d335629e93d60290b5661c0393d6730405df7ecceb3e1a55fe13756f46c4",
                       "once":  false,
@@ -362,24 +248,6 @@
                       "size":  1057
                   },
                   {
-                      "path":  "config/immersiveengineering-client.toml",
-                      "sha256":  "10e2de8d987432c81724371ff27ccc2a452e88f22880c45777ca0cd35eda6118",
-                      "once":  false,
-                      "size":  2387
-                  },
-                  {
-                      "path":  "config/immersiveengineering-common.toml",
-                      "sha256":  "728dcca3a45c8350e379078da02812cca77acb7e7a2d36011ddf5fe861b29bdb",
-                      "once":  false,
-                      "size":  1707
-                  },
-                  {
-                      "path":  "config/immersiveengineeringstructures-common.toml",
-                      "sha256":  "3d29f1312d2c893a7938e977f3ca03ddeffd1c787e7405459601f252dc2c6f24",
-                      "once":  false,
-                      "size":  316
-                  },
-                  {
                       "path":  "config/immersive_aircraft.json",
                       "sha256":  "19cd371408c63afa16764d7f792af8efbbd8cacd135d1154f207d64da88f6b00",
                       "once":  false,
@@ -390,24 +258,6 @@
                       "sha256":  "9b79d2a66dc1c5d3fac702f922ee8348f4ca8b0888ea5ff3a0066b6ae7040351",
                       "once":  false,
                       "size":  603
-                  },
-                  {
-                      "path":  "config/jeg-client.toml",
-                      "sha256":  "0dceadc66260d8339e6231d2201638bddec41691cbbaf3871e0f01e1d2729c65",
-                      "once":  false,
-                      "size":  6265
-                  },
-                  {
-                      "path":  "config/jeg-common.toml",
-                      "sha256":  "4620de020fa3559ced490c0e8467e74fb0d64fef3a62ddbaeedd1d1cd000c583",
-                      "once":  false,
-                      "size":  15850
-                  },
-                  {
-                      "path":  "config/jsblock_client.json",
-                      "sha256":  "7b93e9c7e3171017a792f5d412ac95211c65fcb0ab54d2fc062bf7de42bdff60",
-                      "once":  false,
-                      "size":  129
                   },
                   {
                       "path":  "config/krypton_fnp.yaml",
@@ -426,24 +276,6 @@
                       "sha256":  "0d5d3f6d9c15663c62c18b27d7ff826bc5edf776ccb0d6279fb3b6bc9aa5553e",
                       "once":  false,
                       "size":  880
-                  },
-                  {
-                      "path":  "config/mafglib.json",
-                      "sha256":  "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64",
-                      "once":  false,
-                      "size":  149
-                  },
-                  {
-                      "path":  "config/mbackrooms-common.toml",
-                      "sha256":  "bafb77ac063e633d4d683afdd467191b16973018a2a8b4b8ee77f98ecb071311",
-                      "once":  false,
-                      "size":  1557
-                  },
-                  {
-                      "path":  "config/mbackrooms_cardboard_loot.json",
-                      "sha256":  "ba0b56b50d20cc49fb9f57a3a70c01726edd25640451b069f2f4c68abfae619e",
-                      "once":  false,
-                      "size":  3739
                   },
                   {
                       "path":  "config/moonlight-client.toml",
@@ -470,12 +302,6 @@
                       "size":  2527
                   },
                   {
-                      "path":  "config/oculus.properties",
-                      "sha256":  "ab391099623e73536607bf75494f523297c2e0200467f7562c567ce163d3e484",
-                      "once":  false,
-                      "size":  285
-                  },
-                  {
                       "path":  "config/ponder-client.toml",
                       "sha256":  "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8",
                       "once":  false,
@@ -494,34 +320,10 @@
                       "size":  337
                   },
                   {
-                      "path":  "config/ribbits-forge-1_20_1.toml",
-                      "sha256":  "a3a347104c669a4847fbcea06cabe3a5fb79c474164137b01074fde0c1e649be",
-                      "once":  false,
-                      "size":  420
-                  },
-                  {
                       "path":  "config/ribbits-options.json",
                       "sha256":  "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b",
                       "once":  false,
                       "size":  33
-                  },
-                  {
-                      "path":  "config/sandwormmod-common.toml",
-                      "sha256":  "17dd8abfe432be2fe7d4b0c8ad16b46ac0089741b0e8add3a1cb07dd2bba566f",
-                      "once":  false,
-                      "size":  1397
-                  },
-                  {
-                      "path":  "config/saturn-optimizations.toml",
-                      "sha256":  "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3",
-                      "once":  false,
-                      "size":  445
-                  },
-                  {
-                      "path":  "config/securitycraft-client.toml",
-                      "sha256":  "600d83bb7ef94b1f2a4ab055026cd592429d3903ff620940e1d06665082f1ca8",
-                      "once":  false,
-                      "size":  1552
                   },
                   {
                       "path":  "config/shouldersurfing-client.toml",
@@ -542,22 +344,10 @@
                       "size":  360
                   },
                   {
-                      "path":  "config/sodiumdynamiclights-client.toml",
-                      "sha256":  "64d2ce1b1675f17e0807180b9680ef9c97e4b92ac86962b7cbf27f0db4926eb6",
-                      "once":  false,
-                      "size":  659
-                  },
-                  {
                       "path":  "config/solid_mobs.json",
                       "sha256":  "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0",
                       "once":  false,
                       "size":  478
-                  },
-                  {
-                      "path":  "config/stealing_villagers_1.properties",
-                      "sha256":  "8dd4c586aded404a2deb937ab2c3ce216b383d45f6f07d982c734ac4730532bf",
-                      "once":  false,
-                      "size":  283
                   },
                   {
                       "path":  "config/supplementaries-client.toml",
@@ -638,12 +428,6 @@
                       "size":  506
                   },
                   {
-                      "path":  "config/wakes-client.toml",
-                      "sha256":  "09b32d5e9bc1d548f18a4797db9c9fb5c8c3855094110ce6ebcffd8a71cad5ce",
-                      "once":  false,
-                      "size":  2467
-                  },
-                  {
                       "path":  "config/watut-client.toml",
                       "sha256":  "f30aba6a74c4656d7284081651de0fbc5281e1da8daf7535dae43543959f7fdf",
                       "once":  false,
@@ -687,9 +471,9 @@
                   },
                   {
                       "path":  "config/xaerominimap_entities.json",
-                      "sha256":  "f21abe0bd37172e5f9e575d5489295de91bcd5c7c70b7d103ba51f6902e6ec5b",
+                      "sha256":  "eac14ef42ce975c65737b819cb898169c5f3e77e14976725af584bea72f3c0ef",
                       "once":  false,
-                      "size":  5532
+                      "size":  5722
                   },
                   {
                       "path":  "config/xaeropatreon.txt",
@@ -3506,76 +3290,64 @@
                       "size":  97
                   },
                   {
-                      "path":  "mods/aaa_particles-1.20.1-1.4.11-forge.jar.disabled",
-                      "sha256":  "687ed116f862b8914a3a80d55ac354ca387bf24f16f15faf3329fab25655c8cf",
+                      "path":  "mods/aaa_particles-1.20.1-1.4.11-fabric.jar",
+                      "sha256":  "9d77c5f57eabc0f50a258b1a70186181926b2198b8a5c0cda75a5af9b529ef86",
                       "once":  false,
-                      "size":  5255759
+                      "size":  5070446
                   },
                   {
-                      "path":  "mods/alcocraftplus-1.20-2.1.0-forge.jar",
-                      "sha256":  "b0005e37573521113e807cfa098ba023ceecf75da386d3a180af4b5af11c188f",
+                      "path":  "mods/alcocraftplus-1.20-2.1.0-fabric.jar",
+                      "sha256":  "d551037847b838c36c77bb3c6fa08be71d25d13765376e82d36dd2fd646eb43b",
                       "once":  false,
-                      "size":  280211
+                      "size":  277122
                   },
                   {
-                      "path":  "mods/alexsmobs-1.22.9.jar.disabled",
-                      "sha256":  "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
+                      "path":  "mods/amendments-1.20-2.2.5-fabric.jar",
+                      "sha256":  "2324ed590eb33884eb9153a8f893030bfd9f194406579e18968391eb094e1341",
                       "once":  false,
-                      "size":  26350793
+                      "size":  1266546
                   },
                   {
-                      "path":  "mods/amendments-1.20-2.2.3.jar",
-                      "sha256":  "4161147b086952e584e58f90f49ae7def049abf74beeb2e2e7bd5ddd6d68a86a",
+                      "path":  "mods/appleskin-fabric-mc1.20.1-2.5.2.jar",
+                      "sha256":  "821241285f534fd04aa15a91f3d1a6059135bce2d4b6e409fa1ae8825b4c9702",
                       "once":  false,
-                      "size":  1294274
+                      "size":  1097240
                   },
                   {
-                      "path":  "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
-                      "sha256":  "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
+                      "path":  "mods/appliedenergistics2-fabric-15.4.10.jar",
+                      "sha256":  "f9acaa7425129a4b9d7a0d2d303888bf35b679a57019d8c04be1bb4d65a0f2d4",
                       "once":  false,
-                      "size":  47428
+                      "size":  9824629
                   },
                   {
-                      "path":  "mods/appliedenergistics2-forge-15.4.10.jar",
-                      "sha256":  "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc",
+                      "path":  "mods/architectury-9.2.14-fabric.jar",
+                      "sha256":  "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321",
                       "once":  false,
-                      "size":  8495956
+                      "size":  585207
                   },
                   {
-                      "path":  "mods/architectury-9.2.14-forge.jar",
-                      "sha256":  "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+                      "path":  "mods/artifacts-fabric-9.5.15.jar",
+                      "sha256":  "85740411120632af463d0f8537e651e6a08f59f9457f4e40f475b3b863950bab",
                       "once":  false,
-                      "size":  580602
+                      "size":  960085
                   },
                   {
-                      "path":  "mods/artifacts-forge-9.5.16.jar",
-                      "sha256":  "b39b1aa5882b81f4a53710f841232e25c2eecb577bbde2f399c34bba5fee6e04",
+                      "path":  "mods/BeansBackpacks-fabric-1.20.1-2.0.2.jar",
+                      "sha256":  "47a5dd175d8609d257811549c90e6ef7dec72ec287c328d2cb034bbea2e4246b",
                       "once":  false,
-                      "size":  850457
+                      "size":  1179413
                   },
                   {
-                      "path":  "mods/AsyncParticles-2.4.0-beta.3+1.20.1.jar.disabled",
-                      "sha256":  "31548d363fa90bc7611df3457a953d0498316fd5d4bcea3300546d6e82504cfc",
+                      "path":  "mods/BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
+                      "sha256":  "2bf2a4e58fcd110df99f082c3ed192268b5f124b2fc08adeba31d6abdbfcfbeb",
                       "once":  false,
-                      "size":  1297496
+                      "size":  97597
                   },
                   {
-                      "path":  "mods/BeansBackpacks-forge-1.20.1-2.0.2.jar",
-                      "sha256":  "c6e43e5660a1f321c27bbd85ab2102f93603fb252dfbcc1f754f404e0491d549",
+                      "path":  "mods/Bookshelf-Fabric-1.20.1-20.2.15.jar",
+                      "sha256":  "bfdcaea401be95943503cce660a68add5e8cdc08a2a8112b1d80dd63d7d63766",
                       "once":  false,
-                      "size":  1186920
-                  },
-                  {
-                      "path":  "mods/BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar",
-                      "sha256":  "670505f3eb23652e94068269448ddc64b491ab398c35f430affc3ede1c19b391",
-                      "once":  false,
-                      "size":  98274
-                  },
-                  {
-                      "path":  "mods/Bookshelf-Forge-1.20.1-20.2.13.jar",
-                      "sha256":  "c31fed2c1a1c0d72d3ef996bb84521b7d6a8fbd3115c89c001f13a7ffd56f64b",
-                      "once":  false,
-                      "size":  343962
+                      "size":  315041
                   },
                   {
                       "path":  "mods/build.bat",
@@ -3590,40 +3362,22 @@
                       "size":  1695
                   },
                   {
-                      "path":  "mods/canary-mc1.20.1-0.3.3.jar",
-                      "sha256":  "51f6d78dd6c7874657e5757fd2f5d780aa3cd415052ad071077b8894c6430942",
+                      "path":  "mods/carryon-fabric-1.20.1-2.1.2.7.jar",
+                      "sha256":  "8d25fb164fc4cc15cd9123a915c880c55527efe3fec26b2c7febf09e65c6ebdd",
                       "once":  false,
-                      "size":  594191
+                      "size":  443033
                   },
                   {
-                      "path":  "mods/carryon-forge-1.20.1-2.1.2.7.jar",
-                      "sha256":  "d7470921fc5ff988788d43409083f62478aecc91f4b81d7e6b63c80c933d4613",
+                      "path":  "mods/cc-tweaked-1.20.1-fabric-1.117.1.jar",
+                      "sha256":  "3a69ccba004320be82e83ede6d4c1a5a849193133fd4c6e5fc9ae967071656d1",
                       "once":  false,
-                      "size":  439457
+                      "size":  3605955
                   },
                   {
-                      "path":  "mods/cc-tweaked-1.20.1-forge-1.116.2.jar",
-                      "sha256":  "d778067958d7999c4140a70a477fbab0faa882bb6239fc396c79276d485ce772",
+                      "path":  "mods/cloth-config-11.1.136-fabric.jar",
+                      "sha256":  "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa",
                       "once":  false,
-                      "size":  3075392
-                  },
-                  {
-                      "path":  "mods/citadel-2.6.2-1.20.1.jar",
-                      "sha256":  "bba058ed903670e81cb98996725dbe328ba147fb72cc10cfc9e39aee59cf0824",
-                      "once":  false,
-                      "size":  3185379
-                  },
-                  {
-                      "path":  "mods/cloth-config-11.1.136-forge.jar",
-                      "sha256":  "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
-                      "once":  false,
-                      "size":  1181413
-                  },
-                  {
-                      "path":  "mods/CMDCam_FORGE_v2.2.0_mc1.20.1.jar",
-                      "sha256":  "1c725f2a3c3e4b06b2438961b96b1a7d1000918d07f485f6aa10667221b4af7d",
-                      "once":  false,
-                      "size":  138723
+                      "size":  1172214
                   },
                   {
                       "path":  "mods/collective-1.20.1-8.13.jar",
@@ -3632,64 +3386,52 @@
                       "size":  665169
                   },
                   {
-                      "path":  "mods/comforts-forge-6.4.0+1.20.1.jar",
-                      "sha256":  "56398103e0e3821c98f21a5b556d57deb0686b9f50868b4278ecb73cc9d2f42c",
+                      "path":  "mods/comforts-fabric-6.4.0+1.20.1.jar",
+                      "sha256":  "f9852a749b5154cbb0e97651cd0a1718382fcdfebdea86813bb118b16ee1096b",
                       "once":  false,
-                      "size":  382083
+                      "size":  693624
                   },
                   {
-                      "path":  "mods/Connector-1.0.0-beta.47+1.20.1.jar.disabled",
-                      "sha256":  "0bccd4f226ee05d8444e92670642de2a28355cf4196fa09593791f613de719cb",
+                      "path":  "mods/construction deco Fabric 1.20.1.jar",
+                      "sha256":  "4f08fea7b2f5f17ebb4cf93d161045f92fe2a668e44470ad26a30c13af755902",
                       "once":  false,
-                      "size":  5043924
+                      "size":  231912
                   },
                   {
-                      "path":  "mods/construction deco Forge 1.20.1.jar",
-                      "sha256":  "19d3d926f39a4bbc429c4085d0a9515a894b15ea88cd9b37dff21f69b022ed72",
+                      "path":  "mods/coroutil-fabric-1.20.1-1.3.7.jar",
+                      "sha256":  "a97d58b44cf1ce8cf4fa8fded9c3c574ef1dd95e7fbb073f854e7fbce9c588b3",
                       "once":  false,
-                      "size":  231701
+                      "size":  2392617
                   },
                   {
-                      "path":  "mods/coroutil-forge-1.20.1-1.3.7.jar",
-                      "sha256":  "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f",
+                      "path":  "mods/create-fabric-6.0.8.1+build.1744-mc1.20.1.jar",
+                      "sha256":  "a613603fb08d967c5a4138d1adb7374c4a347b91e489fe21579a4cff4f40105a",
                       "once":  false,
-                      "size":  64187
+                      "size":  32189889
                   },
                   {
-                      "path":  "mods/create-1.20.1-6.0.8.jar",
-                      "sha256":  "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0",
+                      "path":  "mods/CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar",
+                      "sha256":  "606ad29a74cbafd1370abe085476f56ba318d0dead83c77ae0740b87dd5c4b95",
                       "once":  false,
-                      "size":  19170905
+                      "size":  1212248
                   },
                   {
-                      "path":  "mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
-                      "sha256":  "3d2271f7d9d2e32fca46d19f3b6ab4372d30e0ea3eb26c809c23366e8d503e16",
+                      "path":  "mods/DiagonalFences-v8.1.5-1.20.1-Fabric.jar",
+                      "sha256":  "93a3776f38c760db0f74098580ce984e0f8f8e78a4df61b69f67c01e1eee5a61",
                       "once":  false,
-                      "size":  1158417
+                      "size":  167185
                   },
                   {
-                      "path":  "mods/curios-forge-5.14.1+1.20.1.jar",
-                      "sha256":  "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+                      "path":  "mods/DiagonalWalls-v8.0.4-1.20.1-Fabric.jar",
+                      "sha256":  "de2a0a807d0c38043511c5e0ec7c8fda16eed6200c9d6ac49829588ebe876cd8",
                       "once":  false,
-                      "size":  398066
+                      "size":  158486
                   },
                   {
-                      "path":  "mods/DiagonalFences-v8.1.5-1.20.1-Forge.jar",
-                      "sha256":  "03ae31ac7f33a8c396560bf00188ec3fe78febf77d6930dd814cf18a14a29477",
+                      "path":  "mods/DiagonalWindows-v8.1.5-1.20.1-Fabric.jar",
+                      "sha256":  "c64343bf1b7132d71ff4e5904ac6aebefd770256480adc0e8472fdc5e18f4376",
                       "once":  false,
-                      "size":  182476
-                  },
-                  {
-                      "path":  "mods/DiagonalWalls-v8.0.4-1.20.1-Forge.jar",
-                      "sha256":  "683d681b285167193fc6017a422c3cf08332993dda1a92f64088ca4fa9a8597c",
-                      "once":  false,
-                      "size":  173567
-                  },
-                  {
-                      "path":  "mods/DiagonalWindows-v8.1.5-1.20.1-Forge.jar",
-                      "sha256":  "8cfc28e4e054b17e1492c86356c97cd5bc29773c1b29e30a5b56de2ed526e329",
-                      "once":  false,
-                      "size":  183094
+                      "size":  167797
                   },
                   {
                       "path":  "mods/doubledoors-1.20.1-7.2.jar",
@@ -3698,118 +3440,88 @@
                       "size":  54300
                   },
                   {
-                      "path":  "mods/EasyMagic-v8.0.1-1.20.1-Forge.jar",
-                      "sha256":  "235a2b0be24bc83a89253e0ee4fc973abfc7cc7caed0fdd698dd139ba91ec367",
+                      "path":  "mods/EasyMagic-v8.0.1-1.20.1-Fabric.jar",
+                      "sha256":  "c36c2cd0e53647d76581c85db967a18a88b53ffd42f8a2e1b6da5482b58cde1b",
                       "once":  false,
-                      "size":  115947
+                      "size":  104693
                   },
                   {
-                      "path":  "mods/emoji-type-2.2.3+1.20.4-forge.jar",
-                      "sha256":  "675012e994bf91a8e96013e2cec37aa513a42d0e3e647aa804b0e300bf0114b1",
+                      "path":  "mods/emoji-type-2.2.3+1.20.4-fabric.jar",
+                      "sha256":  "c349a8a5e198d2ae2c2c1a6bea1d0cd6e9a7539531ffe67b0771a49ce04eacb3",
                       "once":  false,
-                      "size":  28212
+                      "size":  28447
                   },
                   {
-                      "path":  "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
-                      "sha256":  "d8501371240082c3436c03380f7a59820fd981e9c5d9fb2978a222ea114b23ae",
+                      "path":  "mods/EnchantmentDescriptions-Fabric-1.20.1-17.1.21.jar",
+                      "sha256":  "282d01a7688e803e429ccb24bf175f7fc5a8a0ae9a307be4d38c6e8bc9b8e5ee",
                       "once":  false,
-                      "size":  69476
+                      "size":  60972
                   },
                   {
-                      "path":  "mods/etched-3.0.4.jar",
-                      "sha256":  "18fa648a887eb8ae284e278b1c361c8bffe73947336761d8b1787052dd34fe69",
+                      "path":  "mods/fabric-api-0.92.7+1.20.1.jar",
+                      "sha256":  "d5e7750a599ee23d1e8ce1716f27c4761f4e7a84e8a08d5eb8f0ad8c155c8cb1",
                       "once":  false,
-                      "size":  611496
+                      "size":  2107977
                   },
                   {
-                      "path":  "mods/eyemod-3.0.0.jar",
-                      "sha256":  "510ccd4d070a50d42695cc661f415c25699dd9955a85d4b429861cd2c8687bb3",
+                      "path":  "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+                      "sha256":  "fecd5e6dd6ae76814ba92136b417912c19b19ec76ea451cede472cd29cdecf91",
                       "once":  false,
-                      "size":  432098
+                      "size":  7642216
                   },
                   {
-                      "path":  "mods/faithfulbackrooms-0.2-forge-1.20.1.jar.disabled",
-                      "sha256":  "a6be8c0d32fec9c0cb45cf1ba92d100bef1d3892a6a8938dcb1365f2f2d81467",
+                      "path":  "mods/fancymenu_fabric_3.8.1_MC_1.20.1.jar",
+                      "sha256":  "1da7e2b114e683ebafc012cc3ec41520571c84c4e598b55fde00702ac037bec9",
                       "once":  false,
-                      "size":  37903613
+                      "size":  4472279
                   },
                   {
-                      "path":  "mods/fancymenu_forge_3.8.1_MC_1.20.1.jar",
-                      "sha256":  "ba1ddf0f61def8ea87e7757ebb45f1390e1da0f7ebce1aff299b0a169b045858",
+                      "path":  "mods/Fastload+1.18.2-1.20-3.4.0.jar",
+                      "sha256":  "e13ab713f9779623de29bb50396b3202d670532bd4605f74c907d4f7834c1637",
                       "once":  false,
-                      "size":  4472193
+                      "size":  567412
                   },
                   {
-                      "path":  "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
-                      "sha256":  "038a5fa1c044d5afae22502ca1444eeb1a700d34a224996c25f233524ae35a7a",
+                      "path":  "mods/ferritecore-6.0.1-fabric.jar",
+                      "sha256":  "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
                       "once":  false,
-                      "size":  66989
+                      "size":  125197
                   },
                   {
-                      "path":  "mods/ferritecore-6.0.1-forge.jar",
-                      "sha256":  "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+                      "path":  "mods/FpsReducer2-fabric-1.20-2.5.jar",
+                      "sha256":  "d0e3ad76ed75db120f20df6cfbd2f7e629e82901d70b2bb0ee88c108e5d0324e",
                       "once":  false,
-                      "size":  123034
+                      "size":  111668
                   },
                   {
-                      "path":  "mods/FpsReducer2-forge-1.20.1-2.5.1.jar",
-                      "sha256":  "997f034210e0fca20fa5a0e6ddd370c5444854fc97e69910161104160cea41ce",
+                      "path":  "mods/fusion-1.2.12-fabric-mc1.20.1.jar",
+                      "sha256":  "cee7755d3a37dc8838c15ac420c3c745a437ba0713e7c4309139adf7f05a34af",
                       "once":  false,
-                      "size":  125660
+                      "size":  515916
                   },
                   {
-                      "path":  "mods/framework-forge-1.20.1-0.7.12.jar",
-                      "sha256":  "28ade2da0795ca36de2925e14cb5fe6b4e51ae84c149352fd9690951fe1baf87",
+                      "path":  "mods/geckolib-fabric-1.20.1-4.8.3.jar",
+                      "sha256":  "6f5d84c8eafd67b911d2a335bacfbe281773dcdb52435c742dd894e21c39df1b",
                       "once":  false,
-                      "size":  308420
+                      "size":  1069328
                   },
                   {
-                      "path":  "mods/fusion-1.2.11a-forge-mc1.20.1.jar",
-                      "sha256":  "992b954322943e3ce9eeb16b327f8f1500a7840c62ad03fd279d4a7daa41c4c2",
+                      "path":  "mods/gravestones-v1.15.jar",
+                      "sha256":  "d03ebfae2a163b90cbc7a72c6d88d0ed7a4532e611f21d5bdba7e7ec959ee2c6",
                       "once":  false,
-                      "size":  544250
+                      "size":  1169044
                   },
                   {
-                      "path":  "mods/geckolib-forge-1.20.1-4.8.2.jar",
-                      "sha256":  "a2e4bcc986ce360f4e85d545a86b04c8c9350543ebd17069b6a44c0a8939ffdc",
+                      "path":  "mods/GuardRibbits-1.20.1-Fabric-1.0.4.jar",
+                      "sha256":  "52f1e184dc12cf1e29bc224ab5a640b8ea5875aa9f46067c0907c6a45b7d1869",
                       "once":  false,
-                      "size":  1038979
+                      "size":  166896
                   },
                   {
-                      "path":  "mods/gml-4.0.11-all.jar",
-                      "sha256":  "4f1014d242c944771d798206c2d38d44d9d77148c4bb7a1f141aa405e7afd9d4",
+                      "path":  "mods/gun-1.20.1-fabric.jar",
+                      "sha256":  "a39589acc38c31e3498763aa217d5116647a0535c23c744f612b7bb47088e70f",
                       "once":  false,
-                      "size":  11125541
-                  },
-                  {
-                      "path":  "mods/gravestone-forge-1.20.1-1.0.35.jar",
-                      "sha256":  "af6de8692229f07d203e118241f31c1dc4d03f8e3b44cacd155d76b449896387",
-                      "once":  false,
-                      "size":  317181
-                  },
-                  {
-                      "path":  "mods/GuardRibbits-1.20.1-Forge-1.0.4.jar",
-                      "sha256":  "ffe73460f3bbe2ea1fbb7a622fc06423854ff056bbfee383f8504f02e61b1435",
-                      "once":  false,
-                      "size":  44217
-                  },
-                  {
-                      "path":  "mods/guideme-20.1.14.jar",
-                      "sha256":  "a0ba5a0288dab6e413f1456de8dd162f9479146ee681569837f6d6b17930a0e2",
-                      "once":  false,
-                      "size":  9413204
-                  },
-                  {
-                      "path":  "mods/gun-1.20.1.jar",
-                      "sha256":  "977c180e3b883a49289a71f888dea5d9a06815cdb63caaf9d158a98527b5a805",
-                      "once":  false,
-                      "size":  85832
-                  },
-                  {
-                      "path":  "mods/harmfulsmoke-1.0.7-alpha-forge-1.20.1.jar",
-                      "sha256":  "deb4012a319923eecc5e8839116cf52e9d4c08ecf5686aae6a3ea0d2ed6684fe",
-                      "once":  false,
-                      "size":  168166
+                      "size":  87619
                   },
                   {
                       "path":  "mods/healingcampfire-1.20.1-6.2.jar",
@@ -3818,292 +3530,226 @@
                       "size":  35644
                   },
                   {
-                      "path":  "mods/iammusicplayer-forge-mc1.20-3.22.0-alpha.5.jar.disabled",
-                      "sha256":  "f9b95352595882fc3f48d64656ed941e6fab8bdf24eab5769ae5ef05c9148802",
+                      "path":  "mods/iammusicplayer-fabric-mc1.20-3.22.0-alpha.5.jar",
+                      "sha256":  "3de526c0679a242fd72a84b800f38013a193ee1fdd656bf6a2686d0cc82a3906",
                       "once":  false,
-                      "size":  10932092
+                      "size":  11018847
                   },
                   {
-                      "path":  "mods/ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
-                      "sha256":  "93dff727e894bd1dfb1e24159af7b15df4a6790bc5edd5dffcb10f4045a5667b",
+                      "path":  "mods/ImmediatelyFast-Fabric-1.5.4+1.20.4.jar",
+                      "sha256":  "cbb4ca2f6fda0c0b7e4bec16f34bbff7661d989a443029f40bbf5393a76e53b4",
                       "once":  false,
-                      "size":  425140
+                      "size":  354883
                   },
                   {
-                      "path":  "mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar",
-                      "sha256":  "061dd0e8e066dc39277736d5607a47a18fee4aff428de3363882f96e5c405aaa",
+                      "path":  "mods/immersive_aircraft-1.4.0+1.20.1-fabric.jar",
+                      "sha256":  "87c40c0e9308438e1d8bbe2df2ca73245cf0eff95d31509fd6b9dc3716c9b776",
                       "once":  false,
-                      "size":  12129396
+                      "size":  2417420
                   },
                   {
-                      "path":  "mods/immersiveengineeringstructures-1.0.0-1.20.1.jar",
-                      "sha256":  "f7ff5f661814981bf3ea07a00a40b3d6a3467a4ce602b44d7d306c94708dbc40",
+                      "path":  "mods/immersive_paintings-0.6.10+1.20.1-fabric.jar",
+                      "sha256":  "647871300569119faf7a5cfd2500315c0c4b18079092020855c87f5f7761bd82",
                       "once":  false,
-                      "size":  15845
+                      "size":  4853307
                   },
                   {
-                      "path":  "mods/immersive_aircraft-1.4.0+1.20.1-forge.jar",
-                      "sha256":  "45dd68b6707b3eeae0c958d0242b29ec03cdd0d8fc88af20761661ebf3c456cd",
+                      "path":  "mods/InventoryProfilesNext-fabric-1.20-1.10.20.jar",
+                      "sha256":  "4e9c432d5b8efd2988c8a00e5e25c7bae985320037ecd95c74fa0102e3590fbf",
                       "once":  false,
-                      "size":  2428368
+                      "size":  1455143
                   },
                   {
-                      "path":  "mods/immersive_paintings-0.6.8+1.20.1-forge.jar",
-                      "sha256":  "3979cadefd63846f4929db5d6557c873bf29900da10d2b85703e6e3678bd8ad9",
+                      "path":  "mods/JCM-fabric-2.1.2+1.20.1.jar",
+                      "sha256":  "08fa1aa67c66c70415f9248f149008c83e360a2524cab9a15508ac9d06b56790",
                       "once":  false,
-                      "size":  4854834
+                      "size":  24012063
                   },
                   {
-                      "path":  "mods/InventoryProfilesNext-forge-1.20-1.10.19.jar",
-                      "sha256":  "d4f22942888438f7fabf40e16f47d2e454ece7585a262cdfb7d20b4b13683013",
+                      "path":  "mods/justenoughbreeding-fabric-1.20-1.20.1-2.5.0.jar",
+                      "sha256":  "14575d7d1756d5d481c26d2ff122b3bfbca1c72c467d4692bb762653345e9ea3",
                       "once":  false,
-                      "size":  1456863
+                      "size":  231830
                   },
                   {
-                      "path":  "mods/JCM-forge-2.1.0-beta.2+1.20.1.jar",
-                      "sha256":  "3e58962efffc3705214f9329d18b64c531407e0c180e9f1547dcff55c513a372",
+                      "path":  "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+                      "sha256":  "f87fc3ab29a8df63a5214fdfa58d2f9fa645255af64d38ba598a9f56fafccdb6",
                       "once":  false,
-                      "size":  23990698
+                      "size":  892067
                   },
                   {
-                      "path":  "mods/justenoughbreeding-forge-1.20-1.20.1-2.4.0.jar",
-                      "sha256":  "950c0eace29f5277499f78a8781ba9a7aca78de84abf5f6fa9ff22868156c007",
+                      "path":  "mods/krypton-0.2.3.jar",
+                      "sha256":  "69ad1810206ce12181b1b083640f044e7e250781c36c96c655eac36209057698",
                       "once":  false,
-                      "size":  503880
+                      "size":  185895
                   },
                   {
-                      "path":  "mods/JustEnoughGuns-0.13.2-1.20.1.jar",
-                      "sha256":  "c1802f0bdc1526dcecf89d944606e0685f92aaf663e8837c73dae02890d5f6da",
+                      "path":  "mods/libIPN-fabric-1.20-4.0.2.jar",
+                      "sha256":  "3e75c8d8c32b2dfbf7bb1cdd91f5b0d30bb39eb43ecfcf1c25ca093409c1a606",
                       "once":  false,
-                      "size":  9877729
+                      "size":  702814
                   },
                   {
-                      "path":  "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-                      "sha256":  "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b",
+                      "path":  "mods/libraryferret-fabric-1.20.1-4.0.0.jar",
+                      "sha256":  "194a4291dc0d3e47abf63266f16e06b16dcff4d6f05bb667c972743835eeca0e",
                       "once":  false,
-                      "size":  625185
+                      "size":  226325
                   },
                   {
-                      "path":  "mods/kotlinforforge-4.12.0-all.jar",
-                      "sha256":  "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae",
+                      "path":  "mods/lithium-fabric-mc1.20.1-0.11.4.jar",
+                      "sha256":  "76133efe92aea907cf75562d9e26517deb170e2580e1ecd4979da2c8902de782",
                       "once":  false,
-                      "size":  7442998
+                      "size":  691483
                   },
                   {
-                      "path":  "mods/Krypton FNP-forge-1.20.1-0.2.25-1.20.1.jar",
-                      "sha256":  "328852f25fa87c8631fd81a503d87b6b62e729949507e670c502aaebee8e0b7c",
+                      "path":  "mods/lodestone-1.20.1-1.6.2.3f-fabric.jar",
+                      "sha256":  "904fc39f9d9c3d5495f03019f8091f1308f6d44a107fbbc106f06a0528991fca",
                       "once":  false,
-                      "size":  1732707
+                      "size":  5721284
                   },
                   {
-                      "path":  "mods/libIPN-forge-1.20-4.0.2.jar",
-                      "sha256":  "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6",
+                      "path":  "mods/mcef-fabric-2.1.6-1.20.1.jar",
+                      "sha256":  "7a99ca890dbc23ee4848c98a78524960069277ee4e181e63b7a95f6d6fbbbaf1",
                       "once":  false,
-                      "size":  693301
+                      "size":  226323
                   },
                   {
-                      "path":  "mods/libraryferret-forge-1.20.1-4.0.0.jar",
-                      "sha256":  "66a151ed397904135c0109ce390bee93961ef7dd329a2d66860ef5f27adff335",
+                      "path":  "mods/memoryleakfix-fabric-1.17+-1.1.5.jar",
+                      "sha256":  "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde",
                       "once":  false,
-                      "size":  244410
+                      "size":  49334
                   },
                   {
-                      "path":  "mods/lodestone-1.20.1-1.6.4.1.jar",
-                      "sha256":  "e9f8b7bc70ba99d97005f2acee2061b149785fbae3c1e37db08c79197bcc7c2d",
+                      "path":  "mods/moonlight-1.20-2.16.28-fabric.jar",
+                      "sha256":  "9d08793bf03f4e1f9d8045e0e5adfcd4a49bc4bec69504d9abdc22722aa82eb0",
                       "once":  false,
-                      "size":  670934
+                      "size":  1364979
                   },
                   {
-                      "path":  "mods/mbackrooms-1.3.3.jar",
-                      "sha256":  "c2bdfa31cbf6f6f94bd13ab8eabf865eafcbe0fc3eda9f6f67c6d62ed14719cd",
+                      "path":  "mods/MTR-fabric-4.0.3+1.20.1.jar",
+                      "sha256":  "b8bf18dc4ff204945744557dc280e2a1cd9a178c52a2ce6f570e10d0ff311191",
                       "once":  false,
-                      "size":  8423594
+                      "size":  85407855
                   },
                   {
-                      "path":  "mods/mcef-forge-2.1.6-1.20.1.jar",
-                      "sha256":  "5c462342264ac89597891d5d4bcdf6b8134ce4cc5dd97894dbd87ecc197f0cb3",
+                      "path":  "mods/noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+                      "sha256":  "266ef6f28ee69f91acce6ca991121c21f2944e76f366475778347d90d33b491d",
                       "once":  false,
-                      "size":  218417
+                      "size":  214902
                   },
                   {
-                      "path":  "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
-                      "sha256":  "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd",
+                      "path":  "mods/OctoLib-FABRIC-0.5.0.1+1.20.1.jar",
+                      "sha256":  "cfa75c8b7ca08a175332ea66a427e95748389de019a6fcf7fc5852b104ffcc51",
                       "once":  false,
-                      "size":  227925
+                      "size":  424020
                   },
                   {
-                      "path":  "mods/moonlight-1.20-2.16.16-forge.jar",
-                      "sha256":  "6a6eedadf09f1133c44db37fa5eb5ee37aaa9c40df9fbe6ea36bc5123415b4f7",
+                      "path":  "mods/otyacraftengine-fabric-mc1.20.1-3.7.1-1.20.1.jar",
+                      "sha256":  "1bd6e0ccfddd6c002ca27d02623d9c5c3d6dc2ca7cd76cc3c5917f5e5b3f157e",
                       "once":  false,
-                      "size":  1333455
+                      "size":  628853
                   },
                   {
-                      "path":  "mods/MTR-forge-4.0.2-hotfix-1+1.20.1.jar",
-                      "sha256":  "1a91300e0702ef084bbd70666cae37457b47046fd5010b63844a66834da3ce57",
+                      "path":  "mods/PickUpNotifier-v8.0.0-1.20.1-Fabric.jar",
+                      "sha256":  "ea8b8a4d2fc8a516cc4a3700912ceebbe73b175b38cf8349bb1ba1bdd5ef0a76",
                       "once":  false,
-                      "size":  80403610
+                      "size":  96114
                   },
                   {
-                      "path":  "mods/nmzt-1.20.1-0.0.2.jar",
-                      "sha256":  "070e0c8d19243af8f72a7293c195b1d6b35045327f0f31684fc9d3f9a2fc20c9",
+                      "path":  "mods/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
+                      "sha256":  "855034e7a858f2f9ee76c1181aa1f4d5b9e605d63d8a81f7bba155faba2da7c5",
                       "once":  false,
-                      "size":  7127
+                      "size":  1084397
                   },
                   {
-                      "path":  "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
-                      "sha256":  "b0b020250c81e8cce7776c3dc8f7085f269e2007570d5fbd492c4497ad60685c",
+                      "path":  "mods/Ribbits-1.20.1-Fabric-3.0.5.jar",
+                      "sha256":  "cc5863afb0b164669df77726cb6b6dc108523801f1fa4ce859471afc7f3ab0ab",
                       "once":  false,
-                      "size":  218152
+                      "size":  2331082
                   },
                   {
-                      "path":  "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
-                      "sha256":  "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
+                      "path":  "mods/RoughlyEnoughItems-12.1.785-fabric.jar",
+                      "sha256":  "15c266941018afbb84c0a213b8c5d22f85c47ba07904adcfa1500c6c7311ac00",
                       "once":  false,
-                      "size":  424035
+                      "size":  2443883
                   },
                   {
-                      "path":  "mods/otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar",
-                      "sha256":  "3b4488dffeb439e8216a4ae139ceb5b9419791f15ff550e55353c4e508cd3c53",
+                      "path":  "mods/solid_mobs_fabric.1.19.4+1.20-1.7.1.jar",
+                      "sha256":  "e5116183010194870337bf805e262dbfa1a915f73606d0bb6ed36012460c3bdb",
                       "once":  false,
-                      "size":  655951
+                      "size":  147843
                   },
                   {
-                      "path":  "mods/otyacraftengine-forge-mc1.20.1-3.7.1-1.20.1.jar",
-                      "sha256":  "08f7028d98c4d2fe5a40d9216b68a4faa9d01fa6a890ad3a6ad81a352588e24c",
+                      "path":  "mods/sound-physics-remastered-fabric-1.20.1-1.5.1.jar",
+                      "sha256":  "275467bef6e56aab50b0c66ed42b2984160d36c65edb1b986e3c7c81d37e9253",
                       "once":  false,
-                      "size":  649723
+                      "size":  205569
                   },
                   {
-                      "path":  "mods/PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
-                      "sha256":  "b343d2068413d895deb45417f56d2c823fe07b173879c1b03575eebfc189011d",
+                      "path":  "mods/spark-1.10.53-fabric.jar",
+                      "sha256":  "00c034e684fa4471b41539dc29a8d39cc6f22eb29b2fa423895efc978a391d2d",
                       "once":  false,
-                      "size":  102164
+                      "size":  3082974
                   },
                   {
-                      "path":  "mods/Psychadelic-Chemistry_1.20.1-1.4.5.jar",
-                      "sha256":  "4770bd0a2f20c2ec0a95c76cc537687fc06aaa0c3d6ad1dd74d295cf98ea3fbb",
+                      "path":  "mods/spawn-animations-compats-13.0.jar",
+                      "sha256":  "ed2fa7536fe8d77514f0699981a9a0a7d99237a83e0ae9754147fd751ad01414",
                       "once":  false,
-                      "size":  69276668
+                      "size":  67801
                   },
                   {
-                      "path":  "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
-                      "sha256":  "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f",
+                      "path":  "mods/Steam_Rails-1.7.1+fabric-mc1.20.1.jar",
+                      "sha256":  "0bc4fe0c0f8427b31f1827efc6ab0f676a985223efbe94e4f0c7ae131dc842bd",
                       "once":  false,
-                      "size":  1342987
+                      "size":  16792922
                   },
                   {
-                      "path":  "mods/relics-1.20.1-0.8.0.11.jar.disabled",
-                      "sha256":  "eb67ef6da9631cac1ccacb542dce3e03f3f5f3594acb5f88647efc2cd8f8b15a",
+                      "path":  "mods/supermartijn642corelib-1.1.20-fabric-mc1.20.1.jar",
+                      "sha256":  "f25ffb8cd735f9b388768040f3eb48be74628a75f2d566e11dde19eb38cce037",
                       "once":  false,
-                      "size":  1518437
+                      "size":  602735
                   },
                   {
-                      "path":  "mods/Ribbits-1.20.1-Forge-3.0.4.jar",
-                      "sha256":  "25a43f08397cf44d1e53a1fd9a99df2232a61d6dae4201c66f0f3cf2f715aefb",
+                      "path":  "mods/supplementaries-1.20-3.1.42-fabric.jar",
+                      "sha256":  "cae13cdcfc8f9b6fa2eb1f073fb6de8b4ff9271b29c1677f91f98d77fc0dd8e7",
                       "once":  false,
-                      "size":  2218573
+                      "size":  13484325
                   },
                   {
-                      "path":  "mods/RoughlyEnoughItems-12.1.785-forge.jar",
-                      "sha256":  "95d2b55868301c9d97dd020ce8049e59dc15cc8d9c88aa648f0bef1f30a728e3",
+                      "path":  "mods/Theatrical-fabric-1.0.0-alpha.28.120+mc1.20.1.jar",
+                      "sha256":  "84ea7a0e5d366cb51308f205ae2b040e6f837b8d48f97c79e75cd51246c6f891",
                       "once":  false,
-                      "size":  2384003
+                      "size":  722910
                   },
                   {
-                      "path":  "mods/sandworm_mod-1.1.0.jar.disabled",
-                      "sha256":  "80c0a2af12ae223ad9b2ab82a60677bed22b18fd99bf46cfcd4252465dddbd2b",
+                      "path":  "mods/tia-1.20-1.1-fabric.jar",
+                      "sha256":  "ebf631eb18c66dd796f85627d61aa4d9da5efd180a29d49258422ae88d0eb918",
                       "once":  false,
-                      "size":  4515705
+                      "size":  18492
                   },
                   {
-                      "path":  "mods/saturn-mc1.20.1-0.1.3.jar",
-                      "sha256":  "7e6dcc7c2b0db19ec2f965fac91a49e13dcc611f2d86f6bb56d7d68da901aaf8",
+                      "path":  "mods/Tips-Fabric-1.20.1-12.1.9.jar",
+                      "sha256":  "3775edba439d7a723a64d8b04348907e7bc6d89cee89a04bc933b0d8bf867aed",
                       "once":  false,
-                      "size":  92319
+                      "size":  113816
                   },
                   {
-                      "path":  "mods/smokeleafindustry-0.4.7-1.20.1.jar",
-                      "sha256":  "d519c0c1d8b6b2f3aaa39bbd2613c88f631b63cf535fc9754367575a3675d225",
+                      "path":  "mods/TreeChop-1.20.1-fabric-0.19.0.jar",
+                      "sha256":  "66ad56c20fc07fddbfc5144d98c70fa85b5fce43dd0d68474a4aa5d2d748705f",
                       "once":  false,
-                      "size":  877499
+                      "size":  490611
                   },
                   {
-                      "path":  "mods/solid_mobs_forge.1.19.4+1.20-1.7.1.jar",
-                      "sha256":  "3a2a9c2da15e66e9aa3bf433e1586d67053984c40a9dc4cf950b96c9da57ae6e",
+                      "path":  "mods/trinkets-3.7.2.jar",
+                      "sha256":  "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3",
                       "once":  false,
-                      "size":  147723
+                      "size":  238532
                   },
                   {
-                      "path":  "mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
-                      "sha256":  "1d7a0d4cdbdee61532dd23ddbc2833292e945d8ec2d20f3271af86b02b0fc108",
+                      "path":  "mods/VisualWorkbench-v8.0.1-1.20.1-Fabric.jar",
+                      "sha256":  "172f5c34e76bc1ef2911617fb2a9a05a81c94ba3677b5613ed11c3f03ab318f5",
                       "once":  false,
-                      "size":  206984
-                  },
-                  {
-                      "path":  "mods/spark-1.10.53-forge.jar",
-                      "sha256":  "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed",
-                      "once":  false,
-                      "size":  3114590
-                  },
-                  {
-                      "path":  "mods/spawn-animations-compats-12.0.jar",
-                      "sha256":  "2ece9b9cbb2e658a2ebf5baa33b0f667aeb1b7a73f378f8642fd82db94d2ce70",
-                      "once":  false,
-                      "size":  59821
-                  },
-                  {
-                      "path":  "mods/stealing_villagers-forge-1.20.1-1.0.0.jar",
-                      "sha256":  "44fc45aa3a7a61c7b862454d0ec508d5f10f31eb3a52e3ee05e737fd6e8e61fb",
-                      "once":  false,
-                      "size":  72829
-                  },
-                  {
-                      "path":  "mods/Steam_Rails-1.6.14-beta+forge-mc1.20.1.jar",
-                      "sha256":  "f28e8544357a70ec709815aee0a5cfa7aefc496a7e3a3b4b7acebbb2d207a2e4",
-                      "once":  false,
-                      "size":  9999782
-                  },
-                  {
-                      "path":  "mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
-                      "sha256":  "b89c7703f909c75bff8981be7a3c7219138e01549666bd5cd5c47a1d6330489e",
-                      "once":  false,
-                      "size":  515362
-                  },
-                  {
-                      "path":  "mods/supplementaries-1.20-3.1.41.jar",
-                      "sha256":  "592eaac4d90b4d75516749db6bcc1303866af6007be3ce24b9a85f19afeef70a",
-                      "once":  false,
-                      "size":  13650491
-                  },
-                  {
-                      "path":  "mods/Theatrical-forge-1.0.0-alpha.28.120+mc1.20.1.jar",
-                      "sha256":  "fad7d09ccafe16f77d0d69ba74c20933e76f3bcacab33931c93365d2a210d8ae",
-                      "once":  false,
-                      "size":  727420
-                  },
-                  {
-                      "path":  "mods/tia-1.20-1.1-forge.jar",
-                      "sha256":  "302d28743e33ca1a889cc2c89453cdb4433c61de0472550ac6ae334fae389da7",
-                      "once":  false,
-                      "size":  11766
-                  },
-                  {
-                      "path":  "mods/Tips-Forge-1.20.1-12.1.8.jar",
-                      "sha256":  "61a03c28d9bd7a3679c65661fe36c4780c113824f19b1e6196a5a4d37a7469e2",
-                      "once":  false,
-                      "size":  130094
-                  },
-                  {
-                      "path":  "mods/TreeChop-1.20.1-forge-0.19.0.jar",
-                      "sha256":  "b3add07d4227ea021b969eedf564e55338683ad989ae1f9aa931cc2705cef319",
-                      "once":  false,
-                      "size":  517162
-                  },
-                  {
-                      "path":  "mods/VisualWorkbench-v8.0.1-1.20.1-Forge.jar",
-                      "sha256":  "915f226fa14ce274879487dd14f38af5c57e1a9ada85099501134c4c8a03897a",
-                      "once":  false,
-                      "size":  82557
+                      "size":  79613
                   },
                   {
                       "path":  "mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.101-all.jar",
@@ -4112,22 +3758,16 @@
                       "size":  452457
                   },
                   {
-                      "path":  "mods/watut-forge-1.20.1-1.2.3.jar",
-                      "sha256":  "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e",
+                      "path":  "mods/watut-fabric-1.20.1-1.2.3.jar",
+                      "sha256":  "1f3da9141ca583b1bcc706e9826aa79d788b2b0c59202508c596526dc1016e67",
                       "once":  false,
-                      "size":  435496
+                      "size":  789018
                   },
                   {
-                      "path":  "mods/waveycapes-forge-1.8.0-mc1.20.1.jar",
-                      "sha256":  "19b154e006ad0b9bb899b7b3bbfcf4c531018c2f905d3832f9a935ffa70af27d",
+                      "path":  "mods/waveycapes-fabric-1.8.2-mc1.20.1.jar",
+                      "sha256":  "4e254d5a2730514bd206102af6e97453ec1febe3688b8212c9d709924e22d50f",
                       "once":  false,
-                      "size":  1835196
-                  },
-                  {
-                      "path":  "mods/WeirdCommands-1.20-0.1.0.jar",
-                      "sha256":  "44ffa208b97af596a16d8570b4dbe296c1cf7adef82914c7a7bf6514d2dcb407",
-                      "once":  false,
-                      "size":  35686
+                      "size":  1832861
                   },
                   {
                       "path":  "mods/wtf-update.bat",
@@ -4136,202 +3776,166 @@
                       "size":  994
                   },
                   {
-                      "path":  "mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar",
-                      "sha256":  "2b5de085275d658e0445d783dbbcf9848c00aab8ac18cc2f664a62f44f78a18a",
+                      "path":  "mods/xaerominimap-fabric-1.20.1-25.3.10.jar",
+                      "sha256":  "f9c9e738a9147ab8f7fb5801fb6533dd2e294968f8bdcd80443e8f3382c8b710",
                       "once":  false,
-                      "size":  1723029
+                      "size":  2170691
                   },
                   {
-                      "path":  "mods/YungsApi-1.20-Forge-4.0.6.jar",
-                      "sha256":  "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
+                      "path":  "mods/YungsApi-1.20-Fabric-4.0.6.jar",
+                      "sha256":  "26b6dc81f876aabf3d53ead59e5908a8b0f5434d46c150cfd376c027ac54053e",
                       "once":  false,
-                      "size":  370524
+                      "size":  1396331
                   },
                   {
-                      "path":  "mods/[1.20.1] SecurityCraft v1.10.1.jar",
-                      "sha256":  "ec601ba570c5351c353fc1ee0eb2f4823d1c026d265a96d3ec802070a50b6ebd",
+                      "path":  "mods/[client]BetterF3-7.0.2-Fabric-1.20.1.jar",
+                      "sha256":  "c9282b371c61fa04f329cc57719b1e221d65c057a70dcb93d1d2b430168fda46",
                       "once":  false,
-                      "size":  4769715
+                      "size":  1782676
                   },
                   {
-                      "path":  "mods/[client]BetterF3-7.0.2-Forge-1.20.1.jar",
-                      "sha256":  "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0",
+                      "path":  "mods/[client]blur-3.1.0.jar",
+                      "sha256":  "b886ddaac7b19c9e2db9e0e5331210dcc5b487743d3f9d8d08ad66e90278d9e7",
                       "once":  false,
-                      "size":  468517
+                      "size":  164085
                   },
                   {
-                      "path":  "mods/[client]blur-forge-3.1.1.jar",
-                      "sha256":  "7ab7248ecfc0fa9cf2e6dd7530732263e580d7a794a6ba999366af345e7c8e71",
+                      "path":  "mods/[client]colorwheel-fabric-1.2.1+mc1.20.1.jar",
+                      "sha256":  "df406dc661278979e4e32b8aee7ce0fa3da5c623e03f52c2600704cf9bc07bf6",
                       "once":  false,
-                      "size":  177259
+                      "size":  375801
                   },
                   {
-                      "path":  "mods/[client]colorwheel-forge-1.1.1+mc1.20.1.jar",
-                      "sha256":  "2440260d49f61cf7e6530a2da5c7c38fc11792e4d62f6caf7377b688c066178f",
+                      "path":  "mods/[client]connectedglass-1.1.14-fabric-mc1.20.1.jar",
+                      "sha256":  "d9468811d7e694878883cead5cc378d26c6a9054567d6025f1dcb73053ef227f",
                       "once":  false,
-                      "size":  363116
+                      "size":  845048
                   },
                   {
-                      "path":  "mods/[client]connectedglass-1.1.14-forge-mc1.20.1.jar",
-                      "sha256":  "a00e37b978c6d73110157879373fe3e97784bbf0c8d4e5fc8dbd9f00e1113fc0",
+                      "path":  "mods/[client]continuity-3.0.0+1.20.1.jar",
+                      "sha256":  "fdb646bd51667c57e576d1412c740ac48e3bf6953294dde11a62101a09395fe3",
                       "once":  false,
-                      "size":  873714
+                      "size":  1016063
                   },
                   {
-                      "path":  "mods/[client]continuity-3.0.0+1.20.1.forge.jar.disabled",
-                      "sha256":  "855ee87de79b0e161713a2689f3f2d07259e9490af194b8cfb6a4400c6ea1c76",
+                      "path":  "mods/[client]cwb-fabric-3.0.0+mc1.20.jar",
+                      "sha256":  "3a5974fc1fb82eed22e759aa788c3c387402a25042ccf8865678be06a1c4d6fb",
                       "once":  false,
-                      "size":  1016666
+                      "size":  79729
                   },
                   {
-                      "path":  "mods/[client]cwb-forge-3.0.0+mc1.20.jar",
-                      "sha256":  "97b0827f20b6213c97d2244f7da205d85ffa72e51fa167d69466b49018532478",
+                      "path":  "mods/[client]DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
+                      "sha256":  "e29c5d6a47ce40ec174f96104ac3639605de30e3811b39907de7070feb230cc2",
                       "once":  false,
-                      "size":  258613
+                      "size":  25378978
                   },
                   {
-                      "path":  "mods/[client]DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar",
-                      "sha256":  "65c20588ef3cedd770e96f0f1c015841418a043811690455b33d5ebd8a8e137d",
+                      "path":  "mods/[client]drippyloadingscreen_fabric_3.1.0_MC_1.20.1.jar",
+                      "sha256":  "c62fe14d7881126bfd2186611a74e82f24339ae4981e18b6a260a89df843ff10",
                       "once":  false,
-                      "size":  25362721
+                      "size":  280441
                   },
                   {
-                      "path":  "mods/[client]drippyloadingscreen_forge_3.1.0_MC_1.20.1.jar",
-                      "sha256":  "5dc8087df6d6d8849fe1df5a6a342268a6986731ee801cb46a58d725d9e1e204",
+                      "path":  "mods/[client]eating-animation-1.20+1.9.61.jar",
+                      "sha256":  "ff8fe184b3104b94c9e10e751f5730d3b1fec19894179743a2447367cb752463",
                       "once":  false,
-                      "size":  285003
+                      "size":  1218710
                   },
                   {
-                      "path":  "mods/[client]eatinganimation-1.20.1-5.1.0.jar",
-                      "sha256":  "506ffc2e2bcc5709c8121382c5d0428ca642ceaeebe2a9169c9b0475a83c657c",
+                      "path":  "mods/[client]entity_model_features_1.20.1-fabric-3.0.12.jar",
+                      "sha256":  "ba420b411f33210d6176e2f2d149dd9bc4b779dc7b2a630167835b47a9ed7308",
                       "once":  false,
-                      "size":  294792
+                      "size":  496324
                   },
                   {
-                      "path":  "mods/[client]embeddium-0.3.31+mc1.20.1.jar",
-                      "sha256":  "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+                      "path":  "mods/[client]entity_texture_features_1.20.1-fabric-7.0.9.jar",
+                      "sha256":  "d343e00d5afdcb9c3ac06ac0239bd1637966c7bf713cec6edf5fe476ba0207de",
                       "once":  false,
-                      "size":  1320675
+                      "size":  736086
                   },
                   {
-                      "path":  "mods/[client]entity_model_features_1.20.1-forge-3.0.7.jar",
-                      "sha256":  "fef4f682c6143efbb228e91a3023a663e717e27928e345727363832f249afeee",
+                      "path":  "mods/[client]explosive-enhancement-1.3.2-1.20-1.20.4.jar",
+                      "sha256":  "c542e2115ac322c5fa5c18f87a1a860bb1547514b39d81f4fad60983673f0d87",
                       "once":  false,
-                      "size":  661640
+                      "size":  114604
                   },
                   {
-                      "path":  "mods/[client]entity_texture_features_1.20.1-forge-7.0.6.jar",
-                      "sha256":  "93c5809268b8a7752e6ccca49a611e61368365dfe5647ec31ee263d2d95cf532",
+                      "path":  "mods/[client]fallingleaves-1.15.6+1.20.1.jar",
+                      "sha256":  "27b2c5a2a9cebe09afd4adccc3989c43a6cceb92ece60a6daea735ba178114f0",
                       "once":  false,
-                      "size":  951154
+                      "size":  156773
                   },
                   {
-                      "path":  "mods/[client]explosiveenhancement-forge-1.20.1-1.1.0-client.jar",
-                      "sha256":  "a95ccaa83a94468357bd57806a2e1fd36f1e0aa04fd04b51df632f56ccb53e66",
+                      "path":  "mods/[client]fast-ip-ping-v1.0.8-mc1.20.4-fabric.jar",
+                      "sha256":  "353687fc3e5ac8745d3957d3e8e200e5b92a7b11a088846907ac179e57620028",
                       "once":  false,
-                      "size":  85868
+                      "size":  10378
                   },
                   {
-                      "path":  "mods/[client]fabric-api-0.92.6+1.11.14+1.20.1.jar",
-                      "sha256":  "9b140af437581d32e5ee17d20f8fe882000e6a34cba85c152ae5bccc9570cc03",
+                      "path":  "mods/[client]HMI-4.2.5H1-1.20.1-1.20.4.jar",
+                      "sha256":  "1eb76485f6c1762387ef47b2996f310cb667157b2ce113eb88dea86c24823608",
                       "once":  false,
-                      "size":  3065813
+                      "size":  51003
                   },
                   {
-                      "path":  "mods/[client]fallingleaves-1.20.1-2.1.2.jar",
-                      "sha256":  "6202d8241f01e21278fd5de644fd2e992824069f2cf0fc9dc6a74ab2218015b6",
+                      "path":  "mods/[client]iris-1.7.6+mc1.20.1.jar",
+                      "sha256":  "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
                       "once":  false,
-                      "size":  124212
+                      "size":  2726899
                   },
                   {
-                      "path":  "mods/[client]fast-ip-ping-v1.0.7-mc1.20.4-forge.jar",
-                      "sha256":  "109d9d133ab51b1fd70b2530f0b3754f82bb6442e7e2c408e65e8967f50782fe",
+                      "path":  "mods/[client]justzoom_fabric_2.1.0_MC_1.20.1.jar",
+                      "sha256":  "feb1442828c93f37a62d1dff5a5284b9c9e6a86a051e67aaa871ea51dba1f813",
                       "once":  false,
-                      "size":  10557
+                      "size":  196623
                   },
                   {
-                      "path":  "mods/[client]GeckoLibOculusCompat-Forge-1.0.1.jar",
-                      "sha256":  "d2047c888aa0ded9ba13a24d3eafd37239e28a9eea0b18d20a3e3e74a3a19250",
+                      "path":  "mods/[client]lambdynamiclights-4.4.0+1.20.1.jar",
+                      "sha256":  "074d6c79e002790b696ebcfdd4ff2a2d57ec55228f93b47e952eeebd5baf5301",
                       "once":  false,
-                      "size":  6239
+                      "size":  1114373
                   },
                   {
-                      "path":  "mods/[client]holdmyitems-1.20.1-4v2.0.jar",
-                      "sha256":  "f307bfa98da0742b3c6dc164e04766f45e911a81d1eaf79025d6d92ff74875cc",
+                      "path":  "mods/[client]melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+                      "sha256":  "3f7f5bab77a01a26af4702a70af5a7fd0a6f04f4fde51a4180113790e0c9e1e7",
                       "once":  false,
-                      "size":  100362
+                      "size":  39696
                   },
                   {
-                      "path":  "mods/[client]justzoom_forge_2.1.1_MC_1.20.1.jar",
-                      "sha256":  "778c75c388a8dffed5bfad25ab9a420dfd6c4ec3bdc1699ec6c2bab2336b5040",
+                      "path":  "mods/[client]notenoughanimations-fabric-1.11.3-mc1.20.1.jar",
+                      "sha256":  "e9b2fccc300734cdb33f35d81e73f4d7f619316692f929232001851e50ec2136",
                       "once":  false,
-                      "size":  204574
+                      "size":  1921654
                   },
                   {
-                      "path":  "mods/[client]MaFgLib-0.1.14-mc1.20.1.jar",
-                      "sha256":  "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1",
+                      "path":  "mods/[client]ShoulderSurfing-Fabric-1.20.1-4.22.1.jar",
+                      "sha256":  "cc2a28d51193a0fa313a06a3f4c381552d153bd3a8093c37ed20e8cfb35dcdfe",
                       "once":  false,
-                      "size":  521709
+                      "size":  264308
                   },
                   {
-                      "path":  "mods/[client]melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-                      "sha256":  "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8",
+                      "path":  "mods/[client]sodium-extra-0.5.9+mc1.20.1.jar",
+                      "sha256":  "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f",
                       "once":  false,
-                      "size":  37178
+                      "size":  370701
                   },
                   {
-                      "path":  "mods/[client]notenoughanimations-forge-1.10.6-mc1.20.1.jar",
-                      "sha256":  "6f9d7a22e49357183ea2125c83cd8eb87ce3033b8eaa307b0cd3dacbfb954b5a",
+                      "path":  "mods/[client]sodium-fabric-0.5.13+mc1.20.1.jar",
+                      "sha256":  "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
                       "once":  false,
-                      "size":  843250
+                      "size":  971552
                   },
                   {
-                      "path":  "mods/[client]oculus-mc1.20.1-1.8.0.jar",
-                      "sha256":  "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+                      "path":  "mods/[client]spawnanimations-v1.11.3-mc1.17-1.21.11-mod.jar",
+                      "sha256":  "792970a9bc1c57800bf695e9e21ddbe9b72b3dda09dbb1172763a04c89d6aa78",
                       "once":  false,
-                      "size":  2851119
+                      "size":  223524
                   },
                   {
-                      "path":  "mods/[client]rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
-                      "sha256":  "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da",
+                      "path":  "mods/[client]XaeroZoomout-Fabric-1.20-1.1.0.jar",
+                      "sha256":  "1618731d84c274c67717184476dc581b33430d2c7e245741dd46208fce063da9",
                       "once":  false,
-                      "size":  568608
-                  },
-                  {
-                      "path":  "mods/[client]ShoulderSurfing-Forge-1.20.1-4.17.0.jar",
-                      "sha256":  "9af2c90bd0f54a79918ad15fe24bdb4d1786dac87a0903c07379b365cf18e54e",
-                      "once":  false,
-                      "size":  263677
-                  },
-                  {
-                      "path":  "mods/[client]sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
-                      "sha256":  "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4",
-                      "once":  false,
-                      "size":  511601
-                  },
-                  {
-                      "path":  "mods/[client]sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
-                      "sha256":  "37ec0b6248f04e856e6e5ba2066c4ded9981ce128282a9b45cdb10b67b9c8415",
-                      "once":  false,
-                      "size":  443978
-                  },
-                  {
-                      "path":  "mods/[client]spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar",
-                      "sha256":  "a12f393691d4125c94c0e059592c2e54b1b21e4f887597fccb3a8f743d4cec63",
-                      "once":  false,
-                      "size":  220435
-                  },
-                  {
-                      "path":  "mods/[client]wakes-1.20.1-Forge-1.0.7.jar.disabled",
-                      "sha256":  "93ddee6da311ff585667a58a442dee53a7ee0fc2da6fb881fa9597a19ff6694f",
-                      "once":  false,
-                      "size":  212908
-                  },
-                  {
-                      "path":  "mods/[client]XaeroZoomout-Forge-1.20-1.1.0.jar",
-                      "sha256":  "6e0448b38f4850d20a213f4f869e95a81d7e38994976c89d03b5dc1adaa5a71a",
-                      "once":  false,
-                      "size":  32691
+                      "size":  33177
                   },
                   {
                       "path":  "mods/.connector/TechReborn-5.8.8$energy-3.0.0_mapped_srg_1.20.1.jar",
@@ -4742,16 +4346,16 @@
                       "size":  1338368
                   },
                   {
-                      "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip",
-                      "sha256":  "1c25b2b917ff6d0a511cf2edd8992e0bc66c950c401020f1b0362646bb3e2952",
-                      "once":  false,
-                      "size":  500699
-                  },
-                  {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt",
                       "sha256":  "85e2b79473c505ec568c67d80b79fd4c85bd27cfad98537141baf5f9283ca690",
                       "once":  true,
                       "size":  366
+                  },
+                  {
+                      "path":  "shaderpacks/ComplementaryUnbound_r5.7.1.zip",
+                      "sha256":  "5cbf4d99bc7ce4f0df5c15974d276e0949bf6974d48d88a77d5e307b0b9be8af",
+                      "once":  false,
+                      "size":  522973
                   },
                   {
                       "path":  "utils/7zr.exe",
