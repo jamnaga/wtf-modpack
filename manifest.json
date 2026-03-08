@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "08/03/2026 05:43:50,43",
+    "generated":  "08/03/2026 06:35:36,01",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -4724,12 +4724,6 @@
                       "size":  4472279
                   },
                   {
-                      "path":  "mods/Fastload+1.18.2-1.20-3.4.0.jar",
-                      "sha256":  "e13ab713f9779623de29bb50396b3202d670532bd4605f74c907d4f7834c1637",
-                      "once":  false,
-                      "size":  567412
-                  },
-                  {
                       "path":  "mods/ferritecore-6.0.1-fabric.jar",
                       "sha256":  "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
                       "once":  false,
@@ -4866,6 +4860,12 @@
                       "sha256":  "7a99ca890dbc23ee4848c98a78524960069277ee4e181e63b7a95f6d6fbbbaf1",
                       "once":  false,
                       "size":  226323
+                  },
+                  {
+                      "path":  "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+                      "sha256":  "3f7f5bab77a01a26af4702a70af5a7fd0a6f04f4fde51a4180113790e0c9e1e7",
+                      "once":  false,
+                      "size":  39696
                   },
                   {
                       "path":  "mods/memoryleakfix-fabric-1.17+-1.1.5.jar",
@@ -5154,12 +5154,6 @@
                       "sha256":  "074d6c79e002790b696ebcfdd4ff2a2d57ec55228f93b47e952eeebd5baf5301",
                       "once":  false,
                       "size":  1114373
-                  },
-                  {
-                      "path":  "mods/[client]melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
-                      "sha256":  "3f7f5bab77a01a26af4702a70af5a7fd0a6f04f4fde51a4180113790e0c9e1e7",
-                      "once":  false,
-                      "size":  39696
                   },
                   {
                       "path":  "mods/[client]notenoughanimations-fabric-1.11.3-mc1.20.1.jar",
