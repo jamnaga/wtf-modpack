@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "08/03/2026 06:40:10,19",
+    "generated":  "08/03/2026 06:58:30,36",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -4752,12 +4752,6 @@
                       "sha256":  "d03ebfae2a163b90cbc7a72c6d88d0ed7a4532e611f21d5bdba7e7ec959ee2c6",
                       "once":  false,
                       "size":  1169044
-                  },
-                  {
-                      "path":  "mods/GuardRibbits-1.20.1-Fabric-1.0.4.jar",
-                      "sha256":  "52f1e184dc12cf1e29bc224ab5a640b8ea5875aa9f46067c0907c6a45b7d1869",
-                      "once":  false,
-                      "size":  166896
                   },
                   {
                       "path":  "mods/gun-1.20.1-fabric.jar",
