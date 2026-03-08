@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "07/03/2026 19:30:40,49",
+    "generated":  "08/03/2026 04:19:11,73",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -3552,6 +3552,12 @@
                       "sha256":  "647871300569119faf7a5cfd2500315c0c4b18079092020855c87f5f7761bd82",
                       "once":  false,
                       "size":  4853307
+                  },
+                  {
+                      "path":  "mods/indium-1.0.36+mc1.20.1.jar",
+                      "sha256":  "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
+                      "once":  false,
+                      "size":  105382
                   },
                   {
                       "path":  "mods/InventoryProfilesNext-fabric-1.20-1.10.20.jar",
