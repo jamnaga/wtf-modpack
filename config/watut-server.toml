@@ -1,4 +1,3 @@
-
 #General mod settings
 [general]
 	#SETTING THESE SERVER SIDE SETTINGS TO FALSE WILL OVERRIDE ANY OF THE SAME CLIENT SETTINGS THAT ARE SET TO TRUE (for all clients)
@@ -47,4 +46,3 @@
 	playScreenOpenSounds = true
 	#Plays a sutble sound when a player clicks their mouse in a Gui
 	playMouseClickSounds = true
-

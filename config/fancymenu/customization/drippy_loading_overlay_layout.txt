@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1765667004342
+  last_edited_time = 1772944970087
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:80ca3395-4228-47b4-b079-63a43f25c711-1765666991248] = [groups:][instances:]
+  [loading_requirement_container_meta:7e453f89-2d26-4904-b121-c5fc0bf39904-1772944924570] = [groups:][instances:]
 }
 
 customization {
@@ -65,8 +65,8 @@ element {
   fade_out_speed = 1.0
   base_opacity = 0.85
   auto_sizing = false
-  auto_sizing_base_screen_width = 1362
-  auto_sizing_base_screen_height = 771
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1083
   sticky_anchor = false
   anchor_point = mid-centered
   x = -110
@@ -96,7 +96,7 @@ element {
 
 element {
   interactable = true
-  source = Avvio GangDrogaCity...
+  source = Caricamento...
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -137,13 +137,13 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 1362
-  auto_sizing_base_screen_height = 771
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1083
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -57
+  x = -37
   y = 73
-  width = 114
+  width = 73
   height = 17
   stretch_x = false
   stretch_y = false
@@ -202,10 +202,10 @@ vanilla_button {
   auto_sizing_base_screen_height = 1084
   sticky_anchor = false
   anchor_point = vanilla
-  x = 99
-  y = 96
-  width = 256
-  height = 64
+  x = 140
+  y = 135
+  width = 360
+  height = 90
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -261,12 +261,12 @@ vanilla_button {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 1362
-  auto_sizing_base_screen_height = 771
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1083
   sticky_anchor = false
   anchor_point = element
   anchor_point_element = 349aa449-ff80-41c9-bafe-7d4e7477b33a-1759417593351
-  x = 93
+  x = 185
   y = 235
   width = 270
   height = 8

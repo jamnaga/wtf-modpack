@@ -17,4 +17,3 @@ editingMode = false
 	#Change the size of the Indicator by this multiplier
 	#Range: 0.0 ~ 3.4028234663852886E38
 	indicatorScale = 1.0
-

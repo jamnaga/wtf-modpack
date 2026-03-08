@@ -1,11 +1,8 @@
-
 [mod]
 	#Set to false to disable TreeChop without having to uninstall the mod
 	enabled = true
 	#Let TreeChop print to the log
 	printDebugInfo = true
-
-[permissions]
 
 	[permissions.choppingEnabled]
 		canBeFalse = true
@@ -95,29 +92,6 @@
 		#Range: -10000.0 ~ 10000.0
 		baseNumChops = 0.0
 
-[compatibility]
-	#https://www.curseforge.com/minecraft/mc-mods/carry-on
-	#https://modrinth.com/mod/carry-on
-	#Small fixes.
-	carryOn = true
-	#https://www.curseforge.com/minecraft/mc-mods/project-mmo
-	#https://modrinth.com/mod/project-mmo
-	#Award woodcutting XP for chopping.
-	projectMMO = true
-	#https://www.curseforge.com/minecraft/mc-mods/the-one-probe
-	#https://modrinth.com/mod/the-one-probe
-	#Shows the number of chops required to fell a tree and what loot will drop.
-	theOneProbe = true
-	#https://github.com/TerraformersMC
-	#Fixes starting chop radius for small logs from Terraformers mods (Terrestria, etc.)
-	terraformers = true
-	#https://github.com/AtomicStryker/atomicstrykers-minecraft-mods
-	#Fixes bad behavior
-	multiMine = true
-	#https://www.curseforge.com/minecraft/mc-mods/apotheosis
-	#Adds compatibility with the "chainsaw" enchantment.
-	apotheosis = true
-
 	[compatibility.general]
 		#Only chop when using the correct tool for drops, if any (does nothing in vanilla, but some mods add tool requirements to logs
 		choppingRequiresCorrectToolForDrops = true
@@ -165,31 +139,6 @@
 			logs = ["tropicraft:.*_log(_.*)?", "mysticbiomes:.*_log", "betternether:.*_bark", "betternether:.*_log", "alexscaves:.*_log", "alexscaves:pewen_wood"]
 			leaves = ["tropicraft:.*_leaves(_.*)?", "betternether:.*_leaves", "regions_unexplored:brimwood_leaves", "alexscaves:.*_branch", "alexscaves:pewen_pines"]
 
-	[compatibility.silentgear]
-		#https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
-		#https://modrinth.com/mod/tinkers-construct
-		#Makes saws do more chops.
-		enabled = true
-		#Number of chops a saw should perform on a single block break
-		#Range: 1 ~ 10000
-		sawChops = 5
-
-	[compatibility.tinkersConstruct]
-		#https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
-		#https://modrinth.com/mod/tinkers-construct
-		#Makes AOE tools do more chops.
-		enabled = true
-		#Number of chops that tree breaking tools (like broad axes) should perform on a single block break
-		#Range: 1 ~ 10000
-		treeBreakingTools = 5
-		#Number of chops that wood breaking tools (like hand axes) should perform on a single block break
-		#Range: 1 ~ 10000
-		woodBreakingTools = 1
-		#The chop count multiplier for each level of the expanded upgrade
-		#Range: 1.0 ~ 10000.0
-		expandedMultiplier = 2.0
-
 	[compatibility.API]
 		#Log information about TreeChop API usage. May be useful for debugging mod compatibility issues.
 		verbose = false
-

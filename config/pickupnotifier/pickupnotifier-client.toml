@@ -1,4 +1,3 @@
-
 [display]
 	#Should the picked up amount be shown when it's just a single item.
 	display_single_count = true
@@ -65,4 +64,3 @@
 	move_time = 20
 	#Make outdated entry names slowly fade away instead of simply vanishing.
 	fade_away = true
-

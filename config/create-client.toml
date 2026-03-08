@@ -1,4 +1,3 @@
-
 #.
 #Client-only settings - If you're looking for general settings, look inside your worlds serverconfig folder!
 [client]
@@ -46,6 +45,18 @@
 	#.
 	#Disable to prevent being rotated while seated on a Moving Contraption
 	rotateWhenSeated = true
+	#.
+	#The fluid unit that will be displayed when viewing fluids
+	#Example: 1000 mB or 81000 Droplets
+	#Allowed Values: DROPLETS, MILLIBUCKETS
+	fluidUnitType = "MILLIBUCKETS"
+	#.
+	#Determines if the fluid unit should be simplified
+	simplifyFluidUnit = true
+	#.
+	#Vertical offset for the Toolbox Hotbar overlay.
+	#Range: > -2147483648
+	toolboxHotbarOverlayOffset = 0
 
 	#.
 	#Configure your vision range when submerged in Create's custom fluids
@@ -130,4 +141,3 @@
 		#.
 		#Whether to auto-update the JEI search when searching in the stock keeper UI
 		syncJeiSearch = true
-
