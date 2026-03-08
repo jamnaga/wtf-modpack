@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "08/03/2026 04:43:20,00",
+    "generated":  "08/03/2026 05:31:35,50",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -50,6 +50,12 @@
                       "size":  84
                   },
                   {
+                      "path":  ".fabric/processedMods/dummy",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "once":  false,
+                      "size":  0
+                  },
+                  {
                       "path":  "config/amendments-client.toml",
                       "sha256":  "045b530742c04682b7fabca8c8f3a7b60cab7f47e8707c4252dd45e04755ef0a",
                       "once":  false,
@@ -69,9 +75,9 @@
                   },
                   {
                       "path":  "config/beansbackpacks-client.json5",
-                      "sha256":  "fd9c6e1ea0de05c223016c8885ddd84370c325328387f560154b8860db174b2d",
+                      "sha256":  "5902d72e446a6f609c843e836236f2aefa7a31cfbe794552810659c739fa424c",
                       "once":  false,
-                      "size":  345
+                      "size":  351
                   },
                   {
                       "path":  "config/betteradvancements-client.toml",
@@ -141,9 +147,9 @@
                   },
                   {
                       "path":  "config/cubes_without_borders.json",
-                      "sha256":  "e55546f368fc9cc3ba24c5233384b61e492aa97d5f624fbd8e5552dd7cd8650f",
+                      "sha256":  "389cd4de5524026fc7e8a8fde9ec05e2de9ac0061b0b3b86126d746d9860b85a",
                       "once":  false,
-                      "size":  208
+                      "size":  214
                   },
                   {
                       "path":  "config/DistantHorizons.toml",
@@ -171,27 +177,27 @@
                   },
                   {
                       "path":  "config/enchdesc.json",
-                      "sha256":  "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5",
+                      "sha256":  "9157e59134bc74ba4db355aa68e7137f34349e80133f93cd72c5c091671335f8",
                       "once":  false,
-                      "size":  189
+                      "size":  198
                   },
                   {
                       "path":  "config/entity_model_features.json",
-                      "sha256":  "043432443a4bbe6d2c4f8e7e60c94051e08080a7a2b3dc21be5297b3c32a4a40",
+                      "sha256":  "f72afd49fa050ba2ece722dc3794088af4562525387e520e1cd082108d2e5ec3",
                       "once":  false,
-                      "size":  1035
+                      "size":  1063
                   },
                   {
                       "path":  "config/entity_texture_features.json",
-                      "sha256":  "682cadf54a50225555ab3abb9f4c31db7a711ee484ebae1e1bc2c48c66664fb7",
+                      "sha256":  "6b9a0e6ebd1fa75ab34574564ea4acb47fe166167f0825fd05414d4bb53c61ba",
                       "once":  false,
-                      "size":  1423
+                      "size":  1462
                   },
                   {
                       "path":  "config/etf_warnings.json",
-                      "sha256":  "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
+                      "sha256":  "368c428c9edaddb490c2e7339642e79ceddcb0a6fd8fd434c4bd8e1af34c26f8",
                       "once":  false,
-                      "size":  28
+                      "size":  30
                   },
                   {
                       "path":  "config/explosiveenhancement.toml",
@@ -243,15 +249,15 @@
                   },
                   {
                       "path":  "config/immediatelyfast.json",
-                      "sha256":  "111b66f7fafabc5b3d029b4eed3956a5ca25ebdd051c646dd9fe002f6dd2bc8b",
+                      "sha256":  "1002e520ef4beb4c2ea8b6088843353f83ace93b425ca4e0ba9e28886643c709",
                       "once":  false,
-                      "size":  1057
+                      "size":  1077
                   },
                   {
                       "path":  "config/immersive_aircraft.json",
-                      "sha256":  "19cd371408c63afa16764d7f792af8efbbd8cacd135d1154f207d64da88f6b00",
+                      "sha256":  "78ca47cf9154fa4b00e1c875df317224d31508ba317edc46ca84ce3a48dc05ba",
                       "once":  false,
-                      "size":  1518
+                      "size":  1576
                   },
                   {
                       "path":  "config/immersive_paintings.json",
@@ -261,9 +267,9 @@
                   },
                   {
                       "path":  "config/krypton_fnp.yaml",
-                      "sha256":  "f4e13fc8145fcca0c37172b3d36c48a6861c3baa6db4889b543cbf252b6d63a7",
+                      "sha256":  "0a5d4e9c39ba8ac41d3dfad0665167d3ac312cf6ecabf1f2aa78373d22bcfc28",
                       "once":  false,
-                      "size":  144
+                      "size":  148
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
@@ -291,9 +297,9 @@
                   },
                   {
                       "path":  "config/mtr.json",
-                      "sha256":  "0a44b8319e0878a90ce981443594b4bfbcd5470528a461ea110a160c7ff73dc6",
+                      "sha256":  "9b94af3eecd8f25e2c1898adda075df9651215bcba52c6ee646ea7de4f76bcc4",
                       "once":  false,
-                      "size":  576
+                      "size":  596
                   },
                   {
                       "path":  "config/notenoughanimations.json",
@@ -321,9 +327,9 @@
                   },
                   {
                       "path":  "config/ribbits-options.json",
-                      "sha256":  "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b",
+                      "sha256":  "f3dbc2217233cdcbe0b158942b53bf53c32dae5e0d4a7fa0b3a2151b69fe96f8",
                       "once":  false,
-                      "size":  33
+                      "size":  35
                   },
                   {
                       "path":  "config/shouldersurfing-client.toml",
@@ -333,21 +339,21 @@
                   },
                   {
                       "path":  "config/sodium-extra-options.json",
-                      "sha256":  "fcbbbe7b2ec653da17b80dd0075afe1a57418560067d8936232d06b6dd998783",
+                      "sha256":  "66ae21a65594567790b0649703fc502a06ddb5828e9dc0962fa660096fde687e",
                       "once":  false,
-                      "size":  1461
+                      "size":  1522
                   },
                   {
                       "path":  "config/sodium-extra.properties",
-                      "sha256":  "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
+                      "sha256":  "ab259e2369fc503c0cd905ec9b57b5867f4dbd249edf7a2b52193b36ffbcdeab",
                       "once":  false,
-                      "size":  360
+                      "size":  367
                   },
                   {
                       "path":  "config/solid_mobs.json",
-                      "sha256":  "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0",
+                      "sha256":  "648d9e572da38381d4dd552e49cc4bb104fbae1d6939ffe7604137397ffab848",
                       "once":  false,
-                      "size":  478
+                      "size":  494
                   },
                   {
                       "path":  "config/supplementaries-client.toml",
@@ -381,15 +387,15 @@
                   },
                   {
                       "path":  "config/tips.json",
-                      "sha256":  "af85f2909fde8c0dbea201fb6fb4afc5070be875c24266b47887f33f03c19321",
+                      "sha256":  "464b9d3d78c6b033e8443d6e14f8c095cf37a11033f3481be3dfc494f76214d2",
                       "once":  false,
-                      "size":  274
+                      "size":  286
                   },
                   {
                       "path":  "config/transition.json",
-                      "sha256":  "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
+                      "sha256":  "11e2fd51f2487c460fd659f0c5824a14e3643d0629888988d0c87a2a1dabcbce",
                       "once":  false,
-                      "size":  62
+                      "size":  65
                   },
                   {
                       "path":  "config/treechop-client.toml",
@@ -405,9 +411,9 @@
                   },
                   {
                       "path":  "config/trender.json",
-                      "sha256":  "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2",
+                      "sha256":  "e28327bfc6526ecf8dbf9f74436da291b36b9a3c72bd76ff6299e800c7bd19d1",
                       "once":  false,
-                      "size":  44
+                      "size":  47
                   },
                   {
                       "path":  "config/visualworkbench-client.toml",
@@ -483,27 +489,27 @@
                   },
                   {
                       "path":  "config/ae2/client.json",
-                      "sha256":  "0b5fdb5ddee9031f1eb19fa134e51a2158261703300b5c89d38b9fcf194e636e",
+                      "sha256":  "2f3c302a19feb22d51184a1203f22303cff8fb93faa5ae3b8c0795558c6a314b",
                       "once":  false,
-                      "size":  3061
+                      "size":  3115
                   },
                   {
                       "path":  "config/ae2/common.json",
-                      "sha256":  "f390a5328244fa4f300041b581369bd17fbb6194824574a7cae47523ed01b046",
+                      "sha256":  "fd62f8d26e117b1ef84d6199c3e5f78834bd453eb9a2f21b33038c7706700b1e",
                       "once":  false,
-                      "size":  5277
+                      "size":  5399
                   },
                   {
                       "path":  "config/artifacts/client.json5",
-                      "sha256":  "dfae4a12bf924a5e12380032ff257ec535c6b003fef539a3893adb05c0a69c56",
+                      "sha256":  "d3f4d57475eb31c19b79fb5d6f2c3787fbdeccbeb2e9133c2fd95ff4c477afa4",
                       "once":  false,
-                      "size":  551
+                      "size":  565
                   },
                   {
                       "path":  "config/artifacts/common.json5",
-                      "sha256":  "736bec8c910558091bb749ac7adb013822a253a02f1f70637eb193952768d2b1",
+                      "sha256":  "678ae08b43dfb9fd419d22e645ba31227b5f193aa674ea2d58d85b2e7b3bc65a",
                       "once":  false,
-                      "size":  1584
+                      "size":  1619
                   },
                   {
                       "path":  "config/CoroUtil/General.toml",
@@ -513,9 +519,9 @@
                   },
                   {
                       "path":  "config/drippyloadingscreen/options.txt",
-                      "sha256":  "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5",
+                      "sha256":  "63c4704c2506e63aae06b7df6dee776a3f406a13a22f85d4c43f6997109fb824",
                       "once":  false,
-                      "size":  2465
+                      "size":  2513
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
@@ -525,33 +531,33 @@
                   },
                   {
                       "path":  "config/fancymenu/customizablemenus.txt",
-                      "sha256":  "97e2e0490352f3c86b6d76e30ebf6928b65c2e30d7a01b0fd41eaae79c80a465",
+                      "sha256":  "13e4b3ea094833fafb495f4389a8fcd906b669d3be0fb2ef0b4c88516e1b754b",
                       "once":  false,
-                      "size":  359
+                      "size":  379
                   },
                   {
                       "path":  "config/fancymenu/custom_gui_screens.txt",
-                      "sha256":  "d6a128df03750d436f06dddff86bd32fddad9f1e60868f291da96ec5621c971b",
+                      "sha256":  "51af133f84083f843f2a3108ef33b58d4ed801de7d7b8d42fe2394145d07211b",
                       "once":  false,
-                      "size":  595
+                      "size":  622
                   },
                   {
                       "path":  "config/fancymenu/legacy_checklist.txt",
-                      "sha256":  "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+                      "sha256":  "878c9368bec63cd86822b28ceca345704ebaa411f7b72dd0bb4e682235b790e1",
                       "once":  false,
-                      "size":  42
+                      "size":  44
                   },
                   {
                       "path":  "config/fancymenu/options.txt",
-                      "sha256":  "19efd293f74ee2ebc655e017e29a973e4b7f229b26283b8ef15c63ada3cc6d87",
+                      "sha256":  "66e788ccecf9b9ba5bc468f8f7c1eb2c14a4469d3d9b0fed0e2b364122b3eb6c",
                       "once":  false,
-                      "size":  2180
+                      "size":  2274
                   },
                   {
                       "path":  "config/fancymenu/user_variables.db",
-                      "sha256":  "ef4c85384cfe58ca919d14e8d993d8dbd1c3b3b54c4d9f3fb03cca6216a4199d",
+                      "sha256":  "87af3e8911efd6c567bb88e6210781feb096091273a286bfecb74998d97b0013",
                       "once":  false,
-                      "size":  625
+                      "size":  675
                   },
                   {
                       "path":  "config/fancymenu/video_element_controller_metas.json",
@@ -585,33 +591,33 @@
                   },
                   {
                       "path":  "config/fancymenu/customization/connect_screen_layout.txt",
-                      "sha256":  "f684f0eee6563cbe453a08134275a4e12c26005a6ea81be17fdaba923ddd69ae",
+                      "sha256":  "941dbbe11c7d562cfd582e82feef6a845d349176acaf56e65e5f6a82a1bd7169",
                       "once":  false,
-                      "size":  5638
+                      "size":  5814
                   },
                   {
                       "path":  "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-                      "sha256":  "e9d19feb076cbf90b5199e20a7ce1ec73841da13537897c1d61e372242c2cef8",
+                      "sha256":  "dd6dd75220af63c6b14f655e83ddd57e94bcac042f273e9af70de9fcebbfc4ee",
                       "once":  false,
-                      "size":  9838
+                      "size":  10133
                   },
                   {
                       "path":  "config/fancymenu/customization/login_screen_layout.txt",
-                      "sha256":  "da52820defe19bf2e69e29c5d5702229add085404d94443af4b36ff667223795",
+                      "sha256":  "f468566bd5c912692038f80b0068d21242fbb51d29721aa523c826647cc9c042",
                       "once":  false,
-                      "size":  10576
+                      "size":  10895
                   },
                   {
                       "path":  "config/fancymenu/customization/pause_screen_layout.txt",
-                      "sha256":  "9f7cb91de84ffcef4138e3eba1bf23cf09e9df3e0f26aa38cc3588ed1c945745",
+                      "sha256":  "1cd082398d0994c8381c51100e15c8172b71ad941e3e1ec98f738ab22bf083a0",
                       "once":  false,
-                      "size":  24707
+                      "size":  25424
                   },
                   {
                       "path":  "config/fancymenu/customization/pause_screen_layout_login.txt",
-                      "sha256":  "722be2c78b5a8cb892faedd361da2427dc9b68ec90ffdd4dc9b9b21eac2386d3",
+                      "sha256":  "cd3d4ea93af62cf7b2c6f3642f3ad8f7e916ed240aa75ca599a67bfff40bc1b5",
                       "once":  false,
-                      "size":  32275
+                      "size":  33222
                   },
                   {
                       "path":  "config/fancymenu/customization/receiving_level_screen_layout.txt",
@@ -621,21 +627,21 @@
                   },
                   {
                       "path":  "config/fancymenu/customization/register_screen_layout.txt",
-                      "sha256":  "d9e90c2b21a8e2ccb63b7e819b69bf660e6c6429d23c888186a4093cdd0989a9",
+                      "sha256":  "ce1be1cd96b5ce1f0247ab765d53a71544c4ee50c98c837f45e144f18cd30c9d",
                       "once":  false,
-                      "size":  17219
+                      "size":  17718
                   },
                   {
                       "path":  "config/fancymenu/customization/title_screen_layout.txt",
-                      "sha256":  "efb23dc09b43e1f0bca65ea41fdf5ccdce6f96696b216c0e6332d25b779d6698",
+                      "sha256":  "e53d7ec8889fc6ce2652f1cc2eff37f6228b150fa75178159361854526befd9c",
                       "once":  false,
-                      "size":  40165
+                      "size":  41284
                   },
                   {
                       "path":  "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-                      "sha256":  "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495",
+                      "sha256":  "795b81df9004cfd5e4105a0aad484d9a91122880135df21dea4ebcd4da0b7e06",
                       "once":  false,
-                      "size":  197
+                      "size":  209
                   },
                   {
                       "path":  "config/fancymenu/slideshows/show/properties.txt",
@@ -681,15 +687,15 @@
                   },
                   {
                       "path":  "config/fancymenu/ui_themes/dark.json",
-                      "sha256":  "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850",
+                      "sha256":  "721c745374aa8a361884fdea1ceac9799963a0033568fecf169875e262b06eb7",
                       "once":  false,
-                      "size":  6218
+                      "size":  6479
                   },
                   {
                       "path":  "config/fancymenu/ui_themes/light.json",
-                      "sha256":  "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41",
+                      "sha256":  "c27f3d4b0eb2f8c9abc28beb8c4a4ee4571ec677e0336740ec73f53432d5cfe8",
                       "once":  false,
-                      "size":  6220
+                      "size":  6481
                   },
                   {
                       "path":  "config/fpsreducer/fpsreducer-client.toml",
@@ -699,9 +705,9 @@
                   },
                   {
                       "path":  "config/inventoryprofilesnext/inventoryprofiles.json",
-                      "sha256":  "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3",
+                      "sha256":  "858d18484591260a2f2d39ecd2bae1fbb7a810d9916e5f70f14ccf2aee783a18",
                       "once":  false,
-                      "size":  57
+                      "size":  61
                   },
                   {
                       "path":  "config/inventoryprofilesnext/prev-villager-trading-config.json",
@@ -717,9 +723,9 @@
                   },
                   {
                       "path":  "config/inventoryprofilesnext/31.56.32.66\u002625566/villager-trading-config.json",
-                      "sha256":  "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef",
+                      "sha256":  "bcf3134002f9a9ff6f14be2370e769211b8d36b777ba69994d83ef65b6a78e92",
                       "once":  false,
-                      "size":  1177
+                      "size":  1229
                   },
                   {
                       "path":  "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
@@ -909,33 +915,33 @@
                   },
                   {
                       "path":  "config/justzoom/config.txt",
-                      "sha256":  "60cec24e5b28de27af93fa22a02e5f16db865f80f661b85e080f2a4524db7f62",
+                      "sha256":  "7ac0131882fffc596db992d309f81698ba43b1bfd0ec4750944d6b226cb35e72",
                       "once":  false,
-                      "size":  474
+                      "size":  490
                   },
                   {
                       "path":  "config/konkrete/locals/de_de.local",
-                      "sha256":  "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+                      "sha256":  "9cf580b889772edd244b5ea7cf42439bbae7bf2834bd759b819052d8f147e5fd",
                       "once":  false,
-                      "size":  369
+                      "size":  385
                   },
                   {
                       "path":  "config/konkrete/locals/en_us.local",
-                      "sha256":  "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+                      "sha256":  "7e47765e16c56722a24ff7343191913b00ef2c8493b7172c641d61c8b583b0d4",
                       "once":  false,
-                      "size":  426
+                      "size":  445
                   },
                   {
                       "path":  "config/konkrete/locals/pl_pl.local",
-                      "sha256":  "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+                      "sha256":  "29e0e9f6e599f34ce351814cd4bbfa1bbea884122aff4b5072bff105d94f6862",
                       "once":  false,
-                      "size":  313
+                      "size":  328
                   },
                   {
                       "path":  "config/konkrete/locals/pt_br.local",
-                      "sha256":  "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+                      "sha256":  "d53707bca34d3d11ef17642d819a4444550bf5d1c3557d0d8c19c5d47e46bbc4",
                       "once":  false,
-                      "size":  322
+                      "size":  337
                   },
                   {
                       "path":  "config/mcef/mcef.properties",
@@ -945,15 +951,15 @@
                   },
                   {
                       "path":  "config/otyacraftengine/client.toml",
-                      "sha256":  "296562f31498578124f780431b54e94e722a5a4d9dd3c1453630dd23391ad700",
+                      "sha256":  "dd70197a6f872be441ef1fa2c1ac607fad645ef434484ad6d99636a570b70756",
                       "once":  false,
-                      "size":  86
+                      "size":  89
                   },
                   {
                       "path":  "config/otyacraftengine/client_debug.toml",
-                      "sha256":  "8f050b5467f258f0b89aac2ccb8149607d9d194ecc0836e701ee1be796084541",
+                      "sha256":  "ca9c4e9f7e190eafa2a941177ae274dc17c5edaec6014f3b66fff2a4ef93d2c1",
                       "once":  false,
-                      "size":  101
+                      "size":  105
                   },
                   {
                       "path":  "config/pickupnotifier/pickupnotifier-client.toml",
@@ -963,21 +969,21 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/collapsible.json5",
-                      "sha256":  "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919",
+                      "sha256":  "ea503118f4e7ba4af0fd6baabc6ee97f74e3b75d38f1eb57b55fb66491af8e27",
                       "once":  false,
-                      "size":  46
+                      "size":  49
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "d686cfd55087ced52221cd301aa7c290c49cc59de46af21f5d5a6bb47d7c62b0",
+                      "sha256":  "55ec5241d4984b4d79f9247376f775094e60ff62f25f08097fe57b4e5fcc6c1d",
                       "once":  false,
-                      "size":  6761
+                      "size":  6972
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
-                      "sha256":  "7ad122bef0ce7b8e8e6b99ba05c9e01124c4b78e754a6ef8798288393760f281",
+                      "sha256":  "ba8951bbba432ebb9278963c84f654e5c6df2cae06817537e8474fc5ac2e43f9",
                       "once":  false,
-                      "size":  1849
+                      "size":  1869
                   },
                   {
                       "path":  "config/roughlyenoughitems/hints.json",
@@ -1131,21 +1137,21 @@
                   },
                   {
                       "path":  "fancymenu_data/last_world.fmdata",
-                      "sha256":  "ae54f8d6c0c8d7cf8cb472660f6e5acaaa9e77d1cf24354d57ed0ca606d91bed",
+                      "sha256":  "d91c5b7421821ff7e25fec2dd547f8c3413d4ed7d53664bd5f5269632a4cc5f4",
                       "once":  false,
-                      "size":  93
+                      "size":  100
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_leveling.json",
-                      "sha256":  "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+                      "sha256":  "ab6b2cbcf1aa5b002b696e2b3c17a38f199b02ab0850b218c8b213cace3e2c81",
                       "once":  false,
-                      "size":  1619
+                      "size":  1700
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_save.json",
-                      "sha256":  "e400ff2e93bc79811e02921fc2f5c578e7ff288b0c4fa56a5b6cb2676be9b6fe",
+                      "sha256":  "a5747b4740e0c06af465f83c16c047660161bb0aeac145da59adc80b6287d44b",
                       "once":  false,
-                      "size":  260
+                      "size":  273
                   },
                   {
                       "path":  "immersive_paintings_cache/16333659-af6a-4542-bf80-25eba03e7123.png",
@@ -4041,9 +4047,9 @@
                   },
                   {
                       "path":  "mod_data/gml/1.20.1/README",
-                      "sha256":  "880a787f5b06b15a94e4b83b8c6d2fabf6bdd22269df2d6b9b887393140d8f9f",
+                      "sha256":  "6194d79abdb5a425c29ab63f71d535ead3e05e4c4b70f6cafdf1472e6454d7b2",
                       "once":  false,
-                      "size":  178
+                      "size":  180
                   },
                   {
                       "path":  "mod_data/gml/1.20.1/srg.zip",
