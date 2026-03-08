@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "08/03/2026 04:19:11,73",
+    "generated":  "08/03/2026 04:43:20,00",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -3360,6 +3360,12 @@
                       "sha256":  "e5fa2c009b28d4093c324f7a6cd840aaaae0db3c1d77905b28cf81b20a6c9acf",
                       "once":  false,
                       "size":  1695
+                  },
+                  {
+                      "path":  "mods/cardinal-components-api-5.2.2.jar",
+                      "sha256":  "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1",
+                      "once":  false,
+                      "size":  221901
                   },
                   {
                       "path":  "mods/carryon-fabric-1.20.1-2.1.2.7.jar",
