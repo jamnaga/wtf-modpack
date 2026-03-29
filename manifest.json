@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "29/03/2026 03:26:42,37",
+    "generated":  "29/03/2026 03:43:25,24",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -1113,7 +1113,7 @@
                   },
                   {
                       "path":  "config/amendments-client.json",
-                      "sha256":  "9716d16d4655d3c2533c5d4c4437949b2f1daf0ef282efd4e95120600f93f4ce",
+                      "sha256":  "7709a8cd19279e506f60fbfe8fb4b183fb19e633e80cfacc7a36e1611fb36171",
                       "once":  false,
                       "size":  1960
                   },
@@ -1443,13 +1443,13 @@
                   },
                   {
                       "path":  "config/indium-renderer.properties",
-                      "sha256":  "492458b030b009b88f424ac4ad8024cbde0584e23b165573dc2fdbacc24f562f",
+                      "sha256":  "baadc1e64af9cf97e35f23d67e058d0851db2ba2ee81e70504e3f4a9e92027ad",
                       "once":  false,
                       "size":  116
                   },
                   {
                       "path":  "config/iris.properties",
-                      "sha256":  "a771576144586e19bb63ef82ad90078ca916676f323e873d58d85d4a5feed5b6",
+                      "sha256":  "5bfa1b26b46cf042df5d2677674a5f625ddc838ad0c513dcb040ef4cf4a7a3b1",
                       "once":  false,
                       "size":  255
                   },
@@ -1473,7 +1473,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "5af6cf06ed31da5403e841b30c8d6ba86cf2ec3707fbb3ba3b8fe59fa078d26e",
+                      "sha256":  "761c96018e0f917d9101e5a6fb530df74458e73ee7d602a8d7a0736979adff4b",
                       "once":  false,
                       "size":  194
                   },
@@ -1611,9 +1611,9 @@
                   },
                   {
                       "path":  "config/supplementaries-client.json",
-                      "sha256":  "3a74e19b4a38e443d3b6f5aa6075fb1364b0f36eaef087c13ebe320bab3dabdc",
+                      "sha256":  "2422d047ee038201fbc9d08f3b4bcbdabb3dcfe5a619e3370e2232bda77c9ee2",
                       "once":  false,
-                      "size":  3657
+                      "size":  3656
                   },
                   {
                       "path":  "config/supplementaries-client.toml",
@@ -1791,7 +1791,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "606da0ef403eb858b346d36d22cf6964c1211255c0c66d0e3f9ab68bba9e9db5",
+                      "sha256":  "0cb1fdca6af9b22d04c8eea09a7a57382fd5d1188404e75feab980a191a74fcb",
                       "once":  false,
                       "size":  291
                   },
@@ -2223,7 +2223,7 @@
                   },
                   {
                       "path":  "config/mod-loading-screen/config.txt",
-                      "sha256":  "122a978e1f31f5f0670c779793da59f69a47013f6457e38533fe37b6f7e47fc7",
+                      "sha256":  "e374b90cea7cc978e3611f200eda10e1456d9aa9b880093393192201ae0be498",
                       "once":  false,
                       "size":  428
                   },
@@ -4868,7 +4868,7 @@
                       "size":  105382
                   },
                   {
-                      "path":  "mods/InventoryProfilesNext-fabric-1.20-1.10.20.jar",
+                      "path":  "mods/InventoryProfilesNext-fabric-1.20-1.10.20.jar.disabled",
                       "sha256":  "4e9c432d5b8efd2988c8a00e5e25c7bae985320037ecd95c74fa0102e3590fbf",
                       "once":  false,
                       "size":  1455143
@@ -4904,7 +4904,7 @@
                       "size":  185895
                   },
                   {
-                      "path":  "mods/libIPN-fabric-1.20-4.0.2.jar",
+                      "path":  "mods/libIPN-fabric-1.20-4.0.2.jar.disabled",
                       "sha256":  "3e75c8d8c32b2dfbf7bb1cdd91f5b0d30bb39eb43ecfcf1c25ca093409c1a606",
                       "once":  false,
                       "size":  702814
