@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "29/03/2026 03:43:25,24",
+    "generated":  "29/03/2026 04:50:51,11",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -26,6 +26,18 @@
                       "size":  6477
                   },
                   {
+                      "path":  "hs_err_pid1640.log",
+                      "sha256":  "8d781a745cf12d84191cd46b3fccf1a76f5435ae64d86411c77bd05de7e518e7",
+                      "once":  false,
+                      "size":  174770
+                  },
+                  {
+                      "path":  "hs_err_pid7188.log",
+                      "sha256":  "678b484ee4568f67b2c44d1164bb959831b1d9481b8b42a1bac57fe04dbdda64",
+                      "once":  false,
+                      "size":  232434
+                  },
+                  {
                       "path":  "irisUpdateInfo.json",
                       "sha256":  "dd9de16c53d09a3a116125669bcd1f5aa7f63d843a5988483d78b42313bb2328",
                       "once":  false,
@@ -39,21 +51,27 @@
                   },
                   {
                       "path":  "options.txt",
-                      "sha256":  "1d0d92d1973bafb29c9fcebf81b343e822e7d4b7d09101d533d64e29d289eab3",
+                      "sha256":  "983a942d1cb969777921aaa850904add679662e066924a442eb19d01b8f9e7f7",
                       "once":  true,
-                      "size":  7913
+                      "size":  7886
+                  },
+                  {
+                      "path":  "replay_pid7188.log",
+                      "sha256":  "c247c7d80144ae195c5b878350c4c04f3ef09021c6c1d5c06120dd996ef40245",
+                      "once":  false,
+                      "size":  1498128
                   },
                   {
                       "path":  "servers.dat",
-                      "sha256":  "5c4ee851d6452bfd865a42a97daac28d55763332a40a0bc554f91e60ce133e21",
+                      "sha256":  "d3646f71a8299586a4602511bbc31ba9046a0468a8889e689567dd34613056b6",
                       "once":  false,
-                      "size":  84
+                      "size":  13373
                   },
                   {
                       "path":  "servers.dat_old",
-                      "sha256":  "5c4ee851d6452bfd865a42a97daac28d55763332a40a0bc554f91e60ce133e21",
+                      "sha256":  "d3646f71a8299586a4602511bbc31ba9046a0468a8889e689567dd34613056b6",
                       "once":  false,
-                      "size":  84
+                      "size":  13373
                   },
                   {
                       "path":  ".cache/mod-loading-screen/flatlaf.jar",
@@ -63,9 +81,9 @@
                   },
                   {
                       "path":  ".cache/mod-loading-screen/ipc-client-log.txt",
-                      "sha256":  "9d80a2646b8c8bd9248683e831d8bdf72c3deb9be375904c851c90cb8901c68a",
+                      "sha256":  "09699f2aad249ec8af5307c230fff3e9935ff33f9bd69a53c2246cb7e9376c37",
                       "once":  false,
-                      "size":  12878
+                      "size":  12769
                   },
                   {
                       "path":  ".cache/mod-loading-screen/ipc-server-log.txt",
@@ -1113,9 +1131,9 @@
                   },
                   {
                       "path":  "config/amendments-client.json",
-                      "sha256":  "7709a8cd19279e506f60fbfe8fb4b183fb19e633e80cfacc7a36e1611fb36171",
+                      "sha256":  "b405cb340e8905b724bd9c3c0f938c15eb13192dedf20f9f867897b62d4064d8",
                       "once":  false,
-                      "size":  1960
+                      "size":  1962
                   },
                   {
                       "path":  "config/amendments-client.toml",
@@ -1305,9 +1323,9 @@
                   },
                   {
                       "path":  "config/entity_model_features.json",
-                      "sha256":  "6f03a2b722d33c2ad810d01a1184f4e788ee3a0c312ea7857bbe13b17880b239",
+                      "sha256":  "5ba15e6be08f7af62d0776ce1a570033d53e1be14fb5d573f22a6f7c76c8a52f",
                       "once":  false,
-                      "size":  1143
+                      "size":  1144
                   },
                   {
                       "path":  "config/entity_texture_features.json",
@@ -1443,15 +1461,15 @@
                   },
                   {
                       "path":  "config/indium-renderer.properties",
-                      "sha256":  "baadc1e64af9cf97e35f23d67e058d0851db2ba2ee81e70504e3f4a9e92027ad",
+                      "sha256":  "f7c196562f383ec005d4542f0a4edf0a0e5ec6e14f34fe23f48c1b9670c60da2",
                       "once":  false,
                       "size":  116
                   },
                   {
                       "path":  "config/iris.properties",
-                      "sha256":  "5bfa1b26b46cf042df5d2677674a5f625ddc838ad0c513dcb040ef4cf4a7a3b1",
+                      "sha256":  "c5de4c90babb7981a60f2a2d0c7539c1488b9819fbde944f01d024360344efb7",
                       "once":  false,
-                      "size":  255
+                      "size":  286
                   },
                   {
                       "path":  "config/jsblock_client.json",
@@ -1467,13 +1485,13 @@
                   },
                   {
                       "path":  "config/lambdynlights.toml",
-                      "sha256":  "7f63c4367c8d78a83c76029751fc45af26a929b7bc21ae6568ce0cc0e59bcb63",
+                      "sha256":  "3abea9f13a2443dad2b586b10b9977dca0b514654b7c1159df9f8595c00ae3e0",
                       "once":  false,
-                      "size":  1110
+                      "size":  5795
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "761c96018e0f917d9101e5a6fb530df74458e73ee7d602a8d7a0736979adff4b",
+                      "sha256":  "b5cac2b663c28a9d14a8a487467fc19cf4a8e73992400578847b1ffebc102abe",
                       "once":  false,
                       "size":  194
                   },
@@ -1593,7 +1611,7 @@
                   },
                   {
                       "path":  "config/sodium-options.json",
-                      "sha256":  "e170cafd722ce62aa061d6770af08274391dd17064f58e82e2ff84af2b1f95ac",
+                      "sha256":  "497f2d7fb244d97b0eefee537efc0d163586acd4e4e5e877d005d6b7f6e9b55d",
                       "once":  false,
                       "size":  632
                   },
@@ -1791,7 +1809,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "0cb1fdca6af9b22d04c8eea09a7a57382fd5d1188404e75feab980a191a74fcb",
+                      "sha256":  "a45cd3d36ddc2778b56475a3f5f10ff10b04a76a6a6f463e7abdb69379034914",
                       "once":  false,
                       "size":  291
                   },
@@ -2181,9 +2199,9 @@
                   },
                   {
                       "path":  "config/justzoom/config.txt",
-                      "sha256":  "7ac0131882fffc596db992d309f81698ba43b1bfd0ec4750944d6b226cb35e72",
+                      "sha256":  "60cec24e5b28de27af93fa22a02e5f16db865f80f661b85e080f2a4524db7f62",
                       "once":  false,
-                      "size":  490
+                      "size":  474
                   },
                   {
                       "path":  "config/konkrete/locals/de_de.local",
@@ -2223,7 +2241,7 @@
                   },
                   {
                       "path":  "config/mod-loading-screen/config.txt",
-                      "sha256":  "e374b90cea7cc978e3611f200eda10e1456d9aa9b880093393192201ae0be498",
+                      "sha256":  "d47ed7e364cfa679228852e1a5db5cc30f526b952027a836e9bafc270354ff61",
                       "once":  false,
                       "size":  428
                   },
@@ -2259,9 +2277,9 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "sha256":  "f4637be1fa9fbcd9c1b3d31b672aed7b2dbbcdffdf95fb7676baed1c9d4a6633",
+                      "sha256":  "d686cfd55087ced52221cd301aa7c290c49cc59de46af21f5d5a6bb47d7c62b0",
                       "once":  false,
-                      "size":  6691
+                      "size":  6761
                   },
                   {
                       "path":  "config/roughlyenoughitems/favorites.json5",
@@ -2277,15 +2295,15 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin.properties",
-                      "sha256":  "c97e58baebeb8f39d68143f9b6e7c5eeacf480ccdbeab0019cb186fd220f0961",
+                      "sha256":  "adc693fd77364456611e26d9d4a8c99855a3aaffd90eff2d5f6ec5fc701cb794",
                       "once":  false,
-                      "size":  48
+                      "size":  49
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin_double.properties",
-                      "sha256":  "cc99eac567236dc25b61adb04ed181fd8fcb9983b55800acae616b69cc1dd57c",
+                      "sha256":  "7ed7785d2ad89eef4cd2bf05a24b3fde5ab9f061a458d31a298148f99c1c7fd7",
                       "once":  false,
-                      "size":  73
+                      "size":  74
                   },
                   {
                       "path":  "config/sound_physics_remastered/occlusion.properties",
@@ -5646,6 +5664,12 @@
                       "sha256":  "5cbf4d99bc7ce4f0df5c15974d276e0949bf6974d48d88a77d5e307b0b9be8af",
                       "once":  false,
                       "size":  522973
+                  },
+                  {
+                      "path":  "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
+                      "sha256":  "a17b016203da0765ae8da28a9f89f67f498d7c2b896f22fe1cf36fa7bf73eba6",
+                      "once":  false,
+                      "size":  217
                   },
                   {
                       "path":  "utils/7zr.exe",
