@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "08/03/2026 06:58:30,36",
+    "generated":  "29/03/2026 03:09:23,57",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -27,9 +27,9 @@
                   },
                   {
                       "path":  "irisUpdateInfo.json",
-                      "sha256":  "2ae3d55c9841b7dd3a610bbdfcbba81f40003f6ef942942fbf1aef100fbb73e7",
+                      "sha256":  "dd9de16c53d09a3a116125669bcd1f5aa7f63d843a5988483d78b42313bb2328",
                       "once":  false,
-                      "size":  315
+                      "size":  324
                   },
                   {
                       "path":  "launcher_profiles.json",
@@ -63,9 +63,9 @@
                   },
                   {
                       "path":  ".cache/mod-loading-screen/ipc-client-log.txt",
-                      "sha256":  "ff0e0463cad86788f663b6803147895841b5879e70997b5f1357c4ecdad47eb9",
+                      "sha256":  "daca80d93c2b88935ab9d8a1af256e83baf2cd90ec137cdb1d9c79b5080940df",
                       "once":  false,
-                      "size":  13298
+                      "size":  13036
                   },
                   {
                       "path":  ".cache/mod-loading-screen/ipc-server-log.txt",
@@ -692,6 +692,12 @@
                       "size":  61736
                   },
                   {
+                      "path":  ".fabric/processedMods/org_jetbrains_kotlinx_atomicfu-jvm-0.32.1-5343c4f6a84ba732.jar",
+                      "sha256":  "8da395bd18d9f345bf68897fdcc7cd2b48e662c3021ee43e0ab05507862a8fdc",
+                      "once":  false,
+                      "size":  61737
+                  },
+                  {
                       "path":  ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-co-jvm-1.10.2-dc3d13b93361afd1.jar",
                       "sha256":  "ae929ea347b9fe917304ac0018ba8b83139eda179bf6f92c22aeeea7cdb16364",
                       "once":  false,
@@ -716,10 +722,22 @@
                       "size":  154396
                   },
                   {
+                      "path":  ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-ioe-jvm-0.9.0-cf1d42afe7996083.jar",
+                      "sha256":  "2cf893217d01eaaf3e62e158168538e690e6f9821e404134bb5abea41b0ba6cf",
+                      "once":  false,
+                      "size":  155595
+                  },
+                  {
                       "path":  ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-iog-jvm-0.8.2-fc836c30d2577d5e.jar",
                       "sha256":  "e0c9e7a61c8a8c8b538ab5c54b8fc2f61a325e88c418620f6bfa7fae26eaefac",
                       "once":  false,
                       "size":  23124
+                  },
+                  {
+                      "path":  ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-iog-jvm-0.9.0-17ad2f282fb0c67b.jar",
+                      "sha256":  "c635d8838929dc237836b12246b8b4d8a6bda4cc2ff53a683ed01ea231eddeb4",
+                      "once":  false,
+                      "size":  23364
                   },
                   {
                       "path":  ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-se-jvm-1.10.0-241626896b7ea186.jar",
@@ -746,10 +764,22 @@
                       "size":  3505401
                   },
                   {
+                      "path":  ".fabric/processedMods/org_jetbrains_kotlin_kotlin-reflect-2.3.20-e0445f917938fd00.jar",
+                      "sha256":  "150fd58a3398e198fe2ccf5c977ac88191a92ec934c62c2f79221e3cc1170959",
+                      "once":  false,
+                      "size":  3670601
+                  },
+                  {
                       "path":  ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdlib-2.3.10-ad793327a8821907.jar",
                       "sha256":  "ea08977ecbe0955f2a2b1988b12165edcecc09341ee5aa7903ce5eeb35c064fb",
                       "once":  false,
                       "size":  1813901
+                  },
+                  {
+                      "path":  ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdlib-2.3.20-ff3004054632a8b7.jar",
+                      "sha256":  "8c0087e387ffd8507185d14868cdb431751edab67fd9d804266e914effbac1bc",
+                      "once":  false,
+                      "size":  1821781
                   },
                   {
                       "path":  ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdljdk7-2.3.10-18d776873730ebf6.jar",
@@ -758,10 +788,22 @@
                       "size":  1278
                   },
                   {
+                      "path":  ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdljdk7-2.3.20-d8267f4d9d783be8.jar",
+                      "sha256":  "2dd09ed2ff450176c33a7f9dfd620bae3709005bec64e53e55623a341e5fb4c3",
+                      "once":  false,
+                      "size":  1277
+                  },
+                  {
                       "path":  ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdljdk8-2.3.10-823cf7a05f07ea52.jar",
                       "sha256":  "86b3ecf1186fe371a34fc8c8adf794f2376578678d7603087e1a2b9c0edfc262",
                       "once":  false,
                       "size":  1283
+                  },
+                  {
+                      "path":  ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdljdk8-2.3.20-a485e43494d9c394.jar",
+                      "sha256":  "fc091d29c2dc5108d6d5816efd3f8e9bcd833dc58745a1094546ef2b0ee0751a",
+                      "once":  false,
+                      "size":  1281
                   },
                   {
                       "path":  ".fabric/processedMods/org_mariuszgromada_math_mathparsarser-5.2.1-d34e5f969b33ecd2.jar",
@@ -1022,10 +1064,22 @@
                       "size":  1264910
                   },
                   {
+                      "path":  ".fabric/processedMods/transition-1.0.15-890389199d074caa.jar",
+                      "sha256":  "4e7fe9a84885946ad1c3c9461401a1c433a767683f7aeba1209d656602232f34",
+                      "once":  false,
+                      "size":  1269547
+                  },
+                  {
                       "path":  ".fabric/processedMods/trender-1.0.10-52d04b38e7091e61.jar",
                       "sha256":  "78d9865453dc4697c848d0bad6c4e4c1f0ed0ea92123513fcd7e749c6237a413",
                       "once":  false,
                       "size":  379788
+                  },
+                  {
+                      "path":  ".fabric/processedMods/trender-1.0.11-ebfdae2c4208eba0.jar",
+                      "sha256":  "75497726b6b40cb32372a9f0abac4706c7980d905302ab444037dc03296e801a",
+                      "once":  false,
+                      "size":  382152
                   },
                   {
                       "path":  ".fabric/processedMods/xaerolib-1.1.0-6993aed19577392e.jar",
@@ -1059,15 +1113,15 @@
                   },
                   {
                       "path":  ".mixin.out/class/net/minecraft/class_429.class",
-                      "sha256":  "154806fa64ca0fbf3322b5e4ccfb927cc80a4ed45c504a5cf9edad194548e298",
+                      "sha256":  "3310bbdee1ac1776759ed1c7cad27ee73521fbb675e1a97243cc21a057af9646",
                       "once":  false,
                       "size":  19213
                   },
                   {
                       "path":  "config/amendments-client.json",
-                      "sha256":  "138fbd3069e7b8b4841ee64dbf1c3d607763d5e77a76839cfc368d884bbbd6ca",
+                      "sha256":  "744b10f1888b6da02c0fd5250e0e1ef05d682e52799e4565204eb23b64fddbd1",
                       "once":  false,
-                      "size":  1960
+                      "size":  1962
                   },
                   {
                       "path":  "config/amendments-client.toml",
@@ -1113,9 +1167,9 @@
                   },
                   {
                       "path":  "config/betteradvancements.json",
-                      "sha256":  "82ffaabd04cb676394314ad57bacb68b9160d2d8fec5109f1f106115e71417af",
+                      "sha256":  "67e0819f50c2f1705213a804bf7ee05dbcd4b4663de794ea41832ba20fa14f67",
                       "once":  false,
-                      "size":  597
+                      "size":  614
                   },
                   {
                       "path":  "config/blur-client.toml",
@@ -1125,15 +1179,15 @@
                   },
                   {
                       "path":  "config/blur.json",
-                      "sha256":  "cf0f2178068e6d9766ac8dea96b2a9f51480939a2f97c440816b6295744dd47a",
+                      "sha256":  "9f1f384723b51e205953d194acf1c370f07523df3b7a2481c5f36234f4989739",
                       "once":  false,
-                      "size":  610
+                      "size":  628
                   },
                   {
                       "path":  "config/cardinal-components-api.properties",
-                      "sha256":  "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982",
+                      "sha256":  "9fed9968597fd4a8cd4221ade32109f3f026033245809f2676b85e86057cd1ee",
                       "once":  false,
-                      "size":  273
+                      "size":  279
                   },
                   {
                       "path":  "config/carryon-client.json",
@@ -1215,9 +1269,9 @@
                   },
                   {
                       "path":  "config/cubes-without-borders.json",
-                      "sha256":  "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d",
+                      "sha256":  "317c43455aae1cd5c6ca2e276d830b13d7ddc63c7d5a562744784d26e84cb254",
                       "once":  false,
-                      "size":  209
+                      "size":  215
                   },
                   {
                       "path":  "config/cubes_without_borders.json",
@@ -1311,9 +1365,9 @@
                   },
                   {
                       "path":  "config/fastload.properties",
-                      "sha256":  "b9897cd523273a6281ea003170e9eadaf4872ef34dff2a1f7b69b6296b94a63e",
+                      "sha256":  "55b5c37a4da950e0bc7a408b7dee09fb88ed425dd368a40099c7e67daf7c323d",
                       "once":  false,
-                      "size":  1102
+                      "size":  1118
                   },
                   {
                       "path":  "config/ferritecore-mixin.toml",
@@ -1395,21 +1449,21 @@
                   },
                   {
                       "path":  "config/indium-renderer.properties",
-                      "sha256":  "f3bf7569ff1332ee83a3ddec32085b1cdabf41efbb5fbefc0dedcfa45ebdaf6e",
+                      "sha256":  "ce4dd586b26130f2d1ee47cb7db42d79a862817d8c3df083b58c2d094c2fe7c8",
                       "once":  false,
-                      "size":  115
+                      "size":  116
                   },
                   {
                       "path":  "config/iris.properties",
-                      "sha256":  "f7bd99d5f15d3af4da3f04b65189bfebce9195a7f6bc882c0f44eaca4750d7c0",
+                      "sha256":  "c9ff0d945cebe4834e2be42715d7a5cb892d06f5415ff8af8c274c8b32959f86",
                       "once":  false,
-                      "size":  254
+                      "size":  255
                   },
                   {
                       "path":  "config/jsblock_client.json",
-                      "sha256":  "7b93e9c7e3171017a792f5d412ac95211c65fcb0ab54d2fc062bf7de42bdff60",
+                      "sha256":  "157898ae67bee1335efc5bfe02437e9c0a20da51fc2bdbafa8c0fc21ffd6c476",
                       "once":  false,
-                      "size":  129
+                      "size":  134
                   },
                   {
                       "path":  "config/krypton_fnp.yaml",
@@ -1419,21 +1473,21 @@
                   },
                   {
                       "path":  "config/lambdynlights.toml",
-                      "sha256":  "f4099aac100ce8952d84d1f6c48900e55653e9a7586684680e459ab5dae6f3b3",
+                      "sha256":  "7f63c4367c8d78a83c76029751fc45af26a929b7bc21ae6568ce0cc0e59bcb63",
                       "once":  false,
-                      "size":  1081
+                      "size":  1110
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "bc96ed11352797a18402be984385cf0919f623e974984c83b0ea08c91c28f472",
+                      "sha256":  "4a7730300fadce24cae8717f456e3eec8fff6a80919c2fbfa278274d6ca4073d",
                       "once":  false,
-                      "size":  193
+                      "size":  194
                   },
                   {
                       "path":  "config/lithium.properties",
-                      "sha256":  "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e",
+                      "sha256":  "ad22a56c38869fbd7eb1114a5e5da62087672d9ebafb379e20767315488ec73c",
                       "once":  false,
-                      "size":  430
+                      "size":  438
                   },
                   {
                       "path":  "config/lodestone-client.toml",
@@ -1443,9 +1497,9 @@
                   },
                   {
                       "path":  "config/midnightlib.json",
-                      "sha256":  "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387",
+                      "sha256":  "6458c6244c0daa2daf33d955bfd928fbee6d7f5d9cd983954a13c628c9257b0f",
                       "once":  false,
-                      "size":  34
+                      "size":  36
                   },
                   {
                       "path":  "config/moonlight-client.json",
@@ -1539,9 +1593,9 @@
                   },
                   {
                       "path":  "config/sodium-mixins.properties",
-                      "sha256":  "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574",
+                      "sha256":  "5e979266f3c675f4c8c59ee8f60389ca778a71219d3d5a5d0006c9fd4e118bef",
                       "once":  false,
-                      "size":  265
+                      "size":  271
                   },
                   {
                       "path":  "config/sodium-options.json",
@@ -1557,15 +1611,15 @@
                   },
                   {
                       "path":  "config/spawnanimations.json",
-                      "sha256":  "b2b16aad46bca666c1a8393826b2e767cada40664083bea333003b7d969a88ed",
+                      "sha256":  "a518af3a2ab8fcac506aabe7426e4417abf5c0665a7bc4f8b0772529791773ff",
                       "once":  false,
-                      "size":  302
+                      "size":  311
                   },
                   {
                       "path":  "config/supplementaries-client.json",
-                      "sha256":  "3ac29595e478e502e9a1f57a8929fdb0d8c996fbeb64d9dfd0b6e2a4a429a028",
+                      "sha256":  "23df9e4aada8ffde84e74def78fc3ae95940f350f67e4ccd97d781d74310ea70",
                       "once":  false,
-                      "size":  3657
+                      "size":  3656
                   },
                   {
                       "path":  "config/supplementaries-client.toml",
@@ -1599,9 +1653,9 @@
                   },
                   {
                       "path":  "config/tia.json",
-                      "sha256":  "ac66e81f4172c8398fcfd2024394518286abead79613e9df41631f409e0a45bc",
+                      "sha256":  "8596a5c932804f0cba7c0a7bca1ad2fb2cb2c75100bf8a3a142aa7b3bdcd41bd",
                       "once":  false,
-                      "size":  51
+                      "size":  54
                   },
                   {
                       "path":  "config/tia.toml",
@@ -1743,9 +1797,9 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "eb02ec1369521e4fd09fb18fb1ebd40776ff6357d897a93c2ba993e533387c52",
+                      "sha256":  "aebc628e4e262e56b0b6930392f47e1cd7f193a63676faeac623b79df67e561d",
                       "once":  false,
-                      "size":  290
+                      "size":  291
                   },
                   {
                       "path":  "config/fancymenu/customizablemenus.txt",
@@ -1815,9 +1869,9 @@
                   },
                   {
                       "path":  "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-                      "sha256":  "7f60a7a8998e74747701f905df60db9b20b001c0dd7d7269c41fe7e960017403",
+                      "sha256":  "276e89d0ade520944f3e2327f5eb610b96642f167ce1480a2c740644bf099d1c",
                       "once":  false,
-                      "size":  9835
+                      "size":  10130
                   },
                   {
                       "path":  "config/fancymenu/customization/login_screen_layout.txt",
@@ -2175,9 +2229,9 @@
                   },
                   {
                       "path":  "config/mod-loading-screen/config.txt",
-                      "sha256":  "046f98bebcdfd56f6265a765369795532decae1c2a2ee49d9d924ef2e5b88fc4",
+                      "sha256":  "c0f6ff1e6eb9bbc40a296dec90a641074f6d7bcddce4bd6b5247da648e2fa163",
                       "once":  false,
-                      "size":  427
+                      "size":  428
                   },
                   {
                       "path":  "config/mod-loading-screen/icon.png",
@@ -2373,9 +2427,9 @@
                   },
                   {
                       "path":  "fancymenu_data/last_world.fmdata",
-                      "sha256":  "d91c5b7421821ff7e25fec2dd547f8c3413d4ed7d53664bd5f5269632a4cc5f4",
+                      "sha256":  "ae54f8d6c0c8d7cf8cb472660f6e5acaaa9e77d1cf24354d57ed0ca606d91bed",
                       "once":  false,
-                      "size":  100
+                      "size":  93
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_leveling.json",
@@ -2385,9 +2439,9 @@
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_save.json",
-                      "sha256":  "268d38b33f450c4b19d37925f0bc36715f9df78209a826e7f70404830fd0d71d",
+                      "sha256":  "61f8b7c56863acbb0092ed71d2a0869f331e03b5a5046489c0ea43c7f859db81",
                       "once":  false,
-                      "size":  260
+                      "size":  273
                   },
                   {
                       "path":  "immersive_paintings_cache/16333659-af6a-4542-bf80-25eba03e7123.png",
@@ -4634,6 +4688,12 @@
                       "size":  665169
                   },
                   {
+                      "path":  "mods/colorwheel-fabric-1.2.3+mc1.20.1.jar",
+                      "sha256":  "86ed860c23ab598e54146bd42429d02352cc83721bc07900b038025d85d60da5",
+                      "once":  false,
+                      "size":  380796
+                  },
+                  {
                       "path":  "mods/comforts-fabric-6.4.0+1.20.1.jar",
                       "sha256":  "f9852a749b5154cbb0e97651cd0a1718382fcdfebdea86813bb118b16ee1096b",
                       "once":  false,
@@ -4706,16 +4766,28 @@
                       "size":  60972
                   },
                   {
+                      "path":  "mods/entity_model_features_1.20.1-fabric-3.0.17.jar",
+                      "sha256":  "25e3df66f48fe843a3d0c220fca28e8320932c224d0098eaa75795881eac8b50",
+                      "once":  false,
+                      "size":  498022
+                  },
+                  {
+                      "path":  "mods/entity_texture_features_1.20.1-fabric-7.0.13.jar",
+                      "sha256":  "2b165e67c5377bc5b315569c7338855b3d22b7b1b7481b27611d5e52c8a30419",
+                      "once":  false,
+                      "size":  736122
+                  },
+                  {
                       "path":  "mods/fabric-api-0.92.7+1.20.1.jar",
                       "sha256":  "d5e7750a599ee23d1e8ce1716f27c4761f4e7a84e8a08d5eb8f0ad8c155c8cb1",
                       "once":  false,
                       "size":  2107977
                   },
                   {
-                      "path":  "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
-                      "sha256":  "fecd5e6dd6ae76814ba92136b417912c19b19ec76ea451cede472cd29cdecf91",
+                      "path":  "mods/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+                      "sha256":  "f288f0273fa9d592b07869fa2bbd7bdca274998a38b87eb8485c109420921e2a",
                       "once":  false,
-                      "size":  7642216
+                      "size":  7796348
                   },
                   {
                       "path":  "mods/fancymenu_fabric_3.8.1_MC_1.20.1.jar",
@@ -4728,6 +4800,12 @@
                       "sha256":  "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
                       "once":  false,
                       "size":  125197
+                  },
+                  {
+                      "path":  "mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+                      "sha256":  "337a8f6c5ba48ef3b3da828f4f6a75d0552ba33f48ce97d3195befdb570e427a",
+                      "once":  false,
+                      "size":  396628
                   },
                   {
                       "path":  "mods/FpsReducer2-fabric-1.20-2.5.jar",
@@ -4784,10 +4862,10 @@
                       "size":  2417420
                   },
                   {
-                      "path":  "mods/immersive_paintings-0.6.10+1.20.1-fabric.jar",
-                      "sha256":  "647871300569119faf7a5cfd2500315c0c4b18079092020855c87f5f7761bd82",
+                      "path":  "mods/immersive_paintings-0.6.11+1.20.1-fabric.jar",
+                      "sha256":  "eea0fd989d013f1749c079ba46c02e4e0e05d4d9fa8f8cf87101c0ebbdba6916",
                       "once":  false,
-                      "size":  4853307
+                      "size":  4853363
                   },
                   {
                       "path":  "mods/indium-1.0.36+mc1.20.1.jar",
@@ -4886,6 +4964,12 @@
                       "size":  214902
                   },
                   {
+                      "path":  "mods/notenoughanimations-fabric-1.12.0-mc1.20.1.jar",
+                      "sha256":  "224be30c7bd6c99ccd68f4d499825bd8b0d9d27d4a1075ef88194d16fb5b232c",
+                      "once":  false,
+                      "size":  1927789
+                  },
+                  {
                       "path":  "mods/OctoLib-FABRIC-0.5.0.1+1.20.1.jar",
                       "sha256":  "cfa75c8b7ca08a175332ea66a427e95748389de019a6fcf7fc5852b104ffcc51",
                       "once":  false,
@@ -4922,6 +5006,12 @@
                       "size":  2443883
                   },
                   {
+                      "path":  "mods/ShoulderSurfing-Fabric-1.20.1-4.22.3.jar",
+                      "sha256":  "d3020733a90eba168ab2537011970a7e48a868882e90a1836a66162bbf679a46",
+                      "once":  false,
+                      "size":  264437
+                  },
+                  {
                       "path":  "mods/solid_mobs_fabric.1.19.4+1.20-1.7.1.jar",
                       "sha256":  "e5116183010194870337bf805e262dbfa1a915f73606d0bb6ed36012460c3bdb",
                       "once":  false,
@@ -4940,22 +5030,22 @@
                       "size":  3082974
                   },
                   {
-                      "path":  "mods/spawn-animations-compats-13.0.jar",
-                      "sha256":  "ed2fa7536fe8d77514f0699981a9a0a7d99237a83e0ae9754147fd751ad01414",
+                      "path":  "mods/spawn-animations-compats-14.0.jar",
+                      "sha256":  "b44861d04bf8c1c04c2c7d3bad4845203a63f530c10a85c3642ef5c5dbf84fd4",
                       "once":  false,
-                      "size":  67801
+                      "size":  69198
                   },
                   {
-                      "path":  "mods/Steam_Rails-1.7.1+fabric-mc1.20.1.jar",
-                      "sha256":  "0bc4fe0c0f8427b31f1827efc6ab0f676a985223efbe94e4f0c7ae131dc842bd",
+                      "path":  "mods/Steam_Rails-1.7.2+fabric-mc1.20.1.jar",
+                      "sha256":  "a1204d76be4771778411c5def98ff3bcbe9869f12698ed9ce6795e93e6b49afe",
                       "once":  false,
-                      "size":  16792922
+                      "size":  16863902
                   },
                   {
-                      "path":  "mods/supermartijn642corelib-1.1.20-fabric-mc1.20.1.jar",
-                      "sha256":  "f25ffb8cd735f9b388768040f3eb48be74628a75f2d566e11dde19eb38cce037",
+                      "path":  "mods/supermartijn642corelib-1.1.21-fabric-mc1.20.1.jar",
+                      "sha256":  "5129a9927b8eac4a77d9b2fda4193be5e3e0f6028d79f7a7cf03885a62800817",
                       "once":  false,
-                      "size":  602735
+                      "size":  602733
                   },
                   {
                       "path":  "mods/supplementaries-1.20-3.1.42-fabric.jar",
@@ -5012,10 +5102,10 @@
                       "size":  789018
                   },
                   {
-                      "path":  "mods/waveycapes-fabric-1.8.2-mc1.20.1.jar",
-                      "sha256":  "4e254d5a2730514bd206102af6e97453ec1febe3688b8212c9d709924e22d50f",
+                      "path":  "mods/waveycapes-fabric-1.9.0-mc1.20.1.jar",
+                      "sha256":  "e8d02187cf252eebdd496dfa63dff07cf77fa22546408e2af1fa0965e84162d4",
                       "once":  false,
-                      "size":  1832861
+                      "size":  1840159
                   },
                   {
                       "path":  "mods/wtf-update.bat",
@@ -5046,12 +5136,6 @@
                       "sha256":  "b886ddaac7b19c9e2db9e0e5331210dcc5b487743d3f9d8d08ad66e90278d9e7",
                       "once":  false,
                       "size":  164085
-                  },
-                  {
-                      "path":  "mods/[client]colorwheel-fabric-1.2.1+mc1.20.1.jar",
-                      "sha256":  "df406dc661278979e4e32b8aee7ce0fa3da5c623e03f52c2600704cf9bc07bf6",
-                      "once":  false,
-                      "size":  375801
                   },
                   {
                       "path":  "mods/[client]connectedglass-1.1.14-fabric-mc1.20.1.jar",
@@ -5088,18 +5172,6 @@
                       "sha256":  "ff8fe184b3104b94c9e10e751f5730d3b1fec19894179743a2447367cb752463",
                       "once":  false,
                       "size":  1218710
-                  },
-                  {
-                      "path":  "mods/[client]entity_model_features_1.20.1-fabric-3.0.12.jar",
-                      "sha256":  "ba420b411f33210d6176e2f2d149dd9bc4b779dc7b2a630167835b47a9ed7308",
-                      "once":  false,
-                      "size":  496324
-                  },
-                  {
-                      "path":  "mods/[client]entity_texture_features_1.20.1-fabric-7.0.9.jar",
-                      "sha256":  "d343e00d5afdcb9c3ac06ac0239bd1637966c7bf713cec6edf5fe476ba0207de",
-                      "once":  false,
-                      "size":  736086
                   },
                   {
                       "path":  "mods/[client]explosive-enhancement-1.3.2-1.20-1.20.4.jar",
@@ -5148,18 +5220,6 @@
                       "sha256":  "594c0e7bf8ea66a767fc4900f4c268d2a31a47d7a4d26d0fc5ded62274386dfa",
                       "once":  false,
                       "size":  1288845
-                  },
-                  {
-                      "path":  "mods/[client]notenoughanimations-fabric-1.11.3-mc1.20.1.jar",
-                      "sha256":  "e9b2fccc300734cdb33f35d81e73f4d7f619316692f929232001851e50ec2136",
-                      "once":  false,
-                      "size":  1921654
-                  },
-                  {
-                      "path":  "mods/[client]ShoulderSurfing-Fabric-1.20.1-4.22.1.jar",
-                      "sha256":  "cc2a28d51193a0fa313a06a3f4c381552d153bd3a8093c37ed20e8cfb35dcdfe",
-                      "once":  false,
-                      "size":  264308
                   },
                   {
                       "path":  "mods/[client]sodium-extra-0.5.9+mc1.20.1.jar",
