@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "29/03/2026 03:24:44,27",
+    "generated":  "29/03/2026 03:26:42,37",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -39,9 +39,9 @@
                   },
                   {
                       "path":  "options.txt",
-                      "sha256":  "b1dac303674fb509caa07885c802d91451020267d8b9a85492847532834e459f",
+                      "sha256":  "1d0d92d1973bafb29c9fcebf81b343e822e7d4b7d09101d533d64e29d289eab3",
                       "once":  true,
-                      "size":  9175
+                      "size":  7913
                   },
                   {
                       "path":  "servers.dat",
@@ -60,6 +60,18 @@
                       "sha256":  "7ce93b85fd6aa3645a6f49c9cf8449a5c4bc69fd02d14f2ca0deb1fad38cdcd5",
                       "once":  false,
                       "size":  913867
+                  },
+                  {
+                      "path":  ".cache/mod-loading-screen/ipc-client-log.txt",
+                      "sha256":  "9d80a2646b8c8bd9248683e831d8bdf72c3deb9be375904c851c90cb8901c68a",
+                      "once":  false,
+                      "size":  12878
+                  },
+                  {
+                      "path":  ".cache/mod-loading-screen/ipc-server-log.txt",
+                      "sha256":  "f0c7e88300c5d0ca2a1da4812f4c08e0b3bc352559f8e8bcdd949ad6cf7d2bad",
+                      "once":  false,
+                      "size":  47
                   },
                   {
                       "path":  ".fabric/processedMods/caffeineconfig-1.3.0+1.17-acfd3cc068e2f229.jar",
@@ -1101,9 +1113,9 @@
                   },
                   {
                       "path":  "config/amendments-client.json",
-                      "sha256":  "744b10f1888b6da02c0fd5250e0e1ef05d682e52799e4565204eb23b64fddbd1",
+                      "sha256":  "9716d16d4655d3c2533c5d4c4437949b2f1daf0ef282efd4e95120600f93f4ce",
                       "once":  false,
-                      "size":  1962
+                      "size":  1960
                   },
                   {
                       "path":  "config/amendments-client.toml",
@@ -1251,9 +1263,9 @@
                   },
                   {
                       "path":  "config/cubes-without-borders.json",
-                      "sha256":  "317c43455aae1cd5c6ca2e276d830b13d7ddc63c7d5a562744784d26e84cb254",
+                      "sha256":  "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d",
                       "once":  false,
-                      "size":  215
+                      "size":  209
                   },
                   {
                       "path":  "config/cubes_without_borders.json",
@@ -1431,13 +1443,13 @@
                   },
                   {
                       "path":  "config/indium-renderer.properties",
-                      "sha256":  "ce4dd586b26130f2d1ee47cb7db42d79a862817d8c3df083b58c2d094c2fe7c8",
+                      "sha256":  "492458b030b009b88f424ac4ad8024cbde0584e23b165573dc2fdbacc24f562f",
                       "once":  false,
                       "size":  116
                   },
                   {
                       "path":  "config/iris.properties",
-                      "sha256":  "c9ff0d945cebe4834e2be42715d7a5cb892d06f5415ff8af8c274c8b32959f86",
+                      "sha256":  "a771576144586e19bb63ef82ad90078ca916676f323e873d58d85d4a5feed5b6",
                       "once":  false,
                       "size":  255
                   },
@@ -1461,7 +1473,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "4a7730300fadce24cae8717f456e3eec8fff6a80919c2fbfa278274d6ca4073d",
+                      "sha256":  "5af6cf06ed31da5403e841b30c8d6ba86cf2ec3707fbb3ba3b8fe59fa078d26e",
                       "once":  false,
                       "size":  194
                   },
@@ -1599,9 +1611,9 @@
                   },
                   {
                       "path":  "config/supplementaries-client.json",
-                      "sha256":  "23df9e4aada8ffde84e74def78fc3ae95940f350f67e4ccd97d781d74310ea70",
+                      "sha256":  "3a74e19b4a38e443d3b6f5aa6075fb1364b0f36eaef087c13ebe320bab3dabdc",
                       "once":  false,
-                      "size":  3656
+                      "size":  3657
                   },
                   {
                       "path":  "config/supplementaries-client.toml",
@@ -1779,7 +1791,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "aebc628e4e262e56b0b6930392f47e1cd7f193a63676faeac623b79df67e561d",
+                      "sha256":  "606da0ef403eb858b346d36d22cf6964c1211255c0c66d0e3f9ab68bba9e9db5",
                       "once":  false,
                       "size":  291
                   },
