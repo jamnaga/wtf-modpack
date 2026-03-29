@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "29/03/2026 03:09:23,57",
+    "generated":  "29/03/2026 03:24:44,27",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -60,18 +60,6 @@
                       "sha256":  "7ce93b85fd6aa3645a6f49c9cf8449a5c4bc69fd02d14f2ca0deb1fad38cdcd5",
                       "once":  false,
                       "size":  913867
-                  },
-                  {
-                      "path":  ".cache/mod-loading-screen/ipc-client-log.txt",
-                      "sha256":  "daca80d93c2b88935ab9d8a1af256e83baf2cd90ec137cdb1d9c79b5080940df",
-                      "once":  false,
-                      "size":  13036
-                  },
-                  {
-                      "path":  ".cache/mod-loading-screen/ipc-server-log.txt",
-                      "sha256":  "f0c7e88300c5d0ca2a1da4812f4c08e0b3bc352559f8e8bcdd949ad6cf7d2bad",
-                      "once":  false,
-                      "size":  47
                   },
                   {
                       "path":  ".fabric/processedMods/caffeineconfig-1.3.0+1.17-acfd3cc068e2f229.jar",
@@ -1110,12 +1098,6 @@
                       "sha256":  "1bef63f28dde50cb07d94722d6f0a1010e1382169077e29dd05675ea527c7334",
                       "once":  false,
                       "size":  24733509
-                  },
-                  {
-                      "path":  ".mixin.out/class/net/minecraft/class_429.class",
-                      "sha256":  "3310bbdee1ac1776759ed1c7cad27ee73521fbb675e1a97243cc21a057af9646",
-                      "once":  false,
-                      "size":  19213
                   },
                   {
                       "path":  "config/amendments-client.json",
@@ -2229,7 +2211,7 @@
                   },
                   {
                       "path":  "config/mod-loading-screen/config.txt",
-                      "sha256":  "c0f6ff1e6eb9bbc40a296dec90a641074f6d7bcddce4bd6b5247da648e2fa163",
+                      "sha256":  "122a978e1f31f5f0670c779793da59f69a47013f6457e38533fe37b6f7e47fc7",
                       "once":  false,
                       "size":  428
                   },
@@ -4880,6 +4862,12 @@
                       "size":  1455143
                   },
                   {
+                      "path":  "mods/iris-1.7.6+mc1.20.1.jar",
+                      "sha256":  "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
+                      "once":  false,
+                      "size":  2726899
+                  },
+                  {
                       "path":  "mods/JCM-fabric-2.1.2+1.20.1.jar",
                       "sha256":  "08fa1aa67c66c70415f9248f149008c83e360a2524cab9a15508ac9d06b56790",
                       "once":  false,
@@ -5006,7 +4994,7 @@
                       "size":  2443883
                   },
                   {
-                      "path":  "mods/ShoulderSurfing-Fabric-1.20.1-4.22.3.jar",
+                      "path":  "mods/ShoulderSurfing-Fabric-1.20.1-4.22.3.jar.disabled",
                       "sha256":  "d3020733a90eba168ab2537011970a7e48a868882e90a1836a66162bbf679a46",
                       "once":  false,
                       "size":  264437
@@ -5054,12 +5042,6 @@
                       "size":  13484325
                   },
                   {
-                      "path":  "mods/Theatrical-fabric-1.0.0-alpha.28.120+mc1.20.1.jar",
-                      "sha256":  "84ea7a0e5d366cb51308f205ae2b040e6f837b8d48f97c79e75cd51246c6f891",
-                      "once":  false,
-                      "size":  722910
-                  },
-                  {
                       "path":  "mods/tia-1.20-1.1-fabric.jar",
                       "sha256":  "ebf631eb18c66dd796f85627d61aa4d9da5efd180a29d49258422ae88d0eb918",
                       "once":  false,
@@ -5088,12 +5070,6 @@
                       "sha256":  "172f5c34e76bc1ef2911617fb2a9a05a81c94ba3677b5613ed11c3f03ab318f5",
                       "once":  false,
                       "size":  79613
-                  },
-                  {
-                      "path":  "mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.101-all.jar",
-                      "sha256":  "83989e3e2188d520ca71083c0840d8d6c3a89d35f79232f98bc476c113505ca3",
-                      "once":  false,
-                      "size":  452457
                   },
                   {
                       "path":  "mods/watut-fabric-1.20.1-1.2.3.jar",
@@ -5196,12 +5172,6 @@
                       "sha256":  "1eb76485f6c1762387ef47b2996f310cb667157b2ce113eb88dea86c24823608",
                       "once":  false,
                       "size":  51003
-                  },
-                  {
-                      "path":  "mods/[client]iris-1.7.6+mc1.20.1.jar",
-                      "sha256":  "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
-                      "once":  false,
-                      "size":  2726899
                   },
                   {
                       "path":  "mods/[client]justzoom_fabric_2.1.0_MC_1.20.1.jar",
