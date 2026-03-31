@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "31/03/2026 21:44:26,12",
+    "generated":  "31/03/2026 22:12:59,68",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -4692,12 +4692,6 @@
                       "sha256":  "2b165e67c5377bc5b315569c7338855b3d22b7b1b7481b27611d5e52c8a30419",
                       "once":  false,
                       "size":  736122
-                  },
-                  {
-                      "path":  "mods/Essential_fabric_1-20-1.jar",
-                      "sha256":  "ce32e94d9a8b935f29e24d6026efb058125251703288f6c4aaee6371c40a4bdd",
-                      "once":  false,
-                      "size":  52077781
                   },
                   {
                       "path":  "mods/fabric-api-0.92.7+1.20.1.jar",
