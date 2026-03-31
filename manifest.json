@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "31/03/2026 19:13:29,30",
+    "generated":  "31/03/2026 21:44:26,12",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -9,9 +9,9 @@
                   },
                   {
                       "path":  ".manifestignore",
-                      "sha256":  "625cffc0d127dc3f72db825e429368616268aaeaf00fae5c7f8a0e6071b64ef8",
+                      "sha256":  "436f9d6ea187c90e06210b42fd841496c018100143af69503c06654cdf8868cf",
                       "once":  false,
-                      "size":  264
+                      "size":  295
                   },
                   {
                       "path":  ".oncelist",
@@ -24,6 +24,12 @@
                       "sha256":  "88569c61b32c7328bb58eb439616c2a5a3f88d0c7839baef202708cf25728383",
                       "once":  false,
                       "size":  6477
+                  },
+                  {
+                      "path":  "irisUpdateInfo.json",
+                      "sha256":  "2ae3d55c9841b7dd3a610bbdfcbba81f40003f6ef942942fbf1aef100fbb73e7",
+                      "once":  false,
+                      "size":  315
                   },
                   {
                       "path":  "launcher_profiles.json",
@@ -39,6 +45,12 @@
                   },
                   {
                       "path":  "servers.dat",
+                      "sha256":  "d3646f71a8299586a4602511bbc31ba9046a0468a8889e689567dd34613056b6",
+                      "once":  false,
+                      "size":  13373
+                  },
+                  {
+                      "path":  "servers.dat_old",
                       "sha256":  "d3646f71a8299586a4602511bbc31ba9046a0468a8889e689567dd34613056b6",
                       "once":  false,
                       "size":  13373
@@ -1413,13 +1425,13 @@
                   },
                   {
                       "path":  "config/indium-renderer.properties",
-                      "sha256":  "f7c196562f383ec005d4542f0a4edf0a0e5ec6e14f34fe23f48c1b9670c60da2",
+                      "sha256":  "72a1cc6053960c8fe3d8f20658d29ac436f87332427e44a80b48f8ec5b46df2e",
                       "once":  false,
                       "size":  116
                   },
                   {
                       "path":  "config/iris.properties",
-                      "sha256":  "c5de4c90babb7981a60f2a2d0c7539c1488b9819fbde944f01d024360344efb7",
+                      "sha256":  "64e8322a7f2ae758b16753a2bca98ea9827b2c8aa82f74178a87d862ec28e1c5",
                       "once":  false,
                       "size":  286
                   },
@@ -1443,7 +1455,7 @@
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "sha256":  "b5cac2b663c28a9d14a8a487467fc19cf4a8e73992400578847b1ffebc102abe",
+                      "sha256":  "42ab2c54c8339463576e7e7c38a21505a75e698834c1e585bc7cda8fefab23e4",
                       "once":  false,
                       "size":  194
                   },
@@ -1761,7 +1773,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "a45cd3d36ddc2778b56475a3f5f10ff10b04a76a6a6f463e7abdb69379034914",
+                      "sha256":  "525ea51d44f831a71a7f89fe76225ea8cb240f2884423a4eea6cfe080105ea3c",
                       "once":  false,
                       "size":  291
                   },
@@ -2193,7 +2205,7 @@
                   },
                   {
                       "path":  "config/mod-loading-screen/config.txt",
-                      "sha256":  "d47ed7e364cfa679228852e1a5db5cc30f526b952027a836e9bafc270354ff61",
+                      "sha256":  "a036aa6381090fc69b7b003d74318603945906f8f632ec760e44dbfafdb027ac",
                       "once":  false,
                       "size":  428
                   },
@@ -2247,13 +2259,13 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin.properties",
-                      "sha256":  "adc693fd77364456611e26d9d4a8c99855a3aaffd90eff2d5f6ec5fc701cb794",
+                      "sha256":  "0405a710ffb07f233b5f392fa3f3c97b6d568b7e93ce28e7ef1c8723f0998e9b",
                       "once":  false,
                       "size":  49
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin_double.properties",
-                      "sha256":  "7ed7785d2ad89eef4cd2bf05a24b3fde5ab9f061a458d31a298148f99c1c7fd7",
+                      "sha256":  "25d3de776157fa84746a43480d0da60f8b4a7a682a527c547d6f2243ce747be8",
                       "once":  false,
                       "size":  74
                   },
@@ -4646,6 +4658,12 @@
                       "size":  54300
                   },
                   {
+                      "path":  "mods/easyauth-mc1.20-3.4.2.jar",
+                      "sha256":  "d77b0d2da1a987a388da0e22fc50a4ec66b7fd0a75482088ea5a534be07a3eb9",
+                      "once":  false,
+                      "size":  23204155
+                  },
+                  {
                       "path":  "mods/EasyMagic-v8.0.1-1.20.1-Fabric.jar",
                       "sha256":  "c36c2cd0e53647d76581c85db967a18a88b53ffd42f8a2e1b6da5482b58cde1b",
                       "once":  false,
@@ -4674,6 +4692,12 @@
                       "sha256":  "2b165e67c5377bc5b315569c7338855b3d22b7b1b7481b27611d5e52c8a30419",
                       "once":  false,
                       "size":  736122
+                  },
+                  {
+                      "path":  "mods/Essential_fabric_1-20-1.jar",
+                      "sha256":  "ce32e94d9a8b935f29e24d6026efb058125251703288f6c4aaee6371c40a4bdd",
+                      "once":  false,
+                      "size":  52077781
                   },
                   {
                       "path":  "mods/fabric-api-0.92.7+1.20.1.jar",
@@ -4830,6 +4854,12 @@
                       "sha256":  "904fc39f9d9c3d5495f03019f8091f1308f6d44a107fbbc106f06a0528991fca",
                       "once":  false,
                       "size":  5721284
+                  },
+                  {
+                      "path":  "mods/LuckPerms-Fabric-5.4.102.jar",
+                      "sha256":  "ad9f6b3459224b5d88774263bd564215f7084c1f7503d15e0bb2c54aafc41582",
+                      "once":  false,
+                      "size":  1551904
                   },
                   {
                       "path":  "mods/mcef-fabric-2.1.6-1.20.1.jar",
@@ -4998,6 +5028,12 @@
                       "sha256":  "e8d02187cf252eebdd496dfa63dff07cf77fa22546408e2af1fa0965e84162d4",
                       "once":  false,
                       "size":  1840159
+                  },
+                  {
+                      "path":  "mods/worldedit-mod-7.2.15.jar",
+                      "sha256":  "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+                      "once":  false,
+                      "size":  5825402
                   },
                   {
                       "path":  "mods/wtf-update.bat",
@@ -5523,7 +5559,7 @@
                   },
                   {
                       "path":  "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
-                      "sha256":  "a17b016203da0765ae8da28a9f89f67f498d7c2b896f22fe1cf36fa7bf73eba6",
+                      "sha256":  "015d30fb6b2663f163d44e3cd48d627668be44f43dd19e059f3e94d533bea027",
                       "once":  true,
                       "size":  217
                   },
