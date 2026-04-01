@@ -1389,7 +1389,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "062afb9c4605105b52f6f2f01404cb79e08bda280d8ba51913690b8e45313489",
+            "sha256": "f409de91b3fd41c13c0631085ac415a77ee713f4f2d76050eedccb0681b2b70c",
             "once": false
         },
         {
@@ -1677,7 +1677,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "56869c4ae0c2457fd5a6d0dbf03968bc449eb15a9dca112e619af814a50182a3",
+            "sha256": "d1d1b4b40aa1f6a98981b5f4be418b9249edc0b5f19cef6235adea5dfe5454cf",
             "once": false
         },
         {
@@ -1737,7 +1737,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "69ecd4172cd4846480a7e37e9be27f8f43e05aff8b06846985fd36bf546b005e",
+            "sha256": "f65044984212d0e9682ebe352fc3d6c5e05bd50ad13726b8ee248251a97fe7dd",
             "once": false
         },
         {
@@ -1947,7 +1947,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "be2ae3223effbcd287bbf23040a59387787cb5f30680f7adf3d8fd0e00c7d4c5",
+            "sha256": "1d80b6b4636d1ca533efe5b10466ac0cb270be4e85ff5b157ed60c10d36715c3",
             "once": false
         },
         {
@@ -2145,13 +2145,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "44054838186824f610472c4a1913c9c71688550c16791690086636b4ef90f7c5",
+            "sha256": "d6f5ef0c3d0fc43f2b751a9d7b06aeeed654a8ca2b0177f2686f142f7cf674fe",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "ec6b5be82826a457717ddc2ffe999d0243122e65a89955295093787e5bd73256",
+            "sha256": "0dcc29f15cf1abd42d96ab989007ea49c07eb239458c0c313a4644ec680c8b29",
             "once": false
         },
         {
@@ -2450,8 +2450,8 @@
         },
         {
             "path": "fancymenu_data/last_world.fmdata",
-            "size": 172,
-            "sha256": "8e2f6b35645129112c65f5eea4b6b64087f1b027a2dfac2a8cbda4363ef48cd7",
+            "size": 93,
+            "sha256": "ae54f8d6c0c8d7cf8cb472660f6e5acaaa9e77d1cf24354d57ed0ca606d91bed",
             "once": false
         },
         {
@@ -2467,6 +2467,18 @@
             "once": false
         },
         {
+            "path": "iammusicplayer/lava-walkyst-fork-1.3.98.4/darwin/hash.json",
+            "size": 43,
+            "sha256": "427e5da7ee6bdf05a88aa3847f6bad31b710d1ba1770caa39235878ff085ab13",
+            "once": false
+        },
+        {
+            "path": "iammusicplayer/lava-walkyst-fork-1.3.98.4/darwin/libconnector.dylib",
+            "size": 6584943,
+            "sha256": "b420003e27718faa08d2b676f0fbece67efd7e645409a4301a823d62fd4d47c9",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/16333659-af6a-4542-bf80-25eba03e7123.png",
             "size": 485002,
             "sha256": "8daf2eede20dab48944532fc7b8f3d1a91bba36898a2d3fd7eac43d0093e8357",
@@ -2476,6 +2488,72 @@
             "path": "immersive_paintings_cache/5d4bea76-958e-4a50-83c9-774f39580774.png",
             "size": 199164,
             "sha256": "7a5f18471a685b56a2646504ad1abe5dd3ed3059d7c52c1aebf9c257eb07e58b",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/cc26f3c6-a4b2-49a3-b3ff-8bd5ef388830_half.png",
+            "size": 169845,
+            "sha256": "3c712c7d8d8b8e77e37b48a14169f610a3399fbd58f4c8f5e150e2bd17b5aa1d",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/cc26f3c6-a4b2-49a3-b3ff-8bd5ef388830_thumbnail.png",
+            "size": 14613,
+            "sha256": "e51cc66099bc01e7d843a0a1adf28baa30a74633397280f489d05f3dcc366a28",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/d9b7d6cb-6474-420d-b481-82d33ce17999_eighth.png",
+            "size": 9380,
+            "sha256": "b4a87d3fdd83af979589d477096fd251604f3c1a8d133d16f23285c5dde385a5",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/d9b7d6cb-6474-420d-b481-82d33ce17999_half.png",
+            "size": 109820,
+            "sha256": "7e67a6ad98793bef6578bafd2d5efdbe63449cd23613b74389fd5b280e13df05",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/d9b7d6cb-6474-420d-b481-82d33ce17999_quarter.png",
+            "size": 31437,
+            "sha256": "ff0f640a967db4d2ba2213df0691aa6903695ad1bfd80626117ac733f6bd139c",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/d9b7d6cb-6474-420d-b481-82d33ce17999_thumbnail.png",
+            "size": 9380,
+            "sha256": "b4a87d3fdd83af979589d477096fd251604f3c1a8d133d16f23285c5dde385a5",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/fdccac3b-0080-4920-8549-bb7a742262d8.png",
+            "size": 140044,
+            "sha256": "f396d0d3a5c3c3f60dea2619b677044cc7b7eff8bd7b9b361e26c6694ff0e61b",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/fdccac3b-0080-4920-8549-bb7a742262d8_eighth.png",
+            "size": 5202,
+            "sha256": "e4ea3162cb37cbeee8c56962e509fbe77abcacd3582a8c06f3652b4f7b27b1bb",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/fdccac3b-0080-4920-8549-bb7a742262d8_half.png",
+            "size": 45110,
+            "sha256": "b4b6a24d39f085b0ed07acaec74bee92bbb019e87a38382283b6e03365259e14",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/fdccac3b-0080-4920-8549-bb7a742262d8_quarter.png",
+            "size": 14367,
+            "sha256": "48137c7c015532d3360a2f3b95eb4eac230990097833e84a5a27e632c5291a61",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/fdccac3b-0080-4920-8549-bb7a742262d8_thumbnail.png",
+            "size": 3137,
+            "sha256": "fb626d16b016b6aa4ba24117a8d60a947f3810127b3af088f4edb9e40289d9e1",
             "once": false
         },
         {
@@ -2494,6 +2572,12 @@
             "path": "immersive_paintings_cache/immersivepaintingspaintingsbeyondhillanddalealenaaenami32pxpng.png",
             "size": 4281,
             "sha256": "1a33eac4cad33744e61ad8beaf2143a128111100a8f51dd73c4af64f34b74800",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingscalmdaysbythelakescilex32pxpng.png",
+            "size": 7776,
+            "sha256": "7e47f68766604ed16748749271c8a313503574743c246102db830b7cf7009e54",
             "once": false
         },
         {
@@ -5353,9 +5437,9 @@
             "once": false
         },
         {
-            "path": "mods/sound-physics-remastered-fabric-1.20.1-1.5.1.jar",
-            "size": 205569,
-            "sha256": "275467bef6e56aab50b0c66ed42b2984160d36c65edb1b986e3c7c81d37e9253",
+            "path": "mods/sound-physics-remastered-fabric-1.20.1-1.4.10.jar",
+            "size": 202462,
+            "sha256": "e3a8a509a53202e487be3d42faa32bd52c7e8c7a9cc4097abb8a3d26d85ef24b",
             "once": false
         },
         {
@@ -5732,8 +5816,8 @@
         },
         {
             "path": "options.txt",
-            "size": 7939,
-            "sha256": "445af35d950fcc4a23cc5f93bc71c219c6896a9cf54edcbb7bf9174e82353a42",
+            "size": 7976,
+            "sha256": "88a185d2d86795a492b290aa8ba06346157bd63de9a62155db04ac47b5a64481",
             "once": true
         },
         {
@@ -29613,7 +29697,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "c8811b9c77831393e3c5dc6976ef763d5f91565af958e0885ea9876b8c5f26bc",
+            "sha256": "639e3569514b3f6392d1071dc398dec98c94a703f736454aa8deec4eb394496f",
             "once": true
         },
         {
@@ -29673,5 +29757,5 @@
             ]
         }
     ],
-    "generated": "01/04/2026 17:21:23,95"
+    "generated": "01/04/2026 18:48:53,77"
 }
