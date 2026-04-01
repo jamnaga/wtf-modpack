@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "cdb1716ded069dff3ecf428034141df2fd1e1db49c4925aec2d35bec39c16413",
+            "sha256": "868a6abd646c0dbb8fd59a05aaee11c72bc47e187537066a57c64ddd65725fa6",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "57c39d5d5f212af4032ffe76a5c19a35897a65a7e6915b8f6d0d6355b92992d2",
+            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
             "once": false
         },
         {
@@ -670,6 +670,12 @@
             "path": ".fabric/processedMods/modutilities-1.2.0-146ba290a7f859ad.jar",
             "size": 106035,
             "sha256": "fa457e3e1f193422f08c763b284d96e41078a86eed6702ff16b78d38e73c7ece",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/multiworld-1.10-871642d86f5d283b.jar",
+            "size": 127835,
+            "sha256": "d3fc5e454ee2c777a4ce85d28a4328890df4c86a6a1087446bc2babf33abfb7b",
             "once": false
         },
         {
@@ -1346,8 +1352,8 @@
         },
         {
             "path": ".oncelist",
-            "size": 59,
-            "sha256": "eb270ddd9ee65d43ae6535e1bd96687aa22d14f8fc9a4676e631fe53e1042fcb",
+            "size": 47,
+            "sha256": "386af00f50b6cfc18175be9a6f8e73cc370057c1305de54fa27cc3781862e10d",
             "once": false
         },
         {
@@ -1587,7 +1593,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "f6676984af20706a67095e9ad6b13573438ed83aaa10f77e68023692f754cb77",
+            "sha256": "46379345573407acdeac4066d481ad50a68dd3a4f38b19f1df9590d3810535d3",
             "once": false
         },
         {
@@ -1827,7 +1833,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "2120e972081f58e8051e4b510c1708a27a665fa1497a054c0f2d1770ec759506",
+            "sha256": "60da9877506049211a42136c04f66698204b896ba44f4d1bf357a986f04b9a95",
             "once": false
         },
         {
@@ -2121,7 +2127,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "8157f56fefc0de981e9ea562fe18780768a179700af05aceb4140dc4bc88f32f",
+            "sha256": "555eb522348bc1d2198b6bae398f285f9f261002dbc092bb0ccf14565aef6ec8",
             "once": false
         },
         {
@@ -2181,7 +2187,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "545a824648a80ca2d5eede8568915b5275e82a879580c0d27997185f503832a3",
+            "sha256": "ecd5bbb6b89c8636a0318d8c5c9370bb6447e60c31987a1e73d2ed1b9749635d",
             "once": false
         },
         {
@@ -2391,7 +2397,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "bbe75001aee3316b0dcb1a9599c14f24a1415a36f39fd8ca25f8a537457ace99",
+            "sha256": "ee2f7fa3ad0137096c7e48cc145429c96c48384a9ebb696e260477c96f51ad0a",
             "once": false
         },
         {
@@ -2588,8 +2594,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 6761,
-            "sha256": "d686cfd55087ced52221cd301aa7c290c49cc59de46af21f5d5a6bb47d7c62b0",
+            "size": 6691,
+            "sha256": "f4637be1fa9fbcd9c1b3d31b672aed7b2dbbcdffdf95fb7676baed1c9d4a6633",
             "once": false
         },
         {
@@ -6410,9 +6416,9 @@
         },
         {
             "path": "options.txt",
-            "size": 8013,
-            "sha256": "37824126e5157727cd13129abb51e622b379e0522aa76090d18c39fc181ee19a",
-            "once": true
+            "size": 8044,
+            "sha256": "c9da7483d3988c1c180ce81519df0bd2fd19286aa35708a5284e5cf4bd724a11",
+            "once": false
         },
         {
             "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/acacia_black_classic_bed.json",
@@ -30291,7 +30297,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "56fd42aeb2b6da2cdcb0d5aeab1b2a4ce1ba16f63a73b35741812540dd4e3010",
+            "sha256": "1a7224c4910372aeae22948a5fe91dad957ee4e6a40f6ef72428911e48c9e692",
             "once": true
         },
         {
@@ -30351,5 +30357,5 @@
             ]
         }
     ],
-    "generated": "01/04/2026 23:27:59,25"
+    "generated": "01/04/2026 23:32:26,93"
 }
