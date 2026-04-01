@@ -5191,12 +5191,6 @@
             "once": false
         },
         {
-            "path": "mods/SDMShop-fabric-1.20.1-7.2.0.jar",
-            "size": 581778,
-            "sha256": "9c3e41850e247bbb6cac6fc29ef94f2a8fe1fdd98d7a003b5bbe789330903d25",
-            "once": false
-        },
-        {
             "path": "mods/ShoulderSurfing-Fabric-1.20.1-4.22.3.jar.disabled",
             "size": 264437,
             "sha256": "d3020733a90eba168ab2537011970a7e48a868882e90a1836a66162bbf679a46",
@@ -30081,5 +30075,5 @@
             ]
         }
     ],
-    "generated": "01/04/2026 21:33:38,12"
+    "generated": "01/04/2026 21:34:47,29"
 }
