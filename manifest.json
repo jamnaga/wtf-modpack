@@ -1346,8 +1346,8 @@
         },
         {
             "path": ".manifestignore",
-            "size": 278,
-            "sha256": "0520ca97b8c9a0fd05c3c9f516108b19110af9fb0e5faf9cdae5b6c5999e78b4",
+            "size": 263,
+            "sha256": "59e0bb698bee1ad54f40ed90965d5af2d4b5c586d15406493e7d53eefafd6f66",
             "once": false
         },
         {
@@ -30277,6 +30277,18 @@
             "once": false
         },
         {
+            "path": "resourcepacks/FaithfulPBR_256_1.0p.zip",
+            "size": 27164729,
+            "sha256": "7e7008de971b74893619378bbd361ee4d881d843bcb1e02f79a8132479d8f99c",
+            "once": false
+        },
+        {
+            "path": "resourcepacks/ModernArch R222 [1.20-1.19] [128x].zip",
+            "size": 37417496,
+            "sha256": "55c3a5a188a544d8d0f3b40e501909ea6c12eb6e805979f9a773e03633d6366e",
+            "once": false
+        },
+        {
             "path": "servers.dat",
             "size": 13373,
             "sha256": "d3646f71a8299586a4602511bbc31ba9046a0468a8889e689567dd34613056b6",
@@ -30357,5 +30369,5 @@
             ]
         }
     ],
-    "generated": "01/04/2026 23:32:26,93"
+    "generated": "01/04/2026 23:35:31,51"
 }

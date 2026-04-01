@@ -6,7 +6,6 @@ usercache.json
 usernamecache.json
 generate_manifest.bat
 datapacks/
-resourcepacks/
 schematics/
 xaero/
 crash-reports/
