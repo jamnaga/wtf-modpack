@@ -3,13 +3,19 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "d0d63038a581d48b8dbc0e7d67aa1af107071cd9ee127e2b93ade1621ee12c18",
+            "sha256": "cdb1716ded069dff3ecf428034141df2fd1e1db49c4925aec2d35bec39c16413",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "fc85499a4670d769f657bcb9b44c4b5b56fd7f67c13bc7f7bd22d6784ccb6c4f",
+            "sha256": "57c39d5d5f212af4032ffe76a5c19a35897a65a7e6915b8f6d0d6355b92992d2",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/adventure-platform-fabric-5.9.0-901d95766a18a80f.jar",
+            "size": 801549,
+            "sha256": "5739d09bd402275b787a7dc790ce0ac516617736947f14502b2a473c0faf7439",
             "once": false
         },
         {
@@ -88,6 +94,12 @@
             "path": ".fabric/processedMods/cloth-basic-math-0.6.1-17ea6dce277cc3b8.jar",
             "size": 10678,
             "sha256": "2527eb04394e7a13fa5b8884baa9319f60b07ad6229d759f9451563cd113c059",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/cloud-2.0.0-beta.2-22bd2087be74e782.jar",
+            "size": 680614,
+            "sha256": "aa8b76574e7a95e56ecf5ae94599fd206f94f43421b6b75efb9d989bc39173e8",
             "once": false
         },
         {
@@ -421,6 +433,12 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/fabric-permissions-api-v0-0.3.3-82369eda3a4fc310.jar",
+            "size": 13860,
+            "sha256": "e4f5aca9c140e97b2ecf8b9158042fbbb235fc96f81606285a93038f7fe4e4fc",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/fabric-recipe-api-v1-1.0.24+1802ada577-502106495988e3ce.jar",
             "size": 50711,
             "sha256": "0445c96a9f7bed9c7185545329cd0b2cb347619296bdbb2f03fd0692340e691b",
@@ -571,9 +589,21 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/impactor-command-api-5.2.5+1.20.1-SNAPSHOT-c5be4a7df3936e77.jar",
+            "size": 694765,
+            "sha256": "74de445aeaa4c2af530895b8d61bb99a5c2bd0b94890e526c4e13271ccdca451",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/io_github_douira_glsl-transformer-2.0.1-f38058f2330ca93a.jar",
             "size": 714514,
             "sha256": "982a8c147b1067b5d9ed9081a97aa9b96d859720608af6e52fdfd2447aec6565",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/io_leangen_geantyref_geantyref-1.3.15-41535e3545f06e0c.jar",
+            "size": 71803,
+            "sha256": "8b3fa58ef91872c2824167f22d467df7b83fd6c37c852556548794ecae681e87",
             "once": false
         },
         {
@@ -649,6 +679,96 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/net_kyori_adventure-api-4.14.0-486442d2fbaa015.jar",
+            "size": 350887,
+            "sha256": "86f0ed6a31e7c94cc79e57656533d62bb7e0e2267de71b93f456c7375f30cc5c",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_adventure-key-4.14.0-c2fffb89435c4a5.jar",
+            "size": 11566,
+            "sha256": "cd6e7ad51e67ef097116b00bbfe7eec6c6ea169270f7f914fafed166345d430b",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_adventure-nbt-4.14.0-4a343e9fdc6be2dc.jar",
+            "size": 96862,
+            "sha256": "07f44efc224c54cba6b79be151e26bc6912ec403d8ce7b54080c020f7816fe72",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_adventure-platform-api-4.3.0-2abd47560a353ed.jar",
+            "size": 2924,
+            "sha256": "6578a26458598e2356c027223831d0f3ec7bb392031d2c9ea56c45a6deb86430",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_adventure-text-logger-lf4j-4.14.0-b8fd9c2da8401815.jar",
+            "size": 20511,
+            "sha256": "2bc542de5a9645d2d07ffeac4ebf571f15708211a60719b66fafc9cfdb09a10b",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_adventure-text-minimessage-4.14.0-7d35ec498fae77a7.jar",
+            "size": 160852,
+            "sha256": "828c5b7582c6e7bc2ff8b570bdbb41791faa09e35ffd5ce60969b6804dbfa8ae",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_adventure-text-serialiansi-4.14.0-b4d4e0db891d7cd9.jar",
+            "size": 11634,
+            "sha256": "a6fa332d970ee81ae4959b1f4c410d85b0f8750a95316a5aecd4489d6c10d2c7",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_adventure-text-serialigacy-4.14.0-8a1601aedb069003.jar",
+            "size": 29555,
+            "sha256": "636f71d01b7f9226f887bdcb29d4ea6262063cb2e749a03e181fe23ac3f16e2e",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_adventure-text-serialigson-4.14.0-3d12b039580d16f8.jar",
+            "size": 41484,
+            "sha256": "048030a435dca559cf71457dcbf246a14feacf07c7dd937d75c46ac0663a605d",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_adventure-text-serialijson-4.14.0-559b308581204cf6.jar",
+            "size": 9784,
+            "sha256": "b53253cb2cf0f1afaf948b09ce6295cb71765d32d4957bf36802314cba4cac33",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_adventure-text-serialilain-4.14.0-184992cc24b19448.jar",
+            "size": 13492,
+            "sha256": "5f9e162507b1b43dd435b8285b43d539b01aaf26e21027f6e4bb64269b64a287",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_ansi-1.0.2-a10fce6b4b844d49.jar",
+            "size": 21475,
+            "sha256": "318aa66da87de69182544c215d1039b18d2b03a54f202f8e2043797c0c369beb",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_event-api-5.0.0-SNAPSHOT-8420725c532df196.jar",
+            "size": 13855,
+            "sha256": "367c26c14a6e7254fc145b211abd9aca37430cb1696dc58dc671d5ecfe821163",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_examination-api-1.3.0-c0387b10c23298ea.jar",
+            "size": 24166,
+            "sha256": "a059115a97e4df97fb6b2cba5ae0f649ffd87c50b902f4e45f759cd6c3dd7299",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_kyori_examination-string-1.3.0-1c9f30ec9b2d1134.jar",
+            "size": 13601,
+            "sha256": "95babeb1abfe5fbc4de2810f3d0404cc87330a5957f398d9c5a353bd41ee1335",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/net_lenni0451_reflect-1.6.1+curseforge-3264ac7e1b17deda.jar",
             "size": 207812,
             "sha256": "143f01b5f1b7d4398c539a3f71fc4125debd3f8f4753c0922485c27ee658e041",
@@ -676,6 +796,54 @@
             "path": ".fabric/processedMods/org_antlr_antlr4-runtime-4.13.1-aa40604b69b4ceaf.jar",
             "size": 328770,
             "sha256": "289ea515367682556dddeacb3e4fe7d96f7409a51e079223ee6bbce8d3e3d9c7",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_incendo_cloud-annotations-2.0.0-beta.2-5fc5865471da90bd.jar",
+            "size": 130767,
+            "sha256": "2df65b7b4a62318706c4ffd9d8f9b6f4e2660884e511a08fe27ad63eee4d5871",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_incendo_cloud-brigadier-2.0.0-beta.2-91ae3c00f7d20900.jar",
+            "size": 65272,
+            "sha256": "bb62c4c31f9ec1743548d30811c49007bcc8b979e1677dd011e4d8ea0d40e8e2",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_incendo_cloud-core-2.0.0-beta.2-87916093b2bef85d.jar",
+            "size": 480729,
+            "sha256": "df1f529ff053cf7a7466d9aed6b770eb3be1d3a18e479a4ded127d65051ac88e",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_incendo_cloud-minecraft-extr.0.0-beta.2-e8ee98419a3bc597.jar",
+            "size": 66373,
+            "sha256": "baee13bb4630cec3eb601fe3a268ff438ab9f562fc6c7b9522c857f9805684d2",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_incendo_cloud-minecraft-modd2.0.0-beta.2-3d555ba44b8627f.jar",
+            "size": 83652,
+            "sha256": "8928a7727b4f04391aeb0948fa0201009b7a509ba4e1ceefcfa8435a3c14c331",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_incendo_cloud-processors-com.0.0-beta.1-9f8b86399c954434.jar",
+            "size": 7880,
+            "sha256": "4c615a2eb1b8467ac61de400700f729ded1a32a6981dc12345da3f530529456b",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_incendo_cloud-processors-con.0.0-beta.1-34307ea49092cce6.jar",
+            "size": 25033,
+            "sha256": "d10de96ea130c44a4c60a1a0a1eeb31d9d8ce0b31a56955d7a17b6b054149afb",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_incendo_cloud-services-2.0.0-beta.2-6fdb9c16c8ecac75.jar",
+            "size": 28557,
+            "sha256": "6ed5ddf97667d39b22b7d164790f539fe013c166a2a34091bcd332e095ba55d3",
             "once": false
         },
         {
@@ -838,6 +1006,12 @@
             "path": ".fabric/processedMods/placeholder-api-2.1.2+1.20.1-f0e59aab18dbacdb.jar",
             "size": 141606,
             "sha256": "3934da30c4e425f84c82e70bd83d8246cc7c22ecbcabe62c71d4a9f32c25ae75",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/placeholder-api-2.1.3+1.20.1-2e3ca995834c3e3a.jar",
+            "size": 146553,
+            "sha256": "50be3465524428918c1bc7747e8e5e8364937752aa29126a2b28100db93e8542",
             "once": false
         },
         {
@@ -1413,7 +1587,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "bcf4f87e81c970db6370caaf74d2e0d9222097f742785142e413b610c42515ab",
+            "sha256": "f6676984af20706a67095e9ad6b13573438ed83aaa10f77e68023692f754cb77",
             "once": false
         },
         {
@@ -1653,7 +1827,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "8fc7bee03a286bf7f17b779387c6653452f859c44bd37af1df17c713c29a4a96",
+            "sha256": "2120e972081f58e8051e4b510c1708a27a665fa1497a054c0f2d1770ec759506",
             "once": false
         },
         {
@@ -1947,7 +2121,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "4c7d4e50e3a941c3a92e57400e8b52a3bccb6a96f75b0bc192f889d58a718b6d",
+            "sha256": "8157f56fefc0de981e9ea562fe18780768a179700af05aceb4140dc4bc88f32f",
             "once": false
         },
         {
@@ -2007,7 +2181,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "e397584c6c144c25056dfde997653ffdbfc1675fea8723e831b00d88407203ec",
+            "sha256": "545a824648a80ca2d5eede8568915b5275e82a879580c0d27997185f503832a3",
             "once": false
         },
         {
@@ -2217,7 +2391,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "521acfd2f5ec9c41d9b5dea03c59fbfe598bdc0d051718a0a434bfce8c7319b7",
+            "sha256": "bbe75001aee3316b0dcb1a9599c14f24a1415a36f39fd8ca25f8a537457ace99",
             "once": false
         },
         {
@@ -2414,8 +2588,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 6691,
-            "sha256": "f4637be1fa9fbcd9c1b3d31b672aed7b2dbbcdffdf95fb7676baed1c9d4a6633",
+            "size": 6761,
+            "sha256": "d686cfd55087ced52221cd301aa7c290c49cc59de46af21f5d5a6bb47d7c62b0",
             "once": false
         },
         {
@@ -5240,8 +5414,8 @@
         },
         {
             "path": "mods/Multiworld-Fabric-bundle.jar",
-            "size": 1008879,
-            "sha256": "18f0d0dd6cacbd159dc9f4532a6829638fba272e445037ea8d791c35fdc90585",
+            "size": 733917,
+            "sha256": "fcf401df6dd09efe2d100e678f374b451bf87c6ddb45df70a80cd2bf013ad049",
             "once": false
         },
         {
@@ -30117,7 +30291,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "878bc5aec1e095c8bbff45946a84a6cf9d1106d8e562e08de81e28c2116d98dd",
+            "sha256": "56fd42aeb2b6da2cdcb0d5aeab1b2a4ce1ba16f63a73b35741812540dd4e3010",
             "once": true
         },
         {
@@ -30177,5 +30351,5 @@
             ]
         }
     ],
-    "generated": "01/04/2026 23:18:59,04"
+    "generated": "01/04/2026 23:27:59,25"
 }
