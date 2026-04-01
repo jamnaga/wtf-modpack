@@ -13,3 +13,8 @@ fancymenu_data/fancymenu_temp/web/videoplayer/player.html
 /saves
 /.replay_cache
 /replay_recordings
+.fabric/.DS_Store
+config/.DS_Store
+mods/.DS_Store
+natives/.DS_Store
+.DS_Store

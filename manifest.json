@@ -1040,8 +1040,8 @@
         },
         {
             "path": ".gitignore",
-            "size": 313,
-            "sha256": "9cf63441dc310ed58bbc724fc3d275a858e078a6a2106a04fb1bf9d7bea93ade",
+            "size": 391,
+            "sha256": "9ff8c8023516ef1a2e341d537f753ae2dec9f1d33370a732639ca64a3d00fd13",
             "once": false
         },
         {
@@ -1052,8 +1052,8 @@
         },
         {
             "path": ".oncelist",
-            "size": 163,
-            "sha256": "7466a4023ed15240aa64d5575205d3bb53bff70442f4dcdc6a344379ebcac615",
+            "size": 59,
+            "sha256": "eb270ddd9ee65d43ae6535e1bd96687aa22d14f8fc9a4676e631fe53e1042fcb",
             "once": false
         },
         {
@@ -5161,6 +5161,12 @@
             "once": false
         },
         {
+            "path": "mods/pointblank-fabric-1.20.1-1.11.1.jar",
+            "size": 17617617,
+            "sha256": "cd38c40d1670155bbc75ac5d659095e0a8a90fee384b58c4d99442efc5d11df6",
+            "once": false
+        },
+        {
             "path": "mods/solid_mobs_fabric.1.19.4+1.20-1.7.1.jar",
             "size": 147843,
             "sha256": "e5116183010194870337bf805e262dbfa1a915f73606d0bb6ed36012460c3bdb",
@@ -5631,5 +5637,5 @@
             ]
         }
     ],
-    "generated": "01/04/2026 11:51:28,02"
+    "generated": "01/04/2026 13:56:55,30"
 }
