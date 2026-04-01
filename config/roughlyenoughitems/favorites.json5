@@ -1,5 +1,6 @@
 {
 	"favorites": [
+		"{id:\"sdm_market:market\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"sdm_market:icons/market\",\"x\":100,\"click\":\"sdm_market:open_gui\",\"loading_screen\":true}',type:\"ftblibrary:sidebar_button\"}",
 		"{data:{Count:1b,id:\"minecraft:damaged_anvil\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:netherrack\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:birch_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
@@ -30,7 +31,11 @@
 		"{data:{Count:1b,id:\"minecraft:cracked_stone_bricks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"comforts:sleeping_bag_yellow\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:cracked_deepslate_tiles\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"pfm:crimson_herringbone_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{Count:1b,id:\"pfm:crimson_herringbone_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:oak_fence_gate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:oak_button\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:birch_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:spruce_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []

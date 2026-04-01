@@ -2,9 +2,6 @@
 	"sdm_market": {
 		"market": true
 	},
-	"sdmshop": {
-		"shop": true
-	},
 	"ftblibrary": {
 		"toggle.gamemode": true,
 		"toggle.rain": true,
