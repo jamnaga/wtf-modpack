@@ -161,6 +161,12 @@ key_key.mtr.debug_2_positive:key.keyboard.keypad.8
 key_key.mtr.debug_3_positive:key.keyboard.keypad.9
 key_key.mtr.debug_cycle_negative:key.keyboard.keypad.subtract
 key_key.mtr.debug_cycle_positive:key.keyboard.keypad.add
+key_key.pointblack.reload:key.keyboard.r
+key_key.pointblack.firemode:key.keyboard.b
+key_key.pointblack.inspect:key.keyboard.i
+key_key.pointblack.attachments:key.keyboard.y
+key_key.pointblack.scope_switch:key.keyboard.v
+key_key.pointblack.settings:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt

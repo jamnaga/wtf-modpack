@@ -1,0 +1,9 @@
+messages: 
+    teleport: &6Teleporting...
+    nullSpawn: &4Error: null getSpawnPos
+    usageCreate: Usage: /mv create <id> <env> [-g=<gen> -s=<seed>]
+    worldCreated: &aCreated world with id: 
+    usagePortal: &4Usage: /mw portal <subcommand> [arguments]
+    usagePortalCreate: &4Usage: /mw portal create <name> <destination>
+    usagePortalNoSelect: You need to make an area selection first. (/mw portal wand)
+    usageDifficulty: [&4Multiworld&r] Usage: /mw difficulty <value> [world id]
