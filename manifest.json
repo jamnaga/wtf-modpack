@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "5f468e935de68a107671ca0fbc6b1e101b678ee2009febe5b67feec9eec3b062",
+            "sha256": "0f63b0b54b3c3917a7b892024ce023b0c0c60e94f49305be1769edf67fe4e4c6",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "befc873335d5441ce8d20b16d80c432b52d5b6d8ce1cddb2fc8ae8f8dacc43d8",
+            "sha256": "5e409c6e19f9a444998de529c611fc79e39846cefce9888b1e21a6526e3adb55",
             "once": false
         },
         {
@@ -1352,8 +1352,8 @@
         },
         {
             "path": ".oncelist",
-            "size": 47,
-            "sha256": "386af00f50b6cfc18175be9a6f8e73cc370057c1305de54fa27cc3781862e10d",
+            "size": 60,
+            "sha256": "cd49c555f7327b569e93337c96270933fc25bf0df542c751c2e6651b7bd5e9ce",
             "once": false
         },
         {
@@ -1593,7 +1593,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "f871a9c99aa05c16e9bc16e904379d445b3e779772d0ae72d19ef55fb6bbe53c",
+            "sha256": "ccee4ce5c75d5c137b4e07684944be426dd1f42512c4db3897e65d5de14ad111",
             "once": false
         },
         {
@@ -1833,7 +1833,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "d409efa711d123a4c0422745f872f8ac16e47935c4cf4a017f92be1854d654eb",
+            "sha256": "26ad8390ec5c5ba44239066e4a62af5cf88bf1ed17f606d33a98d22689818953",
             "once": false
         },
         {
@@ -2127,7 +2127,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "3b5dbaff086222e74a9a87872027e90cbc9181121f46ba6707ed01faf1088c09",
+            "sha256": "5e5c11bc1094366fb3cc3441d7ae9b8b96fb4c41f7190996b4ca1a49f017a42d",
             "once": false
         },
         {
@@ -2187,7 +2187,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "49d96230b06471bc2987504c23e33f40e86e8c044a6f9a5a844f789da83db5c4",
+            "sha256": "8970ad78fa7a13c8737524ac0158d0c7139c9bbf12d47e7a483a70a19986c79f",
             "once": false
         },
         {
@@ -2397,7 +2397,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "f7e1cb64d1cbb83004128a8ba27020458a4edaf3db5a977760a3e9002f1b818d",
+            "sha256": "d40eab9ddc8a3694bd2b5170938d38efdb9692ae2c4425d4a8d22ef4a114f0a0",
             "once": false
         },
         {
@@ -2594,14 +2594,14 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 6691,
-            "sha256": "f4637be1fa9fbcd9c1b3d31b672aed7b2dbbcdffdf95fb7676baed1c9d4a6633",
+            "size": 6761,
+            "sha256": "d686cfd55087ced52221cd301aa7c290c49cc59de46af21f5d5a6bb47d7c62b0",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 4663,
-            "sha256": "d6e0d7f0e6f360b4b1e49b423915eb4160a42911630e1905c8e4459746e001a0",
+            "size": 4452,
+            "sha256": "3b59aa9818ab3bc20e8b40e00427bbcaa30051cc5f1ef7c010cfae4c1e452197",
             "once": false
         },
         {
@@ -2613,13 +2613,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "4135524d166d41fc1bb4731ebb4e8becfb6dc6a4280cdd487a9f257b9386abc4",
+            "sha256": "b0c14d6df6632aa4de4ac5d0d1d862b9591defbe4909655e628656f576183304",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "0e9be613ea8cd0ae0fdc0598af08d9e4e9804b82142136ee9bf57320bc46b244",
+            "sha256": "a93b070de05efe4fb6bbb60d3eaecdf4bcdfe30f36c553fb80a842ee16c2b2db",
             "once": false
         },
         {
@@ -6418,7 +6418,7 @@
             "path": "options.txt",
             "size": 8004,
             "sha256": "796e9baceb0b555c168abf650acf554ce5dc713c2c096c96b8f8e367ecacd7c9",
-            "once": false
+            "once": true
         },
         {
             "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/acacia_black_classic_bed.json",
@@ -30309,7 +30309,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "6c62e9553a7b4658ab45c433c5704e0897c7fe7728039ccbb1e379c9d6edd678",
+            "sha256": "bbb9d989a2dd4b4f699bbb5dfae59a04fe10590a31d6cf19e5c1b337337fc62d",
             "once": true
         },
         {
@@ -30369,5 +30369,5 @@
             ]
         }
     ],
-    "generated": "01/04/2026 23:43:20,27"
+    "generated": "01/04/2026 23:45:30,88"
 }
