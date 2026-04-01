@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "868a6abd646c0dbb8fd59a05aaee11c72bc47e187537066a57c64ddd65725fa6",
+            "sha256": "f4f271773e88517608572f2a0ef08df5b0c25e4978d164dcc27007f95376bba6",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
+            "sha256": "8003a6af188c9d4b4e08161b694c79c4cafc102b95d82f50e53a6bec0d7b0a73",
             "once": false
         },
         {
@@ -1593,7 +1593,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "46379345573407acdeac4066d481ad50a68dd3a4f38b19f1df9590d3810535d3",
+            "sha256": "4c8fc7f7dc761a032a8cd78717e9c47b5f2909007d29a61f38dc6e298f795e36",
             "once": false
         },
         {
@@ -1833,7 +1833,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "60da9877506049211a42136c04f66698204b896ba44f4d1bf357a986f04b9a95",
+            "sha256": "16c6a5029c74bab08269c4a10c43c4ede811176375ddab1b1487bcce56f85a1f",
             "once": false
         },
         {
@@ -2127,7 +2127,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "555eb522348bc1d2198b6bae398f285f9f261002dbc092bb0ccf14565aef6ec8",
+            "sha256": "8242c181d251ab46635c936d795af9d069a0ba4b1f4865da902d94dab7e53f56",
             "once": false
         },
         {
@@ -2187,7 +2187,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "ecd5bbb6b89c8636a0318d8c5c9370bb6447e60c31987a1e73d2ed1b9749635d",
+            "sha256": "f20fbef192340f9306b55325410f4b1e2c556257c9cd6822e1804c1568ab3434",
             "once": false
         },
         {
@@ -2397,7 +2397,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "ee2f7fa3ad0137096c7e48cc145429c96c48384a9ebb696e260477c96f51ad0a",
+            "sha256": "cbd85ee6a7f1ae5380e769ec609cf5653d584256f55c5a67e7b5f07eb3ed1998",
             "once": false
         },
         {
@@ -2594,8 +2594,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 6691,
-            "sha256": "f4637be1fa9fbcd9c1b3d31b672aed7b2dbbcdffdf95fb7676baed1c9d4a6633",
+            "size": 6761,
+            "sha256": "d686cfd55087ced52221cd301aa7c290c49cc59de46af21f5d5a6bb47d7c62b0",
             "once": false
         },
         {
@@ -5389,7 +5389,7 @@
             "once": false
         },
         {
-            "path": "mods/Impactor-Fabric-5.2.8+1.20.1.jar",
+            "path": "mods/Impactor-Fabric-5.2.8+1.20.1.jar.disabled",
             "size": 19475709,
             "sha256": "d646f88dc9e3831986221fd855d8136a4c8fa381a863bb9f748b7a9446377a00",
             "once": false
@@ -5455,13 +5455,13 @@
             "once": false
         },
         {
-            "path": "mods/SDMEconomy-1.20.1-fabric-2.2.0.jar",
+            "path": "mods/SDMEconomy-1.20.1-fabric-2.2.0.jar.disabled",
             "size": 52067,
             "sha256": "df0c50c9f4fbf34bacd1610f75f421590a9a62545907696bf7f236428a403ff9",
             "once": false
         },
         {
-            "path": "mods/SDMMarket-fabric-6.4.2.jar",
+            "path": "mods/SDMMarket-fabric-6.4.2.jar.disabled",
             "size": 261397,
             "sha256": "f0c1a805907b992fd49c475648aa554623a29c8dd1ce50c92d3f8b947cc47324",
             "once": false
@@ -5839,7 +5839,7 @@
             "once": false
         },
         {
-            "path": "mods/gui-shop-1.4.0+1.20.1.jar",
+            "path": "mods/gui-shop-1.4.0+1.20.1.jar.disabled",
             "size": 864203,
             "sha256": "2d81dd6b3faf370c98c86ef82f385ab00ba5bea1fd21be657acb0c8f60b485ec",
             "once": false
@@ -6013,7 +6013,7 @@
             "once": false
         },
         {
-            "path": "mods/sdm_ui_lib-fabric-1.20.1-1.8.3.jar",
+            "path": "mods/sdm_ui_lib-fabric-1.20.1-1.8.3.jar.disabled",
             "size": 256192,
             "sha256": "2d0c577dee742d6de9f9929f8eff0c120bed17021729d9bebf32e0ea96d5e153",
             "once": false
@@ -30309,7 +30309,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "1a7224c4910372aeae22948a5fe91dad957ee4e6a40f6ef72428911e48c9e692",
+            "sha256": "17f04292ae67d353982179de439ef501f51d993a3a22dbbc4201b1357c515c86",
             "once": true
         },
         {
@@ -30369,5 +30369,5 @@
             ]
         }
     ],
-    "generated": "01/04/2026 23:35:31,51"
+    "generated": "01/04/2026 23:39:25,75"
 }
