@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "pfm:block/chair_dinner",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "pfm:block/chair_dinner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "pfm:block/chair_dinner",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "pfm:block/chair_dinner",
+      "y": 0
+    }
+  }
+}

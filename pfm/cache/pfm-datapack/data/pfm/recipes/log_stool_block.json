@@ -1,0 +1,27 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "group": "stools",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [],
+    "variantChildren": {
+      "secondary": 1
+    }
+  },
+  "result": {
+    "outputClass": "LogStoolBlock",
+    "count": 4
+  }
+}

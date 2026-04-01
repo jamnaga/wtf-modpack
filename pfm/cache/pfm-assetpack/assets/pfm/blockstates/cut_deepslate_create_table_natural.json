@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "pfm:block/log_table",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "pfm:block/log_table",
+      "y": 0
+    },
+    "facing=south": {
+      "model": "pfm:block/log_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "pfm:block/log_table",
+      "y": 270
+    }
+  }
+}
