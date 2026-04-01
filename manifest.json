@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "f4f271773e88517608572f2a0ef08df5b0c25e4978d164dcc27007f95376bba6",
+            "sha256": "5f468e935de68a107671ca0fbc6b1e101b678ee2009febe5b67feec9eec3b062",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "8003a6af188c9d4b4e08161b694c79c4cafc102b95d82f50e53a6bec0d7b0a73",
+            "sha256": "befc873335d5441ce8d20b16d80c432b52d5b6d8ce1cddb2fc8ae8f8dacc43d8",
             "once": false
         },
         {
@@ -1593,7 +1593,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "4c8fc7f7dc761a032a8cd78717e9c47b5f2909007d29a61f38dc6e298f795e36",
+            "sha256": "f871a9c99aa05c16e9bc16e904379d445b3e779772d0ae72d19ef55fb6bbe53c",
             "once": false
         },
         {
@@ -1833,7 +1833,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "16c6a5029c74bab08269c4a10c43c4ede811176375ddab1b1487bcce56f85a1f",
+            "sha256": "d409efa711d123a4c0422745f872f8ac16e47935c4cf4a017f92be1854d654eb",
             "once": false
         },
         {
@@ -2127,7 +2127,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "8242c181d251ab46635c936d795af9d069a0ba4b1f4865da902d94dab7e53f56",
+            "sha256": "3b5dbaff086222e74a9a87872027e90cbc9181121f46ba6707ed01faf1088c09",
             "once": false
         },
         {
@@ -2187,7 +2187,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "f20fbef192340f9306b55325410f4b1e2c556257c9cd6822e1804c1568ab3434",
+            "sha256": "49d96230b06471bc2987504c23e33f40e86e8c044a6f9a5a844f789da83db5c4",
             "once": false
         },
         {
@@ -2397,7 +2397,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "cbd85ee6a7f1ae5380e769ec609cf5653d584256f55c5a67e7b5f07eb3ed1998",
+            "sha256": "f7e1cb64d1cbb83004128a8ba27020458a4edaf3db5a977760a3e9002f1b818d",
             "once": false
         },
         {
@@ -2594,8 +2594,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 6761,
-            "sha256": "d686cfd55087ced52221cd301aa7c290c49cc59de46af21f5d5a6bb47d7c62b0",
+            "size": 6691,
+            "sha256": "f4637be1fa9fbcd9c1b3d31b672aed7b2dbbcdffdf95fb7676baed1c9d4a6633",
             "once": false
         },
         {
@@ -2630,8 +2630,8 @@
         },
         {
             "path": "config/sidebar_buttons.json",
-            "size": 156,
-            "sha256": "bca56b1274b6e5fca0c0e940712db24af18ae38d3dbbea28751fa31fec7ce73c",
+            "size": 118,
+            "sha256": "c2adfd6453038abd3081177d5aabc2909d2b9e8dac42560168de166302ba7a39",
             "once": false
         },
         {
@@ -6416,8 +6416,8 @@
         },
         {
             "path": "options.txt",
-            "size": 8044,
-            "sha256": "c9da7483d3988c1c180ce81519df0bd2fd19286aa35708a5284e5cf4bd724a11",
+            "size": 8004,
+            "sha256": "796e9baceb0b555c168abf650acf554ce5dc713c2c096c96b8f8e367ecacd7c9",
             "once": false
         },
         {
@@ -30309,7 +30309,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "17f04292ae67d353982179de439ef501f51d993a3a22dbbc4201b1357c515c86",
+            "sha256": "6c62e9553a7b4658ab45c433c5704e0897c7fe7728039ccbb1e379c9d6edd678",
             "once": true
         },
         {
@@ -30369,5 +30369,5 @@
             ]
         }
     ],
-    "generated": "01/04/2026 23:39:25,75"
+    "generated": "01/04/2026 23:43:20,27"
 }

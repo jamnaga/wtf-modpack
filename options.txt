@@ -34,7 +34,7 @@ gamma:0.5
 renderDistance:8
 simulationDistance:10
 entityDistanceScaling:1.0
-guiScale:3
+guiScale:2
 particles:0
 maxFps:260
 graphicsMode:0
@@ -119,7 +119,6 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_justzoom.keybinds.keybind.zoom:key.keyboard.z
-key_key.sdmmarket.market:key.keyboard.p
 key_key.ae2.wireless_terminal:key.keyboard.unknown
 key_key.ae2.portable_item_cell:key.keyboard.unknown
 key_key.ae2.portable_fluid_cell:key.keyboard.unknown
