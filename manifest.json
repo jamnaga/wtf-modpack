@@ -787,6 +787,12 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/org_mineskin_java-client-3.2.1-SNAPSHOT-2d8ee3d0449c5659.jar",
+            "size": 85935,
+            "sha256": "8a2767749dd1d0d73f61502b9d94053347a7efb4f784e926c558f140eed74aa9",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/org_reflections_reflections-0.10.2-1242e69f5be78cc9.jar",
             "size": 131865,
             "sha256": "b6ae17336b8995ea5f265e7184e1e13b2053b4a7af3c94b5e0e833b13a379996",
@@ -1117,6 +1123,12 @@
             "once": false
         },
         {
+            "path": "config/SDMShop/sdmshop-common.snbt",
+            "size": 709,
+            "sha256": "3fef5551dabcafdbec22a646e26a103a3a60a8427faa958a113eea414c00d55a",
+            "once": false
+        },
+        {
             "path": "config/ae2/client.json",
             "size": 3061,
             "sha256": "0b5fdb5ddee9031f1eb19fa134e51a2158261703300b5c89d38b9fcf194e636e",
@@ -1333,6 +1345,180 @@
             "once": false
         },
         {
+            "path": "config/easy_npc/npc_base.cfg",
+            "size": 211,
+            "sha256": "2215f2449437471123172dd7b0a6f94e151c6bd8cb9fe0f1b0c678fee4d7d63f",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/render_entity_type_support.cfg",
+            "size": 32632,
+            "sha256": "348acfff484f6f1ebf2e6244c720d73c371705e95a7a066557351a60c85c2ddc",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/allay/allay_template.png",
+            "size": 246,
+            "sha256": "5851df322e03f8c7d4ccd5875a7b8f38b692d6484cd9a8a34ca3ba2e51bcde1a",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/cat/cat_template.png",
+            "size": 283,
+            "sha256": "c9c22851b6ce2a97d731b4e476423abcfc4911acd9e29ae157b8be5b42088364",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/chicken/chicken_template.png",
+            "size": 287,
+            "sha256": "c9a5d1a53f844f32e2d530103540b4a91cfe8d53861c7b70bcae950742c50422",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/creeper/creeper_template.png",
+            "size": 255,
+            "sha256": "effaa2db2b00b87505ed4e59549598106a7c63684b69e0c820c308b41eeb2385",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/ender_man/ender_man_template.png",
+            "size": 276,
+            "sha256": "73579f345c51e7096168cacddf4b3e0a93b6c9880bded532a9d292c5917642a3",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/fairy/fairy_template.png",
+            "size": 434,
+            "sha256": "db071fe581827f3a195df8344909bafb243cbf54c8931dc60a7785285946d1bb",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/fox/fox_template.png",
+            "size": 335,
+            "sha256": "8cce109a5322cff97d82ea51c2c50d54d4486e57d48d72f20354d0e2e7aaf9a6",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/humanoid/humanoid_template.png",
+            "size": 360,
+            "sha256": "b96aee293379a6a60a0e862dc338eb6a14ea31929b4f78d9923eb6b60940106c",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
+            "size": 384,
+            "sha256": "1c194da6ebe3a991146b0ef04a6000451789887a62bf7ee2d8a49b50b4bec6dd",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/husk/husk_template.png",
+            "size": 531,
+            "sha256": "81f7fb65d89044326626462c36bfdc28b45d7fb307543d5b28abfa7a3a031624",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/illager/illager_template.png",
+            "size": 300,
+            "sha256": "d3a9f1a01c6b711bb3ca70f598f14f3cfde8017542a8a48f93f8489b514dc03c",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/iron_golem/iron_golem_template.png",
+            "size": 451,
+            "sha256": "2fadcece746b8a921130968a567296e63d4dbdfd1282e21d71fbd278994a4fe6",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/orc/orc_template.png",
+            "size": 521,
+            "sha256": "1469eab5ffabb32f3b8ed9965de819db03ee6b0bd950885ad88fc5c517eaf817",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/pig/pig_template.png",
+            "size": 270,
+            "sha256": "e1d27259fbaab2ae6924d5fc73ed462215395f08f79ef1518005ee0f73f2a81a",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/piglin/piglin_template.png",
+            "size": 361,
+            "sha256": "9d2dfd8515332c4ac529e51599ee89b8a4c359617a225d15a5147020034870a5",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/skeleton/skeleton_template.png",
+            "size": 259,
+            "sha256": "aa91f44a9c36bea6c14537e4f73ab69a4b50d4406370577a7a0d63af4783a8c6",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/spider/spider_template.png",
+            "size": 308,
+            "sha256": "f9f894b50e1ebf1a2ea9cede0e6b8eadb816ef951b4d4ad6a7e55ce85be3bf1e",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/stray/stray_template.png",
+            "size": 531,
+            "sha256": "81f7fb65d89044326626462c36bfdc28b45d7fb307543d5b28abfa7a3a031624",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/vex/vex_template.png",
+            "size": 247,
+            "sha256": "56c665b06aa06dcc111c6a7c09e02729c026350a30c98635df5f54e3d12d4bcf",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/villager/villager_template.png",
+            "size": 357,
+            "sha256": "ee42acf22b0f8df770510a77e1c0988af96bb4f24e3b82a32b3364be021c760c",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/villager/villager_without_hat_template.png",
+            "size": 331,
+            "sha256": "d24d599378f1fb54f343926c2d39c078c81021cab7da6337f7a688621327cac5",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/witch/witch_template.png",
+            "size": 431,
+            "sha256": "ef51d0f6a893c201752ce5b12ee352651928d42497b102ba429d1b8cd25f2722",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/wolf/wolf_template.png",
+            "size": 321,
+            "sha256": "47833f4690766423c63905c6950224b77867e1c30833fd9a7cdcc0d6455d743a",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/zombie/zombie_template.png",
+            "size": 292,
+            "sha256": "e9a38d8b1980d1390575658004f1a8274d57e5f14afaff9a2c7dc06315d01f54",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
+            "size": 356,
+            "sha256": "fdeea612041dc4c5137675bfb656ff570cad4b33fffa995746f1e56290614516",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/spawner_type.cfg",
+            "size": 934,
+            "sha256": "d6f51870202f168b4a61d544d89329ac8e30b1d98065a59eaa6c17dce40b68c0",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/user_defined_npcs.json",
+            "size": 465,
+            "sha256": "03ebf1e09c95de7cae601b38688ba89a153812ff1a6cf08bdad27913e977c016",
+            "once": false
+        },
+        {
             "path": "config/easymagic-client.toml",
             "size": 957,
             "sha256": "1b4a655f8a12caa9c1ca54fcf54da717609ee545322a13b38e5cc2fd980cef82",
@@ -1389,7 +1575,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "f409de91b3fd41c13c0631085ac415a77ee713f4f2d76050eedccb0681b2b70c",
+            "sha256": "568037a0376d4a1d83e743bbe1fe6b51fa6dcb72eff123c66fae2f14b2c625be",
             "once": false
         },
         {
@@ -1677,7 +1863,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "d1d1b4b40aa1f6a98981b5f4be418b9249edc0b5f19cef6235adea5dfe5454cf",
+            "sha256": "521230ed6b2641ce73e9520801b64522a0787fc53b81560f5895b2831de11e54",
             "once": false
         },
         {
@@ -1737,7 +1923,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "f65044984212d0e9682ebe352fc3d6c5e05bd50ad13726b8ee248251a97fe7dd",
+            "sha256": "d2f7d222c8d42271d6ef327c623a3c32cab63ec816eb47ff97ae0013350acfb6",
             "once": false
         },
         {
@@ -1947,7 +2133,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "1d80b6b4636d1ca533efe5b10466ac0cb270be4e85ff5b157ed60c10d36715c3",
+            "sha256": "9789a27cb18d48a041fae89ac4071f89452b9d1b310f15f0b35e80fcbf753176",
             "once": false
         },
         {
@@ -2132,8 +2318,8 @@
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 2327,
-            "sha256": "2dfcf3cf75880405f4367e8da0f610c4cac3e0312c45d84b4520261cebb79020",
+            "size": 3871,
+            "sha256": "081f0dcefcb7ee59b10ed3815318c3eb59b378454632fa74d3bf0fce7d400f30",
             "once": false
         },
         {
@@ -2145,19 +2331,31 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "d6f5ef0c3d0fc43f2b751a9d7b06aeeed654a8ca2b0177f2686f142f7cf674fe",
+            "sha256": "6262118b94cfc5126cd453b1d34f9425c65e8503bab51a9d09758fd72a0647ef",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "0dcc29f15cf1abd42d96ab989007ea49c07eb239458c0c313a4644ec680c8b29",
+            "sha256": "00c3405e9ba43a5ec7ff6d504f3be8b67dbf4ba26767a3380fcad20820540727",
             "once": false
         },
         {
             "path": "config/shouldersurfing-client.toml",
             "size": 16405,
             "sha256": "98cf31c2ed6517159abf73c568ad6d6bd4cb77d5e6fd140a5865776d9d68c6f6",
+            "once": false
+        },
+        {
+            "path": "config/sidebar_buttons.json",
+            "size": 189,
+            "sha256": "1d2f01431e0204fcf6135298a8364adf6ba3bf0debd321a6408a4acdf241dfba",
+            "once": false
+        },
+        {
+            "path": "config/skinrestorer/config.json",
+            "size": 1016,
+            "sha256": "022c1696a4c8d5a2332dfbd69640410483f15974493d1c8b6d7d9959b6ca7100",
             "once": false
         },
         {
@@ -2194,6 +2392,12 @@
             "path": "config/solid_mobs.json",
             "size": 478,
             "sha256": "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0",
+            "once": false
+        },
+        {
+            "path": "config/sound_physics_remastered/allowed_sounds.properties",
+            "size": 73380,
+            "sha256": "b192b4352496dd822749f9e9b32f0fc00f7d887e45f060587c3f425498edf6c7",
             "once": false
         },
         {
@@ -2254,6 +2458,12 @@
             "path": "config/spawnanimations.json",
             "size": 302,
             "sha256": "b2b16aad46bca666c1a8393826b2e767cada40664083bea333003b7d969a88ed",
+            "once": false
+        },
+        {
+            "path": "config/spudaciousshops.toml",
+            "size": 28,
+            "sha256": "80b8e4438096177b00d148a3c4fa8cb3e172eb881aa46a8ff3db8e275d3050fd",
             "once": false
         },
         {
@@ -2413,6 +2623,18 @@
             "once": false
         },
         {
+            "path": "defaultconfigs/ftblibrary/ftblibrary-client.snbt",
+            "size": 153,
+            "sha256": "7cf44bc2b79d6798ac1b0bca7dc52ab570a14ade2c11eccf4e1272ce6e081001",
+            "once": false
+        },
+        {
+            "path": "defaultconfigs/sdmshop/sdmshop-common.snbt",
+            "size": 159,
+            "sha256": "6840dc152c107d259ab897521035caa0157b89e8161840a40158c95997fe260b",
+            "once": false
+        },
+        {
             "path": "etched-sounds/b1bf0280e035d574aa740d91711eddc2",
             "size": 2814335,
             "sha256": "3b63d50c6449ffab4468d30de53e5a7dc939db1c540d990a6bc5ba823c2420b6",
@@ -2500,6 +2722,12 @@
             "path": "immersive_paintings_cache/cc26f3c6-a4b2-49a3-b3ff-8bd5ef388830_thumbnail.png",
             "size": 14613,
             "sha256": "e51cc66099bc01e7d843a0a1adf28baa30a74633397280f489d05f3dcc366a28",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/d9b7d6cb-6474-420d-b481-82d33ce17999.png",
+            "size": 233290,
+            "sha256": "944363f08b71ed10ea928f15b17bd3e2c3578ffe6ff9a9f166ea7bbd6372354a",
             "once": false
         },
         {
@@ -4693,6 +4921,12 @@
             "once": false
         },
         {
+            "path": "local/ftblibrary-client.snbt",
+            "size": 638,
+            "sha256": "f06f7488b7856826d9e67883934c0076563dd31bb2ee134b880bf2f8dca8597d",
+            "once": false
+        },
+        {
             "path": "mods/.connector/TechReborn-5.8.8$RebornCore-5.8.8_mapped_srg_1.20.1.jar",
             "size": 573754,
             "sha256": "724b3ce2b49a7a4339f692db8794fa3e16b09bf54e85004414e0a4939e6b9b18",
@@ -4924,6 +5158,24 @@
             "path": "mods/RoughlyEnoughItems-12.1.785-fabric.jar",
             "size": 2443883,
             "sha256": "15c266941018afbb84c0a213b8c5d22f85c47ba07904adcfa1500c6c7311ac00",
+            "once": false
+        },
+        {
+            "path": "mods/SDMEconomy-1.20.1-fabric-2.2.0.jar",
+            "size": 52067,
+            "sha256": "df0c50c9f4fbf34bacd1610f75f421590a9a62545907696bf7f236428a403ff9",
+            "once": false
+        },
+        {
+            "path": "mods/SDMMarket-fabric-6.4.2.jar",
+            "size": 261397,
+            "sha256": "f0c1a805907b992fd49c475648aa554623a29c8dd1ce50c92d3f8b947cc47324",
+            "once": false
+        },
+        {
+            "path": "mods/SDMShop-fabric-1.20.1-7.2.0.jar",
+            "size": 581778,
+            "sha256": "9c3e41850e247bbb6cac6fc29ef94f2a8fe1fdd98d7a003b5bbe789330903d25",
             "once": false
         },
         {
@@ -5191,9 +5443,33 @@
             "once": false
         },
         {
+            "path": "mods/createcafe-1.3.1-fabric.jar",
+            "size": 332254,
+            "sha256": "10a485c513fede758d87c67acdd0dbff223db486eeda1bb42e2dc4c91fc10de7",
+            "once": false
+        },
+        {
             "path": "mods/doubledoors-1.20.1-7.2.jar",
             "size": 54300,
             "sha256": "1847baf0f97a3ebc07735743b0e226c45dd7c289cd03214bcfc7f49ed44ccb1e",
+            "once": false
+        },
+        {
+            "path": "mods/easy_npc-fabric-1.20.1-6.11.0.jar",
+            "size": 1947438,
+            "sha256": "8a8b4343d3d939dde1ca2436805f3b0891c926d8e6e92838ab3c410f542803aa",
+            "once": false
+        },
+        {
+            "path": "mods/easy_npc_bundle-fabric-1.20.1-6.11.0.jar",
+            "size": 25262,
+            "sha256": "f75aaa29dc8bcdea74c9e3656f6ca03450d95549d408ee7371bf8d37af4ceca0",
+            "once": false
+        },
+        {
+            "path": "mods/easy_npc_config_ui-fabric-1.20.1-6.11.0.jar",
+            "size": 735310,
+            "sha256": "7cd672b845192d7a5a2024e1f9fee59f155bfb1d570dc88ba4e49a6f92b4717e",
             "once": false
         },
         {
@@ -5242,6 +5518,12 @@
             "path": "mods/ferritecore-6.0.1-fabric.jar",
             "size": 125197,
             "sha256": "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
+            "once": false
+        },
+        {
+            "path": "mods/ftb-library-fabric-2001.2.12.jar",
+            "size": 769888,
+            "sha256": "d0f868c1d9bbf5a8bf681ff411cb71a4057e27cc70d71e0f115eef2a259511d4",
             "once": false
         },
         {
@@ -5431,6 +5713,18 @@
             "once": false
         },
         {
+            "path": "mods/sdm_ui_lib-fabric-1.20.1-1.8.3.jar",
+            "size": 256192,
+            "sha256": "2d0c577dee742d6de9f9929f8eff0c120bed17021729d9bebf32e0ea96d5e153",
+            "once": false
+        },
+        {
+            "path": "mods/skinrestorer-2.7.0+1.20-fabric.jar",
+            "size": 252827,
+            "sha256": "4f1660ae3b543f2100866b900ffd311260f33365e154764c3f8139b6b33f199f",
+            "once": false
+        },
+        {
             "path": "mods/solid_mobs_fabric.1.19.4+1.20-1.7.1.jar",
             "size": 147843,
             "sha256": "e5116183010194870337bf805e262dbfa1a915f73606d0bb6ed36012460c3bdb",
@@ -5452,6 +5746,12 @@
             "path": "mods/spawn-animations-compats-14.0.jar",
             "size": 69198,
             "sha256": "b44861d04bf8c1c04c2c7d3bad4845203a63f530c10a85c3642ef5c5dbf84fd4",
+            "once": false
+        },
+        {
+            "path": "mods/spuds-shops-1.20.1-1.9.0.jar",
+            "size": 827009,
+            "sha256": "f8533b0d3921d18015c5a2fe481867fae4b4f970680c5e44e67165eca9fe74a1",
             "once": false
         },
         {
@@ -5816,8 +6116,8 @@
         },
         {
             "path": "options.txt",
-            "size": 7976,
-            "sha256": "88a185d2d86795a492b290aa8ba06346157bd63de9a62155db04ac47b5a64481",
+            "size": 7973,
+            "sha256": "2287e5655e6918656642c68696805abd9e4bcf47615ee50d265fff253bddcf46",
             "once": true
         },
         {
@@ -29697,7 +29997,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "639e3569514b3f6392d1071dc398dec98c94a703f736454aa8deec4eb394496f",
+            "sha256": "9808edba80d69a027653bd08b79dcf12cd4d10fc5c678da0ff7a2e644ef4d8aa",
             "once": true
         },
         {
@@ -29757,5 +30057,5 @@
             ]
         }
     ],
-    "generated": "01/04/2026 18:48:53,77"
+    "generated": "01/04/2026 21:27:51,71"
 }
