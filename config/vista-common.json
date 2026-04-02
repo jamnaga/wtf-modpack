@@ -1,0 +1,8 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+  "general": {
+    "max_connected_tv_size": 8,
+    "creeper_drop": true,
+    "chest_drop": true
+  }
+}

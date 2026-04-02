@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "pfm:block/simple_stool",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "pfm:block/simple_stool",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "pfm:block/simple_stool",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "pfm:block/simple_stool",
+      "y": 0
+    }
+  }
+}

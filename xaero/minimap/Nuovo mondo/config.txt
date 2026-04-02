@@ -10,4 +10,5 @@ sortReversed:false
 ignoreHeightmaps:false
 
 //dimension types (DO NOT EDIT)
+dimensionType:minecraft$overworld:minecraft$overworld
 //server waypoints

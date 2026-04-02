@@ -30,7 +30,7 @@ glintSpeed:0.5
 glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
-gamma:0.5
+gamma:1.0
 renderDistance:8
 simulationDistance:10
 entityDistanceScaling:1.0
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","create:dynamic_data","fabric","Moonlight Mods Dynamic Assets","file/ModernArch R222 [1.20-1.19] [128x].zip"]
+resourcePacks:["pointblank_resources","pfm-asset-resources","vanilla","create:dynamic_data","fabric","Moonlight Mods Dynamic Assets","file/Faithful 32x - 1.20.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:it_it
@@ -139,7 +139,7 @@ key_key.immersive_aircraft.multi_control_right:key.keyboard.d
 key_key.immersive_aircraft.multi_control_forward:key.keyboard.w
 key_key.immersive_aircraft.multi_control_backward:key.keyboard.s
 key_key.immersive_aircraft.multi_control_up:key.keyboard.space
-key_key.immersive_aircraft.multi_control_down:key.keyboard.left.shift
+key_key.immersive_aircraft.multi_control_down:key.keyboard.unknown
 key_key.immersive_aircraft.multi_control_pull:key.keyboard.s
 key_key.immersive_aircraft.multi_control_push:key.keyboard.w
 key_key.immersive_aircraft.multi_use:key.mouse.right
@@ -148,6 +148,7 @@ key_key.immersive_aircraft.boost:key.keyboard.b
 key_gui.jsblock.keybinds.script_debug_source_previous:key.keyboard.left.bracket
 key_gui.jsblock.keybinds.script_debug_source_next:key.keyboard.right.bracket
 key_gui.jsblock.keybinds.script_debug_reload:key.keyboard.r
+key_key.modmenu.open_menu:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.mtr.lift_menu:key.keyboard.z
 key_key.mtr.train_accelerate:key.keyboard.up
@@ -161,6 +162,13 @@ key_key.mtr.debug_2_positive:key.keyboard.keypad.8
 key_key.mtr.debug_3_positive:key.keyboard.keypad.9
 key_key.mtr.debug_cycle_negative:key.keyboard.keypad.subtract
 key_key.mtr.debug_cycle_positive:key.keyboard.keypad.add
+key_key.pfm.toiletUse:key.keyboard.u
+key_key.pointblack.reload:key.keyboard.r
+key_key.pointblack.firemode:key.keyboard.b
+key_key.pointblack.inspect:key.keyboard.i
+key_key.pointblack.attachments:key.keyboard.y
+key_key.pointblack.scope_switch:key.keyboard.v
+key_key.pointblack.settings:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
@@ -174,7 +182,7 @@ key_gui.xaero_zoom_in:key.keyboard.period
 key_gui.xaero_zoom_out:key.keyboard.comma
 key_gui.xaero_new_waypoint:key.keyboard.b
 key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_enlarge_map:key.keyboard.z
+key_gui.xaero_enlarge_map:key.keyboard.m
 key_gui.xaero_toggle_map:key.keyboard.unknown
 key_gui.xaero_toggle_waypoints:key.keyboard.unknown
 key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown

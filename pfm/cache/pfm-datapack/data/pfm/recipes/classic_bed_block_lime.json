@@ -1,0 +1,34 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "group": "bedroom",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      {
+        "item": "minecraft:lime_bed"
+      }
+    ],
+    "variantChildren": {
+      "fence": 2,
+      "base": 3
+    }
+  },
+  "result": {
+    "outputClass": "ClassicBedBlock",
+    "tag": {
+      "color": "lime"
+    }
+  }
+}

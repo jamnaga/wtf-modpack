@@ -1,0 +1,17 @@
+{
+	"teslaCoilDamage": 3.0,
+	"teslaCoilRange": 2.0,
+	"maxForceFieldLength": 7,
+	"playerSensorRange": 4.0,
+	"maxLaserDistance": 10,
+	"redstoneLaserDamage": 3.0,
+	"redstonePulseLength": 30,
+	"laserParticles": false,
+	"laserCustomRender": true,
+	"allowTripMinesAir": true,
+	"allowLaserInAir": true,
+	"laserPassthroughWhitelist": [
+		"minecraft:slime_block",
+		"minecraft:tinted_glass"
+	]
+}

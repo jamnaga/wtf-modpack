@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "pfm:block/classic_nightstand",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "pfm:block/classic_nightstand",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "pfm:block/classic_nightstand",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "pfm:block/classic_nightstand",
+      "y": 0
+    }
+  }
+}
