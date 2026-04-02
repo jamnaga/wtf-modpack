@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "02/04/2026 23:32:49,97",
+    "generated":  "02/04/2026 23:38:41,91",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -5936,12 +5936,6 @@
                       "size":  665169
                   },
                   {
-                      "path":  "mods/colorwheel-fabric-1.2.3+mc1.20.1.jar",
-                      "sha256":  "86ed860c23ab598e54146bd42429d02352cc83721bc07900b038025d85d60da5",
-                      "once":  false,
-                      "size":  380796
-                  },
-                  {
                       "path":  "mods/comforts-fabric-6.4.0+1.20.1.jar",
                       "sha256":  "f9852a749b5154cbb0e97651cd0a1718382fcdfebdea86813bb118b16ee1096b",
                       "once":  false,
@@ -6546,6 +6540,12 @@
                       "sha256":  "b886ddaac7b19c9e2db9e0e5331210dcc5b487743d3f9d8d08ad66e90278d9e7",
                       "once":  false,
                       "size":  164085
+                  },
+                  {
+                      "path":  "mods/[client]colorwheel-fabric-1.2.3+mc1.20.1.jar",
+                      "sha256":  "86ed860c23ab598e54146bd42429d02352cc83721bc07900b038025d85d60da5",
+                      "once":  false,
+                      "size":  380796
                   },
                   {
                       "path":  "mods/[client]connectedglass-1.1.14-fabric-mc1.20.1.jar",
