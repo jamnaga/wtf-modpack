@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "31/03/2026 22:12:59,68",
+    "generated":  "02/04/2026 23:20:52,09",
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -4784,22 +4784,10 @@
                       "size":  4853363
                   },
                   {
-                      "path":  "mods/indium-1.0.36+mc1.20.1.jar",
-                      "sha256":  "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
-                      "once":  false,
-                      "size":  105382
-                  },
-                  {
                       "path":  "mods/InventoryProfilesNext-fabric-1.20-1.10.20.jar.disabled",
                       "sha256":  "4e9c432d5b8efd2988c8a00e5e25c7bae985320037ecd95c74fa0102e3590fbf",
                       "once":  false,
                       "size":  1455143
-                  },
-                  {
-                      "path":  "mods/iris-1.7.6+mc1.20.1.jar",
-                      "sha256":  "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
-                      "once":  false,
-                      "size":  2726899
                   },
                   {
                       "path":  "mods/JCM-fabric-2.1.2+1.20.1.jar",
@@ -5118,6 +5106,18 @@
                       "sha256":  "1eb76485f6c1762387ef47b2996f310cb667157b2ce113eb88dea86c24823608",
                       "once":  false,
                       "size":  51003
+                  },
+                  {
+                      "path":  "mods/[client]indium-1.0.36+mc1.20.1.jar",
+                      "sha256":  "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
+                      "once":  false,
+                      "size":  105382
+                  },
+                  {
+                      "path":  "mods/[client]iris-1.7.6+mc1.20.1.jar",
+                      "sha256":  "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
+                      "once":  false,
+                      "size":  2726899
                   },
                   {
                       "path":  "mods/[client]justzoom_fabric_2.1.0_MC_1.20.1.jar",
