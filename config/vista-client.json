@@ -1,0 +1,24 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+  "television": {
+    "visuals": {
+      "render_distance": 64,
+      "screen_effects": true,
+      "pixel_density": 1.37,
+      "constant_pixel_density": true,
+      "vignette": 1.0,
+      "turn_off_animation": true
+    },
+    "live_feed": {
+      "draw_date": false,
+      "update_fps": 10.0,
+      "min_update_fps": 4.0,
+      "throttling_update_ms": 16.66,
+      "update_distance": 20.0,
+      "resolution_scale": 8,
+      "render_debug": false,
+      "distant_horizons_LOD": "OFF",
+      "iris_off_hack": true
+    }
+  }
+}

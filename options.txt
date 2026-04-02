@@ -148,6 +148,7 @@ key_key.immersive_aircraft.boost:key.keyboard.b
 key_gui.jsblock.keybinds.script_debug_source_previous:key.keyboard.left.bracket
 key_gui.jsblock.keybinds.script_debug_source_next:key.keyboard.right.bracket
 key_gui.jsblock.keybinds.script_debug_reload:key.keyboard.r
+key_key.modmenu.open_menu:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.mtr.lift_menu:key.keyboard.z
 key_key.mtr.train_accelerate:key.keyboard.up
