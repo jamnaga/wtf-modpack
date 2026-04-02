@@ -3,7 +3,7 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "557abc568721ef8d3a37ee8bcb52aca9ae948a9d83373ae55c8ba2041aa410a5",
+            "sha256": "8b5213df3adddabbc70ca96e25e4131144ac00c1dc1f62f7739390bf11030a91",
             "once": false
         },
         {
@@ -1509,7 +1509,7 @@
         {
             "path": "config/beansbackpacks-common.json5",
             "size": 2118,
-            "sha256": "9ef952e0ba6b2b4bee1c1639d59df9e7d0a299020355742f38306e1551aec826",
+            "sha256": "70c9e0816f407b3564ad007caa8bde1bd9c1f88c171a8f11b42f2702be17e211",
             "once": false
         },
         {
@@ -1659,7 +1659,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "30878644ad7bac59b0492827d23f30109e525aedde9210d8e1b849bc07d89434",
+            "sha256": "b514042cffdd3c7e3973253b4165492643ec2acaea89ed6f02f21efee9ca523e",
             "once": false
         },
         {
@@ -1899,7 +1899,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "68298d7c22b97b428556c335276833433e6f6097c524f75185a0f0fe655948da",
+            "sha256": "de7a2c52864bbeff0b811368309384c0e94502f096d6b4e94591b4d00e138412",
             "once": false
         },
         {
@@ -2193,7 +2193,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "ff985081fabf60af7fb4c0294cb79d5b84fb028fede17c74c8b383042c613fc5",
+            "sha256": "2f5acf8de87c3e49a3cc96a12ad76fdc5b6a4656dfaf5a861de31e7296cbf6fd",
             "once": false
         },
         {
@@ -2252,8 +2252,8 @@
         },
         {
             "path": "config/iris.properties",
-            "size": 278,
-            "sha256": "c9008251e5780b713904002c3c5457155ed472dcececefb5762a0370c84b16b2",
+            "size": 279,
+            "sha256": "a0e8459490c716069c996bef5e1ba60d92733645090f3ea3781b99d28c4d28ea",
             "once": false
         },
         {
@@ -2463,7 +2463,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "e6dd39c30f87f0e0fe12a9ecbcc4a31b6b27c0842a6efa3f0488df72ffc24a94",
+            "sha256": "4d6f5d3a3c570e3357b39d167b4271a637dc94c52582b302f8179e7678d8a22b",
             "once": false
         },
         {
@@ -2678,14 +2678,14 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 7391,
-            "sha256": "73eb3c6098c3c77a4830906f5d1cf842f929da54f40cde1fdc15cd98fcb2c6f7",
+            "size": 7461,
+            "sha256": "d9fe168fdf730e193fec1d55b86160901bcc4dcdedce03924b2a8330a071b08a",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
             "size": 6271,
-            "sha256": "fb85117edd916c86bf0b0dbd1fa033b01d9da4aa1ecb62b0f93a63d37325c12c",
+            "sha256": "0ddca2ba4bce6c4edc4cd4c478e65a1e62f2d6f0e73ce5c98cd766695e1d32b5",
             "once": false
         },
         {
@@ -2697,13 +2697,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "34b0b76218bb253284584d1fe2601458e7a4b27d0402e071558de550040dfb75",
+            "sha256": "ea10162b7513e4b639a69f185929b3452d2923a9dcb04ced7ad85e4734b7bfca",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "cf0d4b511e8c87ecf4588e4700d5e4d7d8953be1b61e5c5af393dfafdcaf7b53",
+            "sha256": "e8866ded0f77b401efddbc26de436a31f0d6a66b330ec89d5f99a76e5878bd1c",
             "once": false
         },
         {
@@ -6679,7 +6679,7 @@
             "once": false
         },
         {
-            "path": "mods/vista-1.20-3.0.17-fabric.jar",
+            "path": "mods/vista-1.20-3.0.17-fabric.jar.disabled",
             "size": 5251108,
             "sha256": "43d0fd5a1b4898dbeafd1287beb4039dbda351d97230756769b1c0c095e20e3b",
             "once": false
@@ -7028,8 +7028,8 @@
         },
         {
             "path": "options.txt",
-            "size": 8052,
-            "sha256": "6e769e36adc2a8da674d438c3f5d018660eaaab2b13f5f3f0e9833b07a54357c",
+            "size": 8019,
+            "sha256": "21a81c19d04449157fe71a7803f4cc583e51fe910e1786d3f3b69d929cc44c12",
             "once": true
         },
         {
@@ -30915,7 +30915,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "814de81e4c33c0ea6cf573e01779129151ab22520c95d9cea64c1a63174dffb9",
+            "sha256": "4aae47c587b9de2b72a1f5d0a91b7216a0ff762947078b874c61b28245b59994",
             "once": true
         },
         {
@@ -30975,5 +30975,5 @@
             ]
         }
     ],
-    "generated": "02/04/2026 15:46:35,72"
+    "generated": "02/04/2026 20:04:51,90"
 }
