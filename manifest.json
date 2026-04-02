@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "0f63b0b54b3c3917a7b892024ce023b0c0c60e94f49305be1769edf67fe4e4c6",
+            "sha256": "650747d24ae840a85d26026c789996156c91f26295dea6f47ea6f44453d9b428",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "5e409c6e19f9a444998de529c611fc79e39846cefce9888b1e21a6526e3adb55",
+            "sha256": "697957d79162958ab321ad730e551456ad54c1c8c27967d043700026fe0689ec",
             "once": false
         },
         {
@@ -160,6 +160,42 @@
             "path": ".fabric/processedMods/com_teamresourceful_yabn-1.0.3-8270980c18aab78c.jar",
             "size": 32067,
             "sha256": "e51c663ea371f49c40052bddea9d4b563bb245e514686b9cad631ca47cb1f637",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/com_twelvemonkeys_common_common-io-3.12.0-86b1ac244fa6455c.jar",
+            "size": 92590,
+            "sha256": "e5401be7ad9fdc80da321b2399480d0105c27ac82352f95364db93fed6058809",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/com_twelvemonkeys_common_common-lang-3.12.0-6be701ca605fcfc7.jar",
+            "size": 122063,
+            "sha256": "eadaa83fb9906d3e9d01ba43f06ed0875d7f404afbdaa70f0b98ce7fdeda7ab4",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/com_twelvemonkeys_common_common-mage-3.12.0-deb3b1501a6070e5.jar",
+            "size": 79902,
+            "sha256": "eb5095e196b84a3c2d17c2a11ec0bb2aa9a7a2e48c68eebabe54438b65a77332",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/com_twelvemonkeys_imageio_imageiadata-3.12.0-d4e6b5ecedfe42c.jar",
+            "size": 83864,
+            "sha256": "fd5eac600bde93a1469caedfa00d3efc7b46a91385a0850fccc34e0f41ed47fd",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/com_twelvemonkeys_imageio_imageicore-3.12.0-3b260d8299c9b513.jar",
+            "size": 120156,
+            "sha256": "264c6b9476d950f93ddf83527685282ab03274013a790d2af3907dcee11fb26b",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/com_twelvemonkeys_imageio_imageiwebp-3.12.0-16e1ec7310cf986c.jar",
+            "size": 79961,
+            "sha256": "eefc795a63c12aa2b64df751eb993f2fc1aa31a5eff6e24ccea075cc67bf8886",
             "once": false
         },
         {
@@ -631,6 +667,12 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/kinecraft_serialization-1.2.2-f9ef22a786d5a892.jar",
+            "size": 130768,
+            "sha256": "34cd05674b33edcc50a8aef622c757e1eba7f444b8bcc7f451aed0f76be6cc73",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/lambdynlights_api-4.4.0+1.20.1-d35c1734eb94ca4.jar",
             "size": 218162,
             "sha256": "786aee54fc0407833f162aae84d91f288d0aa1f8e69817f9b4299e31be2c6525",
@@ -988,6 +1030,18 @@
             "path": ".fabric/processedMods/org_mineskin_java-client-3.2.1-SNAPSHOT-2d8ee3d0449c5659.jar",
             "size": 85935,
             "sha256": "8a2767749dd1d0d73f61502b9d94053347a7efb4f784e926c558f140eed74aa9",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_quiltmc_parsers_gson-0.2.1-dca73e94c7c97f1f.jar",
+            "size": 4805,
+            "sha256": "a4ba4e7e59b327f3e2f52b0d4e6b3303bcad2cd02bae81e9641a6a989e39ed78",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_quiltmc_parsers_json-0.2.1-f4450bb516755a53.jar",
+            "size": 23486,
+            "sha256": "a39eaafba2b77855fd05797d1435ad2de0af0809cec59cdf369c6a140635caa5",
             "once": false
         },
         {
@@ -1593,7 +1647,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "ccee4ce5c75d5c137b4e07684944be426dd1f42512c4db3897e65d5de14ad111",
+            "sha256": "98fbb9b9162f93ff638a6968ba867309cddd637b7e41dfd2d709d09fb461eb5c",
             "once": false
         },
         {
@@ -1833,7 +1887,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "26ad8390ec5c5ba44239066e4a62af5cf88bf1ed17f606d33a98d22689818953",
+            "sha256": "63030af6dd67b264f77b8379ae6e3b0e81b7a4828572a5daaae7704d8a9d5c73",
             "once": false
         },
         {
@@ -2127,7 +2181,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "5e5c11bc1094366fb3cc3441d7ae9b8b96fb4c41f7190996b4ca1a49f017a42d",
+            "sha256": "5a7f4146d89a2a45828d3d8391629830e20a827a647f7589daa2933962b84371",
             "once": false
         },
         {
@@ -2187,7 +2241,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "8970ad78fa7a13c8737524ac0158d0c7139c9bbf12d47e7a483a70a19986c79f",
+            "sha256": "b6ec8fdcf466823969d2c212c2e7724ce30c14bbfc2df6ed67971d8efeb703d0",
             "once": false
         },
         {
@@ -2397,7 +2451,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "d40eab9ddc8a3694bd2b5170938d38efdb9692ae2c4425d4a8d22ef4a114f0a0",
+            "sha256": "b630d22423c60d3cd636e6e6fafd443f4b37f44a311d0d0daa959a9f231acfe3",
             "once": false
         },
         {
@@ -2575,6 +2629,12 @@
             "once": false
         },
         {
+            "path": "config/respawn_complex.json",
+            "size": 2,
+            "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+            "once": false
+        },
+        {
             "path": "config/ribbits-fabric-1_20_1.toml",
             "size": 35,
             "sha256": "0471379b8c6f11b6d0f32d894f48fbc8a6a7ddd783128ae3ac03dfe65d3b752c",
@@ -2594,14 +2654,14 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 6761,
-            "sha256": "d686cfd55087ced52221cd301aa7c290c49cc59de46af21f5d5a6bb47d7c62b0",
+            "size": 7391,
+            "sha256": "73eb3c6098c3c77a4830906f5d1cf842f929da54f40cde1fdc15cd98fcb2c6f7",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 4452,
-            "sha256": "3b59aa9818ab3bc20e8b40e00427bbcaa30051cc5f1ef7c010cfae4c1e452197",
+            "size": 5200,
+            "sha256": "854a3881a71ac43544512d0113841016bd38f1879303e204aafbbf00ae4d5fe8",
             "once": false
         },
         {
@@ -2613,13 +2673,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "b0c14d6df6632aa4de4ac5d0d1d862b9591defbe4909655e628656f576183304",
+            "sha256": "168e63dc9446179d613c1692613b0851612913055b5a3c4d2060cd7376d8733a",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "a93b070de05efe4fb6bbb60d3eaecdf4bcdfe30f36c553fb80a842ee16c2b2db",
+            "sha256": "36d0b70d827e294c96d7d4f9dd854f7a5f87815dbe36ae3463e9ee97388358db",
             "once": false
         },
         {
@@ -2899,6 +2959,12 @@
             "once": false
         },
         {
+            "path": "config/yacl.json5",
+            "size": 35,
+            "sha256": "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820",
+            "once": false
+        },
+        {
             "path": "data/fabricDefaultResourcePacks.dat",
             "size": 70,
             "sha256": "6c4932523a4331f8b18a025ff78d4fae7ed80ce1a39310255a12effb8bc58641",
@@ -2989,9 +3055,135 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/5a638b74-5dfb-446f-ad0d-b10ed058513e.png",
+            "size": 37496,
+            "sha256": "5581ffebd44d090cf39ed734e2a6bfcde4d31b98f3bf99c4ac4d743f7e7b8e60",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/5a638b74-5dfb-446f-ad0d-b10ed058513e_eighth.png",
+            "size": 4382,
+            "sha256": "adb57e218efe514a541b003eccf116226d0ac67eb2dc8bb6e989216fc57f9c6c",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/5a638b74-5dfb-446f-ad0d-b10ed058513e_half.png",
+            "size": 21408,
+            "sha256": "8d538502c7e59f0471b37729c98e14969f7a95df335e646656f7769ef42f969e",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/5a638b74-5dfb-446f-ad0d-b10ed058513e_quarter.png",
+            "size": 10351,
+            "sha256": "5bdebec406d2a681883675592956a91465fb4477f4b4a0fd1cff7dad77eedf37",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/5a638b74-5dfb-446f-ad0d-b10ed058513e_thumbnail.png",
+            "size": 2621,
+            "sha256": "384e08c4f9e57a78dbedaf0e3be4189c2a2f9864ecfc000e85457ee1e24b36fe",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/5d4bea76-958e-4a50-83c9-774f39580774.png",
             "size": 199164,
             "sha256": "7a5f18471a685b56a2646504ad1abe5dd3ed3059d7c52c1aebf9c257eb07e58b",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/6cd61e19-1b1c-4cfd-b7ac-83c4d061f2c8.png",
+            "size": 5208874,
+            "sha256": "b741c30898cc6d0303d87af6e44f3d7e1401c77c089585283e54fa942ab66741",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/6cd61e19-1b1c-4cfd-b7ac-83c4d061f2c8_eighth.png",
+            "size": 198456,
+            "sha256": "b32df9656eccd2fe7c5742b1098a94438ed1f14ecb6f80149d5feb851ddfeddf",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/6cd61e19-1b1c-4cfd-b7ac-83c4d061f2c8_half.png",
+            "size": 2499306,
+            "sha256": "4779b74e535c95f7a031cb2c8d21ae0fc1e0c11cf7f90e7e442db0ea59015156",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/6cd61e19-1b1c-4cfd-b7ac-83c4d061f2c8_quarter.png",
+            "size": 727603,
+            "sha256": "a6af75756e94fa0fd03fe3b13cfdc9168b0a95ec93b604a7ceb1e3f83a214d2d",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/808f503f-8d9b-4f3d-979a-031996a5996e.png",
+            "size": 61450,
+            "sha256": "b9b1d41d30b36b3fb455d25938819096915404533bbc4d583f9c245c673205ad",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/808f503f-8d9b-4f3d-979a-031996a5996e_eighth.png",
+            "size": 4229,
+            "sha256": "c79d17d2b7525d0adc9df08fc2d4caf76d684ca879aa8663dd2bc480bce988ca",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/808f503f-8d9b-4f3d-979a-031996a5996e_half.png",
+            "size": 25072,
+            "sha256": "7414ee37eb6503a509dc0d6b95c71216637bacf08d57d3777f747f4e17c9fa79",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/808f503f-8d9b-4f3d-979a-031996a5996e_quarter.png",
+            "size": 10102,
+            "sha256": "a0476bb5d3eaa1750c8adab3d08f6325d635d75551aba8f4186ff91957a3876e",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/808f503f-8d9b-4f3d-979a-031996a5996e_thumbnail.png",
+            "size": 2585,
+            "sha256": "7b584495ddb657a081b06280756bf0425435d264fc09fa9a687b5f063a9450d9",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/ba8beeb1-b37c-4d2a-9f56-5f14a0d4f32b.png",
+            "size": 4939742,
+            "sha256": "4f9a732b0ec5f7fea7a63e16a81db327db8ee6395326923fc7cf895eba89d13c",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/ba8beeb1-b37c-4d2a-9f56-5f14a0d4f32b_half.png",
+            "size": 1702591,
+            "sha256": "674ebdbbaa5acc5cc56e62e30e576c0b8c6b961b431cda71bae516f9b557c892",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/ba8beeb1-b37c-4d2a-9f56-5f14a0d4f32b_quarter.png",
+            "size": 523601,
+            "sha256": "7f5e06d7a9b55b556a602b95c97c33ccb00c5dd72ee8387297f7cbc8c8e6a6b8",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/ba8beeb1-b37c-4d2a-9f56-5f14a0d4f32b_thumbnail.png",
+            "size": 39790,
+            "sha256": "794d30489e467dfafe8784695952252aefee13e527b86d903e221b0051f94cd1",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/c1b88256-15c1-423d-80ce-16067d1442c8_half.png",
+            "size": 552314,
+            "sha256": "959ea2685027ce98d8c9f8ec78e2f70cac44f09214b7794cde75a512384aed9a",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/c1b88256-15c1-423d-80ce-16067d1442c8_quarter.png",
+            "size": 159099,
+            "sha256": "12b5b59f559307de2faf6cbc3d1eca236e05cebf18302f66ed6431dcb0243893",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/c1b88256-15c1-423d-80ce-16067d1442c8_thumbnail.png",
+            "size": 29086,
+            "sha256": "872520104ce1f320b84b758c56fa5c869e818a922e12be58db9e47ef3977f35e",
             "once": false
         },
         {
@@ -3037,6 +3229,36 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/dea4985a-25d3-4c51-bd4c-96820fd84801.png",
+            "size": 5335643,
+            "sha256": "ad83db939ce7e2abedf8a7e93b2417f64910f527021dfb830e092ba51850b999",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/dea4985a-25d3-4c51-bd4c-96820fd84801_eighth.png",
+            "size": 202183,
+            "sha256": "3019e1045ae38c84b2acc21d2d06e65c6a1e6caf353f22ed3cc23c5f19eedd8d",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/dea4985a-25d3-4c51-bd4c-96820fd84801_half.png",
+            "size": 2551530,
+            "sha256": "9930d430c8de1bc8205d00a0ae2e7d9e12a75a435d40be8de97299f84a33eefb",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/dea4985a-25d3-4c51-bd4c-96820fd84801_quarter.png",
+            "size": 743832,
+            "sha256": "2cfff8961035604f1d9c2c5b29b07cbee5ce59eaca26062821de9234fa760199",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/dea4985a-25d3-4c51-bd4c-96820fd84801_thumbnail.png",
+            "size": 38373,
+            "sha256": "f2aee47bdcffd4e17232890f12b6fe7d33ba25c83b4aeaca442d31d0cba5eedb",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/fdccac3b-0080-4920-8549-bb7a742262d8.png",
             "size": 140044,
             "sha256": "f396d0d3a5c3c3f60dea2619b677044cc7b7eff8bd7b9b361e26c6694ff0e61b",
@@ -3067,9 +3289,27 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsairshipsalexruizart128pxpng_thumbnail.png",
+            "size": 27662,
+            "sha256": "402a921bb2f94614ebff9d5a00041816726f629eebc3d86c79240d51e432fe9b",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingsairshipsalexruizart32pxpng_thumbnail.png",
             "size": 26947,
             "sha256": "3ada507abd1f37c01cd9291f090f7644e6df3673d502bb1cdb3f2f2a891c2b40",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsairshipsalexruizart64pxpng_thumbnail.png",
+            "size": 27385,
+            "sha256": "5194bc1ae077eb128a032a9d69246b3dae205d0d4604a84640ab489e884199c0",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsautumnnostalgiatree128pxpng_thumbnail.png",
+            "size": 26555,
+            "sha256": "8d7c2dd7bec283d616e3171e0923375503092d58e4b347998b4cc406318cd0a9",
             "once": false
         },
         {
@@ -3079,9 +3319,27 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsautumnnostalgiatree64pxpng_thumbnail.png",
+            "size": 27746,
+            "sha256": "c96559f93127c87bbeb35d3099bba241f4396cc2abe3aa46eb3e9892f784b329",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsbeyondhillanddalealenaaenami128pxpng_thumbnail.png",
+            "size": 19795,
+            "sha256": "1b8340ed0da449eff55402ac7e88c38c4c21da1882a14afdd6819b4aae01d225",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingsbeyondhillanddalealenaaenami32pxpng.png",
             "size": 4281,
             "sha256": "1a33eac4cad33744e61ad8beaf2143a128111100a8f51dd73c4af64f34b74800",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsbeyondhillanddalealenaaenami64pxpng_thumbnail.png",
+            "size": 14436,
+            "sha256": "af8d1f006b3b03c2cab2aed306b709b1d2e9b2564e8161354f111e84120f2e50",
             "once": false
         },
         {
@@ -3091,9 +3349,57 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingscalmdaysbythelakescilex64pxpng_thumbnail.png",
+            "size": 23595,
+            "sha256": "52cafd733b192c308c3dd095dfb56f2893cc2de67ade67abf5776b84bf64dc0b",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingscavernsennin13128pxpng_thumbnail.png",
+            "size": 27306,
+            "sha256": "7fbac85b681c6d465c9e9dc9153692a78c918689524b90352114326d09ddf1d9",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingscavernsennin1332pxpng.png",
             "size": 6469,
             "sha256": "f27b156373a5be53860852b76e7b9ee8b8145bd41b28e0e12a1007fee4fb7a11",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingscavernsennin1364pxpng_thumbnail.png",
+            "size": 20734,
+            "sha256": "d0891fc23672ae8b9a0ae2045aeb3e9bafa499c90c6305d9d0773bd489a577f7",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsconceptbinubalan128pxpng.png",
+            "size": 141834,
+            "sha256": "cdbdb6e5a16e28119554e280009d96aedf2db93f17a48208693965f82d3fcf3e",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsconceptbinubalan128pxpng_eighth.png",
+            "size": 6305,
+            "sha256": "0cba38476f0e34777cd11e8e6f80a4a88fa28dd7cd48cb9f9ec3dcddd21a23f7",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsconceptbinubalan128pxpng_half.png",
+            "size": 61265,
+            "sha256": "8368f82b096875864bcaeb2a6cd2f83ebf2b4db9d2f9910cfe9cfb8056d8e0ec",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsconceptbinubalan128pxpng_quarter.png",
+            "size": 21535,
+            "sha256": "5933797d83d030e446dba7bbe7270bb6f62f0ee648ee34eb0c06215ee5de4ef9",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsconceptbinubalan128pxpng_thumbnail.png",
+            "size": 21535,
+            "sha256": "5933797d83d030e446dba7bbe7270bb6f62f0ee648ee34eb0c06215ee5de4ef9",
             "once": false
         },
         {
@@ -3103,9 +3409,33 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsconceptbinubalan64pxpng_thumbnail.png",
+            "size": 18409,
+            "sha256": "6172e96b2a1f165a5fd1535354dabc703684803c5ceaa3a3ff042d03b4048964",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingscthulhuandreewallin128pxpng_thumbnail.png",
+            "size": 26361,
+            "sha256": "adef3999681a2eb348c266a3e60f51c692dd2a1997610998a9ba74a90a5e8b01",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingscthulhuandreewallin32pxpng.png",
             "size": 9138,
             "sha256": "6c037a2e066a32fdac336e86a460b818c0fdcf899fb582e450bc7e2da7b6f6bd",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingscthulhuandreewallin64pxpng_thumbnail.png",
+            "size": 23123,
+            "sha256": "8aece34d04efa09e2f03d23459e1818ca6592c71d0af86071cee615a13f7f457",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsdarkphoenixstarkiteckt128pxpng_thumbnail.png",
+            "size": 19042,
+            "sha256": "420bf06aef4a703a2ed44558e78077b640abc71b6bbb7e903a7d718548bd257c",
             "once": false
         },
         {
@@ -3115,9 +3445,33 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsdarkphoenixstarkiteckt64pxpng_thumbnail.png",
+            "size": 18272,
+            "sha256": "22ba90535c3339b673704c13b664ef270965619c0519a2e47c05e40b312c9502",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsdeerlandscapebyzwadher128pxpng_thumbnail.png",
+            "size": 20469,
+            "sha256": "4ad995360e51e49aea5abdda75f126d3ce6ea69cb73d801ea35024b58b334500",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingsdeerlandscapebyzwadher32pxpng.png",
             "size": 3970,
             "sha256": "acf26b445dd722491f68cf45fff3d48247ae40d8d8e9c7431ee0893931518c4b",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsdeerlandscapebyzwadher64pxpng_thumbnail.png",
+            "size": 13354,
+            "sha256": "c3326ed28bb94c55956625e1c470dc5c634b86844e254a8756292c6d0d57a9c0",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsfrostvalleyjorgejacinto128pxpng_thumbnail.png",
+            "size": 28945,
+            "sha256": "81fc25d6f02100942d3a8b5a6119bf32e67727fe5a573eb710e466080d13dbca",
             "once": false
         },
         {
@@ -3127,9 +3481,33 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsfrostvalleyjorgejacinto64pxpng_thumbnail.png",
+            "size": 25129,
+            "sha256": "f946db97ddc1e34a34077eeda3e7dd0dc8745635d62eda0839f37af20c967edc",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsgothiclandscapesorokaalexej128pxpng_thumbnail.png",
+            "size": 29242,
+            "sha256": "c6ab9a4ec740b81116063b464647f4e36f9804350a3540fd944989c0fe3f7183",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingsgothiclandscapesorokaalexej32pxpng.png",
             "size": 11576,
             "sha256": "e3bcc0f31781625df694e93cb2d44daa9eeb012f46c64cb81a10c8f58ca84baf",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsgothiclandscapesorokaalexej64pxpng_thumbnail.png",
+            "size": 27267,
+            "sha256": "5935862ff80dc4a76fd39f232b33c5dc33576d41111eb0aa92dcb5df10eb6189",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingshazycastledavidfrasheski128pxpng_thumbnail.png",
+            "size": 14936,
+            "sha256": "bf5077ce96134b3527bd9b6a8602ea74847c2a16ee4dbd90cfa360be4d49ba99",
             "once": false
         },
         {
@@ -3139,9 +3517,33 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingshazycastledavidfrasheski64pxpng_thumbnail.png",
+            "size": 14448,
+            "sha256": "d4c25072662a644b57c9c65efaae37265ef745229db2c20b92562bfc7ff5337f",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsikrannebulastarkiteckt128pxpng_thumbnail.png",
+            "size": 13024,
+            "sha256": "1c69579db3c52e46737f128c4a0a389a172f8d914062ebeecb6f316fe0e77cda",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingsikrannebulastarkiteckt32pxpng.png",
             "size": 3217,
             "sha256": "6ac51c1024be11bafcf9e4d09f7a6b9ca985ab16cb5d828d951599b9c73086c4",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsikrannebulastarkiteckt64pxpng_thumbnail.png",
+            "size": 9806,
+            "sha256": "d28c9a96ef941852ec9a114de4527beeef789255e3a9d34077c7977cefe7a135",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingslakesareltheron128pxpng_thumbnail.png",
+            "size": 29564,
+            "sha256": "e3a176701b536b1f9343163ba83f08f048c256d126163b5af82c0e7932ba1b88",
             "once": false
         },
         {
@@ -3151,9 +3553,39 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingslakesareltheron64pxpng_thumbnail.png",
+            "size": 27017,
+            "sha256": "160977f34a5cec6f1b1d3b5dad915914a3a05e9d6fb356e3c63ace5e6f4f53be",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingslifeintheskyvladimirkostuchek128pxpng_thumbnail.png",
+            "size": 28776,
+            "sha256": "0b73f9d43d3e5c51b358a1d47a3069d1e4878d931af5677050a381182a5f89d2",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingslifeintheskyvladimirkostuchek32pxpng.png",
             "size": 11341,
             "sha256": "9f3e33d406d393acc5143898a3413aa2d75c6dec62c2cc33470ea425c3e46b66",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingslifeintheskyvladimirkostuchek64pxpng_thumbnail.png",
+            "size": 25576,
+            "sha256": "a0c4d65802d0e18c584612a8bfd138a006dff265e257547e1bf9ba2bdbda8ba4",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsnevermorejosefbarton128pxpng.png",
+            "size": 174987,
+            "sha256": "91d198c4ffceab4f5ea23d4a4e8e08782b132a722a7cda6eb8d649e52fea3f12",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsnevermorejosefbarton128pxpng_thumbnail.png",
+            "size": 32256,
+            "sha256": "3744e8cd1bc24477d7cd4d5aee49855cc455a4c7f975c57c38ff9588cdff2bdf",
             "once": false
         },
         {
@@ -3163,9 +3595,33 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsnevermorejosefbarton64pxpng_thumbnail.png",
+            "size": 30049,
+            "sha256": "d3b59e17dec3feafac7c5764a15c44d83bb5ae223fbdd47430e179d72dfe41a8",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingssmallmemorymikaelgustafsson128pxpng_thumbnail.png",
+            "size": 24565,
+            "sha256": "b20e6c3fc36d39a9d3c0cd15901715dd51e65ee17d7f5865001a4d25339fa653",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingssmallmemorymikaelgustafsson32pxpng.png",
             "size": 9336,
             "sha256": "81cbc53b8beeb1282c826acf8db5fb2222f0d3993a7194b43a7dd3890aceb27b",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingssmallmemorymikaelgustafsson64pxpng_thumbnail.png",
+            "size": 21967,
+            "sha256": "851ec84e646b1a44c3f4fbda317364f8068bb21a44e4c84f4493bdbea0c7ad1c",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingstheancientonesjessicawoulfe128pxpng_thumbnail.png",
+            "size": 18565,
+            "sha256": "633b92ff381c2965e39e731e45b4e62862d0f91ec1cffcf19fe6170114b1b8e8",
             "once": false
         },
         {
@@ -3175,9 +3631,39 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingstheancientonesjessicawoulfe64pxpng_thumbnail.png",
+            "size": 12987,
+            "sha256": "1cf4578fd9182fb671a22adc47dbcdbed079fc88b9e44b7f8b39b8f7bfd4e342",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingstheesteemedpalacechrisostrowski128pxpng.png",
+            "size": 93463,
+            "sha256": "8141e70b3078d64b59ed36bd08231ee4f04921c9e5177f5dcb2bbe10a5fb706e",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingstheesteemedpalacechrisostrowski128pxpng_thumbnail.png",
+            "size": 40035,
+            "sha256": "12853b2713def42d83765afad2eff566b780840bd17b8785f404db8a2cba380c",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingstheesteemedpalacechrisostrowski32pxpng.png",
             "size": 8355,
             "sha256": "cfecaa4a494176cc82c2dbca30aa016b3d2a0709adc0320060090dcedd17f4f7",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingstheesteemedpalacechrisostrowski64pxpng_thumbnail.png",
+            "size": 27751,
+            "sha256": "b4d58d390e22832dda4855343fd471d0275c6a5f0ee545fd462b22c913795bb8",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsthelostlegendxutianhua128pxpng_thumbnail.png",
+            "size": 26873,
+            "sha256": "df14e77d20b4854e07e2e00114db1428f31dc488d60fd2b4b9713abd772a7923",
             "once": false
         },
         {
@@ -3187,9 +3673,27 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsthelostlegendxutianhua64pxpng_thumbnail.png",
+            "size": 24502,
+            "sha256": "acc87171fc2f6791392f634f7bbc8dff8b6b644e7e0e8eb5412a1a813a9674aa",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsthetorchstarkiteckt128pxpng_thumbnail.png",
+            "size": 35410,
+            "sha256": "988c4cb012176e817eab4eed7c92dd9fa7b7cc0a6d99f47b9201426508f38dce",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingsthetorchstarkiteckt32pxpng.png",
             "size": 15166,
             "sha256": "29c7478b6cf80333f42df82a0f5efd719c9d6a13bc273ab3d3aa6d969e1afa1e",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsthetorchstarkiteckt64pxpng_thumbnail.png",
+            "size": 33042,
+            "sha256": "8a24c36a8fef053804c8a0c95bb398b19453d25bc8076d382a6e9fa1882fa83e",
             "once": false
         },
         {
@@ -3205,15 +3709,39 @@
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsvenedigverena128pxpng_thumbnail.png",
+            "size": 30060,
+            "sha256": "ebc2ef1e0b19ccfb127e888e7c75f5a5d112c45df12fef7d5ae32ffa6200f1f5",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingsvenedigverena32pxpng.png",
             "size": 2705,
             "sha256": "293d91b1efdaf09521da749362352ece7b7b9466a1eef4b3c4d96dc632ccec02",
             "once": false
         },
         {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingsvenedigverena64pxpng.png",
+            "size": 8955,
+            "sha256": "8e6b60f097f68cbdb16181995672e3a9448af53eeabce8e4f586e0d8ca7ff50a",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingswindmilltowndarekzabrocki128pxpng_thumbnail.png",
+            "size": 28378,
+            "sha256": "86f6058988ae79612705d13e5be3a34b390668717d243f6424a7b61ffd6eee9a",
+            "once": false
+        },
+        {
             "path": "immersive_paintings_cache/immersivepaintingspaintingswindmilltowndarekzabrocki32pxpng_thumbnail.png",
             "size": 25112,
             "sha256": "c4d12b23e2dffcd453de6d6cc99e02c194a24903cbd2ff90f4cb661ed51bb3e0",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/immersivepaintingspaintingswindmilltowndarekzabrocki64pxpng_thumbnail.png",
+            "size": 27336,
+            "sha256": "023232da72ecd8358a92b1bac9a637b65537a712aaede2cdd5dbaa3a27807787",
             "once": false
         },
         {
@@ -5659,6 +6187,12 @@
             "once": false
         },
         {
+            "path": "mods/banksystem-fabric-1.4.1.jar.disabled",
+            "size": 490835,
+            "sha256": "a19a87610f3a99248bc134351f2e1f1967f379411ea021f5c08da34ee60bf16c",
+            "once": false
+        },
+        {
             "path": "mods/build.bat",
             "size": 2222,
             "sha256": "8bdd4edb0831f7709ac55823f068a1b5f2957e2906d5e1937d91e40e1905f657",
@@ -6013,6 +6547,12 @@
             "once": false
         },
         {
+            "path": "mods/respawn-complex-0.4.0-fabric.jar",
+            "size": 470114,
+            "sha256": "58d31876a762f999b29ff422c1edc8fab8945c49613d30b9bce7a16719891b8a",
+            "once": false
+        },
+        {
             "path": "mods/sdm_ui_lib-fabric-1.20.1-1.8.3.jar.disabled",
             "size": 256192,
             "sha256": "2d0c577dee742d6de9f9929f8eff0c120bed17021729d9bebf32e0ea96d5e153",
@@ -6106,6 +6646,12 @@
             "path": "mods/xaerominimap-fabric-1.20.1-25.3.10.jar",
             "size": 2170691,
             "sha256": "f9c9e738a9147ab8f7fb5801fb6533dd2e294968f8bdcd80443e8f3382c8b710",
+            "once": false
+        },
+        {
+            "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+            "size": 1294234,
+            "sha256": "7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac",
             "once": false
         },
         {
@@ -30303,7 +30849,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "6cc38303a8b8d2c7cd906772b5b8ae052b3cf22bcfe515dffaaa4d0f3be8095d",
+            "sha256": "91bce0657a0179cd78b62cdaa20a60b98fae48526935e1a4370d20f8fcea339c",
             "once": true
         },
         {
@@ -30363,5 +30909,5 @@
             ]
         }
     ],
-    "generated": "02/04/2026 00:01:01,17"
+    "generated": "02/04/2026 02:28:12,40"
 }
