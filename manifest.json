@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "1d804da9b616763669682f5dbf2d8d33f24c215155d75fcb50b4604b9ae697bc",
+            "sha256": "477e51c06c2402637eff2956b8fbc97cf080d38f2306d3a3be8f79fb96159cd3",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "d975a9e51e9ad75660760eb1d55a1235487f1deaf14ed9890323f2668cf67230",
+            "sha256": "fc85499a4670d769f657bcb9b44c4b5b56fd7f67c13bc7f7bd22d6784ccb6c4f",
             "once": false
         },
         {
@@ -148,6 +148,12 @@
             "path": ".fabric/processedMods/com_jcraft_jzlib-1.1.3-cc8f66d384e7079.jar",
             "size": 72674,
             "sha256": "8bcce4d82593a740816de5fd591b713954c38c9bd4cba970388bf80d8a35786f",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/com_moandjiezana_toml_toml4j-0.7.2-28fbb048a2dc21f4.jar",
+            "size": 63603,
+            "sha256": "2498d27a6526adbcbeec11afdbc4f18989599b1cc8317e127611f32e72b2cff1",
             "once": false
         },
         {
@@ -838,6 +844,12 @@
             "path": ".fabric/processedMods/net_lenni0451_reflect-1.6.1+curseforge-3264ac7e1b17deda.jar",
             "size": 207812,
             "sha256": "143f01b5f1b7d4398c539a3f71fc4125debd3f8f4753c0922485c27ee658e041",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/net_md-5_specialsource-1.11.2-163c5f38206d47b1.jar",
+            "size": 89912,
+            "sha256": "3324d5c424d36f259ecd1cd76da035e126ebf9cd217e6fd429316b6c27faec71",
             "once": false
         },
         {
@@ -1543,6 +1555,12 @@
             "once": false
         },
         {
+            "path": "config/cardboard/cardboard-config.yml",
+            "size": 559,
+            "sha256": "52bd3c41f5f9e70b30fd4f0d0c1e161a2128a0f1656d65f259ad917dbcffcaae",
+            "once": false
+        },
+        {
             "path": "config/cardinal-components-api.properties",
             "size": 273,
             "sha256": "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982",
@@ -1576,6 +1594,12 @@
             "path": "config/cityessentials.json5",
             "size": 24,
             "sha256": "8b9e448986e3e3938a107efa7c90c7e7d815a1d469e3bde0825919065f54e301",
+            "once": false
+        },
+        {
+            "path": "config/claimorous.toml",
+            "size": 6129,
+            "sha256": "18912bce5066753b97a25e377ba4b7ce7dd36df46ced61518003144bb3dd03c9",
             "once": false
         },
         {
@@ -1665,7 +1689,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "f4fd10e33d9e783dfe704b43a52176e75ca9accc7967042fdf780b260a3ed2a7",
+            "sha256": "f2ff370ffe584ea1d1ddacceb293f6fbdb581f1b67ef170f098a6f3b404a7691",
             "once": false
         },
         {
@@ -1738,6 +1762,18 @@
             "path": "config/easy_npc/skin/humanoid/humanoid_template.png",
             "size": 360,
             "sha256": "b96aee293379a6a60a0e862dc338eb6a14ea31929b4f78d9923eb6b60940106c",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/humanoid/minecraft_skin_chef_steve copia.png",
+            "size": 1720,
+            "sha256": "972fac3308e24df5261b0d24c77375934d9ddb7533b35d4e007e3ec739cb7fa1",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/skin/humanoid/minecraft_skin_chef_steve.png",
+            "size": 1084,
+            "sha256": "f2449bd338377ebc0ff73e1ac6fe9d3ba55ef65e6d09c645810b5992d0f9844f",
             "once": false
         },
         {
@@ -1917,7 +1953,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "679bef35df9d1f1a807c871f8bfd378288a4f799603ce4265afe50f56be670e6",
+            "sha256": "3c51353bceb486d85eefcf746ca0e8e7d16122a5ffd9c11bb1be668776056e66",
             "once": false
         },
         {
@@ -2211,7 +2247,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "a29b2e122d7cb9826580da654419f46c4c7f023b9082a04fc96c055b1fa3204a",
+            "sha256": "11b157a24f6dc59e65b134b03ae3c750f77c414b2e37b9f7d2bdc1434433e58b",
             "once": false
         },
         {
@@ -2271,7 +2307,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "40a8efd74bc198045bbb0eb46139e558f20fbffdd5809cb271a74de6b7b58f83",
+            "sha256": "2871b1d9be6434c3d0e9381d50ac55b7f036ab12d3c68fd125f066976787dd2b",
             "once": false
         },
         {
@@ -2481,7 +2517,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "78ee8821410d2267e6187db80b0d88234cb3149b4ab76ea24e394e166277503e",
+            "sha256": "a43cb26c4984f5465bcd668db2f596df5a3b28c4011b219f3b0ad744ebb91d8c",
             "once": false
         },
         {
@@ -2708,14 +2744,14 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 7461,
-            "sha256": "d9fe168fdf730e193fec1d55b86160901bcc4dcdedce03924b2a8330a071b08a",
+            "size": 7391,
+            "sha256": "73eb3c6098c3c77a4830906f5d1cf842f929da54f40cde1fdc15cd98fcb2c6f7",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 7966,
-            "sha256": "51d2ee23bed27e3e685cf8f526f638796912b9c5b4c7ea88db7473b5bf5c2030",
+            "size": 9052,
+            "sha256": "8be405c9c4954e4b68d9995cef1902dc9c07ce75fab8a6224ca8b6449a1409e0",
             "once": false
         },
         {
@@ -2727,13 +2763,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "1cbea9e5956d3f0e3baba2a88cd5c39f079c293fce828379f0135ba33bdc67d7",
+            "sha256": "e9a03abfd25ee07f58b0b19ea2e567edf7da6eed607bd279e21459100cc50a75",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "da02a49ba4cbcf6a3639c9fe3b3961fb956963f29a78085eccc04e1d9f6b6958",
+            "sha256": "456321e71a29204b4bb6e42af3fe5d3d49ec87a2b163fc434edda0b9732416cf",
             "once": false
         },
         {
@@ -5815,6 +5851,78 @@
             "once": false
         },
         {
+            "path": "lib/adventure-api-4.14.0.jar",
+            "size": 346214,
+            "sha256": "1d4cc85babc49917469362fdb4bcd28efbc81c86e52bf473d167ee97c0ec5c76",
+            "once": false
+        },
+        {
+            "path": "lib/adventure-key-4.14.0.jar",
+            "size": 11070,
+            "sha256": "0b2bd74353932595c857af7d637210fb7819dfb1fc5b52a04eefb938ea847972",
+            "once": false
+        },
+        {
+            "path": "lib/adventure-text-serializer-gson-4.14.0.jar",
+            "size": 40705,
+            "sha256": "15b4bc3b0ec6c4ebe722889fb8be586ad3db1e7f88c4e8c72d3ff43e8ceccd18",
+            "once": false
+        },
+        {
+            "path": "lib/adventure-text-serializer-legacy-4.14.0.jar",
+            "size": 28902,
+            "sha256": "47a98f816c9d3bd9fb5746a7b3333984621c0be44506b0d7a9a21fabfe9dad8f",
+            "once": false
+        },
+        {
+            "path": "lib/adventure-text-serializer-plain-4.14.0.jar",
+            "size": 12952,
+            "sha256": "db1d114b50f76c1b1d433dce42e5217a6bf35acdc2842161afb8ca9cfd9ec900",
+            "once": false
+        },
+        {
+            "path": "lib/bungeecord-chat-1.16-R0.4.jar",
+            "size": 148961,
+            "sha256": "4f7634ead4022f9bf855173aa44dfe1374f1e4be9a3e9f1001c61a2c4885ec55",
+            "once": false
+        },
+        {
+            "path": "lib/commons-collections-3.2.1.jar",
+            "size": 575389,
+            "sha256": "87363a4c94eaabeefd8b930cb059f66b64c9f7d632862f23de3012da7660047b",
+            "once": false
+        },
+        {
+            "path": "lib/commons-collections4-4.4.jar",
+            "size": 751914,
+            "sha256": "1df8b9430b5c8ed143d7815e403e33ef5371b2400aadbe9bda0883762e0846d1",
+            "once": false
+        },
+        {
+            "path": "lib/commons-lang-2.6.jar",
+            "size": 284220,
+            "sha256": "50f11b09f877c294d56f24463f47d28f929cf5044f648661c0f0cfbae9a2f49c",
+            "once": false
+        },
+        {
+            "path": "lib/mysql-connector-j-8.0.32.jar",
+            "size": 2480823,
+            "sha256": "522329fe925980f02e5eb89b59d227245d345415ff0c08932a68c9765c13acc5",
+            "once": false
+        },
+        {
+            "path": "lib/paper-api-1.20.1-R0.1-20230921.165944-178.jar",
+            "size": 1941026,
+            "sha256": "161ecf24e6ffb325a79eb7eb04904419c2b80f602672e4758785e9389e9038d1",
+            "once": false
+        },
+        {
+            "path": "lib/sqlite-jdbc-3.41.0.0.jar",
+            "size": 12837567,
+            "sha256": "e5ecb1443030799330836594a9dcab56ff7b23ff54228343546448a69610a36c",
+            "once": false
+        },
+        {
             "path": "local/ftblibrary-client.snbt",
             "size": 638,
             "sha256": "f06f7488b7856826d9e67883934c0076563dd31bb2ee134b880bf2f8dca8597d",
@@ -5932,6 +6040,12 @@
             "path": "mods/Bookshelf-Fabric-1.20.1-20.2.15.jar",
             "size": 315041,
             "sha256": "bfdcaea401be95943503cce660a68add5e8cdc08a2a8112b1d80dd63d7d63766",
+            "once": false
+        },
+        {
+            "path": "mods/Cardboard-1.20.jar",
+            "size": 5867092,
+            "sha256": "b18949123ec086523afc1cddf8c36655732135b675a10f9d3233a0a6a805870e",
             "once": false
         },
         {
@@ -6133,7 +6247,7 @@
             "once": false
         },
         {
-            "path": "mods/[client]Multiworld-Fabric-bundle.jar",
+            "path": "mods/[client]Multiworld-Fabric-bundle.jar.disabled",
             "size": 1008879,
             "sha256": "18f0d0dd6cacbd159dc9f4532a6829638fba272e445037ea8d791c35fdc90585",
             "once": false
@@ -7083,7 +7197,7 @@
         {
             "path": "options.txt",
             "size": 8052,
-            "sha256": "6cd2bb74925a8c1568203cf2e6ea6e502b091a76d0bc7572886baa4d0fcbdf50",
+            "sha256": "6e769e36adc2a8da674d438c3f5d018660eaaab2b13f5f3f0e9833b07a54357c",
             "once": true
         },
         {
@@ -30969,7 +31083,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "3686f2935fc46f73cd2bef7aff370d7276cd4d8252a821462804809ed5d77852",
+            "sha256": "ef89260f506cc6c4351444196ff9ed99b4f3a771978393b5b0d03002a96f7102",
             "once": true
         },
         {
@@ -31029,5 +31143,5 @@
             ]
         }
     ],
-    "generated": "03/04/2026 14:12:05,22"
+    "generated": "03/04/2026 22:08:59,79"
 }
