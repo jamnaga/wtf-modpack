@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "0dd482dd1becd7df186f436e1c2eb7802abff25b13c683adf25bbbb8548bbf32",
+            "sha256": "77a4825a2b213cf9404b93a0612e79df9d191ceaef5f8a121e21068716c4818d",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "348d98890aef4886fa44556556196e83088d05fe8edf5d63d04906f596d01eba",
+            "sha256": "a1daf2a6a9a3f21ff2bf4f21a504cc460ee24d1224e3e7c00a3bebf7bb4f628d",
             "once": false
         },
         {
@@ -1591,6 +1591,12 @@
             "once": false
         },
         {
+            "path": "config/chat_heads.json5",
+            "size": 229,
+            "sha256": "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503",
+            "once": false
+        },
+        {
             "path": "config/cityessentials.json5",
             "size": 24,
             "sha256": "8b9e448986e3e3938a107efa7c90c7e7d815a1d469e3bde0825919065f54e301",
@@ -1689,7 +1695,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "9f10085f336a9f6245b155474ea19cd3b20ec1ba58b0d3461090a4444fa8aca3",
+            "sha256": "a5a302bfd09ebca1985da35731bc22f5489aee20cdb28170c6b3ac5d4b9e4567",
             "once": false
         },
         {
@@ -1953,7 +1959,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "ebc996371a361415834e9ae2b45d2ea8b8ea3561cb3faeda52f6ed17df75ec93",
+            "sha256": "9e8a5500d80dfe94e6e093b9f807798f3eac058ee16a78edb66e63efb055e8b7",
             "once": false
         },
         {
@@ -2247,7 +2253,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "26fac445689cf2e64b843a21651bdb60732d0047f8479d834486821b4ad7b63c",
+            "sha256": "080f03df6f4ca53a831fd6d03a42ab2ba4826d32f27711a0dfeb55ef1020460c",
             "once": false
         },
         {
@@ -2307,7 +2313,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "cf4b49b762de06c7c06117c250b80bbaf274c84225d888e10426f3a412476de0",
+            "sha256": "0323d790e2cdc5909f2bd41c9f8763e87c8b821f94222828a8cf5f6b9eb3bc42",
             "once": false
         },
         {
@@ -2517,7 +2523,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "56387dd11ecc76c8b57a99548b8f8facaec5f5229d60daff800bb5e20cab848b",
+            "sha256": "5b6a7099b84571e9db3218a90d180046db53f5b80d6792efb67c512332e83621",
             "once": false
         },
         {
@@ -2719,6 +2725,12 @@
             "once": false
         },
         {
+            "path": "config/replaymod.json",
+            "size": 1811,
+            "sha256": "24aee6bdc0809c48fca442fd2417f39a8413b290b98f0b7a3ffcccd2b37515f5",
+            "once": false
+        },
+        {
             "path": "config/respawn_complex.json",
             "size": 2,
             "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
@@ -2750,8 +2762,8 @@
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 8348,
-            "sha256": "9af238defdfc6b2c663ad9bfc6541414d1e4db20760e4e9d2dada4bda1ec0583",
+            "size": 9751,
+            "sha256": "6c5728de1bb30d70da2f6686d72f2fab84b35f1e073c283687499e08e863a0de",
             "once": false
         },
         {
@@ -2763,13 +2775,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "78433010543fe2bc2249a42798c9dc0e1ab7c55912c2129c0b6b9d132a2c2a2b",
+            "sha256": "67766df1fa9b797c94f256d37692a100948f5e46a0b7c9a284734f2edbf48713",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "3dde37f1e5aedcba1e6d262b9ce400991f88fc1187c50f57b07abaa0246536db",
+            "sha256": "0c94ca52cd6077bc0199f49e7506017f031e80126e9bd6e4c70bc2916a1695c6",
             "once": false
         },
         {
@@ -2822,8 +2834,8 @@
         },
         {
             "path": "config/sodium-options.json",
-            "size": 632,
-            "sha256": "497f2d7fb244d97b0eefee537efc0d163586acd4e4e5e877d005d6b7f6e9b55d",
+            "size": 630,
+            "sha256": "6c6c8224a46f31e531f54a26c36e3826975d076ac4dda62de1113cade8ace0fb",
             "once": false
         },
         {
@@ -3129,7 +3141,7 @@
         {
             "path": "fancymenu_data/buddy/buddy_save.json",
             "size": 260,
-            "sha256": "59080bcdce4467db1ac344b2df8e4a8d43c9625612e341c30a80741b1f2eb13e",
+            "sha256": "ef65af3e939cd56ac75808390080928d2e10084d6fea37fa05beac631fc799dd",
             "once": false
         },
         {
@@ -6259,6 +6271,12 @@
             "once": false
         },
         {
+            "path": "mods/[client]chat_heads-0.15.0-fabric-1.20.jar",
+            "size": 84380,
+            "sha256": "8a5737b9ca310b50361f969565e6893ad848194af72ef2ab1f5679e56a1e9ce3",
+            "once": false
+        },
+        {
             "path": "mods/[client]colorwheel-fabric-1.2.3+mc1.20.1.jar",
             "size": 380796,
             "sha256": "86ed860c23ab598e54146bd42429d02352cc83721bc07900b038025d85d60da5",
@@ -6340,6 +6358,18 @@
             "path": "mods/[client]lambdynamiclights-4.4.0+1.20.1.jar",
             "size": 1114373,
             "sha256": "074d6c79e002790b696ebcfdd4ff2a2d57ec55228f93b47e952eeebd5baf5301",
+            "once": false
+        },
+        {
+            "path": "mods/[client]lazydfu-0.1.3.jar",
+            "size": 14531,
+            "sha256": "4f3b77273b57d019a8db58371e63e4426557c1bb7c9cc10536a03972122778c8",
+            "once": false
+        },
+        {
+            "path": "mods/[client]replaymod-1.20.1-2.6.23.jar",
+            "size": 14739015,
+            "sha256": "a46491d73456187ac888d31f6cc1160e42304427a63da88874c84abeb4d14033",
             "once": false
         },
         {
@@ -6445,7 +6475,7 @@
             "once": false
         },
         {
-            "path": "mods/claimorous-0.9.2.jar",
+            "path": "mods/claimorous-0.9.2.jar.disabled",
             "size": 550288,
             "sha256": "76ab7376dbc4f45aab46f678f1be581df8baf0a77bbed612470a7e04b5195003",
             "once": false
@@ -7196,8 +7226,8 @@
         },
         {
             "path": "options.txt",
-            "size": 8052,
-            "sha256": "1b19b1658741309a5a09f24af2b6e0f245f59688d9aa7601d8e5cd6bb1df2add",
+            "size": 8058,
+            "sha256": "32f8ab89a5f65ed26c9e789445126389eae965f58f2f0784e7df70721e7eacef",
             "once": false
         },
         {
@@ -31057,6 +31087,48 @@
             "once": false
         },
         {
+            "path": "replay_recordings/2026_04_04_00_11_51.mcpr",
+            "size": 13458515,
+            "sha256": "1515cea78689ea869493caaf5301330eb020b4b3f70d604905e15b899e5ef866",
+            "once": false
+        },
+        {
+            "path": "replay_recordings/raw/2026_04_04_00_11_51.mcpr",
+            "size": 13588542,
+            "sha256": "f2203f7eb5a85b13f186e0c1cc3380d400df02b40618ec670542d74594992873",
+            "once": false
+        },
+        {
+            "path": "replay_recordings/recording/2026_04_04_00_20_24.mcpr.tmp/changed/markers.json",
+            "size": 335,
+            "sha256": "a497714fa73439104fc6534991311b7e8c941cb71b3307dbef00d7d663071a37",
+            "once": false
+        },
+        {
+            "path": "replay_recordings/recording/2026_04_04_00_20_24.mcpr.tmp/changed/metaData.json",
+            "size": 313,
+            "sha256": "7eb294f95410ab617cee948a04442f85b438d4149e148aad11d4b50061d6ad3a",
+            "once": false
+        },
+        {
+            "path": "replay_recordings/recording/2026_04_04_00_20_24.mcpr.tmp/changed/mods.json",
+            "size": 4110,
+            "sha256": "bfb3aed9197b43b58fdd6ff57ecc13ff3eb713e3f333d3cdb359ae0698bd26ed",
+            "once": false
+        },
+        {
+            "path": "replay_recordings/recording/2026_04_04_00_20_24.mcpr.tmp/changed/recording.tmcpr",
+            "size": 794251413,
+            "sha256": "1a49bb5101404771067daaa56e4e9fef5e04831380266e5c92f0b4713af46680",
+            "once": false
+        },
+        {
+            "path": "replay_recordings/recording/2026_04_04_00_20_24.mcpr.tmp/changed/recording.tmcpr.crc32",
+            "size": 7,
+            "sha256": "f1234d75178d892a133a410355a5a990cf75d2f33eba25d575943d4df632f3a4",
+            "once": false
+        },
+        {
             "path": "resourcepacks/Faithful 32x - 1.20.1.zip",
             "size": 10955093,
             "sha256": "9f129a4a8ecea0cf6b1ba02367da40b921776d81ca6bb9bdd1c6e3672341e3f2",
@@ -31083,7 +31155,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "5c7d8bd51298d3b56eb9c8fa695743c1a9b0d4056ec56757f9f2cccfb4056c4e",
+            "sha256": "437f54cfcf6bda15c2c7c680a443dc1106985fd175f1adaa57bf1cf04eac3f1e",
             "once": true
         },
         {
@@ -31143,5 +31215,5 @@
             ]
         }
     ],
-    "generated": "03/04/2026 22:57:36,65"
+    "generated": "04/04/2026 01:31:27,73"
 }
