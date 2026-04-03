@@ -164,7 +164,7 @@ key_key.mtr.debug_cycle_negative:key.keyboard.keypad.subtract
 key_key.mtr.debug_cycle_positive:key.keyboard.keypad.add
 key_key.pfm.toiletUse:key.keyboard.u
 key_key.pointblack.reload:key.keyboard.r
-key_key.pointblack.firemode:key.keyboard.o
+key_key.pointblack.firemode:key.keyboard.b
 key_key.pointblack.inspect:key.keyboard.i
 key_key.pointblack.attachments:key.keyboard.y
 key_key.pointblack.scope_switch:key.keyboard.v
@@ -180,7 +180,7 @@ key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_minimap_server_profiles:key.keyboard.unknown
 key_gui.xaero_zoom_in:key.keyboard.period
 key_gui.xaero_zoom_out:key.keyboard.comma
-key_gui.xaero_new_waypoint:key.keyboard.b
+key_gui.xaero_new_waypoint:key.keyboard.o
 key_gui.xaero_waypoints_key:key.keyboard.u
 key_gui.xaero_enlarge_map:key.keyboard.m
 key_gui.xaero_toggle_map:key.keyboard.unknown
