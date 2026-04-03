@@ -6043,12 +6043,6 @@
             "once": false
         },
         {
-            "path": "mods/Cardboard-1.20.jar",
-            "size": 5867092,
-            "sha256": "b18949123ec086523afc1cddf8c36655732135b675a10f9d3233a0a6a805870e",
-            "once": false
-        },
-        {
             "path": "mods/CityEssentials-0.5.0.jar",
             "size": 401160,
             "sha256": "9aa2b5628931b58c5b7a9f264c1e3688fdad0fd9f1fd37634616d9b4dab4bed2",
@@ -6358,6 +6352,12 @@
             "path": "mods/[client]spawnanimations-v1.11.3-mc1.17-1.21.11-mod.jar",
             "size": 223524,
             "sha256": "792970a9bc1c57800bf695e9e21ddbe9b72b3dda09dbb1172763a04c89d6aa78",
+            "once": false
+        },
+        {
+            "path": "mods/[server]Cardboard-1.20.jar",
+            "size": 5867092,
+            "sha256": "b18949123ec086523afc1cddf8c36655732135b675a10f9d3233a0a6a805870e",
             "once": false
         },
         {
@@ -31143,5 +31143,5 @@
             ]
         }
     ],
-    "generated": "03/04/2026 22:12:23,07"
+    "generated": "03/04/2026 22:17:35,79"
 }
