@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "a9ec45850456de637c7c8a27f5da52a74c91d537f7660871f170304ddb3abb89",
+            "sha256": "43f5313a5be57ba5f48cb9076597da80d88eb42e2a6db5e0ec14a5a9278b6880",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
+            "sha256": "a1daf2a6a9a3f21ff2bf4f21a504cc460ee24d1224e3e7c00a3bebf7bb4f628d",
             "once": false
         },
         {
@@ -1689,7 +1689,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "3e32a525404b5bc409cef9ca24df747e123978261d65fb636d03581c26c76bd0",
+            "sha256": "fdba9be521b5d75fa8886b741306ce976b9c66a2c244e1aa2072c5082fe98e62",
             "once": false
         },
         {
@@ -1953,7 +1953,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "c951d34da8c9251ff648546726bdcbe54c411f7f4a01337349348d76066691d5",
+            "sha256": "95498e535e97ba677f3cb0370e704a99a3f20ef73e5eb60fe8e6ed37e633453e",
             "once": false
         },
         {
@@ -2247,7 +2247,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "dd17c1a642e42269b2000276f7f0b4a0ae73bf5eafe3a4e0bd3c38c6482c93f3",
+            "sha256": "b091573569db78bf725b990eea4be4ee23b63ad8710dd82f57c66f1dd8426627",
             "once": false
         },
         {
@@ -2307,7 +2307,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "6d69728f3e2d6fc5eea4b02360937c09061e9bfef64a7d087ae16df93b31bd25",
+            "sha256": "22734de3bf85fd281b271ec4f5b97da98ef0cd28a91a92a33c7c817a75330fbb",
             "once": false
         },
         {
@@ -2517,7 +2517,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "e0fa92df3a56afdbe65a597988c5face1018ffc73f4f47ff80c7bb605c3108f4",
+            "sha256": "d4f2a0f45bc0e499273e764507ebaf177aaf16b2973b68fd0e395a84a5a99b9f",
             "once": false
         },
         {
@@ -6355,12 +6355,6 @@
             "once": false
         },
         {
-            "path": "mods/[server]Cardboard-1.20.jar",
-            "size": 5867092,
-            "sha256": "b18949123ec086523afc1cddf8c36655732135b675a10f9d3233a0a6a805870e",
-            "once": false
-        },
-        {
             "path": "mods/aaa_particles-1.20.1-1.4.11-fabric.jar",
             "size": 5070446,
             "sha256": "9d77c5f57eabc0f50a258b1a70186181926b2198b8a5c0cda75a5af9b529ef86",
@@ -6523,7 +6517,7 @@
             "once": false
         },
         {
-            "path": "mods/easyauth-mc1.20-3.4.2.jar.disabled",
+            "path": "mods/easyauth-mc1.20-3.4.2.jar",
             "size": 23204155,
             "sha256": "d77b0d2da1a987a388da0e22fc50a4ec66b7fd0a75482088ea5a534be07a3eb9",
             "once": false
@@ -31083,7 +31077,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "f94ef5cfc86219444a4f31288d81cd8fd2a11f64c9618396744316e10649af56",
+            "sha256": "d40faa629969a0c21a2a426ebce7d2f7db055ac5d50ef87a20bb3399dc4d98e3",
             "once": true
         },
         {
@@ -31143,5 +31137,5 @@
             ]
         }
     ],
-    "generated": "03/04/2026 22:25:16,70"
+    "generated": "03/04/2026 22:33:50,68"
 }
