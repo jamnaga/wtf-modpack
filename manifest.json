@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "cfec2e21f68298e64dbfab04e3289a4c3102a24b58a21ddef45e77e301208bec",
+            "sha256": "1d804da9b616763669682f5dbf2d8d33f24c215155d75fcb50b4604b9ae697bc",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "551831f63b75277082f1c07a72b3e1dd2c6821cc95bed79cb95f5760a1e65c12",
+            "sha256": "d975a9e51e9ad75660760eb1d55a1235487f1deaf14ed9890323f2668cf67230",
             "once": false
         },
         {
@@ -688,6 +688,12 @@
             "path": ".fabric/processedMods/lavender-md-owo-ui-0.1.1+1.20-d8a60c6c8c08f3e6.jar",
             "size": 28977,
             "sha256": "fbfcf01a72d341ff2b95810f7ccf8528d13b5dfc6641eb27d1883696a2983b9d",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/lingua_bib-1.20.1-1.0.6-769d4c925448de4b.jar",
+            "size": 43652,
+            "sha256": "f5dda796037067f93e130d4e20bab31fb775a4e8e20b9df2ddbeccb555165496",
             "once": false
         },
         {
@@ -1659,7 +1665,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "156770e50b0f579f0d7b9463e4ab1bc4d7a160334486c084eb073c7992d0eaa9",
+            "sha256": "f4fd10e33d9e783dfe704b43a52176e75ca9accc7967042fdf780b260a3ed2a7",
             "once": false
         },
         {
@@ -1911,7 +1917,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "cc829fc27973ea5e7a60f98fc84a930c6476d68644ad16c62fbc490a1923e48d",
+            "sha256": "679bef35df9d1f1a807c871f8bfd378288a4f799603ce4265afe50f56be670e6",
             "once": false
         },
         {
@@ -2205,7 +2211,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "c9f8365b03b224bfba0b4cd76e3b9a3ec68fd6e9c8c8bdcaf9a5a97b37216e18",
+            "sha256": "a29b2e122d7cb9826580da654419f46c4c7f023b9082a04fc96c055b1fa3204a",
             "once": false
         },
         {
@@ -2265,7 +2271,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "63e6e0752e3e6cce396352c0ed513182b9b0f035533488e4702eff12128292a8",
+            "sha256": "40a8efd74bc198045bbb0eb46139e558f20fbffdd5809cb271a74de6b7b58f83",
             "once": false
         },
         {
@@ -2475,7 +2481,13 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "609a8d6af01cd83fc3f52f312915e7417abdc9a4d687cc29a4d295b6813dc7dc",
+            "sha256": "78ee8821410d2267e6187db80b0d88234cb3149b4ab76ea24e394e166277503e",
+            "once": false
+        },
+        {
+            "path": "config/lingua_bib.json",
+            "size": 29,
+            "sha256": "986ed19ef024b1c4dd2ff7b31bef04eb5609bfa23bf1fa2b319258513c80e44a",
             "once": false
         },
         {
@@ -2702,8 +2714,8 @@
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 7738,
-            "sha256": "5128dcb15bd2eeec8e59af5d0395826d6c8dac682f6fa3c77eb7c4cb757f630a",
+            "size": 7966,
+            "sha256": "51d2ee23bed27e3e685cf8f526f638796912b9c5b4c7ea88db7473b5bf5c2030",
             "once": false
         },
         {
@@ -2715,13 +2727,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "f2fdb5f4266911016a04a0750574997f9f6bd028296a358211f77d39fa30b06c",
+            "sha256": "1cbea9e5956d3f0e3baba2a88cd5c39f079c293fce828379f0135ba33bdc67d7",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "2760a86010eb89214a41a0967ba2a056da45328b3ce2c6e41eca84fae66b9d11",
+            "sha256": "da02a49ba4cbcf6a3639c9fe3b3961fb956963f29a78085eccc04e1d9f6b6958",
             "once": false
         },
         {
@@ -6325,6 +6337,12 @@
             "once": false
         },
         {
+            "path": "mods/claimorous-0.9.2.jar",
+            "size": 550288,
+            "sha256": "76ab7376dbc4f45aab46f678f1be581df8baf0a77bbed612470a7e04b5195003",
+            "once": false
+        },
+        {
             "path": "mods/cloth-config-11.1.136-fabric.jar",
             "size": 1172214,
             "sha256": "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa",
@@ -6442,12 +6460,6 @@
             "path": "mods/ferritecore-6.0.1-fabric.jar",
             "size": 125197,
             "sha256": "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
-            "once": false
-        },
-        {
-            "path": "mods/flan-1.20.1-1.11.15-fabric.jar",
-            "size": 883030,
-            "sha256": "f7644c25164f58df9b0369557703b91243240a8af8ee764a967c232b63f71b90",
             "once": false
         },
         {
@@ -30957,7 +30969,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "66d4653c8b15ccb9feb9316a7b2d1f839b68f391a429ef1eab4048f734471c6d",
+            "sha256": "3686f2935fc46f73cd2bef7aff370d7276cd4d8252a821462804809ed5d77852",
             "once": true
         },
         {
@@ -31017,5 +31029,5 @@
             ]
         }
     ],
-    "generated": "03/04/2026 13:24:58,16"
+    "generated": "03/04/2026 14:12:05,22"
 }
