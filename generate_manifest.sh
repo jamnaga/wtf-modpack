@@ -22,6 +22,7 @@ from pathlib import Path
 ROOT = Path.cwd()
 OUTPUT_FILE = "manifest.json"
 ONCE_LIST_FILE = ".oncelist"
+ROOT_METADATA_FILE = "root.json"
 IGNORE_FILES = (".gitignore", ".manifestignore")
 AUTO_EXCLUDE_PREFIXES = (".venv/",)
 
@@ -63,6 +64,24 @@ def load_ignore_patterns() -> list[str]:
                 continue
             patterns.append(line.replace("\\", "/"))
     return patterns
+
+
+def load_root_metadata() -> dict:
+    metadata_path = ROOT / ROOT_METADATA_FILE
+    if not metadata_path.exists():
+        return {}
+
+    try:
+        data = json.loads(metadata_path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        print(f"Avviso: impossibile leggere {ROOT_METADATA_FILE}: {exc}")
+        return {}
+
+    if not isinstance(data, dict):
+        print(f"Avviso: {ROOT_METADATA_FILE} deve contenere un oggetto JSON al livello root")
+        return {}
+
+    return data
 
 
 def match_segment_pattern(rel_path: str, pattern: str, directory_only: bool) -> bool:
@@ -213,6 +232,9 @@ manifest = {
     "files": [],
     "packages": packages,
 }
+
+# Merge di tutte le chiavi definite in root.json nel root del manifest
+manifest.update(load_root_metadata())
 
 now = datetime.datetime.now()
 manifest["generated"] = now.strftime("%d/%m/%Y %H:%M:%S,") + f"{int(now.microsecond / 10000):02d}"

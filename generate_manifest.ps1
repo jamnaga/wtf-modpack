@@ -3,6 +3,7 @@ $ErrorActionPreference = 'Stop'
 
 $outputFile = "manifest.json"
 $onceListFile = ".oncelist"
+$rootMetadataFile = "root.json"
 $ignorePatterns = @()
 
 # Carica la lista dei file "once"
@@ -149,6 +150,19 @@ $manifestObj = @{
     files = @()
     packages = $packages
     generated = (Get-Date -Format "dd/MM/yyyy HH:mm:ss,ff")
+}
+
+# Merge di tutte le chiavi definite in root.json nel root del manifest
+if (Test-Path $rootMetadataFile) {
+    try {
+        $rootMetadata = Get-Content $rootMetadataFile -Raw | ConvertFrom-Json
+        foreach ($prop in $rootMetadata.PSObject.Properties) {
+            $manifestObj[$prop.Name] = $prop.Value
+        }
+    }
+    catch {
+        Write-Warning "Impossibile leggere ${rootMetadataFile}: $($_.Exception.Message)"
+    }
 }
 
 # Processa ogni file

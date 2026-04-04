@@ -1,11 +1,10 @@
 ﻿{
-    "generated":  "04/04/2026 18:09:39,65",
     "files":  [
                   {
                       "path":  ".gitignore",
-                      "sha256":  "99f639d70b300ea56f5af445303eaa59c82c84280acc14cea66989a6b33b23b5",
+                      "sha256":  "7f73928f1b0037099badf0abc25cc779fb69bbaaf671d8458b604b501a0c9f8b",
                       "once":  false,
-                      "size":  449
+                      "size":  450
                   },
                   {
                       "path":  ".manifestignore",
@@ -21,15 +20,15 @@
                   },
                   {
                       "path":  "generate_manifest.ps1",
-                      "sha256":  "88569c61b32c7328bb58eb439616c2a5a3f88d0c7839baef202708cf25728383",
+                      "sha256":  "7f8b19b2b562f02e1cfad425c678d45daa1ea53a51426cbfede26615923ee0a9",
                       "once":  false,
-                      "size":  6477
+                      "size":  6957
                   },
                   {
                       "path":  "generate_manifest.sh",
-                      "sha256":  "8c8b15c9424e00ea1e4c67c9ba083c891d4d5ce5ff0d1d7a77ae8424824216de",
+                      "sha256":  "15b7ce5bed45f28da137d3f66f09e85ca42eea6007e95d767262d896385ccc63",
                       "once":  false,
-                      "size":  7079
+                      "size":  7744
                   },
                   {
                       "path":  "irisUpdateInfo.json",
@@ -48,6 +47,12 @@
                       "sha256":  "4aafdd5e1ab79e1f445aedcc2f1b50c2c7d071b37245e29b50818afa32035ce6",
                       "once":  false,
                       "size":  9176
+                  },
+                  {
+                      "path":  "root.json",
+                      "sha256":  "e971c52cf2920a6571ef390b916a25b08931cfce8e56fdb4067642404283d4f5",
+                      "once":  false,
+                      "size":  67
                   },
                   {
                       "path":  "servers.dat",
@@ -31173,5 +31178,8 @@
                                        }
                                    ]
                      }
-                 ]
+                 ],
+    "fabricLoaderVersion":  "0.18.4",
+    "mcVersion":  "1.20.1",
+    "generated":  "04/04/2026 23:36:47,42"
 }
