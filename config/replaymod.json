@@ -20,7 +20,7 @@
     "recordSingleplayer": true,
     "recordServer": true,
     "indicator": true,
-    "autoStartRecording": true,
+    "autoStartRecording": false,
     "autoPostProcess": true,
     "renameDialog": true
   },
@@ -53,7 +53,7 @@
     "frameTimeFromWorldTime": false
   },
   "simplepathing": {
-    "pathpreview": false,
+    "pathpreview": true,
     "autosync": true,
     "timelineLength": 1800,
     "interpolator": "replaymod.gui.editkeyframe.interpolator.catmullrom.name",
