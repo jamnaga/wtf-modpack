@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "3f676280e76e22e986e37c8c6a7827255a65cba44de8e8d1b748e07e05427912",
+            "sha256": "0d114dc53047766bf732388e22628fb51f6363a2a80e6d6e5088a38bba0e4560",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "5e409c6e19f9a444998de529c611fc79e39846cefce9888b1e21a6526e3adb55",
+            "sha256": "aa2d59baaa68cda8b26a2d7c3cf58c041fbb6aefdd4ed28b306ade1e7764b7b4",
             "once": false
         },
         {
@@ -1441,6 +1441,12 @@
             "once": false
         },
         {
+            "path": ".fabric/remappedJars/minecraft-1.20.1-0.18.6/client-intermediary.jar",
+            "size": 23751961,
+            "sha256": "afd252019abccbc345dd145b1c68e52fe1ca8db743c9f24a1181513dcc63e8fd",
+            "once": false
+        },
+        {
             "path": ".fabric/remappedJars/minecraft-1.21.1-0.18.4/client-intermediary.jar",
             "size": 26734947,
             "sha256": "5b2e192e4a0f0182a1dca9bca2b725c30b8ab26db82154040337baa5af6c7da1",
@@ -1731,7 +1737,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "8a22788bcdb2e00c1e6cbcb073bd5ea92fda1a7ccba699e72eba02e348495ee8",
+            "sha256": "3048ce0d0647e9fdd5d5cb4f52b0117dce296fa178975f66a28d49859109c768",
             "once": false
         },
         {
@@ -2013,7 +2019,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "1ac0b927ebf79c25d3643591ff21e37be832ce861f030f23b74829f708175776",
+            "sha256": "b5c40a3802d95c274b2a5ee1673799f1bf563fe53206ea10de6d2899c487c06a",
             "once": false
         },
         {
@@ -2307,7 +2313,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "fcb584064da44f72b5dee6e0afecfb28eb7b17b61848b588274f6e91088a5875",
+            "sha256": "fa6eff2e3d3ff7693bf3d04704da20315dfe28879a535b80419ad613b35205a1",
             "once": false
         },
         {
@@ -2367,7 +2373,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "469b02a459d8a37593f1350b4989337e739bde3aa2b7029cc951218cd7d12a3f",
+            "sha256": "23310305d56ef721f74c25f2b7548e63b1f62fbd39def00714b40dc8a4e9a8b6",
             "once": false
         },
         {
@@ -2577,7 +2583,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "6b8e8d0054b9124aa5a8315cb62f791e2093cc9d1ac850d851f757a3318829f2",
+            "sha256": "da7f5d0b7c08e0bc03bc3c8ee2c0e8cdf518f00b15e9f5ebb05e60f50bceb2cd",
             "once": false
         },
         {
@@ -2835,13 +2841,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "c6e7c0748a8f47de4b50a4bbb4e242a50d936d94ae06d38bf204ebac0248173c",
+            "sha256": "d1b21531660ba1876a654ea1f49ddfd02e3da07b34f836dd36bb6e9684045932",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "b66ae07319e0151c163452aaa0d721b97a712d49ffdbf67f2d8648c44297bc4d",
+            "sha256": "d38e44523da807414fe977008a8d1fb5e0db653647092fcc04ce871e872ce2be",
             "once": false
         },
         {
@@ -33609,7 +33615,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "e8878a473e52cc5670c3bebb2331b7c13703475dec4594553036163bba5e8649",
+            "sha256": "24801f41dd4d40204d8a78b5f1bea927e3297d79293c0773bffc337b14d1a627",
             "once": true
         },
         {
@@ -33671,5 +33677,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "05/04/2026 04:47:54,32"
+    "generated": "05/04/2026 04:58:16,78"
 }
