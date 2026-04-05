@@ -119,6 +119,8 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_justzoom.keybinds.keybind.zoom:key.keyboard.z
+key_key.ad_astra.toggle_suit_flight:key.keyboard.v
+key_key.ad_astra.open_radio:key.keyboard.r
 key_key.ae2.wireless_terminal:key.keyboard.unknown
 key_key.ae2.portable_item_cell:key.keyboard.unknown
 key_key.ae2.portable_fluid_cell:key.keyboard.unknown
