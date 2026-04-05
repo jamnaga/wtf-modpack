@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "bcdc1caff6fc65d42672e07607811ffe7f57f5e6b3099772d8e52bca1e2e35b3",
+            "sha256": "06acc0dba6889153dd3e8bd10debd170561173caa4e3bb9958f4db3634f3d11b",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "57c39d5d5f212af4032ffe76a5c19a35897a65a7e6915b8f6d0d6355b92992d2",
+            "sha256": "a1daf2a6a9a3f21ff2bf4f21a504cc460ee24d1224e3e7c00a3bebf7bb4f628d",
             "once": false
         },
         {
@@ -682,6 +682,12 @@
             "path": ".fabric/processedMods/javax_annotation_javax_annotation-api-1.3.2-856ae9f37105b194.jar",
             "size": 27164,
             "sha256": "361743b4d02a3fd14c2cc9e6ff861c6ef5f86abc3f8bc3233d5aefd250f26ad2",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/javazoom_jlayer-1.0.1-e5a88ebee80169ac.jar",
+            "size": 145103,
+            "sha256": "3b08e879b00d9052776ab726de34025d2a2ed6a36850a9c295d02b3dd2235ef4",
             "once": false
         },
         {
@@ -1471,6 +1477,18 @@
             "once": false
         },
         {
+            "path": "config/ad_astra-client.jsonc",
+            "size": 493,
+            "sha256": "eff1be886673bc30e4dde7030f6970915c5c1c648d671f81bae5c941025705b3",
+            "once": false
+        },
+        {
+            "path": "config/ad_astra.jsonc",
+            "size": 3039,
+            "sha256": "52e9c20de34fd2fd4c0410697538922c8a63591da58117c40c88c681e08f7264",
+            "once": false
+        },
+        {
             "path": "config/ae2/client.json",
             "size": 3061,
             "sha256": "0b5fdb5ddee9031f1eb19fa134e51a2158261703300b5c89d38b9fcf194e636e",
@@ -1707,7 +1725,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "6096e1b1b5d5f2e4f225e12e5a136cdb3dc86a86177c95ca71783d29d26371a5",
+            "sha256": "405652b79b2fbfc512854b285677d84b92008040ea781d36ed019140144f9f24",
             "once": false
         },
         {
@@ -1971,7 +1989,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "fcd2fb71f373e4bae06724298d15fb3527ef73d721899433022bd04ec99e4908",
+            "sha256": "551519890f148743226ca02c94a180517b4a336a369d8d5facbbca08bb4e4532",
             "once": false
         },
         {
@@ -2265,7 +2283,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "4be4a2a046b1ed91f183306530e16deba035aa508755c20817e596ac7475611a",
+            "sha256": "def4da8594385ec67501f9632cdd689d1c049a1dfa672d6725806619d5558748",
             "once": false
         },
         {
@@ -2325,7 +2343,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "d3e66f56e87d8c0af1e4e870e1183154ec4e69a5ed352e70cd669902555f9af9",
+            "sha256": "ec082e433ec70ac2c9fce96c64ab634f5154873da3a88cb47ff26940492a42a2",
             "once": false
         },
         {
@@ -2535,7 +2553,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "f6c0fbf281c10751de61187915f91740890e392a0c49b5b1a2f4997d699ae4c6",
+            "sha256": "1856267957f74c348f1429a4b352f304c71a50377f26865ffeeb132366e0fca8",
             "once": false
         },
         {
@@ -2743,6 +2761,12 @@
             "once": false
         },
         {
+            "path": "config/resourceful-config-web.json",
+            "size": 196,
+            "sha256": "11d76f44db83dd9b447ce5768dc217a061d069919941f3345f2f2e261da711b1",
+            "once": false
+        },
+        {
             "path": "config/respawn_complex.json",
             "size": 2,
             "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
@@ -2768,8 +2792,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 7461,
-            "sha256": "d9fe168fdf730e193fec1d55b86160901bcc4dcdedce03924b2a8330a071b08a",
+            "size": 7391,
+            "sha256": "73eb3c6098c3c77a4830906f5d1cf842f929da54f40cde1fdc15cd98fcb2c6f7",
             "once": false
         },
         {
@@ -2858,8 +2882,8 @@
         },
         {
             "path": "config/sound_physics_remastered/allowed_sounds.properties",
-            "size": 73610,
-            "sha256": "66ec6cc71e25081ba44f4cd30fd0d899088c9d3355ff54570dc2a56d808ef88d",
+            "size": 73848,
+            "sha256": "b402fb05c7ecb81e9ea81d3ad6e0587e8d8963d8e9724d53d444346e883db484",
             "once": false
         },
         {
@@ -7286,8 +7310,8 @@
         },
         {
             "path": "options.txt",
-            "size": 8935,
-            "sha256": "bfa5aa8d6bb0d83139aa155d60bcf8edc3bea0e5afe4be98f61f6dc6cde8ccb2",
+            "size": 9029,
+            "sha256": "3ad9a2cd3e9cf38771de2b05248722925e731b382fb2388564ef2de58c9dca18",
             "once": false
         },
         {
@@ -7652,6 +7676,372 @@
         },
         {
             "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/acacia_yellow_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_black_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_black_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_blue_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_blue_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_brown_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_brown_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_chair.json",
+            "size": 329,
+            "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_chair_classic.json",
+            "size": 361,
+            "sha256": "25b09eadf63e83ffbc32c29d00c0b08832de6073910b34f73133feed5830b6a1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_chair_dinner.json",
+            "size": 357,
+            "sha256": "9ededf8fa90de1811c67d9be2ab5075fce3137db483fce420ee0e9f846b7560e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_chair_modern.json",
+            "size": 357,
+            "sha256": "e367f96fbe1e3112f4666d6b08262cc48be4412056c000626161be3ba928dbec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_classic_nightstand.json",
+            "size": 381,
+            "sha256": "b31060363f9b3fa89bfcdf757779886198d60bee75e4a53aae9a3bc8ee85ef8a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_classic_stool.json",
+            "size": 361,
+            "sha256": "c231a6068ed59a7831bf04a781a88e3532d0a1001616253d96ef99840eb99250",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_coffee_table_basic.json",
+            "size": 189,
+            "sha256": "6dc10e5bdb90484858b4bd9353d60b07a98725eb445882f9ace853dadd551fa8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_coffee_table_classic.json",
+            "size": 87,
+            "sha256": "83ea544c393ea611f3cdad2609d2030ad63003ac132f610d48f1fb89174219a7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_coffee_table_modern.json",
+            "size": 191,
+            "sha256": "f79499b68280f1f24a4e481e1218fc260b6e9ae043255915b7a68bbcdc5cbff4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_cyan_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_cyan_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_desk_basic.json",
+            "size": 77,
+            "sha256": "5ec0b0df9d43a64aaae572c3d59dd9c2336fe150cace1c971ca5ccbae39654f0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_desk_cabinet_basic.json",
+            "size": 469,
+            "sha256": "7ea3d9cb34a388239a4ac1fe8a64eadd5be8b1601fcdd89677aab15cccb1d36d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_gray_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_gray_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_green_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_green_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_kitchen_cabinet.json",
+            "size": 457,
+            "sha256": "6826bbbc3142d95c7d360a472c8b221abe4fe09cee78a164780446c3d043df7d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_kitchen_counter.json",
+            "size": 457,
+            "sha256": "73c631e87a8fd3f51b2e5cd5f138161ffabd1cdedc733556d3b50a6390a3dfe5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_kitchen_counter_oven.json",
+            "size": 477,
+            "sha256": "b538ea7f8b40d0fac90d9a486cce3623ac856b95097eb2d9cf138cc7b2b2e761",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_kitchen_drawer.json",
+            "size": 453,
+            "sha256": "26ecc75b8cbbec58b14e6d48489fa7dec7e26a7e9c2f1c1827bcb077940eb4aa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_kitchen_sink.json",
+            "size": 445,
+            "sha256": "8d73831c80bc6d7c954d6db173b59f9d95ab79ce1f420db38d22b4add28cf5f2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_kitchen_wall_counter.json",
+            "size": 477,
+            "sha256": "0ac438a8d33c7de06b6e6721b971caeb26b71f00fe570b41ac62c0182224cd63",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_kitchen_wall_drawer.json",
+            "size": 473,
+            "sha256": "a1486f343b88e4f28f5725084c7d6386c45ca48a82e98a74f12df6b5fbfc0449",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 497,
+            "sha256": "ae5518d6bb3d39901392f3cee2892fa3e2a75473a33a49e86dafec8658e4b703",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_light_blue_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_light_blue_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_light_gray_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_light_gray_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_lime_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_lime_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_log_stool.json",
+            "size": 345,
+            "sha256": "bf63ad5b35dc8d6a1f1e0a2e8eaecdde4713af203ad034b86be3696958e90866",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_magenta_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_magenta_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_modern_stool.json",
+            "size": 357,
+            "sha256": "a2204a013d4f191a12576e50c7783f76a70f7fd9990016734eaecdf06ffced7e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_orange_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_orange_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_pink_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_pink_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_purple_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_purple_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_raw_table_log.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_red_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_red_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_simple_bunk_ladder.json",
+            "size": 381,
+            "sha256": "dc8d947ac2d3e3d402e18ae2d496bc293647453b522a9e4a2751d473f0cc421a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_simple_stool.json",
+            "size": 357,
+            "sha256": "ebec0594b20e60125dbbddafb1998d80c00c5e23a781a82d80198acf47b3422b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_table_basic.json",
+            "size": 175,
+            "sha256": "96ab142dbd8be571d484d8a31c218a9faf0bdc59a351562a1e483b5398c9ebae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_table_classic.json",
+            "size": 80,
+            "sha256": "3eabff11e56a5d3d06062c2426f4b9ebd4218d1a54155477413da8f2102e7f82",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_table_dinner.json",
+            "size": 357,
+            "sha256": "dce353f4e8ec899ffe62ad9eb73f8b85249662451431df2eb039163cea8647c0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_table_log.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_table_modern_dinner.json",
+            "size": 191,
+            "sha256": "6a4edf5590af96b2908b349dba667fca40608a858d3eba60541894fec89bb035",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_white_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_white_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_yellow_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/aeronos_ad_astra_yellow_simple_bed.json",
             "size": 349,
             "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
             "once": false
@@ -9526,6 +9916,162 @@
             "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/concrete_kitchen_wall_small_drawer.json",
             "size": 497,
             "sha256": "ae5518d6bb3d39901392f3cee2892fa3e2a75473a33a49e86dafec8658e4b703",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_chair.json",
+            "size": 329,
+            "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_chair_classic.json",
+            "size": 361,
+            "sha256": "25b09eadf63e83ffbc32c29d00c0b08832de6073910b34f73133feed5830b6a1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_chair_dinner.json",
+            "size": 357,
+            "sha256": "9ededf8fa90de1811c67d9be2ab5075fce3137db483fce420ee0e9f846b7560e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_chair_modern.json",
+            "size": 357,
+            "sha256": "e367f96fbe1e3112f4666d6b08262cc48be4412056c000626161be3ba928dbec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_classic_nightstand.json",
+            "size": 381,
+            "sha256": "b31060363f9b3fa89bfcdf757779886198d60bee75e4a53aae9a3bc8ee85ef8a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_classic_stool.json",
+            "size": 361,
+            "sha256": "c231a6068ed59a7831bf04a781a88e3532d0a1001616253d96ef99840eb99250",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_coffee_table_basic.json",
+            "size": 189,
+            "sha256": "6dc10e5bdb90484858b4bd9353d60b07a98725eb445882f9ace853dadd551fa8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_coffee_table_classic.json",
+            "size": 87,
+            "sha256": "83ea544c393ea611f3cdad2609d2030ad63003ac132f610d48f1fb89174219a7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_coffee_table_modern.json",
+            "size": 191,
+            "sha256": "f79499b68280f1f24a4e481e1218fc260b6e9ae043255915b7a68bbcdc5cbff4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_desk_basic.json",
+            "size": 77,
+            "sha256": "5ec0b0df9d43a64aaae572c3d59dd9c2336fe150cace1c971ca5ccbae39654f0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_desk_cabinet_basic.json",
+            "size": 469,
+            "sha256": "7ea3d9cb34a388239a4ac1fe8a64eadd5be8b1601fcdd89677aab15cccb1d36d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_kitchen_cabinet.json",
+            "size": 457,
+            "sha256": "6826bbbc3142d95c7d360a472c8b221abe4fe09cee78a164780446c3d043df7d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_kitchen_counter.json",
+            "size": 457,
+            "sha256": "73c631e87a8fd3f51b2e5cd5f138161ffabd1cdedc733556d3b50a6390a3dfe5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_kitchen_counter_oven.json",
+            "size": 477,
+            "sha256": "b538ea7f8b40d0fac90d9a486cce3623ac856b95097eb2d9cf138cc7b2b2e761",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_kitchen_drawer.json",
+            "size": 453,
+            "sha256": "26ecc75b8cbbec58b14e6d48489fa7dec7e26a7e9c2f1c1827bcb077940eb4aa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_kitchen_sink.json",
+            "size": 445,
+            "sha256": "8d73831c80bc6d7c954d6db173b59f9d95ab79ce1f420db38d22b4add28cf5f2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_kitchen_wall_counter.json",
+            "size": 477,
+            "sha256": "0ac438a8d33c7de06b6e6721b971caeb26b71f00fe570b41ac62c0182224cd63",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_kitchen_wall_drawer.json",
+            "size": 473,
+            "sha256": "a1486f343b88e4f28f5725084c7d6386c45ca48a82e98a74f12df6b5fbfc0449",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 497,
+            "sha256": "ae5518d6bb3d39901392f3cee2892fa3e2a75473a33a49e86dafec8658e4b703",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_modern_stool.json",
+            "size": 357,
+            "sha256": "a2204a013d4f191a12576e50c7783f76a70f7fd9990016734eaecdf06ffced7e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_simple_stool.json",
+            "size": 357,
+            "sha256": "ebec0594b20e60125dbbddafb1998d80c00c5e23a781a82d80198acf47b3422b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_table_basic.json",
+            "size": 175,
+            "sha256": "96ab142dbd8be571d484d8a31c218a9faf0bdc59a351562a1e483b5398c9ebae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_table_classic.json",
+            "size": 80,
+            "sha256": "3eabff11e56a5d3d06062c2426f4b9ebd4218d1a54155477413da8f2102e7f82",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_table_dinner.json",
+            "size": 357,
+            "sha256": "dce353f4e8ec899ffe62ad9eb73f8b85249662451431df2eb039163cea8647c0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_table_modern_dinner.json",
+            "size": 191,
+            "sha256": "6a4edf5590af96b2908b349dba667fca40608a858d3eba60541894fec89bb035",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/conglomerate_ad_astra_table_natural.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
             "once": false
         },
         {
@@ -13057,6 +13603,528 @@
             "once": false
         },
         {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_black_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_black_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_blue_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_blue_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_brown_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_brown_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_chair.json",
+            "size": 329,
+            "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_chair_classic.json",
+            "size": 361,
+            "sha256": "25b09eadf63e83ffbc32c29d00c0b08832de6073910b34f73133feed5830b6a1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_chair_dinner.json",
+            "size": 357,
+            "sha256": "9ededf8fa90de1811c67d9be2ab5075fce3137db483fce420ee0e9f846b7560e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_chair_modern.json",
+            "size": 357,
+            "sha256": "e367f96fbe1e3112f4666d6b08262cc48be4412056c000626161be3ba928dbec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_classic_nightstand.json",
+            "size": 381,
+            "sha256": "b31060363f9b3fa89bfcdf757779886198d60bee75e4a53aae9a3bc8ee85ef8a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_classic_stool.json",
+            "size": 361,
+            "sha256": "c231a6068ed59a7831bf04a781a88e3532d0a1001616253d96ef99840eb99250",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_coffee_table_basic.json",
+            "size": 189,
+            "sha256": "6dc10e5bdb90484858b4bd9353d60b07a98725eb445882f9ace853dadd551fa8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_coffee_table_classic.json",
+            "size": 87,
+            "sha256": "83ea544c393ea611f3cdad2609d2030ad63003ac132f610d48f1fb89174219a7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_coffee_table_modern.json",
+            "size": 191,
+            "sha256": "f79499b68280f1f24a4e481e1218fc260b6e9ae043255915b7a68bbcdc5cbff4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_cyan_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_cyan_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_desk_basic.json",
+            "size": 77,
+            "sha256": "5ec0b0df9d43a64aaae572c3d59dd9c2336fe150cace1c971ca5ccbae39654f0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_desk_cabinet_basic.json",
+            "size": 469,
+            "sha256": "7ea3d9cb34a388239a4ac1fe8a64eadd5be8b1601fcdd89677aab15cccb1d36d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_gray_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_gray_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_green_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_green_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_kitchen_cabinet.json",
+            "size": 457,
+            "sha256": "6826bbbc3142d95c7d360a472c8b221abe4fe09cee78a164780446c3d043df7d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_kitchen_counter.json",
+            "size": 457,
+            "sha256": "73c631e87a8fd3f51b2e5cd5f138161ffabd1cdedc733556d3b50a6390a3dfe5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_kitchen_counter_oven.json",
+            "size": 477,
+            "sha256": "b538ea7f8b40d0fac90d9a486cce3623ac856b95097eb2d9cf138cc7b2b2e761",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_kitchen_drawer.json",
+            "size": 453,
+            "sha256": "26ecc75b8cbbec58b14e6d48489fa7dec7e26a7e9c2f1c1827bcb077940eb4aa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_kitchen_sink.json",
+            "size": 445,
+            "sha256": "8d73831c80bc6d7c954d6db173b59f9d95ab79ce1f420db38d22b4add28cf5f2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_kitchen_wall_counter.json",
+            "size": 477,
+            "sha256": "0ac438a8d33c7de06b6e6721b971caeb26b71f00fe570b41ac62c0182224cd63",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_kitchen_wall_drawer.json",
+            "size": 473,
+            "sha256": "a1486f343b88e4f28f5725084c7d6386c45ca48a82e98a74f12df6b5fbfc0449",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 497,
+            "sha256": "ae5518d6bb3d39901392f3cee2892fa3e2a75473a33a49e86dafec8658e4b703",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_light_blue_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_light_blue_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_light_gray_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_light_gray_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_lime_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_lime_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_log_stool.json",
+            "size": 345,
+            "sha256": "bf63ad5b35dc8d6a1f1e0a2e8eaecdde4713af203ad034b86be3696958e90866",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_magenta_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_magenta_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_modern_stool.json",
+            "size": 357,
+            "sha256": "a2204a013d4f191a12576e50c7783f76a70f7fd9990016734eaecdf06ffced7e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_orange_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_orange_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_pink_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_pink_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_purple_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_purple_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_raw_table_log.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_red_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_red_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_simple_bunk_ladder.json",
+            "size": 381,
+            "sha256": "dc8d947ac2d3e3d402e18ae2d496bc293647453b522a9e4a2751d473f0cc421a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_simple_stool.json",
+            "size": 357,
+            "sha256": "ebec0594b20e60125dbbddafb1998d80c00c5e23a781a82d80198acf47b3422b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_table_basic.json",
+            "size": 175,
+            "sha256": "96ab142dbd8be571d484d8a31c218a9faf0bdc59a351562a1e483b5398c9ebae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_table_classic.json",
+            "size": 80,
+            "sha256": "3eabff11e56a5d3d06062c2426f4b9ebd4218d1a54155477413da8f2102e7f82",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_table_dinner.json",
+            "size": 357,
+            "sha256": "dce353f4e8ec899ffe62ad9eb73f8b85249662451431df2eb039163cea8647c0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_table_log.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_table_modern_dinner.json",
+            "size": 191,
+            "sha256": "6a4edf5590af96b2908b349dba667fca40608a858d3eba60541894fec89bb035",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_white_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_white_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_yellow_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacian_ad_astra_yellow_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_chair.json",
+            "size": 329,
+            "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_chair_classic.json",
+            "size": 361,
+            "sha256": "25b09eadf63e83ffbc32c29d00c0b08832de6073910b34f73133feed5830b6a1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_chair_dinner.json",
+            "size": 357,
+            "sha256": "9ededf8fa90de1811c67d9be2ab5075fce3137db483fce420ee0e9f846b7560e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_chair_modern.json",
+            "size": 357,
+            "sha256": "e367f96fbe1e3112f4666d6b08262cc48be4412056c000626161be3ba928dbec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_classic_nightstand.json",
+            "size": 381,
+            "sha256": "b31060363f9b3fa89bfcdf757779886198d60bee75e4a53aae9a3bc8ee85ef8a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_classic_stool.json",
+            "size": 361,
+            "sha256": "c231a6068ed59a7831bf04a781a88e3532d0a1001616253d96ef99840eb99250",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_coffee_table_basic.json",
+            "size": 189,
+            "sha256": "6dc10e5bdb90484858b4bd9353d60b07a98725eb445882f9ace853dadd551fa8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_coffee_table_classic.json",
+            "size": 87,
+            "sha256": "83ea544c393ea611f3cdad2609d2030ad63003ac132f610d48f1fb89174219a7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_coffee_table_modern.json",
+            "size": 191,
+            "sha256": "f79499b68280f1f24a4e481e1218fc260b6e9ae043255915b7a68bbcdc5cbff4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_desk_basic.json",
+            "size": 77,
+            "sha256": "5ec0b0df9d43a64aaae572c3d59dd9c2336fe150cace1c971ca5ccbae39654f0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_desk_cabinet_basic.json",
+            "size": 469,
+            "sha256": "7ea3d9cb34a388239a4ac1fe8a64eadd5be8b1601fcdd89677aab15cccb1d36d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_kitchen_cabinet.json",
+            "size": 457,
+            "sha256": "6826bbbc3142d95c7d360a472c8b221abe4fe09cee78a164780446c3d043df7d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_kitchen_counter.json",
+            "size": 457,
+            "sha256": "73c631e87a8fd3f51b2e5cd5f138161ffabd1cdedc733556d3b50a6390a3dfe5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_kitchen_counter_oven.json",
+            "size": 477,
+            "sha256": "b538ea7f8b40d0fac90d9a486cce3623ac856b95097eb2d9cf138cc7b2b2e761",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_kitchen_drawer.json",
+            "size": 453,
+            "sha256": "26ecc75b8cbbec58b14e6d48489fa7dec7e26a7e9c2f1c1827bcb077940eb4aa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_kitchen_sink.json",
+            "size": 445,
+            "sha256": "8d73831c80bc6d7c954d6db173b59f9d95ab79ce1f420db38d22b4add28cf5f2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_kitchen_wall_counter.json",
+            "size": 477,
+            "sha256": "0ac438a8d33c7de06b6e6721b971caeb26b71f00fe570b41ac62c0182224cd63",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_kitchen_wall_drawer.json",
+            "size": 473,
+            "sha256": "a1486f343b88e4f28f5725084c7d6386c45ca48a82e98a74f12df6b5fbfc0449",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 497,
+            "sha256": "ae5518d6bb3d39901392f3cee2892fa3e2a75473a33a49e86dafec8658e4b703",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_modern_stool.json",
+            "size": 357,
+            "sha256": "a2204a013d4f191a12576e50c7783f76a70f7fd9990016734eaecdf06ffced7e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_simple_stool.json",
+            "size": 357,
+            "sha256": "ebec0594b20e60125dbbddafb1998d80c00c5e23a781a82d80198acf47b3422b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_table_basic.json",
+            "size": 175,
+            "sha256": "96ab142dbd8be571d484d8a31c218a9faf0bdc59a351562a1e483b5398c9ebae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_table_classic.json",
+            "size": 80,
+            "sha256": "3eabff11e56a5d3d06062c2426f4b9ebd4218d1a54155477413da8f2102e7f82",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_table_dinner.json",
+            "size": 357,
+            "sha256": "dce353f4e8ec899ffe62ad9eb73f8b85249662451431df2eb039163cea8647c0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_table_modern_dinner.json",
+            "size": 191,
+            "sha256": "6a4edf5590af96b2908b349dba667fca40608a858d3eba60541894fec89bb035",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/glacio_stone_ad_astra_table_natural.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
             "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/granite_chair.json",
             "size": 329,
             "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
@@ -14167,6 +15235,474 @@
             "once": false
         },
         {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_chair.json",
+            "size": 329,
+            "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_chair_classic.json",
+            "size": 361,
+            "sha256": "25b09eadf63e83ffbc32c29d00c0b08832de6073910b34f73133feed5830b6a1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_chair_dinner.json",
+            "size": 357,
+            "sha256": "9ededf8fa90de1811c67d9be2ab5075fce3137db483fce420ee0e9f846b7560e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_chair_modern.json",
+            "size": 357,
+            "sha256": "e367f96fbe1e3112f4666d6b08262cc48be4412056c000626161be3ba928dbec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_classic_nightstand.json",
+            "size": 381,
+            "sha256": "b31060363f9b3fa89bfcdf757779886198d60bee75e4a53aae9a3bc8ee85ef8a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_classic_stool.json",
+            "size": 361,
+            "sha256": "c231a6068ed59a7831bf04a781a88e3532d0a1001616253d96ef99840eb99250",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_coffee_table_basic.json",
+            "size": 189,
+            "sha256": "6dc10e5bdb90484858b4bd9353d60b07a98725eb445882f9ace853dadd551fa8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_coffee_table_classic.json",
+            "size": 87,
+            "sha256": "83ea544c393ea611f3cdad2609d2030ad63003ac132f610d48f1fb89174219a7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_coffee_table_modern.json",
+            "size": 191,
+            "sha256": "f79499b68280f1f24a4e481e1218fc260b6e9ae043255915b7a68bbcdc5cbff4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_desk_basic.json",
+            "size": 77,
+            "sha256": "5ec0b0df9d43a64aaae572c3d59dd9c2336fe150cace1c971ca5ccbae39654f0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_desk_cabinet_basic.json",
+            "size": 469,
+            "sha256": "7ea3d9cb34a388239a4ac1fe8a64eadd5be8b1601fcdd89677aab15cccb1d36d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_kitchen_cabinet.json",
+            "size": 457,
+            "sha256": "6826bbbc3142d95c7d360a472c8b221abe4fe09cee78a164780446c3d043df7d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_kitchen_counter.json",
+            "size": 457,
+            "sha256": "73c631e87a8fd3f51b2e5cd5f138161ffabd1cdedc733556d3b50a6390a3dfe5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_kitchen_counter_oven.json",
+            "size": 477,
+            "sha256": "b538ea7f8b40d0fac90d9a486cce3623ac856b95097eb2d9cf138cc7b2b2e761",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_kitchen_drawer.json",
+            "size": 453,
+            "sha256": "26ecc75b8cbbec58b14e6d48489fa7dec7e26a7e9c2f1c1827bcb077940eb4aa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_kitchen_sink.json",
+            "size": 445,
+            "sha256": "8d73831c80bc6d7c954d6db173b59f9d95ab79ce1f420db38d22b4add28cf5f2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_kitchen_wall_counter.json",
+            "size": 477,
+            "sha256": "0ac438a8d33c7de06b6e6721b971caeb26b71f00fe570b41ac62c0182224cd63",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_kitchen_wall_drawer.json",
+            "size": 473,
+            "sha256": "a1486f343b88e4f28f5725084c7d6386c45ca48a82e98a74f12df6b5fbfc0449",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 497,
+            "sha256": "ae5518d6bb3d39901392f3cee2892fa3e2a75473a33a49e86dafec8658e4b703",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_modern_stool.json",
+            "size": 357,
+            "sha256": "a2204a013d4f191a12576e50c7783f76a70f7fd9990016734eaecdf06ffced7e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_simple_stool.json",
+            "size": 357,
+            "sha256": "ebec0594b20e60125dbbddafb1998d80c00c5e23a781a82d80198acf47b3422b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_table_basic.json",
+            "size": 175,
+            "sha256": "96ab142dbd8be571d484d8a31c218a9faf0bdc59a351562a1e483b5398c9ebae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_table_classic.json",
+            "size": 80,
+            "sha256": "3eabff11e56a5d3d06062c2426f4b9ebd4218d1a54155477413da8f2102e7f82",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_table_dinner.json",
+            "size": 357,
+            "sha256": "dce353f4e8ec899ffe62ad9eb73f8b85249662451431df2eb039163cea8647c0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_table_modern_dinner.json",
+            "size": 191,
+            "sha256": "6a4edf5590af96b2908b349dba667fca40608a858d3eba60541894fec89bb035",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mars_stone_ad_astra_table_natural.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_chair.json",
+            "size": 329,
+            "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_chair_classic.json",
+            "size": 361,
+            "sha256": "25b09eadf63e83ffbc32c29d00c0b08832de6073910b34f73133feed5830b6a1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_chair_dinner.json",
+            "size": 357,
+            "sha256": "9ededf8fa90de1811c67d9be2ab5075fce3137db483fce420ee0e9f846b7560e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_chair_modern.json",
+            "size": 357,
+            "sha256": "e367f96fbe1e3112f4666d6b08262cc48be4412056c000626161be3ba928dbec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_classic_nightstand.json",
+            "size": 381,
+            "sha256": "b31060363f9b3fa89bfcdf757779886198d60bee75e4a53aae9a3bc8ee85ef8a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_classic_stool.json",
+            "size": 361,
+            "sha256": "c231a6068ed59a7831bf04a781a88e3532d0a1001616253d96ef99840eb99250",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_coffee_table_basic.json",
+            "size": 189,
+            "sha256": "6dc10e5bdb90484858b4bd9353d60b07a98725eb445882f9ace853dadd551fa8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_coffee_table_classic.json",
+            "size": 87,
+            "sha256": "83ea544c393ea611f3cdad2609d2030ad63003ac132f610d48f1fb89174219a7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_coffee_table_modern.json",
+            "size": 191,
+            "sha256": "f79499b68280f1f24a4e481e1218fc260b6e9ae043255915b7a68bbcdc5cbff4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_desk_basic.json",
+            "size": 77,
+            "sha256": "5ec0b0df9d43a64aaae572c3d59dd9c2336fe150cace1c971ca5ccbae39654f0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_desk_cabinet_basic.json",
+            "size": 469,
+            "sha256": "7ea3d9cb34a388239a4ac1fe8a64eadd5be8b1601fcdd89677aab15cccb1d36d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_kitchen_cabinet.json",
+            "size": 457,
+            "sha256": "6826bbbc3142d95c7d360a472c8b221abe4fe09cee78a164780446c3d043df7d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_kitchen_counter.json",
+            "size": 457,
+            "sha256": "73c631e87a8fd3f51b2e5cd5f138161ffabd1cdedc733556d3b50a6390a3dfe5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_kitchen_counter_oven.json",
+            "size": 477,
+            "sha256": "b538ea7f8b40d0fac90d9a486cce3623ac856b95097eb2d9cf138cc7b2b2e761",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_kitchen_drawer.json",
+            "size": 453,
+            "sha256": "26ecc75b8cbbec58b14e6d48489fa7dec7e26a7e9c2f1c1827bcb077940eb4aa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_kitchen_sink.json",
+            "size": 445,
+            "sha256": "8d73831c80bc6d7c954d6db173b59f9d95ab79ce1f420db38d22b4add28cf5f2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_kitchen_wall_counter.json",
+            "size": 477,
+            "sha256": "0ac438a8d33c7de06b6e6721b971caeb26b71f00fe570b41ac62c0182224cd63",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_kitchen_wall_drawer.json",
+            "size": 473,
+            "sha256": "a1486f343b88e4f28f5725084c7d6386c45ca48a82e98a74f12df6b5fbfc0449",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 497,
+            "sha256": "ae5518d6bb3d39901392f3cee2892fa3e2a75473a33a49e86dafec8658e4b703",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_modern_stool.json",
+            "size": 357,
+            "sha256": "a2204a013d4f191a12576e50c7783f76a70f7fd9990016734eaecdf06ffced7e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_simple_stool.json",
+            "size": 357,
+            "sha256": "ebec0594b20e60125dbbddafb1998d80c00c5e23a781a82d80198acf47b3422b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_table_basic.json",
+            "size": 175,
+            "sha256": "96ab142dbd8be571d484d8a31c218a9faf0bdc59a351562a1e483b5398c9ebae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_table_classic.json",
+            "size": 80,
+            "sha256": "3eabff11e56a5d3d06062c2426f4b9ebd4218d1a54155477413da8f2102e7f82",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_table_dinner.json",
+            "size": 357,
+            "sha256": "dce353f4e8ec899ffe62ad9eb73f8b85249662451431df2eb039163cea8647c0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_table_modern_dinner.json",
+            "size": 191,
+            "sha256": "6a4edf5590af96b2908b349dba667fca40608a858d3eba60541894fec89bb035",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/mercury_stone_ad_astra_table_natural.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_chair.json",
+            "size": 329,
+            "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_chair_classic.json",
+            "size": 361,
+            "sha256": "25b09eadf63e83ffbc32c29d00c0b08832de6073910b34f73133feed5830b6a1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_chair_dinner.json",
+            "size": 357,
+            "sha256": "9ededf8fa90de1811c67d9be2ab5075fce3137db483fce420ee0e9f846b7560e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_chair_modern.json",
+            "size": 357,
+            "sha256": "e367f96fbe1e3112f4666d6b08262cc48be4412056c000626161be3ba928dbec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_classic_nightstand.json",
+            "size": 381,
+            "sha256": "b31060363f9b3fa89bfcdf757779886198d60bee75e4a53aae9a3bc8ee85ef8a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_classic_stool.json",
+            "size": 361,
+            "sha256": "c231a6068ed59a7831bf04a781a88e3532d0a1001616253d96ef99840eb99250",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_coffee_table_basic.json",
+            "size": 189,
+            "sha256": "6dc10e5bdb90484858b4bd9353d60b07a98725eb445882f9ace853dadd551fa8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_coffee_table_classic.json",
+            "size": 87,
+            "sha256": "83ea544c393ea611f3cdad2609d2030ad63003ac132f610d48f1fb89174219a7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_coffee_table_modern.json",
+            "size": 191,
+            "sha256": "f79499b68280f1f24a4e481e1218fc260b6e9ae043255915b7a68bbcdc5cbff4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_desk_basic.json",
+            "size": 77,
+            "sha256": "5ec0b0df9d43a64aaae572c3d59dd9c2336fe150cace1c971ca5ccbae39654f0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_desk_cabinet_basic.json",
+            "size": 469,
+            "sha256": "7ea3d9cb34a388239a4ac1fe8a64eadd5be8b1601fcdd89677aab15cccb1d36d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_kitchen_cabinet.json",
+            "size": 457,
+            "sha256": "6826bbbc3142d95c7d360a472c8b221abe4fe09cee78a164780446c3d043df7d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_kitchen_counter.json",
+            "size": 457,
+            "sha256": "73c631e87a8fd3f51b2e5cd5f138161ffabd1cdedc733556d3b50a6390a3dfe5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_kitchen_counter_oven.json",
+            "size": 477,
+            "sha256": "b538ea7f8b40d0fac90d9a486cce3623ac856b95097eb2d9cf138cc7b2b2e761",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_kitchen_drawer.json",
+            "size": 453,
+            "sha256": "26ecc75b8cbbec58b14e6d48489fa7dec7e26a7e9c2f1c1827bcb077940eb4aa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_kitchen_sink.json",
+            "size": 445,
+            "sha256": "8d73831c80bc6d7c954d6db173b59f9d95ab79ce1f420db38d22b4add28cf5f2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_kitchen_wall_counter.json",
+            "size": 477,
+            "sha256": "0ac438a8d33c7de06b6e6721b971caeb26b71f00fe570b41ac62c0182224cd63",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_kitchen_wall_drawer.json",
+            "size": 473,
+            "sha256": "a1486f343b88e4f28f5725084c7d6386c45ca48a82e98a74f12df6b5fbfc0449",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 497,
+            "sha256": "ae5518d6bb3d39901392f3cee2892fa3e2a75473a33a49e86dafec8658e4b703",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_modern_stool.json",
+            "size": 357,
+            "sha256": "a2204a013d4f191a12576e50c7783f76a70f7fd9990016734eaecdf06ffced7e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_simple_stool.json",
+            "size": 357,
+            "sha256": "ebec0594b20e60125dbbddafb1998d80c00c5e23a781a82d80198acf47b3422b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_table_basic.json",
+            "size": 175,
+            "sha256": "96ab142dbd8be571d484d8a31c218a9faf0bdc59a351562a1e483b5398c9ebae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_table_classic.json",
+            "size": 80,
+            "sha256": "3eabff11e56a5d3d06062c2426f4b9ebd4218d1a54155477413da8f2102e7f82",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_table_dinner.json",
+            "size": 357,
+            "sha256": "dce353f4e8ec899ffe62ad9eb73f8b85249662451431df2eb039163cea8647c0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_table_modern_dinner.json",
+            "size": 191,
+            "sha256": "6a4edf5590af96b2908b349dba667fca40608a858d3eba60541894fec89bb035",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/moon_stone_ad_astra_table_natural.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
             "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/netherite_chair.json",
             "size": 329,
             "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
@@ -14686,6 +16222,162 @@
             "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/oak_yellow_simple_bed.json",
             "size": 349,
             "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_chair.json",
+            "size": 329,
+            "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_chair_classic.json",
+            "size": 361,
+            "sha256": "25b09eadf63e83ffbc32c29d00c0b08832de6073910b34f73133feed5830b6a1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_chair_dinner.json",
+            "size": 357,
+            "sha256": "9ededf8fa90de1811c67d9be2ab5075fce3137db483fce420ee0e9f846b7560e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_chair_modern.json",
+            "size": 357,
+            "sha256": "e367f96fbe1e3112f4666d6b08262cc48be4412056c000626161be3ba928dbec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_classic_nightstand.json",
+            "size": 381,
+            "sha256": "b31060363f9b3fa89bfcdf757779886198d60bee75e4a53aae9a3bc8ee85ef8a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_classic_stool.json",
+            "size": 361,
+            "sha256": "c231a6068ed59a7831bf04a781a88e3532d0a1001616253d96ef99840eb99250",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_coffee_table_basic.json",
+            "size": 189,
+            "sha256": "6dc10e5bdb90484858b4bd9353d60b07a98725eb445882f9ace853dadd551fa8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_coffee_table_classic.json",
+            "size": 87,
+            "sha256": "83ea544c393ea611f3cdad2609d2030ad63003ac132f610d48f1fb89174219a7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_coffee_table_modern.json",
+            "size": 191,
+            "sha256": "f79499b68280f1f24a4e481e1218fc260b6e9ae043255915b7a68bbcdc5cbff4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_desk_basic.json",
+            "size": 77,
+            "sha256": "5ec0b0df9d43a64aaae572c3d59dd9c2336fe150cace1c971ca5ccbae39654f0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_desk_cabinet_basic.json",
+            "size": 469,
+            "sha256": "7ea3d9cb34a388239a4ac1fe8a64eadd5be8b1601fcdd89677aab15cccb1d36d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_kitchen_cabinet.json",
+            "size": 457,
+            "sha256": "6826bbbc3142d95c7d360a472c8b221abe4fe09cee78a164780446c3d043df7d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_kitchen_counter.json",
+            "size": 457,
+            "sha256": "73c631e87a8fd3f51b2e5cd5f138161ffabd1cdedc733556d3b50a6390a3dfe5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_kitchen_counter_oven.json",
+            "size": 477,
+            "sha256": "b538ea7f8b40d0fac90d9a486cce3623ac856b95097eb2d9cf138cc7b2b2e761",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_kitchen_drawer.json",
+            "size": 453,
+            "sha256": "26ecc75b8cbbec58b14e6d48489fa7dec7e26a7e9c2f1c1827bcb077940eb4aa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_kitchen_sink.json",
+            "size": 445,
+            "sha256": "8d73831c80bc6d7c954d6db173b59f9d95ab79ce1f420db38d22b4add28cf5f2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_kitchen_wall_counter.json",
+            "size": 477,
+            "sha256": "0ac438a8d33c7de06b6e6721b971caeb26b71f00fe570b41ac62c0182224cd63",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_kitchen_wall_drawer.json",
+            "size": 473,
+            "sha256": "a1486f343b88e4f28f5725084c7d6386c45ca48a82e98a74f12df6b5fbfc0449",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 497,
+            "sha256": "ae5518d6bb3d39901392f3cee2892fa3e2a75473a33a49e86dafec8658e4b703",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_modern_stool.json",
+            "size": 357,
+            "sha256": "a2204a013d4f191a12576e50c7783f76a70f7fd9990016734eaecdf06ffced7e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_simple_stool.json",
+            "size": 357,
+            "sha256": "ebec0594b20e60125dbbddafb1998d80c00c5e23a781a82d80198acf47b3422b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_table_basic.json",
+            "size": 175,
+            "sha256": "96ab142dbd8be571d484d8a31c218a9faf0bdc59a351562a1e483b5398c9ebae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_table_classic.json",
+            "size": 80,
+            "sha256": "3eabff11e56a5d3d06062c2426f4b9ebd4218d1a54155477413da8f2102e7f82",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_table_dinner.json",
+            "size": 357,
+            "sha256": "dce353f4e8ec899ffe62ad9eb73f8b85249662451431df2eb039163cea8647c0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_table_modern_dinner.json",
+            "size": 191,
+            "sha256": "6a4edf5590af96b2908b349dba667fca40608a858d3eba60541894fec89bb035",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/permafrost_ad_astra_table_natural.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
             "once": false
         },
         {
@@ -16495,6 +18187,168 @@
             "once": false
         },
         {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_chair.json",
+            "size": 329,
+            "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_chair_classic.json",
+            "size": 361,
+            "sha256": "25b09eadf63e83ffbc32c29d00c0b08832de6073910b34f73133feed5830b6a1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_chair_dinner.json",
+            "size": 357,
+            "sha256": "9ededf8fa90de1811c67d9be2ab5075fce3137db483fce420ee0e9f846b7560e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_chair_modern.json",
+            "size": 357,
+            "sha256": "e367f96fbe1e3112f4666d6b08262cc48be4412056c000626161be3ba928dbec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_classic_nightstand.json",
+            "size": 381,
+            "sha256": "b31060363f9b3fa89bfcdf757779886198d60bee75e4a53aae9a3bc8ee85ef8a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_classic_stool.json",
+            "size": 361,
+            "sha256": "c231a6068ed59a7831bf04a781a88e3532d0a1001616253d96ef99840eb99250",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_coffee_table_basic.json",
+            "size": 189,
+            "sha256": "6dc10e5bdb90484858b4bd9353d60b07a98725eb445882f9ace853dadd551fa8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_coffee_table_classic.json",
+            "size": 87,
+            "sha256": "83ea544c393ea611f3cdad2609d2030ad63003ac132f610d48f1fb89174219a7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_coffee_table_modern.json",
+            "size": 191,
+            "sha256": "f79499b68280f1f24a4e481e1218fc260b6e9ae043255915b7a68bbcdc5cbff4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_desk_basic.json",
+            "size": 77,
+            "sha256": "5ec0b0df9d43a64aaae572c3d59dd9c2336fe150cace1c971ca5ccbae39654f0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_desk_cabinet_basic.json",
+            "size": 469,
+            "sha256": "7ea3d9cb34a388239a4ac1fe8a64eadd5be8b1601fcdd89677aab15cccb1d36d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_kitchen_cabinet.json",
+            "size": 457,
+            "sha256": "6826bbbc3142d95c7d360a472c8b221abe4fe09cee78a164780446c3d043df7d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_kitchen_counter.json",
+            "size": 457,
+            "sha256": "73c631e87a8fd3f51b2e5cd5f138161ffabd1cdedc733556d3b50a6390a3dfe5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_kitchen_counter_oven.json",
+            "size": 477,
+            "sha256": "b538ea7f8b40d0fac90d9a486cce3623ac856b95097eb2d9cf138cc7b2b2e761",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_kitchen_drawer.json",
+            "size": 453,
+            "sha256": "26ecc75b8cbbec58b14e6d48489fa7dec7e26a7e9c2f1c1827bcb077940eb4aa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_kitchen_sink.json",
+            "size": 445,
+            "sha256": "8d73831c80bc6d7c954d6db173b59f9d95ab79ce1f420db38d22b4add28cf5f2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_kitchen_wall_counter.json",
+            "size": 477,
+            "sha256": "0ac438a8d33c7de06b6e6721b971caeb26b71f00fe570b41ac62c0182224cd63",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_kitchen_wall_drawer.json",
+            "size": 473,
+            "sha256": "a1486f343b88e4f28f5725084c7d6386c45ca48a82e98a74f12df6b5fbfc0449",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 497,
+            "sha256": "ae5518d6bb3d39901392f3cee2892fa3e2a75473a33a49e86dafec8658e4b703",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_modern_stool.json",
+            "size": 357,
+            "sha256": "a2204a013d4f191a12576e50c7783f76a70f7fd9990016734eaecdf06ffced7e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_raw_table_log.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_simple_stool.json",
+            "size": 357,
+            "sha256": "ebec0594b20e60125dbbddafb1998d80c00c5e23a781a82d80198acf47b3422b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_table_basic.json",
+            "size": 175,
+            "sha256": "96ab142dbd8be571d484d8a31c218a9faf0bdc59a351562a1e483b5398c9ebae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_table_classic.json",
+            "size": 80,
+            "sha256": "3eabff11e56a5d3d06062c2426f4b9ebd4218d1a54155477413da8f2102e7f82",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_table_dinner.json",
+            "size": 357,
+            "sha256": "dce353f4e8ec899ffe62ad9eb73f8b85249662451431df2eb039163cea8647c0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_table_log.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_glacian_ad_astra_table_modern_dinner.json",
+            "size": 191,
+            "sha256": "6a4edf5590af96b2908b349dba667fca40608a858d3eba60541894fec89bb035",
+            "once": false
+        },
+        {
             "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/stripped_jungle_chair.json",
             "size": 329,
             "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
@@ -17305,6 +19159,528 @@
             "once": false
         },
         {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_black_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_black_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_blue_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_blue_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_brown_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_brown_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_chair.json",
+            "size": 329,
+            "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_chair_classic.json",
+            "size": 361,
+            "sha256": "25b09eadf63e83ffbc32c29d00c0b08832de6073910b34f73133feed5830b6a1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_chair_dinner.json",
+            "size": 357,
+            "sha256": "9ededf8fa90de1811c67d9be2ab5075fce3137db483fce420ee0e9f846b7560e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_chair_modern.json",
+            "size": 357,
+            "sha256": "e367f96fbe1e3112f4666d6b08262cc48be4412056c000626161be3ba928dbec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_classic_nightstand.json",
+            "size": 381,
+            "sha256": "b31060363f9b3fa89bfcdf757779886198d60bee75e4a53aae9a3bc8ee85ef8a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_classic_stool.json",
+            "size": 361,
+            "sha256": "c231a6068ed59a7831bf04a781a88e3532d0a1001616253d96ef99840eb99250",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_coffee_table_basic.json",
+            "size": 189,
+            "sha256": "6dc10e5bdb90484858b4bd9353d60b07a98725eb445882f9ace853dadd551fa8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_coffee_table_classic.json",
+            "size": 87,
+            "sha256": "83ea544c393ea611f3cdad2609d2030ad63003ac132f610d48f1fb89174219a7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_coffee_table_modern.json",
+            "size": 191,
+            "sha256": "f79499b68280f1f24a4e481e1218fc260b6e9ae043255915b7a68bbcdc5cbff4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_cyan_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_cyan_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_desk_basic.json",
+            "size": 77,
+            "sha256": "5ec0b0df9d43a64aaae572c3d59dd9c2336fe150cace1c971ca5ccbae39654f0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_desk_cabinet_basic.json",
+            "size": 469,
+            "sha256": "7ea3d9cb34a388239a4ac1fe8a64eadd5be8b1601fcdd89677aab15cccb1d36d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_gray_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_gray_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_green_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_green_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_kitchen_cabinet.json",
+            "size": 457,
+            "sha256": "6826bbbc3142d95c7d360a472c8b221abe4fe09cee78a164780446c3d043df7d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_kitchen_counter.json",
+            "size": 457,
+            "sha256": "73c631e87a8fd3f51b2e5cd5f138161ffabd1cdedc733556d3b50a6390a3dfe5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_kitchen_counter_oven.json",
+            "size": 477,
+            "sha256": "b538ea7f8b40d0fac90d9a486cce3623ac856b95097eb2d9cf138cc7b2b2e761",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_kitchen_drawer.json",
+            "size": 453,
+            "sha256": "26ecc75b8cbbec58b14e6d48489fa7dec7e26a7e9c2f1c1827bcb077940eb4aa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_kitchen_sink.json",
+            "size": 445,
+            "sha256": "8d73831c80bc6d7c954d6db173b59f9d95ab79ce1f420db38d22b4add28cf5f2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_kitchen_wall_counter.json",
+            "size": 477,
+            "sha256": "0ac438a8d33c7de06b6e6721b971caeb26b71f00fe570b41ac62c0182224cd63",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_kitchen_wall_drawer.json",
+            "size": 473,
+            "sha256": "a1486f343b88e4f28f5725084c7d6386c45ca48a82e98a74f12df6b5fbfc0449",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 497,
+            "sha256": "ae5518d6bb3d39901392f3cee2892fa3e2a75473a33a49e86dafec8658e4b703",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_light_blue_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_light_blue_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_light_gray_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_light_gray_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_lime_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_lime_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_log_stool.json",
+            "size": 345,
+            "sha256": "bf63ad5b35dc8d6a1f1e0a2e8eaecdde4713af203ad034b86be3696958e90866",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_magenta_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_magenta_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_modern_stool.json",
+            "size": 357,
+            "sha256": "a2204a013d4f191a12576e50c7783f76a70f7fd9990016734eaecdf06ffced7e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_orange_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_orange_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_pink_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_pink_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_purple_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_purple_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_raw_table_log.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_red_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_red_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_simple_bunk_ladder.json",
+            "size": 381,
+            "sha256": "dc8d947ac2d3e3d402e18ae2d496bc293647453b522a9e4a2751d473f0cc421a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_simple_stool.json",
+            "size": 357,
+            "sha256": "ebec0594b20e60125dbbddafb1998d80c00c5e23a781a82d80198acf47b3422b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_table_basic.json",
+            "size": 175,
+            "sha256": "96ab142dbd8be571d484d8a31c218a9faf0bdc59a351562a1e483b5398c9ebae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_table_classic.json",
+            "size": 80,
+            "sha256": "3eabff11e56a5d3d06062c2426f4b9ebd4218d1a54155477413da8f2102e7f82",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_table_dinner.json",
+            "size": 357,
+            "sha256": "dce353f4e8ec899ffe62ad9eb73f8b85249662451431df2eb039163cea8647c0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_table_log.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_table_modern_dinner.json",
+            "size": 191,
+            "sha256": "6a4edf5590af96b2908b349dba667fca40608a858d3eba60541894fec89bb035",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_white_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_white_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_yellow_classic_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/strophar_ad_astra_yellow_simple_bed.json",
+            "size": 349,
+            "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_chair.json",
+            "size": 329,
+            "sha256": "9b9b0fed6b71bd1457fb3b4699ad7aed60471fa87c4e614367324023e9ebd0da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_chair_classic.json",
+            "size": 361,
+            "sha256": "25b09eadf63e83ffbc32c29d00c0b08832de6073910b34f73133feed5830b6a1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_chair_dinner.json",
+            "size": 357,
+            "sha256": "9ededf8fa90de1811c67d9be2ab5075fce3137db483fce420ee0e9f846b7560e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_chair_modern.json",
+            "size": 357,
+            "sha256": "e367f96fbe1e3112f4666d6b08262cc48be4412056c000626161be3ba928dbec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_classic_nightstand.json",
+            "size": 381,
+            "sha256": "b31060363f9b3fa89bfcdf757779886198d60bee75e4a53aae9a3bc8ee85ef8a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_classic_stool.json",
+            "size": 361,
+            "sha256": "c231a6068ed59a7831bf04a781a88e3532d0a1001616253d96ef99840eb99250",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_coffee_table_basic.json",
+            "size": 189,
+            "sha256": "6dc10e5bdb90484858b4bd9353d60b07a98725eb445882f9ace853dadd551fa8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_coffee_table_classic.json",
+            "size": 87,
+            "sha256": "83ea544c393ea611f3cdad2609d2030ad63003ac132f610d48f1fb89174219a7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_coffee_table_modern.json",
+            "size": 191,
+            "sha256": "f79499b68280f1f24a4e481e1218fc260b6e9ae043255915b7a68bbcdc5cbff4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_desk_basic.json",
+            "size": 77,
+            "sha256": "5ec0b0df9d43a64aaae572c3d59dd9c2336fe150cace1c971ca5ccbae39654f0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_desk_cabinet_basic.json",
+            "size": 469,
+            "sha256": "7ea3d9cb34a388239a4ac1fe8a64eadd5be8b1601fcdd89677aab15cccb1d36d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_kitchen_cabinet.json",
+            "size": 457,
+            "sha256": "6826bbbc3142d95c7d360a472c8b221abe4fe09cee78a164780446c3d043df7d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_kitchen_counter.json",
+            "size": 457,
+            "sha256": "73c631e87a8fd3f51b2e5cd5f138161ffabd1cdedc733556d3b50a6390a3dfe5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_kitchen_counter_oven.json",
+            "size": 477,
+            "sha256": "b538ea7f8b40d0fac90d9a486cce3623ac856b95097eb2d9cf138cc7b2b2e761",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_kitchen_drawer.json",
+            "size": 453,
+            "sha256": "26ecc75b8cbbec58b14e6d48489fa7dec7e26a7e9c2f1c1827bcb077940eb4aa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_kitchen_sink.json",
+            "size": 445,
+            "sha256": "8d73831c80bc6d7c954d6db173b59f9d95ab79ce1f420db38d22b4add28cf5f2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_kitchen_wall_counter.json",
+            "size": 477,
+            "sha256": "0ac438a8d33c7de06b6e6721b971caeb26b71f00fe570b41ac62c0182224cd63",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_kitchen_wall_drawer.json",
+            "size": 473,
+            "sha256": "a1486f343b88e4f28f5725084c7d6386c45ca48a82e98a74f12df6b5fbfc0449",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 497,
+            "sha256": "ae5518d6bb3d39901392f3cee2892fa3e2a75473a33a49e86dafec8658e4b703",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_modern_stool.json",
+            "size": 357,
+            "sha256": "a2204a013d4f191a12576e50c7783f76a70f7fd9990016734eaecdf06ffced7e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_simple_stool.json",
+            "size": 357,
+            "sha256": "ebec0594b20e60125dbbddafb1998d80c00c5e23a781a82d80198acf47b3422b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_table_basic.json",
+            "size": 175,
+            "sha256": "96ab142dbd8be571d484d8a31c218a9faf0bdc59a351562a1e483b5398c9ebae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_table_classic.json",
+            "size": 80,
+            "sha256": "3eabff11e56a5d3d06062c2426f4b9ebd4218d1a54155477413da8f2102e7f82",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_table_dinner.json",
+            "size": 357,
+            "sha256": "dce353f4e8ec899ffe62ad9eb73f8b85249662451431df2eb039163cea8647c0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_table_modern_dinner.json",
+            "size": 191,
+            "sha256": "6a4edf5590af96b2908b349dba667fca40608a858d3eba60541894fec89bb035",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/venus_stone_ad_astra_table_natural.json",
+            "size": 345,
+            "sha256": "b58b9367ca4d963760a68053766dd7824e8b5a138fe92d4046592b7650305f89",
+            "once": false
+        },
+        {
             "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/warped_black_classic_bed.json",
             "size": 349,
             "sha256": "e02b92e615be6eff9a4abf97f503e1d48470e0d10e6db1078e3fae84eaf5d1e8",
@@ -17678,8 +20054,8 @@
         },
         {
             "path": "pfm/cache/pfm-assetpack/assets/pfm/lang/en_us.json",
-            "size": 174050,
-            "sha256": "36320ad65309fa1cc940b42f4ba1f9c2887343ba7065463b3255b56eea4fdae2",
+            "size": 218379,
+            "sha256": "eaf0c58f144407c1baa01e815e6d98051d0d8f5f0cd3f56f7b8f9aba88f76000",
             "once": false
         },
         {
@@ -17702,8 +20078,8 @@
         },
         {
             "path": "pfm/cache/pfm-assetpack/pfmCacheData.json",
-            "size": 1601941,
-            "sha256": "df05fa434b60c46c9d14e8e767a5cc133e7fad7d587f4f846ee0eb6dcad3ae19",
+            "size": 1960783,
+            "sha256": "78923447aa48ea8dc63fea1ea948afbcc96d75d5e2f38b5188c85c1c7e4092a1",
             "once": false
         },
         {
@@ -31189,6 +33565,36 @@
             "once": false
         },
         {
+            "path": "replay_recordings/2026_04_05_02_08_44.mcpr.del/changed/markers.json",
+            "size": 124,
+            "sha256": "b3db02b9854c346a2c11fcd819978df26a3dba711d5d564ef53c97bb9ea830bd",
+            "once": false
+        },
+        {
+            "path": "replay_recordings/2026_04_05_02_08_44.mcpr.del/changed/metaData.json",
+            "size": 275,
+            "sha256": "d248244445b18a73cb01e20ec55361a97ad40d3a80616280e19caeff93e861d2",
+            "once": false
+        },
+        {
+            "path": "replay_recordings/2026_04_05_02_08_44.mcpr.del/changed/mods.json",
+            "size": 4042,
+            "sha256": "5b734d7754cd4d44b9b4abaa2b73955e325558ec23792768a180266fe8ad95e4",
+            "once": false
+        },
+        {
+            "path": "replay_recordings/2026_04_05_02_08_44.mcpr.del/changed/recording.tmcpr",
+            "size": 129321937,
+            "sha256": "a967a05cf4cb210d652c28a8c87e1a7300170a7eedebbf1400578ed616cf498c",
+            "once": false
+        },
+        {
+            "path": "replay_recordings/2026_04_05_02_08_44.mcpr.del/changed/recording.tmcpr.crc32",
+            "size": 7,
+            "sha256": "f1234d75178d892a133a410355a5a990cf75d2f33eba25d575943d4df632f3a4",
+            "once": false
+        },
+        {
             "path": "replay_recordings/raw/2026_04_04_00_11_51.mcpr",
             "size": 13588542,
             "sha256": "f2203f7eb5a85b13f186e0c1cc3380d400df02b40618ec670542d74594992873",
@@ -31204,36 +33610,6 @@
             "path": "replay_recordings/raw/2026_04_05_00_07_02.mcpr",
             "size": 16776195,
             "sha256": "68e270f50be2cbb150a5802a4bd82f271d713a3dc563ba2768e733a1a47d1e83",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/recording/2026_04_05_02_08_44.mcpr.tmp/changed/markers.json",
-            "size": 124,
-            "sha256": "b3db02b9854c346a2c11fcd819978df26a3dba711d5d564ef53c97bb9ea830bd",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/recording/2026_04_05_02_08_44.mcpr.tmp/changed/metaData.json",
-            "size": 275,
-            "sha256": "d248244445b18a73cb01e20ec55361a97ad40d3a80616280e19caeff93e861d2",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/recording/2026_04_05_02_08_44.mcpr.tmp/changed/mods.json",
-            "size": 4042,
-            "sha256": "5b734d7754cd4d44b9b4abaa2b73955e325558ec23792768a180266fe8ad95e4",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/recording/2026_04_05_02_08_44.mcpr.tmp/changed/recording.tmcpr",
-            "size": 128141361,
-            "sha256": "5739f9ef45154d9dbe5c4ef7f47c22f37cf6fca4b7d66285f47e86bbb75ddeff",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/recording/2026_04_05_02_08_44.mcpr.tmp/changed/recording.tmcpr.crc32",
-            "size": 7,
-            "sha256": "f1234d75178d892a133a410355a5a990cf75d2f33eba25d575943d4df632f3a4",
             "once": false
         },
         {
@@ -31269,7 +33645,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "84a6db43aafe1188d39fd2ed5ca9a82f5d161cb6a4d5bc86a0170d7cccf8de60",
+            "sha256": "b1550fd200a64cb21656dd799774e55d7346398c12ac31e87b3e1944771afeb8",
             "once": true
         },
         {
@@ -31331,5 +33707,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "05/04/2026 02:17:36,20"
+    "generated": "05/04/2026 02:21:55,38"
 }
