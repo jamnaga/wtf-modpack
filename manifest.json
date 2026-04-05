@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "a5bfb149f657b0a2a2a7c634f3f8236c75bb1509c4025565612a120e5855137b",
+            "sha256": "54eaa56131217a4fa099fdbbd76d1b7f592e94bb5d016ac5b988fcd616915a3f",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "a562ee53c3704f2c74aa58f242a6f4dfcc00fabf43cc7ab03607d896d8c96cdb",
+            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
             "once": false
         },
         {
@@ -1442,14 +1442,14 @@
         },
         {
             "path": ".gitignore",
-            "size": 429,
-            "sha256": "ffceed1b6957d044a8c68aec7158517c7aae528f51b08babf688eaf0b5f3682e",
+            "size": 436,
+            "sha256": "e73f6e4d2ca3c196f441a79cae315c06d07588427b652a9df2faf5a4b789dba3",
             "once": false
         },
         {
             "path": ".manifestignore",
-            "size": 282,
-            "sha256": "0df098103d7dc87844655c6baacb6bcb328327e5c1b77e358ba925f148569a9e",
+            "size": 283,
+            "sha256": "c12f98ee7555e45fc59ffbc9c522c87171afdd7afd80256f465abd0ec6f901e8",
             "once": false
         },
         {
@@ -1725,7 +1725,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "30e897de3083c34dc3c7715d9cc21232afa6c96ebd181fc448309e7418899b02",
+            "sha256": "208db47959e58ac14ce31cac1ea01107eb973461d76691cd8a0a741ccf46b35a",
             "once": false
         },
         {
@@ -1989,7 +1989,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "cb729ffdeef90b1d8bb350805537cfccfd2e382ba65b11019e793f00303eb88f",
+            "sha256": "e5f4174bdabd5e8ccb2055ef361b9133686fb24c1f75648bc54feb93729ed8b5",
             "once": false
         },
         {
@@ -2283,7 +2283,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "a749f3e45925ffac0f48a447e65af2571e801d1df0fd360fd573f06a4d1346fd",
+            "sha256": "f9749b73861ccd1c108a2ba27d3de5b6b0adb8228375c1dfaac5ce1dad50a8fc",
             "once": false
         },
         {
@@ -2343,7 +2343,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "676804fb1b3a9dd5e7ba9fe3fa339a01a70b7c1b9c8079666d939f6f7f4151e4",
+            "sha256": "dd963a5eb23b4e31ca8e7acdd28a1296b24043d71a863b46561a92cbb8be73f2",
             "once": false
         },
         {
@@ -2553,7 +2553,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "88c5072ed710c9ad2e121101cdfd5ede6b2b8b2189d3fd6e684dc4e66cc4a669",
+            "sha256": "f87c4664a6722196b3e33fc5d41974b851d8d101c2c18ec2a20037795f6d055d",
             "once": false
         },
         {
@@ -2792,14 +2792,14 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 7391,
-            "sha256": "73eb3c6098c3c77a4830906f5d1cf842f929da54f40cde1fdc15cd98fcb2c6f7",
+            "size": 7461,
+            "sha256": "d9fe168fdf730e193fec1d55b86160901bcc4dcdedce03924b2a8330a071b08a",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 9751,
-            "sha256": "6c5728de1bb30d70da2f6686d72f2fab84b35f1e073c283687499e08e863a0de",
+            "size": 9887,
+            "sha256": "aabc7193874f85f1f174a61a88ef96b36ac296462642a4ee0f84b9849ddcb14a",
             "once": false
         },
         {
@@ -2811,13 +2811,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "1b7f76af8108fb3a53e2a793dd3b05023c05826d94a7b27faa7ca6ed5f4f237e",
+            "sha256": "0a265ee6dc0bec4fa246f5c3dbff7ea9a92fb22d393bc50a8ecd676c285d6bc0",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "e0c81d609fb3be53280a562ab675856f906b0724b820bacc9f86f5aa9d9f69c7",
+            "sha256": "d4574ce92d6ae4668c506717831778839cb304ba96504bda0b69a7562229e0e4",
             "once": false
         },
         {
@@ -3202,6 +3202,12 @@
             "path": "generate_manifest.sh",
             "size": 7481,
             "sha256": "68c68ba7b9f3647331ab3cdaef2bdf641562e05d1ce0a9ade79394cc5a9e2596",
+            "once": false
+        },
+        {
+            "path": "hs_err_pid52199.log",
+            "size": 456847,
+            "sha256": "ddddfd3a28e95dcaeb04d88313d805de71e7f2a0b9c1a1e4a4758171fbd0abf8",
             "once": false
         },
         {
@@ -6634,6 +6640,12 @@
             "path": "mods/emoji-type-2.2.3+1.20.4-fabric.jar",
             "size": 28447,
             "sha256": "c349a8a5e198d2ae2c2c1a6bea1d0cd6e9a7539531ffe67b0771a49ce04eacb3",
+            "once": false
+        },
+        {
+            "path": "mods/energizedpower-1.20.1-2.15.12-fabric.jar",
+            "size": 5178518,
+            "sha256": "d14fdcb760a6da7bfa046414a0e178606cb59441e77e9df0b79e5e9144d68031",
             "once": false
         },
         {
@@ -33555,7 +33567,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "dfa8575c8f6e289e0668b9966f420400124ffd59e4707c0ddfa1882e23d8152f",
+            "sha256": "1572ebb05657c8604f21f31d7ba8af427bf689d9b0c6068dc03b17350e8d339b",
             "once": true
         },
         {
@@ -33617,5 +33629,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "05/04/2026 02:26:39,48"
+    "generated": "05/04/2026 03:07:42,87"
 }
