@@ -13,7 +13,7 @@ fancymenu_data/fancymenu_temp/web/videoplayer/player.html
 /saves
 /.replay_cache
 /replay_recordings
-/Distant_Horizons_server_data/REPLAY/
+Distant_Horizons_server_data/
 .fabric/.DS_Store
 config/.DS_Store
 mods/.DS_Store
