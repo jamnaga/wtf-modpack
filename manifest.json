@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "06acc0dba6889153dd3e8bd10debd170561173caa4e3bb9958f4db3634f3d11b",
+            "sha256": "a5bfb149f657b0a2a2a7c634f3f8236c75bb1509c4025565612a120e5855137b",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "a1daf2a6a9a3f21ff2bf4f21a504cc460ee24d1224e3e7c00a3bebf7bb4f628d",
+            "sha256": "a562ee53c3704f2c74aa58f242a6f4dfcc00fabf43cc7ab03607d896d8c96cdb",
             "once": false
         },
         {
@@ -1448,8 +1448,8 @@
         },
         {
             "path": ".manifestignore",
-            "size": 263,
-            "sha256": "59e0bb698bee1ad54f40ed90965d5af2d4b5c586d15406493e7d53eefafd6f66",
+            "size": 282,
+            "sha256": "0df098103d7dc87844655c6baacb6bcb328327e5c1b77e358ba925f148569a9e",
             "once": false
         },
         {
@@ -1725,7 +1725,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "405652b79b2fbfc512854b285677d84b92008040ea781d36ed019140144f9f24",
+            "sha256": "30e897de3083c34dc3c7715d9cc21232afa6c96ebd181fc448309e7418899b02",
             "once": false
         },
         {
@@ -1989,7 +1989,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "551519890f148743226ca02c94a180517b4a336a369d8d5facbbca08bb4e4532",
+            "sha256": "cb729ffdeef90b1d8bb350805537cfccfd2e382ba65b11019e793f00303eb88f",
             "once": false
         },
         {
@@ -2283,7 +2283,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "def4da8594385ec67501f9632cdd689d1c049a1dfa672d6725806619d5558748",
+            "sha256": "a749f3e45925ffac0f48a447e65af2571e801d1df0fd360fd573f06a4d1346fd",
             "once": false
         },
         {
@@ -2343,7 +2343,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "ec082e433ec70ac2c9fce96c64ab634f5154873da3a88cb47ff26940492a42a2",
+            "sha256": "676804fb1b3a9dd5e7ba9fe3fa339a01a70b7c1b9c8079666d939f6f7f4151e4",
             "once": false
         },
         {
@@ -2553,7 +2553,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "1856267957f74c348f1429a4b352f304c71a50377f26865ffeeb132366e0fca8",
+            "sha256": "88c5072ed710c9ad2e121101cdfd5ede6b2b8b2189d3fd6e684dc4e66cc4a669",
             "once": false
         },
         {
@@ -33523,96 +33523,6 @@
             "once": false
         },
         {
-            "path": "replay_recordings/2026_04_04_00_11_51.mcpr",
-            "size": 13458515,
-            "sha256": "1515cea78689ea869493caaf5301330eb020b4b3f70d604905e15b899e5ef866",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/2026_04_04_01_44_39.mcpr",
-            "size": 256814918,
-            "sha256": "74f9665b96d81ea42b94ff9748aad1723746c0c751419e951ecf38734f09ac87",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/2026_04_05_01_28_06.mcpr.del/changed/markers.json",
-            "size": 124,
-            "sha256": "b3db02b9854c346a2c11fcd819978df26a3dba711d5d564ef53c97bb9ea830bd",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/2026_04_05_01_28_06.mcpr.del/changed/metaData.json",
-            "size": 352,
-            "sha256": "7683b412ad2c83516cac793828c74af0f3a765a5cd966b67cf814c2015a32a06",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/2026_04_05_01_28_06.mcpr.del/changed/mods.json",
-            "size": 4042,
-            "sha256": "5b734d7754cd4d44b9b4abaa2b73955e325558ec23792768a180266fe8ad95e4",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/2026_04_05_01_28_06.mcpr.del/changed/recording.tmcpr",
-            "size": 790971895,
-            "sha256": "c1831c8bc71947316c16c0584fcee54b42b174a4ace85f965326b66344aa67e9",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/2026_04_05_01_28_06.mcpr.del/changed/recording.tmcpr.crc32",
-            "size": 7,
-            "sha256": "f1234d75178d892a133a410355a5a990cf75d2f33eba25d575943d4df632f3a4",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/2026_04_05_02_08_44.mcpr.del/changed/markers.json",
-            "size": 124,
-            "sha256": "b3db02b9854c346a2c11fcd819978df26a3dba711d5d564ef53c97bb9ea830bd",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/2026_04_05_02_08_44.mcpr.del/changed/metaData.json",
-            "size": 275,
-            "sha256": "d248244445b18a73cb01e20ec55361a97ad40d3a80616280e19caeff93e861d2",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/2026_04_05_02_08_44.mcpr.del/changed/mods.json",
-            "size": 4042,
-            "sha256": "5b734d7754cd4d44b9b4abaa2b73955e325558ec23792768a180266fe8ad95e4",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/2026_04_05_02_08_44.mcpr.del/changed/recording.tmcpr",
-            "size": 129321937,
-            "sha256": "a967a05cf4cb210d652c28a8c87e1a7300170a7eedebbf1400578ed616cf498c",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/2026_04_05_02_08_44.mcpr.del/changed/recording.tmcpr.crc32",
-            "size": 7,
-            "sha256": "f1234d75178d892a133a410355a5a990cf75d2f33eba25d575943d4df632f3a4",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/raw/2026_04_04_00_11_51.mcpr",
-            "size": 13588542,
-            "sha256": "f2203f7eb5a85b13f186e0c1cc3380d400df02b40618ec670542d74594992873",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/raw/2026_04_04_00_20_24.mcpr",
-            "size": 192344400,
-            "sha256": "cd772452dced9104041249cd4de3932bfd2d56563c617f3189a159b4f7a1a9ea",
-            "once": false
-        },
-        {
-            "path": "replay_recordings/raw/2026_04_05_00_07_02.mcpr",
-            "size": 16776195,
-            "sha256": "68e270f50be2cbb150a5802a4bd82f271d713a3dc563ba2768e733a1a47d1e83",
-            "once": false
-        },
-        {
             "path": "resourcepacks/Faithful 32x - 1.20.1.zip",
             "size": 10955093,
             "sha256": "9f129a4a8ecea0cf6b1ba02367da40b921776d81ca6bb9bdd1c6e3672341e3f2",
@@ -33645,7 +33555,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "b1550fd200a64cb21656dd799774e55d7346398c12ac31e87b3e1944771afeb8",
+            "sha256": "dfa8575c8f6e289e0668b9966f420400124ffd59e4707c0ddfa1882e23d8152f",
             "once": true
         },
         {
@@ -33707,5 +33617,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "05/04/2026 02:21:55,38"
+    "generated": "05/04/2026 02:26:39,48"
 }

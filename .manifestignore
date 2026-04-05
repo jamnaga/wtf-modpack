@@ -15,4 +15,5 @@ screenshots/
 packages/
 .replay_cache/
 .cache/
+replay_recordings/
 Distant_Horizons_server_data/
