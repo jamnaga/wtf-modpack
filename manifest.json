@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "24a1d21d1bf16203398f947d7c35112c643556a06f44eea30fbb28cdee3117c5",
+            "sha256": "845ee3ad3624a64fd0a89eeec937b1b51f3c4df7e4efbaf5f4dc0a5f185224c6",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "5e409c6e19f9a444998de529c611fc79e39846cefce9888b1e21a6526e3adb55",
+            "sha256": "216b570c3deec4669b0388049ae708ad6d6faf15d3b5bbc4631b6f3f0b19829f",
             "once": false
         },
         {
@@ -1411,6 +1411,12 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/transition-1.0.17-165a5cf69a676195.jar",
+            "size": 1269597,
+            "sha256": "c13d547af8f5063efff6dd26bcd04367c707f65ad1829433989ff4f6ac10214f",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/trender-1.0.10-52d04b38e7091e61.jar",
             "size": 379788,
             "sha256": "78d9865453dc4697c848d0bad6c4e4c1f0ed0ea92123513fcd7e749c6237a413",
@@ -1420,6 +1426,12 @@
             "path": ".fabric/processedMods/trender-1.0.11-ebfdae2c4208eba0.jar",
             "size": 382152,
             "sha256": "75497726b6b40cb32372a9f0abac4706c7980d905302ab444037dc03296e801a",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/trender-1.0.12-7d35d9120e3b1ea2.jar",
+            "size": 382794,
+            "sha256": "aec626d7dbe70287ff9ed9ed388051f6ce30f565e3de9e4e4867a0fd37000888",
             "once": false
         },
         {
@@ -1472,8 +1484,8 @@
         },
         {
             "path": ".manifestignore",
-            "size": 283,
-            "sha256": "c12f98ee7555e45fc59ffbc9c522c87171afdd7afd80256f465abd0ec6f901e8",
+            "size": 289,
+            "sha256": "fe7d7309d8b0ef041d3f3533971464ecbd7bd7267607145c22742902cc6e9dfd",
             "once": false
         },
         {
@@ -1749,7 +1761,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "c1500cd32868931512dc145d4b49dd532dc6da26af43b8a01d757f32be3f488c",
+            "sha256": "9c9971ffee8bae9a47b7bbd8a6cecde5e243efbdca10295f129d70147f3a2192",
             "once": false
         },
         {
@@ -2031,7 +2043,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "3b9afb7772f45ca8cb5a766ab97424b8780baf99dce8906b23fa4030c71b53d9",
+            "sha256": "3a26656107d1ff17bf5345c6a7b40aef078674821fdd5f336f88eef52de1cfd0",
             "once": false
         },
         {
@@ -2325,7 +2337,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "53ef4d96aec24f88fdf402167ecc98a115dc7e33fbd2e3792110576cb1b76aa5",
+            "sha256": "90faa3de268e181e291b2a2e330db95a469dab8ee18f8b729ed55891e6a5fc4b",
             "once": false
         },
         {
@@ -2385,7 +2397,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "ef38f55938e115c0ae4d72a16068dc10425cb9d342ecca3a1679c0c3220fa7f3",
+            "sha256": "ec5779726fd57390cbc7c42950ec7837cad300d706a01d7b65abfaca3def9681",
             "once": false
         },
         {
@@ -2595,7 +2607,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "ca389e11e96bf4ff7f8f76604ca129253a741408db75c65fede410a2a2756924",
+            "sha256": "b2396d36d555dbe9ff35e730b10d015263457e62512dc18fd39ed5e460ef83ab",
             "once": false
         },
         {
@@ -2853,13 +2865,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "d06306dba1a26dc4421eab17b9e855ac3f796533e311a57fced08dc8ccd481b5",
+            "sha256": "831e8db6b54e5123fcfb144ce419e38bc86b45e1414df2f489cfce56333546cd",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "1c0d8066516b3c166fa6edbb40896d4b78efe1317a0ef00039dc28f22d62b478",
+            "sha256": "2bfcbcb8e5b1d215dbfbd785c07105dfc7b4c8084d624a184cd5681b88d47350",
             "once": false
         },
         {
@@ -2872,6 +2884,12 @@
             "path": "config/sidebar_buttons.json",
             "size": 118,
             "sha256": "c2adfd6453038abd3081177d5aabc2909d2b9e8dac42560168de166302ba7a39",
+            "once": false
+        },
+        {
+            "path": "config/skinlayers.json",
+            "size": 497,
+            "sha256": "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166",
             "once": false
         },
         {
@@ -33663,7 +33681,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "ca2b7185207080cfdc1b903af5a8006f40914e1dfa22751941ddfcf6805f6a71",
+            "sha256": "e29aae814b283f54130b5624de347b828db3a9a1fe96bd479dda220ab38d285c",
             "once": true
         },
         {
@@ -33725,5 +33743,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "07/04/2026 17:49:53,84"
+    "generated": "07/04/2026 19:44:01,02"
 }
