@@ -6505,6 +6505,12 @@
             "once": false
         },
         {
+            "path": "mods/[client]skinlayers3d-fabric-1.11.1-mc1.20.1.jar",
+            "size": 1973785,
+            "sha256": "a3b7d719eabfda8255904143662586a2a6dbcf6c226f75405e0f7fea7a40532b",
+            "once": false
+        },
+        {
             "path": "mods/[client]sodium-extra-0.5.9+mc1.20.1.jar",
             "size": 370701,
             "sha256": "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f",
@@ -6988,12 +6994,6 @@
             "path": "mods/sdm_ui_lib-fabric-1.20.1-1.8.3.jar.disabled",
             "size": 256192,
             "sha256": "2d0c577dee742d6de9f9929f8eff0c120bed17021729d9bebf32e0ea96d5e153",
-            "once": false
-        },
-        {
-            "path": "mods/skinlayers3d-fabric-1.11.1-mc1.20.1.jar",
-            "size": 1973785,
-            "sha256": "a3b7d719eabfda8255904143662586a2a6dbcf6c226f75405e0f7fea7a40532b",
             "once": false
         },
         {
@@ -33725,5 +33725,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "07/04/2026 16:40:36,13"
+    "generated": "07/04/2026 17:49:53,84"
 }
