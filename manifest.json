@@ -6163,6 +6163,12 @@
             "once": false
         },
         {
+            "path": "mods/3dplaceablefoodUPDATE-1.1.3 1.20.1 fabric.jar",
+            "size": 5013876,
+            "sha256": "54c52fa6e2a560376b3b18cdd2f5e23f30756c4255ed406f29e35923dcd41114",
+            "once": false
+        },
+        {
             "path": "mods/BeansBackpacks-fabric-1.20.1-2.0.2.jar",
             "size": 1179413,
             "sha256": "47a5dd175d8609d257811549c90e6ef7dec72ec287c328d2cb034bbea2e4246b",
@@ -6919,6 +6925,12 @@
             "once": false
         },
         {
+            "path": "mods/open-parties-and-claims-fabric-1.20.1-0.25.10.jar",
+            "size": 1382387,
+            "sha256": "592edc259b320de99ee84f36abedc02b8957ba55b19461d1be1697a82503bc41",
+            "once": false
+        },
+        {
             "path": "mods/otyacraftengine-fabric-mc1.20.1-3.7.1-1.20.1.jar",
             "size": 628853,
             "sha256": "1bd6e0ccfddd6c002ca27d02623d9c5c3d6dc2ca7cd76cc3c5917f5e5b3f157e",
@@ -6976,6 +6988,12 @@
             "path": "mods/sdm_ui_lib-fabric-1.20.1-1.8.3.jar.disabled",
             "size": 256192,
             "sha256": "2d0c577dee742d6de9f9929f8eff0c120bed17021729d9bebf32e0ea96d5e153",
+            "once": false
+        },
+        {
+            "path": "mods/skinlayers3d-fabric-1.11.1-mc1.20.1.jar",
+            "size": 1973785,
+            "sha256": "a3b7d719eabfda8255904143662586a2a6dbcf6c226f75405e0f7fea7a40532b",
             "once": false
         },
         {
@@ -7078,6 +7096,12 @@
             "path": "mods/xaerominimap-fabric-1.20.1-25.3.10.jar",
             "size": 2170691,
             "sha256": "f9c9e738a9147ab8f7fb5801fb6533dd2e294968f8bdcd80443e8f3382c8b710",
+            "once": false
+        },
+        {
+            "path": "mods/xaeroworldmap-fabric-1.20.1-1.40.11.jar",
+            "size": 1409403,
+            "sha256": "b3f4cb305708175d6a1eab2fd7d72d10d399ba9dafd3fbfff8cea0f2b4b60f5f",
             "once": false
         },
         {
@@ -33701,5 +33725,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "06/04/2026 01:45:58,67"
+    "generated": "07/04/2026 16:40:36,13"
 }
