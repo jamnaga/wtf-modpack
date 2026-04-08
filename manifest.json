@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "1679ba12f1cb74ab269114239b199fdfdfd7439cd84a8ce0eb5d100be35f3622",
+            "sha256": "b31227bee91c6601914d8b4818125110678780f817fe6b230fc82307225b2add",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
+            "sha256": "55405784fef106c06eb01b218d8cb0774dcb642370edb148258fd06b6fbe6728",
             "once": false
         },
         {
@@ -1641,7 +1641,7 @@
         {
             "path": "config/beansbackpacks-common.json5",
             "size": 2118,
-            "sha256": "3d8288a51eed96913234f52ffed78285f267aad169ac668433a00a5ef80142f6",
+            "sha256": "4ae66bcf0e7791e28096cb477da33b19b9d1818604ab91ee59338c0038447262",
             "once": false
         },
         {
@@ -1809,7 +1809,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "f35947d76aee8b1d0aec2f4ee5b3e660ec4e9d6c7657329403d96b2feb014e82",
+            "sha256": "85713f3ed55b0a58a0500956d65a44a71ec893b08e62c3b97d1d80def57aca82",
             "once": false
         },
         {
@@ -2090,8 +2090,8 @@
         },
         {
             "path": "config/fabric/indigo-renderer.properties",
-            "size": 282,
-            "sha256": "cfa80c1dc48b692b9da926e09148d5f8e0fb4f66ee1ec4712a31ea65129c53dd",
+            "size": 374,
+            "sha256": "a201e527f8f27a989173d39985c9e909606f389a390de33d5779f0f758ff3ddc",
             "once": false
         },
         {
@@ -2402,8 +2402,8 @@
         },
         {
             "path": "config/indium-renderer.properties",
-            "size": 112,
-            "sha256": "f6f96c69481290df7a391042103d56b5c52024ebc9bfd19ebce5aa73d61da5c1",
+            "size": 204,
+            "sha256": "243ddc475e9c9797f2cdbbec6095cb189b79a1b2a8d66d0c4c30047ab0f87f7d",
             "once": false
         },
         {
@@ -2463,7 +2463,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "99b15c190b879ff8b748c2fc193e0905a813210030ea71b131a832c7617f235c",
+            "sha256": "8e4f5fb16a2e897e6e8a21484dcf47baf23164f98af64023d541ea59e47bac28",
             "once": false
         },
         {
@@ -2643,7 +2643,7 @@
         {
             "path": "config/jsonem.properties",
             "size": 49,
-            "sha256": "daedbd19cf44fda88ba01b17c6d32d42c95f128e9231899c1c4ab7b169788d7f",
+            "sha256": "36e0bd91f510e60d1f3ae5d5c0611966f3c070f0525c4062178440acfd4ef7df",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "03bf9ae11b87aa1a7350206808cceae9aa279e8fcb27b887f85e0ec65bbf4127",
+            "sha256": "e6f47e4c5d3265923af81b241b056e59c0d302aeacd55f7cee9e2a05a3daebd3",
             "once": false
         },
         {
@@ -2972,8 +2972,8 @@
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 10389,
-            "sha256": "076e8e8262c27ea3a2733c78d0b4d0464037f572168c502a6e82aaad444c834e",
+            "size": 61,
+            "sha256": "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47",
             "once": false
         },
         {
@@ -2985,13 +2985,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "ce4b4f06c365f5c5ced1e14ed136ca7aa10367e8a9995c008d249242e96a5ee4",
+            "sha256": "991f115ed4f2a07db39dd3727af6c9624b14e4bdb31bd5d599844c8bcb829e0d",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "0e13fd4a46124e552fae3b3115f55ba5f14929a04cfa8cd4951e39124e32a754",
+            "sha256": "41947287d89f78246c513d071c16e2b772e3b8da9534a4a3da56d6a3adeac05b",
             "once": false
         },
         {
@@ -3121,6 +3121,18 @@
             "once": false
         },
         {
+            "path": "config/spark/tmp/spark-12beeaf742961-libasyncProfiler.so.tmp",
+            "size": 724576,
+            "sha256": "1ca599cb9db2b40a508c665193fc73cd41143c8327d06900346206a05c52122f",
+            "once": false
+        },
+        {
+            "path": "config/spark/tmp/spark-12bef4de9094a-profile-data.jfr.tmp",
+            "size": 135149,
+            "sha256": "8507679c76694af010e6b4e36dbace980dfd4a9feba02b1a7a7991a0a1826e30",
+            "once": false
+        },
+        {
             "path": "config/spark/tmp/spark-2d467c2bda713-libasyncProfiler.so.tmp",
             "size": 724576,
             "sha256": "1ca599cb9db2b40a508c665193fc73cd41143c8327d06900346206a05c52122f",
@@ -3165,13 +3177,13 @@
         {
             "path": "config/spell_power/attributes.json",
             "size": 752,
-            "sha256": "46b2b53aceae8a03cc0229a9a658715e3c31b66c9597b4666c31f87ade12b4ec",
+            "sha256": "d52dbe783b3c4be9825c78015cdbb1bb1eccb23ae831aba5c3f520adfe20636e",
             "once": false
         },
         {
             "path": "config/spell_power/enchantments.json",
             "size": 1279,
-            "sha256": "70a86e07d3a2038d202e8a64b060cf38385430aa029afd56fa5e833872cf19b7",
+            "sha256": "39e40768b96e84bf84b074ffafd9695f9ec164fa97dd3480c9dcfb37e3728a48",
             "once": false
         },
         {
@@ -3333,7 +3345,7 @@
         {
             "path": "config/worldedit/worldedit.properties",
             "size": 2496,
-            "sha256": "5f8e6d17aed37d6785a7bf41ebec8e01b5eaadbda8ecda9972ee6e5fb545c674",
+            "sha256": "35a0e17c35fdb296a2c8830b84e319049d2aee658791067706d4eaca050e15bf",
             "once": false
         },
         {
@@ -3466,12 +3478,6 @@
             "path": "immersive_paintings_cache/16333659-af6a-4542-bf80-25eba03e7123.png",
             "size": 485002,
             "sha256": "8daf2eede20dab48944532fc7b8f3d1a91bba36898a2d3fd7eac43d0093e8357",
-            "once": false
-        },
-        {
-            "path": "immersive_paintings_cache/50a6cfa2-720b-4d21-a8e1-142a4064e07e.png",
-            "size": 5181851,
-            "sha256": "bcd14542c8dee8b656a39f5962fb7cdf480b8e2717996b19d05cbdf9967e6aa2",
             "once": false
         },
         {
@@ -6817,7 +6823,7 @@
             "once": false
         },
         {
-            "path": "mods/azurelib-fabric-1.20.1-3.0.27.jar",
+            "path": "mods/azurelib-fabric-1.20.1-3.0.27.jar.disabled",
             "size": 1367955,
             "sha256": "503f54351ebac2eabf31ab47364aad4a7ed1d4fc2bb5f93bc443735456f1e5b3",
             "once": false
@@ -7075,7 +7081,7 @@
             "once": false
         },
         {
-            "path": "mods/immersive_guns-1.3.jar",
+            "path": "mods/immersive_guns-1.3.jar.disabled",
             "size": 3176842,
             "sha256": "c829d752af0c8aa9fa7d6f828c6aa21783a98609ff11f5a1a89615733ee9efd5",
             "once": false
@@ -7724,8 +7730,8 @@
         },
         {
             "path": "options.txt",
-            "size": 10679,
-            "sha256": "e7da17c60e173d12c2a5eb8f7689135a44feafb8289d0f8c8881e37cc1cadad5",
+            "size": 9337,
+            "sha256": "cd2a0be0922cdcd05adff8d57f29fc069448abdd6b07749945bff9e9e1c933ae",
             "once": false
         },
         {
@@ -36321,7 +36327,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "ab4c6ded61dcece7648c1e724294dd638280e33182d3d38e0cd5617bf759b44b",
+            "sha256": "df5814c1177ec0c8c103a51f6a9c7a0110f1428c7de936fef363b2567137baca",
             "once": true
         },
         {
@@ -36383,5 +36389,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "08/04/2026 13:58:41,26"
+    "generated": "08/04/2026 14:10:11,90"
 }
