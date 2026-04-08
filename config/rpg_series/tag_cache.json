@@ -1,3 +1,18 @@
 {
-  "cache": {}
+  "cache": {
+    "rpg_series:tier_4_weapons": [],
+    "rpg_series:tier_1_armors": [],
+    "rpg_series:tier_2_armors": [],
+    "rpg_series:tier_3_armors": [],
+    "rpg_series:tier_0_accessories": [],
+    "rpg_series:tier_1_accessories": [],
+    "rpg_series:tier_3_weapons": [],
+    "rpg_series:tier_2_accessories": [],
+    "rpg_series:tier_3_accessories": [],
+    "rpg_series:tier_1_weapons": [],
+    "rpg_series:golden_weapons": [],
+    "rpg_series:tier_2_weapons": [],
+    "rpg_series:tier_4_accessories": [],
+    "rpg_series:tier_0_weapons": []
+  }
 }

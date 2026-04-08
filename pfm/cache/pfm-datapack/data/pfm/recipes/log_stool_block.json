@@ -12,7 +12,10 @@
     "minecraft:dark_oak",
     "minecraft:mangrove",
     "minecraft:crimson",
-    "minecraft:warped"
+    "minecraft:warped",
+    "ad_astra:aeronos",
+    "ad_astra:strophar",
+    "ad_astra:glacian"
   ],
   "ingredients": {
     "vanillaIngredients": [],

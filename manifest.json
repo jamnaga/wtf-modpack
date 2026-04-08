@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "20faf333290d9c98abd6041dcdeb79c7c84bfffbc1dc6bd5f5859e8846960cb2",
+            "sha256": "1679ba12f1cb74ab269114239b199fdfdfd7439cd84a8ce0eb5d100be35f3622",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "e7e76b43d3ca74334b2917969fb92a62848a2e0e1056591749bf2545bcf5c2c7",
+            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
             "once": false
         },
         {
@@ -1527,7 +1527,7 @@
         {
             "path": ".mixin.out/class/net/minecraft/class_1657.class",
             "size": 155521,
-            "sha256": "13df9f7af1d2e244221e592b04b62dba1b00c3a6ef1c9ec5a41450e3bbca66f8",
+            "sha256": "84f373710b31bd26787805e8fe5a3937a8be0b8d2062a959ab870c68620b4356",
             "once": false
         },
         {
@@ -1641,7 +1641,7 @@
         {
             "path": "config/beansbackpacks-common.json5",
             "size": 2118,
-            "sha256": "ae715e254d19ca4ed21cb610287f5150d6c9a36110045b9ac7aeb733a311b381",
+            "sha256": "3d8288a51eed96913234f52ffed78285f267aad169ac668433a00a5ef80142f6",
             "once": false
         },
         {
@@ -1809,7 +1809,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "79e4fc70bc645319575e0225c105ec05bb5c3bb1a30edaf11b29d06b0842cce9",
+            "sha256": "f35947d76aee8b1d0aec2f4ee5b3e660ec4e9d6c7657329403d96b2feb014e82",
             "once": false
         },
         {
@@ -2091,7 +2091,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "0a8b010ab6b2aee46e8a1fa05cbc2cda23bac9a2195a199fb1235c9d663a600f",
+            "sha256": "cfa80c1dc48b692b9da926e09148d5f8e0fb4f66ee1ec4712a31ea65129c53dd",
             "once": false
         },
         {
@@ -2403,7 +2403,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "832a951abc47ef62fc5761a69eb893d65fc90a1dd68d1159f208e532fe3918fe",
+            "sha256": "f6f96c69481290df7a391042103d56b5c52024ebc9bfd19ebce5aa73d61da5c1",
             "once": false
         },
         {
@@ -2463,7 +2463,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "5b343a29335323e2de761643caa4a4d77fc8ae3b87f0fccaed37c05410f6c564",
+            "sha256": "99b15c190b879ff8b748c2fc193e0905a813210030ea71b131a832c7617f235c",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "3c33b6860fc738f93b406ab6f74d951aa039a0e91d8969e4273e291507334dec",
+            "sha256": "03bf9ae11b87aa1a7350206808cceae9aa279e8fcb27b887f85e0ec65bbf4127",
             "once": false
         },
         {
@@ -2821,6 +2821,12 @@
             "once": false
         },
         {
+            "path": "config/openpartiesandclaims-server.toml",
+            "size": 37663,
+            "sha256": "dbdc81b2ec4d98f62b4a09193a3e5e563087d54685a53c8a2ccdec3b72287d81",
+            "once": false
+        },
+        {
             "path": "config/otyacraftengine/client.toml",
             "size": 86,
             "sha256": "296562f31498578124f780431b54e94e722a5a4d9dd3c1453630dd23391ad700",
@@ -2899,6 +2905,12 @@
             "once": false
         },
         {
+            "path": "config/powergrid-server.toml",
+            "size": 13389,
+            "sha256": "8f143c5bb59f216c8f345abe7910cc75ac4fa9043fc1916c8c28c506826baeb1",
+            "once": false
+        },
+        {
             "path": "config/railways-client.toml",
             "size": 1908,
             "sha256": "be2c9d524882adfb5c1502c1bb1663d8dee5e62e2df75c6b163908a748c672dd",
@@ -2973,13 +2985,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "9b9460bae9b6ae6baf76d3d7e3ce45cc781c05a8800900a3d91afc467f05d934",
+            "sha256": "ce4b4f06c365f5c5ced1e14ed136ca7aa10367e8a9995c008d249242e96a5ee4",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "d744930eafcba640061f747fc301277d32d0bae30181fb5594a75700748dea84",
+            "sha256": "0e13fd4a46124e552fae3b3115f55ba5f14929a04cfa8cd4951e39124e32a754",
             "once": false
         },
         {
@@ -2990,8 +3002,8 @@
         },
         {
             "path": "config/rpg_series/tag_cache.json",
-            "size": 17,
-            "sha256": "d6279d4d2faa9ef7818ea22946c2fd25166ea18992d5f8595908a089f590a15c",
+            "size": 554,
+            "sha256": "55702c747dfed88745be7f9848260bc3dcc783b8ee6b15bb03a72ea0228b4e67",
             "once": false
         },
         {
@@ -3169,6 +3181,12 @@
             "once": false
         },
         {
+            "path": "config/styled-chat.json",
+            "size": 3190,
+            "sha256": "5e42cec6e3ed64996eced65c11b813286874a6ffed685a0b141171ced6a24335",
+            "once": false
+        },
+        {
             "path": "config/supplementaries-client.json",
             "size": 3656,
             "sha256": "2422d047ee038201fbc9d08f3b4bcbdabb3dcfe5a619e3370e2232bda77c9ee2",
@@ -3315,7 +3333,7 @@
         {
             "path": "config/worldedit/worldedit.properties",
             "size": 2496,
-            "sha256": "5dba3815575d205d70dee47523a788dde1fd62c9167569f863d871ea3bccfb46",
+            "sha256": "5f8e6d17aed37d6785a7bf41ebec8e01b5eaadbda8ecda9972ee6e5fb545c674",
             "once": false
         },
         {
@@ -3410,8 +3428,8 @@
         },
         {
             "path": "fancymenu_data/last_world.fmdata",
-            "size": 93,
-            "sha256": "ae54f8d6c0c8d7cf8cb472660f6e5acaaa9e77d1cf24354d57ed0ca606d91bed",
+            "size": 172,
+            "sha256": "8e2f6b35645129112c65f5eea4b6b64087f1b027a2dfac2a8cbda4363ef48cd7",
             "once": false
         },
         {
@@ -20480,26 +20498,26 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/minecraft/tags/blocks/beds.json",
-            "size": 12724,
-            "sha256": "80ad5ca86ec53baed91a198c65057dfc5d83a7f50f334405741d2a2c1f770ab8",
+            "size": 17172,
+            "sha256": "e6bddef6e63b833f511fab0386ab2e1583b7c3d0eb977282c1d5761971c2fcc1",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/minecraft/tags/blocks/climbable.json",
-            "size": 428,
-            "sha256": "863696818d8f05313a8defeed9d1749e90584ac716791d0c5b9605a71c8a9ac2",
+            "size": 570,
+            "sha256": "d96f003a1cd53198e08a0da4c4f19f689ea9260914c003f25c78d2e38d803ddd",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/minecraft/tags/blocks/mineable/axe.json",
-            "size": 39810,
-            "sha256": "f9e444eb53b859779fb335c9899301333ef487614b88cbf325032c7034011523",
+            "size": 49513,
+            "sha256": "f11c4ca7a4afc84cab35b3fa2dcf6650cbefed65cda45f8e499f5a5633e643a2",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/minecraft/tags/blocks/mineable/pickaxe.json",
-            "size": 32063,
-            "sha256": "8ef7f67c8613d2f143c15a565c2c5acad4cde8a292eebf169b8f8b573f461340",
+            "size": 40825,
+            "sha256": "3beae91dfa3afeb5b0ddabcce6e3a56acfd67fccc9c13570a8a7536f8aa919e1",
             "once": false
         },
         {
@@ -22024,6 +22042,372 @@
             "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/acacia_yellow_simple_bed.json",
             "size": 470,
             "sha256": "483e8b37096b2730e5fd5033aeea47f640321a3ed817bf0e92d65ee4331c102e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_black_classic_bed.json",
+            "size": 490,
+            "sha256": "ee959cc005d94f47ca8f5bc4f76d3b8125c19d9114c5b5abbe261268792feda4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_black_simple_bed.json",
+            "size": 488,
+            "sha256": "1b0bba99ffdbbd57888d8d9a7509882d65e1d7db37f371097466f6036244b5ef",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_blue_classic_bed.json",
+            "size": 488,
+            "sha256": "3990f8e4bfd71d869928213b7c9ce54eef9f9caae14650559bfac7779654549a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_blue_simple_bed.json",
+            "size": 486,
+            "sha256": "99f9c851ae4fe0b5c07f0001d891227a506e01a8082e443548ae1d818f14c8b4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_brown_classic_bed.json",
+            "size": 490,
+            "sha256": "319351811af23d5c93de2281f7a1019c6ddea1ce48470c8438355b3d7ae41bcb",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_brown_simple_bed.json",
+            "size": 488,
+            "sha256": "945329d34a5d3f15c9919369c81e34aeb895d6e9e94f61014730481b569a6ce7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_chair.json",
+            "size": 208,
+            "sha256": "44454d226e87dfaf614dff62b46bfd74ccfbca30268f398635358e8aed82bb50",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_chair_classic.json",
+            "size": 216,
+            "sha256": "647fab511cb6e88b1973f535167e560e5de68b2af895aeb728f9d5b2e714a241",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_chair_dinner.json",
+            "size": 215,
+            "sha256": "84c6e600a2bc555732520666b3cb73157f035c7389a8c4c5b5440aa296745146",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_chair_modern.json",
+            "size": 215,
+            "sha256": "a3e2915012018054ac6e9d8b7e994a39f56a7b76b7a8921946962b5a69d0dd75",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_classic_nightstand.json",
+            "size": 221,
+            "sha256": "bddc16952416135f5c804579438f72195b00d7359e5949314013b70bfce394ec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_classic_stool.json",
+            "size": 216,
+            "sha256": "5927cb0536c59f3e0dbbb6bf56f089f8c1a77aa6e8af22802f9afb9c8ebf76db",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_coffee_table_basic.json",
+            "size": 221,
+            "sha256": "2e1fa40e9e4247c1df8c6704015d8d981bea29a1bb69587fa68da0ce9b78d1e9",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_coffee_table_classic.json",
+            "size": 223,
+            "sha256": "275f11b75161359410ade4d2ca09d45b66c9fe799cae379f4f59616dc5c30e6b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_coffee_table_modern.json",
+            "size": 222,
+            "sha256": "cf031980deef7b56644cf20f6bef0609215ee3c9759c19ba7b699588c07eb3ea",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_cyan_classic_bed.json",
+            "size": 488,
+            "sha256": "4fd8d5dcec9db315e4d624763fb933d79a1a4a280905e9a43934be9cd0cb4fdd",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_cyan_simple_bed.json",
+            "size": 486,
+            "sha256": "e1314952309f45af393a7c023bbd7f2d8427558c43edf0758a3c688adcf6a6be",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_desk_basic.json",
+            "size": 213,
+            "sha256": "769a6884608f909792735071474dc47926196d85df7bf3d93ac4f5693eee2e3d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_desk_cabinet_basic.json",
+            "size": 221,
+            "sha256": "b87e461c24013dfc78c3798eaac4754fafb4617f3a6f7622a5714d2ef4de90f4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_gray_classic_bed.json",
+            "size": 488,
+            "sha256": "7c6fd9b3799352acc2de63884e2ae2396c658fcf09d7ac2ff6abbc1d7f94661c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_gray_simple_bed.json",
+            "size": 486,
+            "sha256": "a4ac28da7fee90decb0e10c253c2a33d4c12477aa3f2855bd0dc7e205f27c5b8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_green_classic_bed.json",
+            "size": 490,
+            "sha256": "44db098bd2ebb64214a7416398fc7668c08de681ec1d194fe0e3846a37637c00",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_green_simple_bed.json",
+            "size": 488,
+            "sha256": "25f868dcbd2f5246d722a094cd1801bae114bf88e561b535db96a120c02047c4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_kitchen_cabinet.json",
+            "size": 218,
+            "sha256": "e158c95e06034bb1fc1c709ff4a032222ebd31a57429372fdf908d2e7d6afe4e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_kitchen_counter.json",
+            "size": 218,
+            "sha256": "f15ae4f68d9e4d40338d9e31dcb19c2ce722963686b8a0d74ae0f1401e716389",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_kitchen_counter_oven.json",
+            "size": 223,
+            "sha256": "ae22adf8a5f49d24f8fa2aec7dce81f0ec2a49c857a638199fc6ad51fa01fbcd",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_kitchen_drawer.json",
+            "size": 217,
+            "sha256": "03b5ffd37cff3500c9a8adf3ca7aca0ce4ff36fec99064b6a70a7cad12113292",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_kitchen_sink.json",
+            "size": 215,
+            "sha256": "6f5355c4f3905e0c4c63970e397e6f00a4f15008f849b3b7a5dcfecdcd884e6d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_kitchen_wall_counter.json",
+            "size": 223,
+            "sha256": "adf40cf4f4ea51b1aa2e70e92d018f8afba69ea2e4d15f91ae969e186e5892c7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_kitchen_wall_drawer.json",
+            "size": 222,
+            "sha256": "e9e57787b0e52a809b7a4727d105ee8c8556fbfd069ba9091797befbbab3fa1e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 228,
+            "sha256": "274ec8738b00c0fee9bde9698a5325c94a1bc227ad47b57ac699fd89771d486f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_light_blue_classic_bed.json",
+            "size": 500,
+            "sha256": "2d82c5012e944084670906e3866250cb3db37969d62eec41652fa1bb9dc11d36",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_light_blue_simple_bed.json",
+            "size": 498,
+            "sha256": "b521380a937372e503cd3eced97e890554259f1b613cda439b7c81c7542a9abb",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_light_gray_classic_bed.json",
+            "size": 500,
+            "sha256": "0a933b0cfc7dec3d04f17701a51dd56eeb075555a057a1b5dcc268ca74fa7e45",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_light_gray_simple_bed.json",
+            "size": 498,
+            "sha256": "01efc3bd759b5f47a2373b3a6535f3706f4a3bd22ce5b9ecbca85a15f04c441a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_lime_classic_bed.json",
+            "size": 488,
+            "sha256": "397f716eef66ad8c0a4e191f83b23509f16f3b2d23d3363737dd4a60261190f3",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_lime_simple_bed.json",
+            "size": 486,
+            "sha256": "74b0e9160101efc910392067e86d025abcc5029feca6c5cd98dd704d485d6c27",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_log_stool.json",
+            "size": 212,
+            "sha256": "84da39a92e746fcba2cb2969f717820d0981b96092e64be838f15d1988d30f57",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_magenta_classic_bed.json",
+            "size": 494,
+            "sha256": "1c54aa853ec5fcfcc71c7b30635c65013f3e85a7cfdb2c32cc60413b7debf223",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_magenta_simple_bed.json",
+            "size": 492,
+            "sha256": "63841c8e1c1e8422d15d903a21edc1e7cc7164d0b67f218bfb3098c6655500c3",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_modern_stool.json",
+            "size": 215,
+            "sha256": "34000a8d91c67756b690b0657916047420e13fccd106d75c0448ac2b7af2e486",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_orange_classic_bed.json",
+            "size": 492,
+            "sha256": "4f056a0b72f5302a9ceb66866049a6457498eac2b13546c4d6160f27240660b0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_orange_simple_bed.json",
+            "size": 490,
+            "sha256": "83174f7eaaee4203e3d8fc6c398aae64dcbcce5af532febab897fc239dbe27da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_pink_classic_bed.json",
+            "size": 488,
+            "sha256": "4a8bc7c6c287da6ceaa6e0e7b4caf52a5d729dc3d1a1ce2f0ced401033e52b1a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_pink_simple_bed.json",
+            "size": 486,
+            "sha256": "1cd5659ccd61d5af0d6bb9c681416a76bc4f4baf0c57a0611da9f415efbb8d2f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_purple_classic_bed.json",
+            "size": 492,
+            "sha256": "2edcf4298fc43bb6a46b45872b1031accd38c79de0be1f30b06e149f1c81cffa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_purple_simple_bed.json",
+            "size": 490,
+            "sha256": "6b5a5815001ee294638036bb8ed02e6bc1768a11acf2b3c1c376db2ef8ec1cbf",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_raw_table_log.json",
+            "size": 216,
+            "sha256": "88835498607ba4d2b88093fd0bbdb7d3e628d4f76db2ad0a86e44eea94cfb9e9",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_red_classic_bed.json",
+            "size": 486,
+            "sha256": "f63c2f26245ffeea63bb92cde911248387c2ff40493663dc0577b833f5dd6371",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_red_simple_bed.json",
+            "size": 484,
+            "sha256": "b6b1232a8df56395126e66e82aa4c22f1e78cba60b84c977c6e633e1f1f183e9",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_simple_bunk_ladder.json",
+            "size": 221,
+            "sha256": "fd6ab798e1b54668e7c536360884de057175b81fb7ac31f3cea58c72264f3e22",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_simple_stool.json",
+            "size": 215,
+            "sha256": "f52fe6bbcd17451b4c9be97947af32667a01dce9252407a12830856215ce45d5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_table_basic.json",
+            "size": 214,
+            "sha256": "4f31d12da41409667491eec8ac6cdefc4996f02dfb9ece7ffc440b00d6655355",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_table_classic.json",
+            "size": 216,
+            "sha256": "2ce7d88d7c5f18541d3e92b0a2f5788e3fb5d2ed3f4b3db84c194a269af8e41e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_table_dinner.json",
+            "size": 215,
+            "sha256": "82b12ca43857635f65f8627863cacf087ff188603b98eb6128ebb9bdfa3da733",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_table_log.json",
+            "size": 212,
+            "sha256": "ec461b141bb5d53e020385168d3d972134991ac16f10db5095ccdb7b7e905420",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_table_modern_dinner.json",
+            "size": 222,
+            "sha256": "82dd650d90dae86f08c16b9f7f9b8a6f9c421f5e931e15efbe2e9436814f8871",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_white_classic_bed.json",
+            "size": 490,
+            "sha256": "1e8ff81b1231fb1278470d2b5a7dd072d82c67d8d7f7552256c99cfd910f4a73",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_white_simple_bed.json",
+            "size": 488,
+            "sha256": "c324d3bd57dbea63726e01bdd853a8ac2fd1bb280191cf93b3db37ad9f458c73",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_yellow_classic_bed.json",
+            "size": 492,
+            "sha256": "e9493f384f088ba6778052935c9b44189558b981dd625c754725d7d5df64cc24",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/aeronos_ad_astra_yellow_simple_bed.json",
+            "size": 490,
+            "sha256": "c574d18dc73f775445c970c2bdee593efa7bbc1f2203bd2381a810adfe4392a2",
             "once": false
         },
         {
@@ -24004,6 +24388,162 @@
             "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/concrete_kitchen_wall_small_drawer.json",
             "size": 220,
             "sha256": "12ce2bbdd40997994746e7a573a6f74aace613329e141711a846121f3955989c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_chair.json",
+            "size": 213,
+            "sha256": "6ef5035223034b4ec8ceb132e03ee4ce3df262d56def10503e20896801022807",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_chair_classic.json",
+            "size": 221,
+            "sha256": "fb3d3bbc77fc42a7b7a99c7e60e6b40821c5b9af084b7fb5bb7ab98aaf5079f5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_chair_dinner.json",
+            "size": 220,
+            "sha256": "5800f1abd42e470fb035e83c4f5460094ebc9c78e12431ef4380ed24e6e2f96b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_chair_modern.json",
+            "size": 220,
+            "sha256": "70f2ad397759800c0cf2e046bfc4929f6aaf0177e5c26369cbc47e99af754acd",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_classic_nightstand.json",
+            "size": 226,
+            "sha256": "9d252b7692027f0a938e8c8742c156390b22a05315ee8af0fa552ed0736ddcb3",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_classic_stool.json",
+            "size": 221,
+            "sha256": "0363f291d0e60b698917f8298dcdd3cc54e2d96839d6c4eb281284ea64982eab",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_coffee_table_basic.json",
+            "size": 226,
+            "sha256": "bc63ebbb8eec14cc45b75ff0623b926ef6bb088f9c4542a81b4f8c2d2244026b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_coffee_table_classic.json",
+            "size": 228,
+            "sha256": "f31f9d8560f90eb99c063f5b449e6747a2b49d468d44907d12967e3766105107",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_coffee_table_modern.json",
+            "size": 227,
+            "sha256": "fd5c4cee7db087aa8bcdc76139fd371c57b4e7c56dc47253b3e04d19c40a821e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_desk_basic.json",
+            "size": 218,
+            "sha256": "10d3228506fc7466cde46368e9a637d57f36a806c9bcc0f087ddd21278ac3e27",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_desk_cabinet_basic.json",
+            "size": 226,
+            "sha256": "c63d1d48712e9cf9e52aa10b29f4a2aa60221539f1979cde4e039fad4ba301f5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_kitchen_cabinet.json",
+            "size": 223,
+            "sha256": "02d9849947ec37625e8c450fee5615b53d337cc9a1076c55545a0b262a42b652",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_kitchen_counter.json",
+            "size": 223,
+            "sha256": "f9c17c2381866e376421d990fede361268b28b31cdbb0780307e604dfd5c9c38",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_kitchen_counter_oven.json",
+            "size": 228,
+            "sha256": "a736a4d8676bdd65babfd725596bb729d1fa362331a9e630f6f6598974fce1e1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_kitchen_drawer.json",
+            "size": 222,
+            "sha256": "642121f3e805f82a7f7ce26fea8cd6cd76b48d60db765a511098dcb31ac3cfca",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_kitchen_sink.json",
+            "size": 220,
+            "sha256": "5b38dbfb8b01b4139d08858fc68728254c051b9b8bb6d348a5678673c2627677",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_kitchen_wall_counter.json",
+            "size": 228,
+            "sha256": "93b0dd3336608daee0672aeea48ee7827a45aee9f35f8f8048cf3bd10383d447",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_kitchen_wall_drawer.json",
+            "size": 227,
+            "sha256": "aa4e4c32ebeee7954649be040a92d2ca16c9a96cbc52b2dc10005adbc493e5da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 233,
+            "sha256": "f7b58cbb41b9823cb942b131f400f187dd4775852239dbf11c4d76c9641cb05c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_modern_stool.json",
+            "size": 220,
+            "sha256": "f0790042b8e6fdac1e563c9c4a3106af4b034f35f621eb2f8670b646453c80cf",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_simple_stool.json",
+            "size": 220,
+            "sha256": "d4beb20e8be64ec0fec45eefef33e91a76eabb2a48c44f03acfd63ca565d8bad",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_table_basic.json",
+            "size": 219,
+            "sha256": "0d2f910d464e8b3dc8edce3be5538ec05d6fa08fc64495b844f128059de44996",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_table_classic.json",
+            "size": 221,
+            "sha256": "9c89635e8ff12a7d48bd1bf53bda3738fb83ef2d0562bd5c41a7ac9a44b14e56",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_table_dinner.json",
+            "size": 220,
+            "sha256": "b033544acfe658b7d517bdee481c833033b6bddd47e11892c469f717f2a1c60d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_table_modern_dinner.json",
+            "size": 227,
+            "sha256": "8bd30766ec6682145cb13ee32a469bfefc0d2b356b43351e4df6faf415307e2d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/conglomerate_ad_astra_table_natural.json",
+            "size": 221,
+            "sha256": "fe547d7df85434d6b371c2b578d0a97e14e150e9b493420f8a89ddb7ca17fa1e",
             "once": false
         },
         {
@@ -27601,6 +28141,528 @@
             "once": false
         },
         {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_black_classic_bed.json",
+            "size": 490,
+            "sha256": "50dc104bd08b57c2f5b3fc881b0eaf2bd04c02290c72b334bbe73e04560e2d13",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_black_simple_bed.json",
+            "size": 488,
+            "sha256": "a1aad5ffee2de50bb5ded7c0f0ff10f12fd85c84c297e518f934ca9c605d800a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_blue_classic_bed.json",
+            "size": 488,
+            "sha256": "3afa828293e6867a4209dd8a2a58727bdfa724974a7107f6e09399c57818de21",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_blue_simple_bed.json",
+            "size": 486,
+            "sha256": "056115e5f2bd16816cdf726c0e0ceafe6bdc96bff29e8152daaea741e0c9e7f7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_brown_classic_bed.json",
+            "size": 490,
+            "sha256": "6cf2bc28e54a2ac72ce2ad1ea50248502c5d95db0faa31e1220e4613f65b066f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_brown_simple_bed.json",
+            "size": 488,
+            "sha256": "01eac40ed5ac3540f324ec67efaf37d4eb203b528b3ffd911cc0a841b5cb0048",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_chair.json",
+            "size": 208,
+            "sha256": "bb040bc29140a7a0ec969350b6d94b034856965697476c0cea88dc9d87040c06",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_chair_classic.json",
+            "size": 216,
+            "sha256": "415c0a2b59e59219f7b2260adcacef7ddaa8d0f1bf48833d72508d5e8ad997f8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_chair_dinner.json",
+            "size": 215,
+            "sha256": "8db8d610559d7e412a679e33b41b7a5257f4d6b15faa97d3433f5a2b467ce604",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_chair_modern.json",
+            "size": 215,
+            "sha256": "3e9f6629369a8f5a680ad0ba5b4b43f1fe36dfb6bcb7b7bade6f29d1b6adbc38",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_classic_nightstand.json",
+            "size": 221,
+            "sha256": "3ff9cc7b605667a4c0f30b3179eaa859a2e22aaf40f4a3c632bb71b44b63d6cb",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_classic_stool.json",
+            "size": 216,
+            "sha256": "222047da9625c1c21c484e9d9d38422813b5364c14dae41a78c402fe03d2158f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_coffee_table_basic.json",
+            "size": 221,
+            "sha256": "3ad95eb5afd04da4caecfe8ce3f6239357ce0d62e3d7f5951508a08915dfd8bf",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_coffee_table_classic.json",
+            "size": 223,
+            "sha256": "5d9f73d701b7de37385ca52258184749b34736842cb97f8674b31dfd6a06396a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_coffee_table_modern.json",
+            "size": 222,
+            "sha256": "40b05dfe1b7f6585f268d63a22b4a1a327c0999f8aa3c076f711576f5b7412e6",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_cyan_classic_bed.json",
+            "size": 488,
+            "sha256": "56bd434a40f662177b269ebe91cae9c440d577437a19923f63c4b06e5839fd0f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_cyan_simple_bed.json",
+            "size": 486,
+            "sha256": "69302ddda17195fc21e2fda3e8992f7686af37f43fcc1d7683d251e050d03f4d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_desk_basic.json",
+            "size": 213,
+            "sha256": "7bdcddb2e9ad0537a938e5a6896885af3adc9b43f6c221a285efd73fb0ecbfa3",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_desk_cabinet_basic.json",
+            "size": 221,
+            "sha256": "937cd9e6ff1aa1131157638a38bb0c57592c310fc82a65e2454fd4e7e8a8d3fc",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_gray_classic_bed.json",
+            "size": 488,
+            "sha256": "bd24ef3cbad2aa7b411d44ae7dcc710ae8e3dc1b3885d416dfd991a40ca95248",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_gray_simple_bed.json",
+            "size": 486,
+            "sha256": "e127372a2d65af0dfd73e5b99e782dc763e968cd669dec2076d261df778f3a7c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_green_classic_bed.json",
+            "size": 490,
+            "sha256": "70ad3ace1986ea59529a6d3034cad4a82b361e9bdb84820d1a42ae75d53e9817",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_green_simple_bed.json",
+            "size": 488,
+            "sha256": "cf7b8f0a6ad94bb5004c182b1aa4f9b3c38cf34142f32fb1145fef621e8f55d6",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_kitchen_cabinet.json",
+            "size": 218,
+            "sha256": "9d31bf4a48cfcd3e25923e9441d91fd82fab4001196601d386a2e3de29aef327",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_kitchen_counter.json",
+            "size": 218,
+            "sha256": "e6231757ccc97e3e2f5d231a4f98a24d0cd3ca009f84baac92546ea1171c57d1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_kitchen_counter_oven.json",
+            "size": 223,
+            "sha256": "5ae23f6264fecb0da686525df05ef00220dd5bed838cdc6535edd84f2eaea582",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_kitchen_drawer.json",
+            "size": 217,
+            "sha256": "f985120b094f6a91c12d2d26890a56fdf2923bf682e3f9ae67126c5571a83145",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_kitchen_sink.json",
+            "size": 215,
+            "sha256": "17a1071cdf3bd09d3f98946bd69e6883ab2538f2d87f7af11b7abe4679f7f79a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_kitchen_wall_counter.json",
+            "size": 223,
+            "sha256": "14059c3b8c52d5422d1de65d5bbcd02fa1b499d8227da7e4b388e8d38b548539",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_kitchen_wall_drawer.json",
+            "size": 222,
+            "sha256": "2c89d86d6a6846b7d90be139d4ca423c03559b5c3ff1fc8393d9ebc5f21d7c53",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 228,
+            "sha256": "60d8254597af23aaccede4e61e5282c12f5599ba6c018924b66acda90eca0561",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_light_blue_classic_bed.json",
+            "size": 500,
+            "sha256": "07406ff245d6e83a7ea1f7f8cb37caf166ee4c474a1bf930d2eeb8dde3852aec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_light_blue_simple_bed.json",
+            "size": 498,
+            "sha256": "89b0de93c60024a901c530bc26197d624af7f1b47bd3813470231eb286e5c8cd",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_light_gray_classic_bed.json",
+            "size": 500,
+            "sha256": "3c072e2b26f9328006f2abb4d403511d97100bcae2432ae55cf5deefa6fee9c9",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_light_gray_simple_bed.json",
+            "size": 498,
+            "sha256": "3760029ddbe94a26397959d80f3e2506827bbe24c2c2958906be04323615c0c5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_lime_classic_bed.json",
+            "size": 488,
+            "sha256": "76503ed8faa8a9b27115f7d17cfd4d93d710f19168b5cd9f9a8224002cf5ea0d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_lime_simple_bed.json",
+            "size": 486,
+            "sha256": "1f7faed0c6747cde165b8c71947e5efb4dcd0fea33a32a93f61cba4c8254d49a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_log_stool.json",
+            "size": 212,
+            "sha256": "4fd1f4c9174fb76a95fce4fc16ec8044d995fd339887744208602d5b6e00f4cb",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_magenta_classic_bed.json",
+            "size": 494,
+            "sha256": "66af6411eabef91dd808a6ee84326bd659f51c251d8b6a7982f954659d960da2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_magenta_simple_bed.json",
+            "size": 492,
+            "sha256": "34c19430dc9fb214b82182dac8c8a09b3067825236d23fb4b8f22d8a9a17ec96",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_modern_stool.json",
+            "size": 215,
+            "sha256": "344a5a682209674c5b87021118079768798133b4fe782404a2d3cc5b1fb090e6",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_orange_classic_bed.json",
+            "size": 492,
+            "sha256": "5a0460bd1a6b604fe4d38741a76d149b840cb7aaa28354fe4a5ff92386ebac68",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_orange_simple_bed.json",
+            "size": 490,
+            "sha256": "24e681acea376c277e8bf7d6b541d3da4424b19426e029501bc110f6afb061fd",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_pink_classic_bed.json",
+            "size": 488,
+            "sha256": "3e19bf4a3a3db89f0ef1ccbf35b5242a71e4bfcea93870c160ae803de1bdd5e8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_pink_simple_bed.json",
+            "size": 486,
+            "sha256": "d7bacf1ffa29a7e3d1e70dd2be7d06392343d3e18aafa138e670211e9074cbc0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_purple_classic_bed.json",
+            "size": 492,
+            "sha256": "bd9d76be365199e841b62bd63df3c08eb4fb801326a1efc5c4d18a2b2c7e57d4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_purple_simple_bed.json",
+            "size": 490,
+            "sha256": "6d7ea66f0452238712683a4103819dac3a5278e759b3187f8d593d8c263ec978",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_raw_table_log.json",
+            "size": 216,
+            "sha256": "9baf1e6eaebdb00770f5e39dc8b5350447c740bf30c77317fb8acb72096fca19",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_red_classic_bed.json",
+            "size": 486,
+            "sha256": "c05425785b6cfb3bd89027a5d0b61d217ca6546384d604bf9ede71c9eb2e60e5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_red_simple_bed.json",
+            "size": 484,
+            "sha256": "03b127c71848dca1073a40b12c581c7674962a5a679e96e27d4b065d41f105f1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_simple_bunk_ladder.json",
+            "size": 221,
+            "sha256": "d114eb158cb9d4947c93a70385ad35db8f486ced25baf1f73428807fc42541cb",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_simple_stool.json",
+            "size": 215,
+            "sha256": "996ce91b78761dabf5057bd591bd596ccbd0d24be148f1469063bcfa161c7d77",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_table_basic.json",
+            "size": 214,
+            "sha256": "82ea37296713a833f40e66ad2749966050f7864819d2c151712996b511f3d228",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_table_classic.json",
+            "size": 216,
+            "sha256": "62deb4adeb61e643e84a8608b23e5616e686abd82e72e18abea026101d2eefb2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_table_dinner.json",
+            "size": 215,
+            "sha256": "57f0f4f3afc95504bcbe15c83e673b3bf981655427422135141193cd5c8b69f0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_table_log.json",
+            "size": 212,
+            "sha256": "68ecf0a2a6dca462622fb0b5991bb775bd9ad4e6ca57e3b2ad2401782660fe54",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_table_modern_dinner.json",
+            "size": 222,
+            "sha256": "a581c09b73df0bc5fecafb7f5a1ace61558481fb964fc5ac6e2cddfb6573ab96",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_white_classic_bed.json",
+            "size": 490,
+            "sha256": "e55723e3982ab6ebd40865fd8cdf6d9f2023bc53d5a215d1be1cdbc7f5f2a308",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_white_simple_bed.json",
+            "size": 488,
+            "sha256": "8a7e0f1d5191514721d7266644c71e11734bf24746c5c1a1ef80e407b8569b83",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_yellow_classic_bed.json",
+            "size": 492,
+            "sha256": "651671b02d64ef2a02937d26ad4a55c697edfd2c21bc14f838b4f909a3e8767a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacian_ad_astra_yellow_simple_bed.json",
+            "size": 490,
+            "sha256": "3e65c7427362931cc0648c1d00f7a75ef9428e20d1641c76329103219180fe59",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_chair.json",
+            "size": 213,
+            "sha256": "0cbcc899b50ddaa5d241183ac129945819b08d90a0ba20d174e4f72f842e1ce2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_chair_classic.json",
+            "size": 221,
+            "sha256": "08ce886c01d1231143bfab46e34c60bb6471d77d5c590e97a2a80ed4e04c6315",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_chair_dinner.json",
+            "size": 220,
+            "sha256": "cb26635b771a22042521dde557cb05ce2a73671978cec4d1ea3bcba16d27a28d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_chair_modern.json",
+            "size": 220,
+            "sha256": "6c31467e8411729ec116ce2413d757c8c48ceab3ef6d1340d3375d358b3d2018",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_classic_nightstand.json",
+            "size": 226,
+            "sha256": "b344e8ad9ccecc06762f9113ee3ea023196c8828e05fe1042616e4387af9d5b2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_classic_stool.json",
+            "size": 221,
+            "sha256": "ab8cb799c6757a98def166becb4bcf298e1ed4ac2a4c706c9b3b517e48c0c0f6",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_coffee_table_basic.json",
+            "size": 226,
+            "sha256": "9aeb60cba6d6f4ecf06d1a7438a50666d0be3e2243c773ae508589be78062d72",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_coffee_table_classic.json",
+            "size": 228,
+            "sha256": "8aa90cb2411814bc7a0c94b57f45c72c2b00193acb98ebeb1d9d0aff9f486cb0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_coffee_table_modern.json",
+            "size": 227,
+            "sha256": "728a0869d6304a49a21cf32a37a055474cae2bdbdadd23306d315670c0e5d9c0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_desk_basic.json",
+            "size": 218,
+            "sha256": "ac2baf1e8ddf0b1c62b96e41fc698e7f59e87c857cca22e87d64fbf572064c70",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_desk_cabinet_basic.json",
+            "size": 226,
+            "sha256": "83155c23d4b867528fcee223eedde94bccde88d15ca330ce67da06341288cc0c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_kitchen_cabinet.json",
+            "size": 223,
+            "sha256": "fafdc1aaf71acc640e6243141912c93261f8bed7588b4dbc891c056d3791da7f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_kitchen_counter.json",
+            "size": 223,
+            "sha256": "2bfd0c259f107a65c82d55a434e6f3f00ac63c69c669f3daf7d9d602ff1a768a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_kitchen_counter_oven.json",
+            "size": 228,
+            "sha256": "fc9f70020e7236f1cf82ce4a2910583a274ea45b2f0ad6f720fb7ff4ce7d9982",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_kitchen_drawer.json",
+            "size": 222,
+            "sha256": "bffc2b60520ebadcb2780fbe7491ce5398cc0a79a59bd729850062f8c7fd2ff3",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_kitchen_sink.json",
+            "size": 220,
+            "sha256": "00c71d9cf6216a96bfcdba930f005c4fb5d32ef16c75e156a45a943060019cd1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_kitchen_wall_counter.json",
+            "size": 228,
+            "sha256": "161e75491ce890db9d940ad3d5786fcf85d415619675fc2bfc4ba5c729e855d4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_kitchen_wall_drawer.json",
+            "size": 227,
+            "sha256": "da259c61710a8cfe3ffedbc79ae0b57282d25d5292bcd665546ee97cfb9eb9a9",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 233,
+            "sha256": "bb3486f0b0fa46ce4c3e055d69eff4dfd8f0652c916785800ba1efe1b7a7de0a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_modern_stool.json",
+            "size": 220,
+            "sha256": "092f1286d03dc4afae3718f2224be57de71f4a8fef6e562d349a0dfe8af75e09",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_simple_stool.json",
+            "size": 220,
+            "sha256": "1bfb7a49fb765aff82a27cd527c25283c18bc1095269cb0e312f0c0b2835f047",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_table_basic.json",
+            "size": 219,
+            "sha256": "2f2255d3ca801bcf779fe77797f27a71389983139fad8a13a74b518f9bdecbcc",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_table_classic.json",
+            "size": 221,
+            "sha256": "003e507e63fb7feee1d7172d6daa2cefc953f1033d233ef3faad5f775e3b4689",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_table_dinner.json",
+            "size": 220,
+            "sha256": "f0de543aa2b893eeef997751cff79d7d32df5e55e8c0a856e5770562fd788924",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_table_modern_dinner.json",
+            "size": 227,
+            "sha256": "0b9c1f7b8ddefe8c011b80014242de906bb8c4765451f771beb4881913a55249",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glacio_stone_ad_astra_table_natural.json",
+            "size": 221,
+            "sha256": "5842ef3e33332ae5754dc64dad555d218e0588c3e0a89410335781de68e95852",
+            "once": false
+        },
+        {
             "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/glass_modern_pendant.json",
             "size": 206,
             "sha256": "26506c44e968cd933bb14ae7dd30d837782e87ddd5d39bab6562e59f9053ea21",
@@ -28933,9 +29995,477 @@
             "once": false
         },
         {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_chair.json",
+            "size": 211,
+            "sha256": "64add072971a4e0ef8f0da6ceb8eec93700a4a698cfac96c70df59f9e1936aae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_chair_classic.json",
+            "size": 219,
+            "sha256": "ecd9aac889d7a760de7fc8d94be6e0ab8b71ee3348bdd591e54a40eb788a10cb",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_chair_dinner.json",
+            "size": 218,
+            "sha256": "2e27ab9364bf0d877856d0c9c86280394fa4701945ee854a14c3a917eee4ab92",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_chair_modern.json",
+            "size": 218,
+            "sha256": "87d5eae092e717f81dbd72d5db323a6193ffcb14bedbfb42de625c1e70d66168",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_classic_nightstand.json",
+            "size": 224,
+            "sha256": "db8ad390dad6bbdb78a8f8b669d7c084abb3a1d9ba9541206f6320b67174a927",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_classic_stool.json",
+            "size": 219,
+            "sha256": "75c67cc5d479b78b395afedc968ef52f9d81becea62886717ec1045eb5552770",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_coffee_table_basic.json",
+            "size": 224,
+            "sha256": "c4e2151e109d336682208ff03d0e21a8c9982f52bae9f9cf0c82c59c36fce9db",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_coffee_table_classic.json",
+            "size": 226,
+            "sha256": "cae88dad44da7f3d09322dd4e8c18a873d919aab83f1041d5c91c7875411b298",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_coffee_table_modern.json",
+            "size": 225,
+            "sha256": "5009eaed6c7794970dfb1ef478ed5d7dfc8a2b26b3801c898b455d080e892711",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_desk_basic.json",
+            "size": 216,
+            "sha256": "70a61da91e29e9ecceda42934f1d24d835fdb5a1326d609576cbafe8b158e00e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_desk_cabinet_basic.json",
+            "size": 224,
+            "sha256": "354058f5d1fd8a667b948d115f07ad0adf814ffbee8e7dd0d61eed3899be74e0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_kitchen_cabinet.json",
+            "size": 221,
+            "sha256": "aac1cfd21cd0d21d462c8e7d99800d547618565e73509841d6dcef55f617452a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_kitchen_counter.json",
+            "size": 221,
+            "sha256": "0b3b6ee40a982ba8b842790bb7fe07a4d9378e4aa23a8ae1d9a8c9c7c13dce8e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_kitchen_counter_oven.json",
+            "size": 226,
+            "sha256": "39b88d17555c8f3f6007e6f16aa257ac9ae8e074f4956e4d1442ff54aa869459",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_kitchen_drawer.json",
+            "size": 220,
+            "sha256": "540723bbfbb8e1c9132fd17d3f238cfa5d45a3194b3c62eca1ba5329ad743c1a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_kitchen_sink.json",
+            "size": 218,
+            "sha256": "6dc1b54423798d9a2b847ad38ce78a196edda9dfd5530e967d408c3f0db1040f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_kitchen_wall_counter.json",
+            "size": 226,
+            "sha256": "077d1d0ac4b2c77574bff138db3b1d28a3a02b96d3ce19596988597ef8956d4d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_kitchen_wall_drawer.json",
+            "size": 225,
+            "sha256": "3de45230bc397ce8e01feb502759dd19014ae4491e7b683b25ec212f6837324c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 231,
+            "sha256": "b9764b1f60b8b7a77416144b603b0f689f76f6927dda4ffacc5d628060f6f3da",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_modern_stool.json",
+            "size": 218,
+            "sha256": "2782a14624c49607d269a83cd60878d2a24b15f4c2b70265cc97b66010ab954e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_simple_stool.json",
+            "size": 218,
+            "sha256": "5cdbd74dccfc10425e55e61c44e8ba3476ae21945eb34022e16f841f8ec3e140",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_table_basic.json",
+            "size": 217,
+            "sha256": "9447b64fa8f451e3fb1441c65e4a0d67fbdb54f1a6598cf388db9ccc3a297fd5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_table_classic.json",
+            "size": 219,
+            "sha256": "86dd499bee786d1abf6ecd0b538e5f0020d9e1bf020f8bb2bf3963c5bfa3b325",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_table_dinner.json",
+            "size": 218,
+            "sha256": "16befe44f18dd274f13c8fcd1c058152445f1b75de870b898502ac4b33d8ef0a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_table_modern_dinner.json",
+            "size": 225,
+            "sha256": "5bcadbca8a15d08cd1e4832fe200d697e9d8e1723a83d1a868d7c7563281ced8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mars_stone_ad_astra_table_natural.json",
+            "size": 219,
+            "sha256": "df3c3c7c576c07cc1f189105705c8c3c56f720a5f53a5f2c1966c821d4c22ccc",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_chair.json",
+            "size": 214,
+            "sha256": "39b3a65ed83950edc6973fa2117e18133c0ebb4bafaf98dcafe58e152df023d1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_chair_classic.json",
+            "size": 222,
+            "sha256": "0fa11ea28eb7541a4eba1b93941c0afe6c5aeaf825d29b67bb542ec7ced7fee7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_chair_dinner.json",
+            "size": 221,
+            "sha256": "39f95a9574e8f617bd564446458d01b911b6708df6db5e57f1de2f7b4a583dd7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_chair_modern.json",
+            "size": 221,
+            "sha256": "02547318c1b401ff833d291cb443586687895cffb77ca8cf5408b214bf530da8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_classic_nightstand.json",
+            "size": 227,
+            "sha256": "78c3dde8fead067ededdbc132275edfaaef7fc9491a44850b26105e2d07ac67f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_classic_stool.json",
+            "size": 222,
+            "sha256": "07e21c77f07c41df5a5b4c619c8d379a4f04ca18e9fa470f81c4e2e92fb61d72",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_coffee_table_basic.json",
+            "size": 227,
+            "sha256": "4aed084e80810f4f7824e8b98803b5a888a06f5a6dd273ec47874a28d7369bdb",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_coffee_table_classic.json",
+            "size": 229,
+            "sha256": "3a31827e0ce4d134e26057550f4c844e6ccb960d5f03ae4b9d56c00fe4f84d47",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_coffee_table_modern.json",
+            "size": 228,
+            "sha256": "4601795c6d92238115feece80e58e22b12dc1a634a5009b607d4cf15335d43cf",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_desk_basic.json",
+            "size": 219,
+            "sha256": "c255239633f23c3522bbde174393ce237285300acf1f080efa5616b524b98494",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_desk_cabinet_basic.json",
+            "size": 227,
+            "sha256": "18c65ccc33ae8bc8e3ace5169ea6c2369f91170cd536a69fd137c6299f574849",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_kitchen_cabinet.json",
+            "size": 224,
+            "sha256": "ac99ebfd8e4cb8da9ad0baa8c83e19721c267a363103a1cc321f373ef3a9610e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_kitchen_counter.json",
+            "size": 224,
+            "sha256": "d186ab336a8db84a9b4d6f88d47ff72ff7b375169e1476744a631668a21326b4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_kitchen_counter_oven.json",
+            "size": 229,
+            "sha256": "a46b48a054d7a041070435241441cf7016907c49de84d65277d4a44e7b820760",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_kitchen_drawer.json",
+            "size": 223,
+            "sha256": "975568a0de8d9fbc66e0ac61d4d7110e12b90b4a8f088cb0c8ffe182ff8958b2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_kitchen_sink.json",
+            "size": 221,
+            "sha256": "dd923d7983500461f6c5d3fb11aa0da41380d91f1da6bcaea163d4e3280a1543",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_kitchen_wall_counter.json",
+            "size": 229,
+            "sha256": "a7ae97cf92836181199114bb61f877ccec4b3e953b8de98b2012e861537e1753",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_kitchen_wall_drawer.json",
+            "size": 228,
+            "sha256": "df2779970ec7d7bf5f30b470859d5bba3c2812a3dc244db95eb5bee07a7c4b12",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 234,
+            "sha256": "09a31ec37d68801171d88e12eeed24f2628bf4daad6ee438e7cb131be958279b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_modern_stool.json",
+            "size": 221,
+            "sha256": "cb3b3ce44f9a91966da7ff0b4a684d0b9f7cc4db185c4f2c2e033ba45a8aa81c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_simple_stool.json",
+            "size": 221,
+            "sha256": "238d9cb7313e2536f7a702a52bb54ddc2e037b6cc5a75d15c073a710e3944e49",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_table_basic.json",
+            "size": 220,
+            "sha256": "32053d2d5e9d1ce6b96af1b4660d3a06ac4fec158585aca150910097b7d96205",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_table_classic.json",
+            "size": 222,
+            "sha256": "b41b581be3baf2003cb1ab6622533e57e80927ab12fd74cab3bc1d9d4bd8c3b1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_table_dinner.json",
+            "size": 221,
+            "sha256": "eed8ea5bb3a3e4b960ec5c2dd1296b421fc5c9989d244e2bfd8d8b3faf830252",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_table_modern_dinner.json",
+            "size": 228,
+            "sha256": "9bdad65b46cac0939753cf889431fe624c45511273ef24e57ef069f623f2ebc8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mercury_stone_ad_astra_table_natural.json",
+            "size": 222,
+            "sha256": "d00c41786a4b9ef9bb762992a2ed4152e2cc8079eb1c8a8ccd1f1020f550bb95",
+            "once": false
+        },
+        {
             "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/mesh_trashcan.json",
             "size": 199,
             "sha256": "4487011869b326c57aa10f2dc387637d4a7abc9f3d59ceb80849095ce4e899a1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_chair.json",
+            "size": 211,
+            "sha256": "5436b03487ea3ac6a9e50dca84d040f1ed0c70953b1feb6ff04c054161e564e1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_chair_classic.json",
+            "size": 219,
+            "sha256": "dd0d4de17d398dd55b234249f56b780e108de22742f401fa5e4073471e7f2e7e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_chair_dinner.json",
+            "size": 218,
+            "sha256": "ebcff9cb0774a71fed2c7b8ff5d0cc3ddc8d68af07cf4c647d54c35a1bd25eeb",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_chair_modern.json",
+            "size": 218,
+            "sha256": "b693652dd01af869334185683a9053e271ce0e374e6abf698bf19a625acff67d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_classic_nightstand.json",
+            "size": 224,
+            "sha256": "6ac3ae2ceeeb4ea2b76ef38a9c4350fe8947274cf8adf60feacbcdca282fd58d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_classic_stool.json",
+            "size": 219,
+            "sha256": "51c582f3b7221be93031da169a050dd02d49ed7bc9c7723b97ddb642e813dd34",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_coffee_table_basic.json",
+            "size": 224,
+            "sha256": "d809abed2050262f6331ed2a514171030be294bc1c17fa1f95fe6068b7b8803b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_coffee_table_classic.json",
+            "size": 226,
+            "sha256": "16066038a5a3000c83e1297931a2252178a27b25aefe739de3d902ee6aaca5fa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_coffee_table_modern.json",
+            "size": 225,
+            "sha256": "3e4d4b87f85a7cee7088e749a9c1698eccdde0d2c5b0520ee1c2ba59a21108bf",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_desk_basic.json",
+            "size": 216,
+            "sha256": "98fc640059550ba6be6ea1cd421c0b8f4502c5f634e4f55d21ba57793e11c11e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_desk_cabinet_basic.json",
+            "size": 224,
+            "sha256": "f64069c7ea7c6f2486f961bfba3f41d860cb1e8732964188485a9e9aeda4733c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_kitchen_cabinet.json",
+            "size": 221,
+            "sha256": "dee105024a6eea9a468b4f9b70ef897c8ebef6050ec522b9fabba6a16dfda463",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_kitchen_counter.json",
+            "size": 221,
+            "sha256": "6d496355cb8dedc22b39ae53f0e78f27b52862b498388993f17c43511324b0b9",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_kitchen_counter_oven.json",
+            "size": 226,
+            "sha256": "f1ec6649ecb80a3f998b3bae9478484091ce2700820a980816a366ed4dddb035",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_kitchen_drawer.json",
+            "size": 220,
+            "sha256": "2a52aa063919f4a3c940c65aefb37cdc7d496981ac2871056266421afe79a070",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_kitchen_sink.json",
+            "size": 218,
+            "sha256": "1017e093e18b8e8d8391be41d4b8ba3576f8d64dfa629dbf564354b34f4f07dd",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_kitchen_wall_counter.json",
+            "size": 226,
+            "sha256": "bdda6f557ff00b51711f4adca45fa870560cc647e7de170cd8f8c893ebed2574",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_kitchen_wall_drawer.json",
+            "size": 225,
+            "sha256": "8c69b6948b62d0ac64c9c979c79a6673396d0138fb2b7a506fb972d3664ec576",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 231,
+            "sha256": "199d6898531a91fa3cc07fcb92d54fd91edd57b96790728f278542f3738c47c3",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_modern_stool.json",
+            "size": 218,
+            "sha256": "9bdb0de9c31e586fb5b92211efb823b88ac0d3b975cbc1c230cbdf821f1fe1f2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_simple_stool.json",
+            "size": 218,
+            "sha256": "a8433a644e08f2e99b9647b91df6823587c7f63c0f4539897c6f018e727d7c13",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_table_basic.json",
+            "size": 217,
+            "sha256": "809b2cc5aaac12b94c53abfd7b7b8431332798fc04c9f535fb1c3d02ca0b9ace",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_table_classic.json",
+            "size": 219,
+            "sha256": "12b2d9842e638fec636f0ef7db56b23234527b20ca3e76a0e7fcc98315aa445b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_table_dinner.json",
+            "size": 218,
+            "sha256": "76965f580481629e48057c641b385a9354113b68f5abaafb1b821cdf58159e58",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_table_modern_dinner.json",
+            "size": 225,
+            "sha256": "70f453858a8a292a6aa01517c431827a8ccc373216968676609be08e9e697e7c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/moon_stone_ad_astra_table_natural.json",
+            "size": 219,
+            "sha256": "ec4343b22131ecc5c051a23b9ddd9e2ae00a89f0f57625964234e2f706bd3cfd",
             "once": false
         },
         {
@@ -29578,6 +31108,162 @@
             "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/orange_simple_sofa.json",
             "size": 204,
             "sha256": "c02822c86e3651a7a56df69e6bba15e3d2a865f011a2b4bf2f7e176e2d3398e5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_chair.json",
+            "size": 211,
+            "sha256": "7d386852a7425cdc001d69ad7cc7eb4af8f8c5d55cf85593ae3727795b53b39f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_chair_classic.json",
+            "size": 219,
+            "sha256": "3104d682dec11e7181d5af05fd51c64b75cfb763458814a7a249c268217da0de",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_chair_dinner.json",
+            "size": 218,
+            "sha256": "e854aa28578a68cbbe25baeae7e8128e03588759022e3d58264078502ba9765e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_chair_modern.json",
+            "size": 218,
+            "sha256": "7c12850bb619701b0c8c934df69e9a52dec7480e014811ee28888a5b29353ca9",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_classic_nightstand.json",
+            "size": 224,
+            "sha256": "933cf85cc6529e09d732b181109240c41ef5d3546b0269143b4350c18c11d1b0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_classic_stool.json",
+            "size": 219,
+            "sha256": "4e5d47ba53ad00fca4f4068bd682a19271b7782c97aeeda3f53ea6bc1e4e2d43",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_coffee_table_basic.json",
+            "size": 224,
+            "sha256": "1778d0ea96dcd37e1a3938b075a9ded949c7a00b3c84f486db2d4f7ce2dbd2d4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_coffee_table_classic.json",
+            "size": 226,
+            "sha256": "5c9d3a33c15a3d376b792439869ae8a6d7405aa7559773a74cd6cd3ed6227198",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_coffee_table_modern.json",
+            "size": 225,
+            "sha256": "f6e3d261171f7af806abb12eb57e16d69d10be013f775cc4a60725929326427b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_desk_basic.json",
+            "size": 216,
+            "sha256": "d7554e0ef2c6ec304a63bb3c6472fe510aafe2615152045d537b8a8f24502a1f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_desk_cabinet_basic.json",
+            "size": 224,
+            "sha256": "f4842523c295866a54296926842eaf32dfeb0ea742031824e07dc77719a0d629",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_kitchen_cabinet.json",
+            "size": 221,
+            "sha256": "059d6a2ac5ddbdf3c7072b9754fd82d737435c7ffe0a9afce78942ffbcea2c1c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_kitchen_counter.json",
+            "size": 221,
+            "sha256": "5f030ea3e5ea39468bf382f50abe22460743f7ab3da218bd18c4bf8605be70b2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_kitchen_counter_oven.json",
+            "size": 226,
+            "sha256": "900e9af0fd3696c5254e2c847f1144fa1e00fe936a95bc202d1f182315cfb8d7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_kitchen_drawer.json",
+            "size": 220,
+            "sha256": "ece9ed896600f9e4cbbd830a6681e1e06970564218e0140a683af2c23d345597",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_kitchen_sink.json",
+            "size": 218,
+            "sha256": "41aae6eb38b282782369682749af56c53a7990c63796c8f183b5f50ca677e8a4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_kitchen_wall_counter.json",
+            "size": 226,
+            "sha256": "6692aa080f60075b88a0accb7fa761d38a87bdc7fd710e383c8cb07d521dd482",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_kitchen_wall_drawer.json",
+            "size": 225,
+            "sha256": "504bd2383fb6c3952492474dff2075a4daaeaf8193bb705d0487eadf1c07ab6a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 231,
+            "sha256": "e66dc8cb402e968c14ba2e306e5eaff50e14cc7c3bcfa1335d4fc1a473437273",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_modern_stool.json",
+            "size": 218,
+            "sha256": "5f69df2b3ec4576f2bfb1bf098de22d3c38901c0ed3ec5e2e106a52bb439dc01",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_simple_stool.json",
+            "size": 218,
+            "sha256": "60351dbded4902fbc94f80d1e30134bea4ad2c37cf968a200ae4ef44e5e9ad77",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_table_basic.json",
+            "size": 217,
+            "sha256": "b3e3e2f3e5a6a2accce139b27b3241b669490e375e532dc0c9d93bc8f4989c00",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_table_classic.json",
+            "size": 219,
+            "sha256": "f516b669c0396192d02d5a92cf938f35e49a8fccf6054047774ceed217f1ed0a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_table_dinner.json",
+            "size": 218,
+            "sha256": "69920466ebc1150026ef81b24de812df7d49dc6f870c4827849b27e519a0e1f5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_table_modern_dinner.json",
+            "size": 225,
+            "sha256": "f73f44bb228d96bae8ca134068a445e09677089748ee423c662d4125fe017cec",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/permafrost_ad_astra_table_natural.json",
+            "size": 219,
+            "sha256": "2a84d682382137af8fe7c2d53cacd688ce516e853906eff168eb41e06d8ea274",
             "once": false
         },
         {
@@ -31465,6 +33151,168 @@
             "once": false
         },
         {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_chair.json",
+            "size": 217,
+            "sha256": "40937aafa09eeef02d52920d0783e81241a6be4e6f63ae3be93b930cde59e0cc",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_chair_classic.json",
+            "size": 225,
+            "sha256": "852d01e7a09e9bec61f708ae6aec27b4be8a12bb033bf0076ac6e5895856e9dd",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_chair_dinner.json",
+            "size": 224,
+            "sha256": "0a11784982cbf9e6cdad9e5a19a29b2d4b5c864ccfcb5fbc2493d50e5fa7f6ab",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_chair_modern.json",
+            "size": 224,
+            "sha256": "e9e84dec7c1600784a0647f0df25dd318d94727c0f237fe34bbec07f95431df6",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_classic_nightstand.json",
+            "size": 230,
+            "sha256": "59e86962d499bfdad26fd3df01679c109a28e7354fbf2ac47a91530a65c5628e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_classic_stool.json",
+            "size": 225,
+            "sha256": "af097b7d82b4996b643057c17e3d06847c050a8e4a283f0f71e4148a30924449",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_coffee_table_basic.json",
+            "size": 230,
+            "sha256": "a2ff3d0ba1d8b9e681ac0760673aff4189f5dacd9d63b660cc51afbf6be4e0db",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_coffee_table_classic.json",
+            "size": 232,
+            "sha256": "4e7897a782e9a20e91d96b96f1da5087180abd1b33688e789a5a0123a4b6dea0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_coffee_table_modern.json",
+            "size": 231,
+            "sha256": "54b6e4d8529f0d4ca2b59055090d89f03e4c3d90f4258f2a602e7a022521c71a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_desk_basic.json",
+            "size": 222,
+            "sha256": "47f9ca3d074b4477dfac62d10d47673871db0f2cd3c3f8928b4785de8663771e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_desk_cabinet_basic.json",
+            "size": 230,
+            "sha256": "c7e58615d6a1cd86a3bc363e60c4427971878c451d0ac709212092df32f80000",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_kitchen_cabinet.json",
+            "size": 227,
+            "sha256": "62555950341fd899e308e31ca4b4b622d731a8f4906597ff2729dded8a064d0c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_kitchen_counter.json",
+            "size": 227,
+            "sha256": "6b8df7c898ac7d640eaa6eb41b05bdd5e358faf897ac40f7b743d0a07eb3065f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_kitchen_counter_oven.json",
+            "size": 232,
+            "sha256": "ad47820cb44b827bc9b44148a1ae6142a74caa386d8d3926d0afd765b9e93cc5",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_kitchen_drawer.json",
+            "size": 226,
+            "sha256": "450e53c9a2ec883d77b48c2a5a375cdffbbf18725c24ab4cea501b8b687c72ca",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_kitchen_sink.json",
+            "size": 224,
+            "sha256": "396ba5a08fda0edbe51259cd6efa1e92cb6c10161626d34afb5510f60b774490",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_kitchen_wall_counter.json",
+            "size": 232,
+            "sha256": "be5935849d502d043c2f62f8f6d5404ee745543344cf8cb56c61a0c75c1d5442",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_kitchen_wall_drawer.json",
+            "size": 231,
+            "sha256": "542cc98834d2c965d496eb29a6cabe929ff58f4263bc57fc9c05ca302d300474",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 237,
+            "sha256": "2b9e7b6414cc6b0abdef35a1dd57163992fbbe7e59eca6483b6b18d37d173f2d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_modern_stool.json",
+            "size": 224,
+            "sha256": "b463650d910cd439de5f7157a2578f31b381ad9a88ea0994ee376e8f53522b82",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_raw_table_log.json",
+            "size": 225,
+            "sha256": "1f6e5685c70204b7d477a80640643496c68bfe6aa0418382a6402b8a778b0cf8",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_simple_stool.json",
+            "size": 224,
+            "sha256": "bb8474ab4177abfd074145e45a9dd911890b85dfff0ff281b64906b24f4fa43f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_table_basic.json",
+            "size": 223,
+            "sha256": "42124f55cfb19032b025a78e481e76b8d708f40fd36118d62a1124651ee7a2bb",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_table_classic.json",
+            "size": 225,
+            "sha256": "79ded65eeb5579560f3f702465939ec14910dc2664b6e5fed97de28af678e138",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_table_dinner.json",
+            "size": 224,
+            "sha256": "4dc034639dd39651d9b31d70361c9024ebf1c7defe8c562339a0705902cd024c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_table_log.json",
+            "size": 221,
+            "sha256": "b9b0e1ea79037b409f2cc9d116ccb73f6c51bea1a487a559a0628bdcc84b8837",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_glacian_ad_astra_table_modern_dinner.json",
+            "size": 231,
+            "sha256": "1e837898ca4ef66927f23c3547308284710ae1c7c50035cdab1b83e55bf23db2",
+            "once": false
+        },
+        {
             "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/stripped_jungle_chair.json",
             "size": 207,
             "sha256": "8228c8c16fa89e06e699bfbf2e6c63beea79aca8cef5d814ee19a49a4b4201d3",
@@ -32275,9 +34123,531 @@
             "once": false
         },
         {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_black_classic_bed.json",
+            "size": 492,
+            "sha256": "2b7380677c914179d14cc569d7b91742a18d2da2b675b84dc64be4c6d55d98a2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_black_simple_bed.json",
+            "size": 490,
+            "sha256": "47a2a0c47abc1aed7b0e42101f4c3103a6792931ad227cab0f786577093feca1",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_blue_classic_bed.json",
+            "size": 490,
+            "sha256": "97d0df234ec8fb22f0382778f0cef068fa492390a9ccb6bcd379a097ebcb5a29",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_blue_simple_bed.json",
+            "size": 488,
+            "sha256": "6fde16252a346de668f1b46c74e92af8c359fcee7ae63707be03af610a49e3e3",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_brown_classic_bed.json",
+            "size": 492,
+            "sha256": "7957dc9a59149d2a20ee674671afafe3b2f2c4371463927085f08dfe6ba17c59",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_brown_simple_bed.json",
+            "size": 490,
+            "sha256": "cfabb55db63a73eeef1e1e2d5c6b5adcb10d313c2b16bd846d4020a8dbc2494d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_chair.json",
+            "size": 209,
+            "sha256": "91e63988dade72bff80819b8ed950f9be6f39db1a8e3fec7a8050d4f9789e356",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_chair_classic.json",
+            "size": 217,
+            "sha256": "18104c9fd71c63f58e44760a99b657ae3f036a34678f909768dd42656f579045",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_chair_dinner.json",
+            "size": 216,
+            "sha256": "a6edb839f7a0c372c4b0863811d1913d5f8e2782b7df3979e20231b254c3a418",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_chair_modern.json",
+            "size": 216,
+            "sha256": "fc0421492e70db43c565c33e6c03414e6e9ab38b9bd63fddbb397920568ff03d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_classic_nightstand.json",
+            "size": 222,
+            "sha256": "47751747979d4d92d2802f2a6093b14fd32d89bf4d5b5d80031676771e92bd1e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_classic_stool.json",
+            "size": 217,
+            "sha256": "c11baad0b000aaf95ad22d93a676dab2aebb3843fa8e497c23bad5a82d4b159b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_coffee_table_basic.json",
+            "size": 222,
+            "sha256": "800d749bf993f1c5af0780e2b63b86c84eff4032fee92f35ba240afbeee6e517",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_coffee_table_classic.json",
+            "size": 224,
+            "sha256": "3c95089148d9c1760c4588e150025b9e26be0c3e7d6502ea9325516d802054c4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_coffee_table_modern.json",
+            "size": 223,
+            "sha256": "cc152cf700475b8995c8709a057ff53e27faab23203cbac496a17b3e493be58c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_cyan_classic_bed.json",
+            "size": 490,
+            "sha256": "6df94c81e29b912bbcc2b2ecc00181136cde24aa40dfdbb04705834f61430b3a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_cyan_simple_bed.json",
+            "size": 488,
+            "sha256": "bdb20ce14f7feb568274f6e979fe6cb96c5e67680a6f11332ce530fbd4a1af9b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_desk_basic.json",
+            "size": 214,
+            "sha256": "e3b7e49a0b93427066897c1a4768f65b5088de7f008bb91f319504236f3191c4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_desk_cabinet_basic.json",
+            "size": 222,
+            "sha256": "fe014534a2e8b262f49f018c9add1b553cd3b4955ddd8358241ee6f0b04076a6",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_gray_classic_bed.json",
+            "size": 490,
+            "sha256": "d58b28a1694f0b6b33fa69e02a7431cff3cf2a80ee7fe14c31644a071deb00a6",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_gray_simple_bed.json",
+            "size": 488,
+            "sha256": "738432ded813f77ae7a200b5ba7d164523706ea42547f31d0ea733f75484b47a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_green_classic_bed.json",
+            "size": 492,
+            "sha256": "a716277586129ae12ed9ffa0efa75724dc72896bacb2a1ac2f4fb46bc7f51ab4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_green_simple_bed.json",
+            "size": 490,
+            "sha256": "68df299782dfa49aa899af9e38efb20608989212a5fc10fc1e37cc1ecebedb03",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_kitchen_cabinet.json",
+            "size": 219,
+            "sha256": "4cafc33b91f4955260c44933de5411c003bf57fffb2dcad05704e69baf6b4fd6",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_kitchen_counter.json",
+            "size": 219,
+            "sha256": "4b2798c250162317b056eaa1ac45b7c4b13700c2a76fd5bfb8bc950e6060f5d0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_kitchen_counter_oven.json",
+            "size": 224,
+            "sha256": "d32996a15f37414296fbbeced05a12975008b29ac0f184d2b3c961deb9cdf487",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_kitchen_drawer.json",
+            "size": 218,
+            "sha256": "9eee9fe773b5ac4f68c613facc342a776695bb732c694ffa922b2ab32e676f51",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_kitchen_sink.json",
+            "size": 216,
+            "sha256": "9e50fccdb160fc96b9efcffc7d1ba3e26cdaee52ab6f5477ce5dc55789a113d2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_kitchen_wall_counter.json",
+            "size": 224,
+            "sha256": "cff58ab5b78e916d59963526531e14070583cbbea76bc858cf823d835e36ad51",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_kitchen_wall_drawer.json",
+            "size": 223,
+            "sha256": "2b2a666a69971818a53cf7da61d2a91aa2e7c11be2f1c1b902d84b77ae697aae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 229,
+            "sha256": "101b0aa2565587e70fef34a50eb0a17d5d7b53c8b4abc6b20fbf66d444fa4604",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_light_blue_classic_bed.json",
+            "size": 502,
+            "sha256": "4c529d5e6d4b5d4102eb2d8bddf9dca5ff3c532b47d5d16adbdb31e4eb24d1ae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_light_blue_simple_bed.json",
+            "size": 500,
+            "sha256": "4644606c7c9ea27e748405b0bbc3ad3ffecd071e067d66bcd55bcfde4b260d4f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_light_gray_classic_bed.json",
+            "size": 502,
+            "sha256": "30a03c2f99574c37bbe98b3a832700fb7b54a7d75b45e8ede2b334d0bf711bae",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_light_gray_simple_bed.json",
+            "size": 500,
+            "sha256": "42ae92005bf306a8f647b472298e325a0b5e89ce2adf60a3b8fe437d3f532203",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_lime_classic_bed.json",
+            "size": 490,
+            "sha256": "6b135b46a0c701ca7bc1e2dd8dfdd7912ae3877fd3563b1503da1210236ae82d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_lime_simple_bed.json",
+            "size": 488,
+            "sha256": "46f0c94bf2f9199ecf0772bb5ed8684b41f5c4f9f49377205a91e0e1c365125e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_log_stool.json",
+            "size": 213,
+            "sha256": "2aaf794b7a912bf77697a251b54ff92f83b31057dbf6824578c71373dca6d998",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_magenta_classic_bed.json",
+            "size": 496,
+            "sha256": "37249c8a3de44bb6c1294e47b6ff64c254e29c2a67c1c65acdc9ab5870eb1720",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_magenta_simple_bed.json",
+            "size": 494,
+            "sha256": "2743743dba85a0c6f17eb10a8a5014c37f813720cebc94fbdbd9bfbbca1b698b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_modern_stool.json",
+            "size": 216,
+            "sha256": "2282d0976d221fb48f79e7a1ea1a415473b4aec46a3d35ce30cf961083f9807f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_orange_classic_bed.json",
+            "size": 494,
+            "sha256": "f18691e8f1cf8dba4dac25d4546a82b4ec54f900bfe930e304f1f0cdadf4d239",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_orange_simple_bed.json",
+            "size": 492,
+            "sha256": "60db9be9390aad45f7590bb517ffce554802e53dfe2b0988329fe1f135f9c97e",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_pink_classic_bed.json",
+            "size": 490,
+            "sha256": "869bc6c6cdd5f1229bfbae048ffe931a07a4e3b25c29ea59c8c4ab0950840fed",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_pink_simple_bed.json",
+            "size": 488,
+            "sha256": "dc372e4b9c1e2e956fb0728288f3af0f30ea7a691d947d8d97ec2d8bb8e86080",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_purple_classic_bed.json",
+            "size": 494,
+            "sha256": "5aade113ab37aa294eca792ad1f1c434e204b319bc215db457aec7fa96e5124f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_purple_simple_bed.json",
+            "size": 492,
+            "sha256": "503539f12ad4fbfb5878de8b933eb98949f491d1127a7326afeb8f15ac9e3341",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_raw_table_log.json",
+            "size": 217,
+            "sha256": "e12ada8ee7659f648fc0a649e28feffc7cf6572cbc7b0935307d08db9f8328ca",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_red_classic_bed.json",
+            "size": 488,
+            "sha256": "7d84c5c5f46412b908ed0c58508dc8f9497d07a4a09df136fc9571d3d700e744",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_red_simple_bed.json",
+            "size": 486,
+            "sha256": "2880d68db8be730f328754d9722f2c42665203e8f6f6a9d8f0b00ba9c60220d0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_simple_bunk_ladder.json",
+            "size": 222,
+            "sha256": "0c617b0e815732da02a980f53243a2079abe3e9a770e37959a828425c80eca38",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_simple_stool.json",
+            "size": 216,
+            "sha256": "f9cde0434ce7326aab8a3de3b56b96d81881c0453bf4c482b6b35454dc584e39",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_table_basic.json",
+            "size": 215,
+            "sha256": "b972e1ed4e6ef886bc5de52615683af31d3a6af1f3e4071ce1aacf1ad223ec7b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_table_classic.json",
+            "size": 217,
+            "sha256": "0d5e47806e458d337d16311af57bbca3352b467dd3c950557bdc1ab760a8a50a",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_table_dinner.json",
+            "size": 216,
+            "sha256": "738a6ac4c02f4f425925814952a6a05b38318fbbe82bf11a13935993e9c50a1d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_table_log.json",
+            "size": 213,
+            "sha256": "c294955caa57103edb112348cd466f8cfbe0620cb9576cf1f5f95c3e41f27a21",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_table_modern_dinner.json",
+            "size": 223,
+            "sha256": "2627f4b51fa3e737789b8e2fd00247fd743de9c447739753eb83c7a286dc60ca",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_white_classic_bed.json",
+            "size": 492,
+            "sha256": "354e9e60afa1dff556e502fe440de97e3485ec54061d669eb3f926f5ce0eb631",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_white_simple_bed.json",
+            "size": 490,
+            "sha256": "e7226cde24f391ded56d61c50a55be0f5253d4ce80f13b89fa536a505de2fa64",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_yellow_classic_bed.json",
+            "size": 494,
+            "sha256": "e9bca5597cc61d1efba99163435143b3b47371236da4c462ef5ee4992f5d6e65",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/strophar_ad_astra_yellow_simple_bed.json",
+            "size": 492,
+            "sha256": "ee7ee88d52df9ad970a3b94b9e6baad48cee4419a1aabbb4089285afa7053d56",
+            "once": false
+        },
+        {
             "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/trashcan.json",
             "size": 194,
             "sha256": "15de6ddb614127bdfb00035478ab68d0a5b4dee60e2cb15e5048256ce46b1dbf",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_chair.json",
+            "size": 212,
+            "sha256": "9d63401232b1f1d529a3f352204bee6722064cba254f041fe673cc1e0a710613",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_chair_classic.json",
+            "size": 220,
+            "sha256": "6614837c1539dcd63460a2ec40c11e970bb447fb63928c3e71587912422da113",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_chair_dinner.json",
+            "size": 219,
+            "sha256": "b626a9943c76a473b7efe8e5118080d16f865444273edb86ca2372e7afea648b",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_chair_modern.json",
+            "size": 219,
+            "sha256": "b7e02a502b6579e4eba029802f53039884c83001e40b3f58705f2b41df0ff7e0",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_classic_nightstand.json",
+            "size": 225,
+            "sha256": "6cd185162fcae71bd6190b664b902e2987f90213c53d684e81064a7be793ae64",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_classic_stool.json",
+            "size": 220,
+            "sha256": "01ce7dcfd60de15b887c1c9648a0ec9020524c4fa18a86a52a91a5c8edbe8d16",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_coffee_table_basic.json",
+            "size": 225,
+            "sha256": "57eb27cb5e0315f725b2d0987a8b9d6898b6e8e4701b6cd3024ac001882c8dce",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_coffee_table_classic.json",
+            "size": 227,
+            "sha256": "a46c4ff2b9e59302bd2816d1722ee897424fd9e8e4797a36696af9da0d54cdaa",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_coffee_table_modern.json",
+            "size": 226,
+            "sha256": "661a52baf8d6ad364fb11b84ce5be228facfe3f14d8fc5f233153a3aec50d7ac",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_desk_basic.json",
+            "size": 217,
+            "sha256": "6e6644e387d91a35c5099775074c021f0cda57ba0e5250cffef62b7df460aea9",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_desk_cabinet_basic.json",
+            "size": 225,
+            "sha256": "2b32dfa21cec443a52ca418866672da32da0c81b2bb42ba853fb887507597c56",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_kitchen_cabinet.json",
+            "size": 222,
+            "sha256": "4cedf789026beb2b5cf5ec5e68d1a08939c115c807f18fbf82ad7b8056af75d3",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_kitchen_counter.json",
+            "size": 222,
+            "sha256": "e4756becac5c7f54b2b531db303986436acc4aa694edc29bce154060cec5a72d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_kitchen_counter_oven.json",
+            "size": 227,
+            "sha256": "eade3e95a9b451251cff99f4851011d5a17382b7a57ca67a3327d4b7f61bc939",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_kitchen_drawer.json",
+            "size": 221,
+            "sha256": "ae96e8120543a5d03176dac99b8daa92b8abbc41ddcd60fbcda2c7faa48e2c95",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_kitchen_sink.json",
+            "size": 219,
+            "sha256": "e85ff8e6b0735b9f3b6185133dd49dcfcb1f8c0f52db128120d169bd5b52b595",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_kitchen_wall_counter.json",
+            "size": 227,
+            "sha256": "b14ed1cbbc459a2218232f6367a74f540723f24c79ec3bf2ac4785f14f064d4f",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_kitchen_wall_drawer.json",
+            "size": 226,
+            "sha256": "946542a668260cd4f86509a6b6c9e4faab4efb0869f8236fe3c19c03385623b4",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_kitchen_wall_small_drawer.json",
+            "size": 232,
+            "sha256": "35a7351fc747461020930f9e0871fd94413a04c86cab8f593720a4793f8c529d",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_modern_stool.json",
+            "size": 219,
+            "sha256": "f6ab0eaf0df466e3ce340be4c18cc1dc359f5ab286fbc36f4ea27be96fabdbf2",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_simple_stool.json",
+            "size": 219,
+            "sha256": "bd63879e4d807f5981aa796812400658fb3263b29902287e44172b7ebac75432",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_table_basic.json",
+            "size": 218,
+            "sha256": "b955b274b43ed81f239f5628e8bedfbd882d6a99df524d09eb8622fd6116742c",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_table_classic.json",
+            "size": 220,
+            "sha256": "6e06139ccb5364305bfad42f9b9f23c1c191a406d9a606dfa69bc7ceba202bbd",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_table_dinner.json",
+            "size": 219,
+            "sha256": "80aa37931658a99d6187461dacbe5a178daf0b64d3dc020e6c36812100c2ef18",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_table_modern_dinner.json",
+            "size": 226,
+            "sha256": "4ab9a6e32f2945d15f148d9d1a800cb044d82a06f6835cbe573e139a5c0a05a7",
+            "once": false
+        },
+        {
+            "path": "pfm/cache/pfm-datapack/data/pfm/loot_tables/blocks/venus_stone_ad_astra_table_natural.json",
+            "size": 220,
+            "sha256": "e91bb403c487dec61ea8459a997a85c58a1fc868db705ae2b30fa3267f653b69",
             "once": false
         },
         {
@@ -32774,32 +35144,32 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_black_lamp.json",
-            "size": 876,
-            "sha256": "42e7dcd1ae66529c94670e8a97f11bf0e93e307119e89761fcdf6026cbb941fd",
+            "size": 949,
+            "sha256": "55f1de9530c01b35484021bbc070a132b39f441ed994c611656d90175734ef4a",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_blue_lamp.json",
-            "size": 872,
-            "sha256": "102f5680abfe7b299c9a61d0cca12acca0bffe779bc6c83c6746b3fc727ee711",
+            "size": 945,
+            "sha256": "eae03de7830a82dbf89769ea1cb4fcda88fd7da0633919297535d371885dc573",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_brown_lamp.json",
-            "size": 876,
-            "sha256": "beeb2bcd646bf375619917924d1725eaa0b0355bda94e3143e4e7ea37b350540",
+            "size": 949,
+            "sha256": "a19a017af0388f071dfb0cd142fdcf87edce7e80b6fcbf65608cae23c4436df8",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_chair_block.json",
-            "size": 1252,
-            "sha256": "8d0527fbbeaa322dad0d36627cdbbc4a89a97d2df16feee3f4defc768e09f9e8",
+            "size": 1522,
+            "sha256": "ac35ca01ae93564eddf48f7b1cde972605555c74c8175a53a9e2b78d51ba5c3a",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_coffee_table_block.json",
-            "size": 1258,
-            "sha256": "ffc34d26c0c1240f1960f44195adc04bec97e424457bc96edf7fb4e5714f223a",
+            "size": 1528,
+            "sha256": "6efed1e4aea786e8f74522f18f8e70f7ede704e6661913e2b5cceca3c6e1d7b0",
             "once": false
         },
         {
@@ -32810,68 +35180,68 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_cyan_lamp.json",
-            "size": 872,
-            "sha256": "10fd288feef80affd894d48009a83e36673205299603947c6004a579e3e22b86",
+            "size": 945,
+            "sha256": "807993a4aaee7163c8e4c9a02640e1eab00de4e911c537cd817b0d88b97a0abb",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_desk_block.json",
-            "size": 1251,
-            "sha256": "cc5b08744c80039de1bbfe48ac6495fb12e5ba9ea6da0ab9171f64626bf867b9",
+            "size": 1521,
+            "sha256": "430683025635dcce35d504c2fa9ee653275afae359a7a91da12913cfb4a0ffe9",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_desk_cabinet_block.json",
-            "size": 1313,
-            "sha256": "08d4c3461964d520e7b0eb2146ad17cdcbab008b35c86f316c54c4257d7c4555",
+            "size": 1583,
+            "sha256": "f328e6c806fa1248ea1dd85fe37720f1bed0aa8ad2b10e525da4f7bf1c5a6acd",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_gray_lamp.json",
-            "size": 872,
-            "sha256": "24ec20aeaffbb2112d81198f616e1f8de65a1aea6688918c3a61c7a227b84974",
+            "size": 945,
+            "sha256": "f9b7f1faa65e53469c0c9362ff2a369e6ed52ecb18fa85b5c18643ef0d90cdde",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_green_lamp.json",
-            "size": 876,
-            "sha256": "6f350a41a9ba91d80e732e09fd39e27d3d79001db3cd82d4ecb39d0547a3cf4f",
+            "size": 949,
+            "sha256": "935308aeaa3244e1d8deba30411a58f40b86c8cab6cf58dc6a02513d27b2c5a2",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_light_blue_lamp.json",
-            "size": 896,
-            "sha256": "f279dc8bbd4a2d35f71626f9212575364f8975f03931dd24fa33ec8d11ba6d71",
+            "size": 969,
+            "sha256": "3d2aaaf4d36390130675b664fab31b8435ffc698075935b5729b2f11be9d1e37",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_light_gray_lamp.json",
-            "size": 896,
-            "sha256": "8d00b11c99fde380a094b1afcd7d762b320426492b95d83c1c8f5a3c87cbc78c",
+            "size": 969,
+            "sha256": "1039812461dc3d97ff62a9a9c7ff7fd0beb0ddc08dda165cf9ed14d1242747ce",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_lime_lamp.json",
-            "size": 872,
-            "sha256": "2d684045a04dc741b3ef046019ed7736c8faf87b03649857417872146072770c",
+            "size": 945,
+            "sha256": "bf09a99328d3a480115bbc2d90d89faaeb25fb68d81daeb1ba3586300e164cf3",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_magenta_lamp.json",
-            "size": 884,
-            "sha256": "10bafd570dc3ad2d7c5ae88f757286d75c5e9f7ae2f88a56d642d4dd0097de3f",
+            "size": 957,
+            "sha256": "896087d87e2ecb39e4742e23e92e74be3f2a9a14bd15314fa2a8fb0d75773d6a",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_orange_lamp.json",
-            "size": 880,
-            "sha256": "a64ada044ba4156e7eeebe91e0e95ac741b514654ad39c451d3483773da11d2b",
+            "size": 953,
+            "sha256": "d04f8e67cf7813ed21e5828be7d551d2ed658aac2777ff18ed67c039ba47978e",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_pink_lamp.json",
-            "size": 872,
-            "sha256": "cc843129faa3fa2d12c8e1dc167fe359ca9e50e187758d593dda4f1973b2bf20",
+            "size": 945,
+            "sha256": "036b2995336733a24c1d297cf454098f1d87f2f60691fe95560c4d884f5480a1",
             "once": false
         },
         {
@@ -32882,14 +35252,14 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_purple_lamp.json",
-            "size": 880,
-            "sha256": "b01538ec1397d34774dfb7ed4eff97451040c20fa38f7b2628405f36a5dfb00e",
+            "size": 953,
+            "sha256": "dcd893edb047a2c5bcdec9e63cfd90d8d3216471d795b2dce7113da3e1f64ca3",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_red_lamp.json",
-            "size": 868,
-            "sha256": "4e4efadc598458b1f2146052c766e08e82b5ca99bf0f6d6b331544954b6be398",
+            "size": 941,
+            "sha256": "eea355cc60f0c1de74f48a4552ca85b0dd629a7042fe52e8df811260d5e0271c",
             "once": false
         },
         {
@@ -32912,8 +35282,8 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_table_block.json",
-            "size": 1252,
-            "sha256": "89403f793d78347dd2a7e6938e9c235ed51eb4056d627482de2ad8277f5b93e6",
+            "size": 1522,
+            "sha256": "325ae0ffe6495d78ade30d61cf5a1006eb7039e59873c74bc9f00aed68fc845a",
             "once": false
         },
         {
@@ -32924,14 +35294,14 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_white_lamp.json",
-            "size": 876,
-            "sha256": "74e7b51248f258757a826fc1eddb41dda7d2bfedbf3d8c5b8b7731ece8f1b2f6",
+            "size": 949,
+            "sha256": "9d9889fe5f2fa7275a43bc97733cbd4af8e7b3ece1c25ca4129fdb61fef9b369",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/basic_yellow_lamp.json",
-            "size": 880,
-            "sha256": "9d0a7f62fe96985e00586425ff3e5de1f6cdcaea7fe6196c7968d420171aa5e7",
+            "size": 953,
+            "sha256": "fb109ce4fd43b182f0df576fd89049bc260aa91f66c75741abad692109f15376",
             "once": false
         },
         {
@@ -33002,128 +35372,128 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_black.json",
-            "size": 630,
-            "sha256": "69acfa501a5ab1cad886e633ddbf3f7777efacbffa0e8318af71293149851df5",
+            "size": 703,
+            "sha256": "80081e561572c9d44ddcd9af6c168fca57276b5d54b180da52d4f2dc270da04b",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_blue.json",
-            "size": 628,
-            "sha256": "7777cc75675b79026c70d0746c8c2c77811442a4e1fa8c68417bf014e1595a51",
+            "size": 701,
+            "sha256": "0ffe6cd6d6e2973ef4220cb2d73d5ec76220cfaba9778b63bfc7b35768ab640f",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_brown.json",
-            "size": 630,
-            "sha256": "0704abc66dd79a2a1d034aed82e3ee76c1cbd1836b99c722cb9fb420b044f920",
+            "size": 703,
+            "sha256": "8b4a960ac757f4eb5bff196cd29bb591b8b9efdaca1a19c9e407b7da1ba497a1",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_cyan.json",
-            "size": 628,
-            "sha256": "e7417f34fd7b0e8f388504b9a118f0897331400621e86db3a0d7d9aab77b283c",
+            "size": 701,
+            "sha256": "3e196155622ccd57abeda51bd7cacbdf042010aad143812b1f10ca381bcf8936",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_gray.json",
-            "size": 628,
-            "sha256": "d87be2cae423e97fbb5f23bab8f6881670bed1599c8ddf17638fe54efc9f9806",
+            "size": 701,
+            "sha256": "a99b0a1e4d8278c6d7343bfb91a6c4300ba18c70e84704595ee10b65f15ff2bc",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_green.json",
-            "size": 630,
-            "sha256": "53d7f27ccba8b29b94f27b480a4f7bd484463dd0d9eec9acb807ab9396e9e059",
+            "size": 703,
+            "sha256": "c55b1d78cbb4dc2d0a22de48563b1c3d1878abbe81a53c0e368cc2980a382023",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_light_blue.json",
-            "size": 640,
-            "sha256": "c7889da3df3a3691f05ddfd3846396f7f3ebabe56780396914f62437bbebc2f0",
+            "size": 713,
+            "sha256": "50b79d396c77f75ef7f814e5ab3d65e15335382133def766cbf73a74f27cf7f1",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_light_gray.json",
-            "size": 640,
-            "sha256": "77366e30c29895d4fc0f293fa66cf2aeaa546f21ed9efec21b6d0449eb178d49",
+            "size": 713,
+            "sha256": "c7697281e0f40cd044915963b3b9563e3034b184ca460fcf93d71f82aadbc367",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_lime.json",
-            "size": 628,
-            "sha256": "b8df9412b353ae617830519ec07ba7909284af45880a2c333c5c8f591742d9a0",
+            "size": 701,
+            "sha256": "2df4ccad9c2d78b8af41af006aa7a47ac81aa85af03fa60d92bb54dfc06b564e",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_magenta.json",
-            "size": 634,
-            "sha256": "aa1fd80b9a398441ed704d95ae2c92ab711216c5febed0dd14a19d14a8a46b57",
+            "size": 707,
+            "sha256": "57d310d9c0e1ccc9bc1295231517d08a9184a3a92d8c7b2e059abb901f11fb87",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_orange.json",
-            "size": 632,
-            "sha256": "3fd8cdec0a229ce69c35e710ff88e568a50f124c5f25963060bce7e7f162b2d4",
+            "size": 705,
+            "sha256": "d8f8ae7e772330a44567dd09d1ba366456345266b315f89c3d2c66c411cd6e3e",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_pink.json",
-            "size": 628,
-            "sha256": "984ecbde6e6e2bce1f7af89cc47e8a0f7abfaec3b74ee5281293fe60f8ac72e7",
+            "size": 701,
+            "sha256": "7c2ab97cb38c3f6c6fc9ceab770b4310793b8bc90be9de2e9b2140b4137496d4",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_purple.json",
-            "size": 632,
-            "sha256": "67d6b106c9b34fc973545cf7bdc671e968c0ec0ab6d6915b6dcf8775a494dd9d",
+            "size": 705,
+            "sha256": "688d043af3e6e9fa9840b54f251241442172432ba5b0d7ede0ca5a1fffa7bdb1",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_red.json",
-            "size": 626,
-            "sha256": "49d9613aadeae7027fd73f731e5431412aa9ada1a7a3a545e8b49f38eeea4abe",
+            "size": 699,
+            "sha256": "036c94310489b57c4d1953b3be25cdb3ed13f93af3f5037208c3fecef557de2f",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_white.json",
-            "size": 630,
-            "sha256": "8848200c7bcbb8c43e53dae6abd674949142813907173e9bb42ca593f5d820ac",
+            "size": 703,
+            "sha256": "5e96eb98c672bdeca5e5badebb183be9651c11dad58f596aa4017ebe4a7c1298",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_bed_block_yellow.json",
-            "size": 632,
-            "sha256": "c30ededa803e192b60c5fd47d9afa765a82ca31cdb0832e892ad51c4e81b7888",
+            "size": 705,
+            "sha256": "41a950808d67911fb21b05d4c8da6f1075375d7c4c614c93d1d1e3ba26844ed8",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_chair_block.json",
-            "size": 1254,
-            "sha256": "be278bb7fd61e96efb3e05cd28af9c90c144e98aa9bf3054bf662d62b9223d24",
+            "size": 1524,
+            "sha256": "41fa52c9502195e057dba30d65d18f486f58612b1e68c78dc3e1d71bd474a139",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_coffee_table_block.json",
-            "size": 1260,
-            "sha256": "4d593a8ddb584374a0de5b9c9005ae3295d862c29c5c9daa11b592fdf7e3b907",
+            "size": 1530,
+            "sha256": "06c335f88dbceb63f9347c70552de9d7d5f6e816417f30baa26f3b4894553699",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_nightstand_block.json",
-            "size": 1315,
-            "sha256": "3ac293f825b2fdb85b876231072589ef54a939c86395d23163574c917c107e10",
+            "size": 1585,
+            "sha256": "f72e19a3c6c30e70a565f53c2dd961e3c441e332680932c57215fd70c7456fc9",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_stool_block.json",
-            "size": 1254,
-            "sha256": "6c21559f8bdebf194959a3ff7f04543ac2db79b9c522d6a9f0fc2d1be24f4d6f",
+            "size": 1524,
+            "sha256": "7a22a51c904de5c17fe4ed1f4a70cf4114ba25de3101ccb87aa84bd971a42961",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/classic_table_block.json",
-            "size": 1254,
-            "sha256": "944c439561e252747cc7225f6421f481f78ca1749d91c832da8903990e097a3b",
+            "size": 1524,
+            "sha256": "c2ed8e81f1810fa7b648b92bfcd54a5cc82765dbbf59dc03626be48c65a0a141",
             "once": false
         },
         {
@@ -33158,14 +35528,14 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/dinner_chair_block.json",
-            "size": 1253,
-            "sha256": "2a4fd28a8c2e8f800862238868607cf31002790246a389bef8b9822a69af03f1",
+            "size": 1523,
+            "sha256": "99e223b71460c4655fe9260ee694fe5f7ecfee1c0cfd9e822ada7c4336b011d5",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/dinner_table_block.json",
-            "size": 1253,
-            "sha256": "321651d4c97134fc795c49e1ad7127a381df2af10ae948cec06e8e6c555b332d",
+            "size": 1523,
+            "sha256": "53c1d8fcf52f90c3a03826e22668c30e91e9c81ded0a30f8aa89ba8c58bf086d",
             "once": false
         },
         {
@@ -33320,32 +35690,32 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/kitchen_cabinet_block.json",
-            "size": 1545,
-            "sha256": "b17d13a9f3240cb6b22c00a283684867c1beb7761b78f4e228280f389b5db513",
+            "size": 1815,
+            "sha256": "04ec28de04599a729c7418659454f829903c831d228d8ec67db5c3f78b490515",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/kitchen_counter_block.json",
-            "size": 1490,
-            "sha256": "570f914d7b51382e67fb10fd89415937be666c02192aa807601f3cba0c354bcb",
+            "size": 1760,
+            "sha256": "d431753f8ff5669f797a4dd524ee2ef49705ac0b960917f834f9c6d77d05b03b",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/kitchen_counter_oven_block.json",
-            "size": 1535,
-            "sha256": "397fd2e9209820d821971b4654aa373b40e34d20cf63a565589db8f409dc8f05",
+            "size": 1805,
+            "sha256": "330ec9abbcbf454aec6eba1a0cb20633ee4621fc9999e8d3355c52e4775c81a5",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/kitchen_drawer_block.json",
-            "size": 1528,
-            "sha256": "14f7b5e4372bb97bedc2f053ffbded38bbaf29125892ce2d1a3b90d433d8135e",
+            "size": 1798,
+            "sha256": "a62d3f1e0c956a04cdefaba00d40d3c3e3511b5d0262429e6097172914a4e840",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/kitchen_sink_block.json",
-            "size": 1583,
-            "sha256": "3ba79912f3d929c510c5956029b19df1f7e1dcfcef15ea50923a95655856b56c",
+            "size": 1853,
+            "sha256": "83edf5e5d9f0043eebb6a282ddc88c6d3318168f233bc51ba47367ab7161fbf1",
             "once": false
         },
         {
@@ -33356,20 +35726,20 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/kitchen_wall_counter_block.json",
-            "size": 1472,
-            "sha256": "48e65099c9593a77305724332fa1c6d21be0b6a23f5d5db7b10b9b9e8a6447c6",
+            "size": 1742,
+            "sha256": "5f1ab0f96486e928e2622f34162504bd83e4b0a0317dedfeab031728264ba9dd",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/kitchen_wall_drawer_block.json",
-            "size": 1532,
-            "sha256": "81f1d3530de6bb592af5b2d3e4bcad0e2940612d8eefe4b7c90482148a335c37",
+            "size": 1802,
+            "sha256": "997c714f5edd633032b6bb119400af3e0e927de086931a48b099ed54d3fbf275",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/kitchen_wall_drawer_small_block.json",
-            "size": 1553,
-            "sha256": "dbb9b6e093af87c8520875535065515f01fe4947b14e196e6e87e58131570bb2",
+            "size": 1823,
+            "sha256": "3d61284fa715453a6528b69e606dda903f7cf6ff734947467601fdeeef6506c2",
             "once": false
         },
         {
@@ -33434,14 +35804,14 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/log_stool_block.json",
-            "size": 528,
-            "sha256": "a41f0c4cb04bd258232a8e76ff7518bb205a2043cb0dbd74a68c291e3cce2e2f",
+            "size": 601,
+            "sha256": "a51f6d03483e57a77332d673b6af9a34ad47f124def2ec65358df6dd03e951c3",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/log_table_block.json",
-            "size": 1250,
-            "sha256": "9ee6d986b7aaaf77a5e1b02f2ae6fcd741542f13193052a4e2ded621c110eb48",
+            "size": 1520,
+            "sha256": "4bd07d9a42ffe8bc07606bd39fcedbae4cd8d8eac2cee59dba8458ac6a69d71a",
             "once": false
         },
         {
@@ -33476,26 +35846,26 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/modern_chair_block.json",
-            "size": 1253,
-            "sha256": "2c5dbbab8aadd031ade1e57aa4d4a58715c26ca7da976a845d9e90316cfe01a2",
+            "size": 1523,
+            "sha256": "ad536e210cc2d440c3d0283f286353fb2ac184be15541cfceda8583431f3b958",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/modern_coffee_table_block.json",
-            "size": 1259,
-            "sha256": "c5bd34f09dcd7355f0e250745cc42fe79ee08cdfbbe44ae6563a95a9d6e23467",
+            "size": 1529,
+            "sha256": "d2684fa4f836ccbed632b1886b2f05acc98c2bb7af3f9c8e15dff07c1d441f5d",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/modern_dinner_table_block.json",
-            "size": 1259,
-            "sha256": "5af0922e6006234d470b6b098b09ea601b8f6246aa49c5e35299a48768de4b2b",
+            "size": 1529,
+            "sha256": "a3725f1eefe96d1bb6347a025fb8544fcf517db8a6005bd458b9bae80afc8fb2",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/modern_stool_block.json",
-            "size": 1366,
-            "sha256": "1f0ea12d26620659f3ba1198a0654c33b8bf5c68e66ca74a0b4c7f01583297e6",
+            "size": 1636,
+            "sha256": "01fd40a6e9751a88bba49031e402e88fcff721105beb90e3cc22e09f74165685",
             "once": false
         },
         {
@@ -33656,8 +36026,8 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/raw_log_table_block.json",
-            "size": 531,
-            "sha256": "b24faa3927dfb8565f415ab06a79eef925bfe6cefc0625cea2b41f2a402ac5c2",
+            "size": 604,
+            "sha256": "b23d14a6eee62e3ad80d4266445a87ac763d646e486b460df7cc259ccd95a076",
             "once": false
         },
         {
@@ -33680,110 +36050,110 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_black.json",
-            "size": 611,
-            "sha256": "b4c4c936208af3766d4843ca626b1888148923aefc6fb7c32cbd6df5b19f5d4f",
+            "size": 684,
+            "sha256": "1a4de91c616d98e3a02116282c2ff2087b4f1cfbb50bcb4bf0e4b5280338459d",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_blue.json",
-            "size": 609,
-            "sha256": "bb61947ace9f093124080332e423e295accf9513aca9fa21a62e7d7003624ab4",
+            "size": 682,
+            "sha256": "740ed9de4f84c968f062583a837113f2d56322f130d555c97ede2e8262e201f2",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_brown.json",
-            "size": 611,
-            "sha256": "ce3e9287602daefb56cddcb7d68998c75e9622d26db161e1cede380f70cf4637",
+            "size": 684,
+            "sha256": "ce358941aee437037b0945f6f36876bde09cf9ba6bf556f4c089a3dc46c1d1ab",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_cyan.json",
-            "size": 609,
-            "sha256": "d4afb0ed8e0cfc3fe4562f57ad71378ff10adc1c21e42da8c66e2f61d70bf426",
+            "size": 682,
+            "sha256": "3d5ae98ec6bd83145d425aa97850b85db52f71624d90c7225b6bb27b6538a013",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_gray.json",
-            "size": 609,
-            "sha256": "0bf61525fd50f08eef8332fa6f7adefa5ef588879a74ea2a7818e38a72ed3881",
+            "size": 682,
+            "sha256": "606ac8556486d31c3c09b52812773622d0e30fd0b76c180d1ca1310875ca0e00",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_green.json",
-            "size": 611,
-            "sha256": "bd35dd0004564796d882170b1f1e012ef96036e2381b5a4c2d63960801825606",
+            "size": 684,
+            "sha256": "18bb9b31c0a56864a2f14eb530d5e36b22e4cfe6614a63e5cd6712c9b8b8cd85",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_light_blue.json",
-            "size": 621,
-            "sha256": "82caad5c5d5aa98934f83e70715e44db20978195844e8b9dc77e474bc8742a7f",
+            "size": 694,
+            "sha256": "e708c8eefe6999daf9b886ab4466e7552364c4dddf35d56923c7a6cc7b28979b",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_light_gray.json",
-            "size": 621,
-            "sha256": "d96c9437e8cac0a36e60d40a734e310d2456680e647dc611310d4d6a926f126d",
+            "size": 694,
+            "sha256": "3e41dfa677247805f9bc99987dc27771bf101208c278b7b99e8754991a38b3ab",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_lime.json",
-            "size": 609,
-            "sha256": "abbbd38a047c82ce5b11f66813efefa398ba71941162e5336470b36cd8a9c822",
+            "size": 682,
+            "sha256": "38b47b92f2dd0341eb54f3a059f19e6d369e01b6c10ff9cf042d3af0b1071194",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_magenta.json",
-            "size": 615,
-            "sha256": "ae935f96381ea899cc379fc0642eb85180d3d36e4bb327d395cea83fb2810309",
+            "size": 688,
+            "sha256": "1af9a26d3ec222546e253a6e9fc083f9d1bec99258840ce77f13f33bafab0d78",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_orange.json",
-            "size": 613,
-            "sha256": "c8033dd0a7cd081ac77c57d2ad3275b216608d4e8b5565e1b71075bd6ed6c4cf",
+            "size": 686,
+            "sha256": "104ed28bd12460a6a08b1c48d81c349c2112863bc32caf8d59f1df42fae89554",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_pink.json",
-            "size": 609,
-            "sha256": "474bc2a2da00f41e1be29965e0ca75d007b111e711d7326e83c673ca53132b15",
+            "size": 682,
+            "sha256": "7eb91a9bb87c8ba6287a2ba80e46ad4dc252ef369693a2bc424ea36f90aae47a",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_purple.json",
-            "size": 613,
-            "sha256": "bb4892e5981e9a6d22abaaf65579d648ce8bd5a267c1b3afc9ba59f7067b1b21",
+            "size": 686,
+            "sha256": "25532c74ba9169ce9874524e01ed2b665f5bb30b215381d8578c5330b126e122",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_red.json",
-            "size": 607,
-            "sha256": "48cce7f98b110ece70d99410a7ff054c04c250bbd1c8ad54c0445f8de76a9ad9",
+            "size": 680,
+            "sha256": "3d5a1d0be3cbc0f657c61949a8cf52ee8068bc19f4b9370ed0f0ed299406159e",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_white.json",
-            "size": 611,
-            "sha256": "bb8879c445969a5128b439f1a9355033a86ac75646e7f17f1257a6b5e953a9e2",
+            "size": 684,
+            "sha256": "f703c9353b31b57c9b9b7406244da30c80f9f9d01d75198fd905eecfb144bf2c",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bed_block_yellow.json",
-            "size": 613,
-            "sha256": "27f0f39904a1ddcd72aa82b8637d6d5ddf3b4a2a462a38d39c176554d8621c72",
+            "size": 686,
+            "sha256": "50fbc59b0253d2652bcb201e8e1e751ede2f419a64125e90c04f89d33281e8ba",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_bunk_ladder_block.json",
-            "size": 842,
-            "sha256": "b08054e4ddc5aee4dafa41c039258fa62d2a369a914801891f86126edd64cb11",
+            "size": 915,
+            "sha256": "7583cdc415d96d17e0b1445db3899a68a04f9c5afd88279fef8ca3bba543a6dd",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/recipes/simple_stool_block.json",
-            "size": 1253,
-            "sha256": "81076d71941b7791817b1c2bf59c3dc955432648c8f10bbda8bcbccf4135c30a",
+            "size": 1523,
+            "sha256": "1272be5495d680a879af1643d578456118782f00eb9089924d832fcee932898b",
             "once": false
         },
         {
@@ -33890,14 +36260,14 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/tags/blocks/furniture.json",
-            "size": 72003,
-            "sha256": "250e8a736825d21ff38e45941d3454cd18310e3a8665fe46d02a45e2e608aa31",
+            "size": 90468,
+            "sha256": "8367eb1f15c003a82445f12e36e5acc1a66780c04b963a200304c69a5858caa3",
             "once": false
         },
         {
             "path": "pfm/cache/pfm-datapack/data/pfm/tags/blocks/tuckable_blocks.json",
-            "size": 11941,
-            "sha256": "4448985b14a7118cc30f54a2ea2827c89ca3efd00fbac1c893be492b525778e4",
+            "size": 15109,
+            "sha256": "058415297262b4876210873fd6f623d17e8ca6c1626eac87aef54ea448bb37b0",
             "once": false
         },
         {
@@ -33908,8 +36278,8 @@
         },
         {
             "path": "pfm/cache/pfm-datapack/pfmCacheData.json",
-            "size": 1721111,
-            "sha256": "c06c45e4231c58d9d78b2410446c15e3c5278cbf81c2d3355b7c0df4d07a8fba",
+            "size": 2060629,
+            "sha256": "79e25eb6eaffab853b466a6a3d897708ec6813e56b4d1ae6115f3b3afb20c836",
             "once": false
         },
         {
@@ -33951,7 +36321,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "b99463bea276de2aa35236edfa19a6304a7fabea197849c0c7ccce1d1a8ac630",
+            "sha256": "ab4c6ded61dcece7648c1e724294dd638280e33182d3d38e0cd5617bf759b44b",
             "once": true
         },
         {
@@ -34013,5 +36383,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "08/04/2026 13:18:35,59"
+    "generated": "08/04/2026 13:58:41,26"
 }
