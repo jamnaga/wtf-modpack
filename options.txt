@@ -128,6 +128,9 @@ key_key.ae2.guide:key.keyboard.g
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
 key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
+key_key.azurelib.reload:key.keyboard.r
+key_key.azurelib.scope:key.keyboard.left.alt
+key_key.azurelib.fire:key.keyboard.unknown
 key_key.beansbackpacks.action:key.keyboard.unknown
 key_key.beansbackpacks.inventory:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.unknown
@@ -148,6 +151,10 @@ key_key.immersive_aircraft.multi_control_push:key.keyboard.w
 key_key.immersive_aircraft.multi_use:key.mouse.right
 key_key.immersive_aircraft.dismount:key.keyboard.r
 key_key.immersive_aircraft.boost:key.keyboard.b
+key_key.guns.reloadtoggle:key.keyboard.r
+key_key.guns.aimtoggle:key.keyboard.v
+key_Place item:key.keyboard.v
+key_Rotate item:key.keyboard.left.alt
 key_gui.jsblock.keybinds.script_debug_source_previous:key.keyboard.left.bracket
 key_gui.jsblock.keybinds.script_debug_source_next:key.keyboard.right.bracket
 key_gui.jsblock.keybinds.script_debug_reload:key.keyboard.r
@@ -165,6 +172,7 @@ key_key.mtr.debug_2_positive:key.keyboard.keypad.8
 key_key.mtr.debug_3_positive:key.keyboard.keypad.9
 key_key.mtr.debug_cycle_negative:key.keyboard.keypad.subtract
 key_key.mtr.debug_cycle_positive:key.keyboard.keypad.add
+key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe
 key_key.pfm.toiletUse:key.keyboard.u
 key_key.pointblack.reload:key.keyboard.r
 key_key.pointblack.firemode:key.keyboard.b
@@ -173,6 +181,11 @@ key_key.pointblack.attachments:key.keyboard.y
 key_key.pointblack.scope_switch:key.keyboard.v
 key_key.pointblack.settings:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
+key_powergrid.keyinfo.rotate_component:key.keyboard.r
+key_powergrid.keyinfo.place_trace:key.keyboard.t
+key_powergrid.keyinfo.delete_area:key.keyboard.d
+key_powergrid.keyinfo.pick_component:key.keyboard.s
+key_powergrid.keyinfo.switch_layer:key.keyboard.x
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.replaymod.playeroverview:key.keyboard.b
@@ -193,6 +206,16 @@ key_key.replaymod.positionkeyframe:key.keyboard.i
 key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.o
 key_key.replaymod.bothkeyframes:key.keyboard.unknown
+key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt
+key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_3:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_4:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_5:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_6:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown
 key_treechop.key.toggle_chopping:key.keyboard.unknown
 key_treechop.key.toggle_felling:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
@@ -220,6 +243,13 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
+key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_open_settings:key.keyboard.right.bracket
+key_gui.xaero_world_map_server_settings:key.keyboard.unknown
+key_gui.xaero_map_zoom_in:key.keyboard.unknown
+key_gui.xaero_map_zoom_out:key.keyboard.unknown
+key_gui.xaero_quick_confirm:key.keyboard.right.shift
+key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown

@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "845ee3ad3624a64fd0a89eeec937b1b51f3c4df7e4efbaf5f4dc0a5f185224c6",
+            "sha256": "de941dae3bcda493a7b4dc38bdab907e9f129f2970f6ebdb65e6b2a4deb1351e",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "216b570c3deec4669b0388049ae708ad6d6faf15d3b5bbc4631b6f3f0b19829f",
+            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
             "once": false
         },
         {
@@ -142,6 +142,12 @@
             "path": ".fabric/processedMods/com_github_rtyley_animated-gif-l-gif-lib-1.7-ba258cd60cb6cba.jar",
             "size": 21197,
             "sha256": "d2b1c09796f5db10940260fc3d13ded56d6792abc9787896d40f9ae59c950aba",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/com_github_zsoltmolnarrr_tinyconfig-2.3.2-d948e86fd430a8bf.jar",
+            "size": 13020,
+            "sha256": "56bbfebc1e9e7a461d32d98ae6b6db620a676b9e4e863640e9fa1d09cc227b85",
             "once": false
         },
         {
@@ -691,6 +697,12 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/jsonem-0.2.1+1.20-6b58aa4ec59978a9.jar",
+            "size": 45569,
+            "sha256": "2b0397bf2e3cf63399e33df913be155a519175148f7fea9dbac3040dfd86fe4d",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/kinecraft_serialization-1.2.2-f9ef22a786d5a892.jar",
             "size": 130768,
             "sha256": "34cd05674b33edcc50a8aef622c757e1eba7f444b8bcc7f451aed0f76be6cc73",
@@ -892,6 +904,30 @@
             "path": ".fabric/processedMods/org_antlr_antlr4-runtime-4.13.1-aa40604b69b4ceaf.jar",
             "size": 328770,
             "sha256": "289ea515367682556dddeacb3e4fe7d96f7409a51e079223ee6bbce8d3e3d9c7",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_ejml_ejml-core-0.44.0-4f3807da113ee339.jar",
+            "size": 273161,
+            "sha256": "be17daccb0dcb6f3cf86b26e6669259b4da2c44b75225acf88e3becf276ac053",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_ejml_ejml-ddense-0.44.0-50eee6c1b96a4802.jar",
+            "size": 414270,
+            "sha256": "25acbcbbfa384742fe7b49bfc4026d00c0ae0f016beb71c1cf771a5d0c47e301",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_ejml_ejml-dsparse-0.44.0-c7ec64be631494df.jar",
+            "size": 97137,
+            "sha256": "110871c0be0eba747b3fd1a9446d1d3d2c4702a485ef940c056b797215a2cab2",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_ejml_ejml-simple-0.44.0-d6c141bcabb511c5.jar",
+            "size": 206725,
+            "sha256": "fbe24bcd0045beccffc4350e1093a466725d902a239e684263155de367a1e255",
             "once": false
         },
         {
@@ -1489,6 +1525,12 @@
             "once": false
         },
         {
+            "path": ".mixin.out/class/net/minecraft/class_1657.class",
+            "size": 154648,
+            "sha256": "10928801ae1496b7a0894b886d9b6f0a534aa84fb1d1b2ec04695109e1d04f3e",
+            "once": false
+        },
+        {
             "path": ".oncelist",
             "size": 48,
             "sha256": "4245cce0f8b555fc7ecc57071c66e8dc76997a32e06218603eff9f2bda197b63",
@@ -1582,6 +1624,12 @@
             "path": "config/artifacts/common.json5",
             "size": 1584,
             "sha256": "736bec8c910558091bb749ac7adb013822a253a02f1f70637eb193952768d2b1",
+            "once": false
+        },
+        {
+            "path": "config/azurelib.json",
+            "size": 101,
+            "sha256": "344aaf500d3a86cc4c335a0b4590792254ae6e0eea0fc8df9ebdad5b95a75b8f",
             "once": false
         },
         {
@@ -1761,7 +1809,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "9c9971ffee8bae9a47b7bbd8a6cecde5e243efbdca10295f129d70147f3a2192",
+            "sha256": "67365ed29b70c32c19270e330a3776532d7308d1cb9dc4abf4c0cb471214126d",
             "once": false
         },
         {
@@ -2043,7 +2091,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "3a26656107d1ff17bf5345c6a7b40aef078674821fdd5f336f88eef52de1cfd0",
+            "sha256": "460ec282941aa966951690a11b788a2e3470cff179c566d37409bcc695714621",
             "once": false
         },
         {
@@ -2335,9 +2383,21 @@
             "once": false
         },
         {
+            "path": "config/immersive_weathering-client.json",
+            "size": 388,
+            "sha256": "bde2f311650b6f84b5524a5f74515bc4d431c6f388534f890a0b4df2c5daa4de",
+            "once": false
+        },
+        {
+            "path": "config/immersive_weathering-common.json",
+            "size": 1912,
+            "sha256": "057390659c88f2ee619526dc688d0af39c2c4c3aed5df2b2a32e33b7d9e40e8e",
+            "once": false
+        },
+        {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "90faa3de268e181e291b2a2e330db95a469dab8ee18f8b729ed55891e6a5fc4b",
+            "sha256": "57b123aec44e48f5272f1949f7d7632c35b8c59c29a869090fbbeb330d6674e1",
             "once": false
         },
         {
@@ -2397,7 +2457,13 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "ec5779726fd57390cbc7c42950ec7837cad300d706a01d7b65abfaca3def9681",
+            "sha256": "e8db0770baa074dc59fc4186d3b7911d86aa7497d0e46b48500a64d3a5b03c42",
+            "once": false
+        },
+        {
+            "path": "config/item-placer.toml",
+            "size": 80,
+            "sha256": "1951a28fbfaf6da012ca7f5bab393c61683fbe2c6e9eaab3717bb9c862339294",
             "once": false
         },
         {
@@ -2563,6 +2629,12 @@
             "once": false
         },
         {
+            "path": "config/jsonem.properties",
+            "size": 49,
+            "sha256": "daedbd19cf44fda88ba01b17c6d32d42c95f128e9231899c1c4ab7b169788d7f",
+            "once": false
+        },
+        {
             "path": "config/justzoom/config.txt",
             "size": 474,
             "sha256": "60cec24e5b28de27af93fa22a02e5f16db865f80f661b85e080f2a4524db7f62",
@@ -2607,7 +2679,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "b2396d36d555dbe9ff35e730b10d015263457e62512dc18fd39ed5e460ef83ab",
+            "sha256": "40484493a5be4005007a9292e1b88273e1d1d01671b24db5ebafdee3b0cdd2af",
             "once": false
         },
         {
@@ -2638,6 +2710,12 @@
             "path": "config/mcef/mcef.properties",
             "size": 135,
             "sha256": "22757f836dc79f9062e8958cc6c830d8a46846cb1c10ef4b4dcb6857d0ffa978",
+            "once": false
+        },
+        {
+            "path": "config/mcpitanlib/blacklist.json",
+            "size": 146,
+            "sha256": "961bcaf7f707818e1d4652ca0947953271d40e5cef01dc07f7208ec043d68a37",
             "once": false
         },
         {
@@ -2791,6 +2869,18 @@
             "once": false
         },
         {
+            "path": "config/powergrid-client.toml",
+            "size": 855,
+            "sha256": "3fcc1c870150c41b6402e8b3faba5eb668ba11cdbd3a4b6ea64f0b9ebe252af8",
+            "once": false
+        },
+        {
+            "path": "config/powergrid-common.toml",
+            "size": 422,
+            "sha256": "8c7210dbc0ab735a2ab6b0db0b784080ead1cdb93bb426c41e32f4a7d270d836",
+            "once": false
+        },
+        {
             "path": "config/railways-client.toml",
             "size": 1908,
             "sha256": "be2c9d524882adfb5c1502c1bb1663d8dee5e62e2df75c6b163908a748c672dd",
@@ -2846,14 +2936,14 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 7461,
-            "sha256": "d9fe168fdf730e193fec1d55b86160901bcc4dcdedce03924b2a8330a071b08a",
+            "size": 7391,
+            "sha256": "73eb3c6098c3c77a4830906f5d1cf842f929da54f40cde1fdc15cd98fcb2c6f7",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 9887,
-            "sha256": "aabc7193874f85f1f174a61a88ef96b36ac296462642a4ee0f84b9849ddcb14a",
+            "size": 12122,
+            "sha256": "cbd54561058fd55316f6ed43903d55ec7f0983b62dbf88ae7bf78608733e7931",
             "once": false
         },
         {
@@ -2865,13 +2955,25 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "831e8db6b54e5123fcfb144ce419e38bc86b45e1414df2f489cfce56333546cd",
+            "sha256": "76138bb2a5b32c9ddfa1b6c33f3dbd453ca2ab6d51e18bf95d84684c9a700069",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "2bfcbcb8e5b1d215dbfbd785c07105dfc7b4c8084d624a184cd5681b88d47350",
+            "sha256": "ca07d753ce54b0734127a6a3b378b969933b632b28b580eadf409158d972d0c9",
+            "once": false
+        },
+        {
+            "path": "config/rpg_series/loot_v2.json",
+            "size": 66818,
+            "sha256": "60577cf7d8c68f47fa223d6f60aa03553ab3a89e603fe504d09168fb2275139c",
+            "once": false
+        },
+        {
+            "path": "config/rpg_series/tag_cache.json",
+            "size": 17,
+            "sha256": "d6279d4d2faa9ef7818ea22946c2fd25166ea18992d5f8595908a089f590a15c",
             "once": false
         },
         {
@@ -2942,8 +3044,8 @@
         },
         {
             "path": "config/sound_physics_remastered/allowed_sounds.properties",
-            "size": 73848,
-            "sha256": "b402fb05c7ecb81e9ea81d3ad6e0587e8d8963d8e9724d53d444346e883db484",
+            "size": 78769,
+            "sha256": "d120f8bea0420f8b15b53536bb1d6cee4e032beacae3f6b587ad67be03101153",
             "once": false
         },
         {
@@ -3004,6 +3106,42 @@
             "path": "config/spawnanimations.json",
             "size": 302,
             "sha256": "b2b16aad46bca666c1a8393826b2e767cada40664083bea333003b7d969a88ed",
+            "once": false
+        },
+        {
+            "path": "config/spell_engine/client.json5",
+            "size": 799,
+            "sha256": "3203ea4f6833103e5e7c50727c5521b6853d2c0814335eda3476b9e2b1213e0e",
+            "once": false
+        },
+        {
+            "path": "config/spell_engine/enchantments.json",
+            "size": 132,
+            "sha256": "504170b7a22b5f6a18d1ae510b66386f0af3a9fe24ea98af2175ad9cf2b5ba8e",
+            "once": false
+        },
+        {
+            "path": "config/spell_engine/hud_config.json",
+            "size": 663,
+            "sha256": "0b5bdb344e4a4f804a7ff5a7d2ebad5d59f98ddd2aa4d5bc810cfc8feceb473b",
+            "once": false
+        },
+        {
+            "path": "config/spell_engine/server.json5",
+            "size": 3768,
+            "sha256": "74b725d6ca4f0b3b5309a175374242331dedfca7976bbf686b002f72567d2aeb",
+            "once": false
+        },
+        {
+            "path": "config/spell_power/attributes.json",
+            "size": 752,
+            "sha256": "46b2b53aceae8a03cc0229a9a658715e3c31b66c9597b4666c31f87ade12b4ec",
+            "once": false
+        },
+        {
+            "path": "config/spell_power/enchantments.json",
+            "size": 1279,
+            "sha256": "70a86e07d3a2038d202e8a64b060cf38385430aa029afd56fa5e833872cf19b7",
             "once": false
         },
         {
@@ -3088,6 +3226,12 @@
             "path": "config/trender.json",
             "size": 44,
             "sha256": "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2",
+            "once": false
+        },
+        {
+            "path": "config/uncraftingtable76.json",
+            "size": 131,
+            "sha256": "92a4663db3d0927377e0d0c89c2c1b956ef0e078875a96ebd0b58b80183e6bd1",
             "once": false
         },
         {
@@ -3286,6 +3430,12 @@
             "path": "immersive_paintings_cache/16333659-af6a-4542-bf80-25eba03e7123.png",
             "size": 485002,
             "sha256": "8daf2eede20dab48944532fc7b8f3d1a91bba36898a2d3fd7eac43d0093e8357",
+            "once": false
+        },
+        {
+            "path": "immersive_paintings_cache/50a6cfa2-720b-4d21-a8e1-142a4064e07e.png",
+            "size": 5181851,
+            "sha256": "bcd14542c8dee8b656a39f5962fb7cdf480b8e2717996b19d05cbdf9967e6aa2",
             "once": false
         },
         {
@@ -6181,7 +6331,7 @@
             "once": false
         },
         {
-            "path": "mods/3dplaceablefoodUPDATE-1.1.3 1.20.1 fabric.jar",
+            "path": "mods/3dplaceablefoodUPDATE-1.1.3 1.20.1 fabric.jar.disabled",
             "size": 5013876,
             "sha256": "54c52fa6e2a560376b3b18cdd2f5e23f30756c4255ed406f29e35923dcd41114",
             "once": false
@@ -6373,6 +6523,12 @@
             "once": false
         },
         {
+            "path": "mods/UncraftingTable-fabric-1.5.6.jar",
+            "size": 147099,
+            "sha256": "21e9f883549f0f89a6f71dd13676e6d272783ac74ba2f20e711e26f8d8678022",
+            "once": false
+        },
+        {
             "path": "mods/VisualWorkbench-v8.0.1-1.20.1-Fabric.jar",
             "size": 79613,
             "sha256": "172f5c34e76bc1ef2911617fb2a9a05a81c94ba3677b5613ed11c3f03ab318f5",
@@ -6547,6 +6703,12 @@
             "once": false
         },
         {
+            "path": "mods/[server]sleepwarp-2.2.0_rc1+1.20.1.jar.disabled",
+            "size": 142846,
+            "sha256": "7ceda7be2d123f6b8145e9cf93a324a4447e72d818d7e85734ba4a45d0a91d24",
+            "once": false
+        },
+        {
             "path": "mods/aaa_particles-1.20.1-1.4.11-fabric.jar",
             "size": 5070446,
             "sha256": "9d77c5f57eabc0f50a258b1a70186181926b2198b8a5c0cda75a5af9b529ef86",
@@ -6592,6 +6754,18 @@
             "path": "mods/artifacts-fabric-9.5.15.jar",
             "size": 960085,
             "sha256": "85740411120632af463d0f8537e651e6a08f59f9457f4e40f475b3b863950bab",
+            "once": false
+        },
+        {
+            "path": "mods/automobility-0.4.2+1.20.1-fabric.jar",
+            "size": 1108056,
+            "sha256": "c92e4b3936dbb29009cb32b7954bbf9b7b2b2026018897070f863f4e01bcc30a",
+            "once": false
+        },
+        {
+            "path": "mods/azurelib-fabric-1.20.1-3.0.27.jar",
+            "size": 1367955,
+            "sha256": "503f54351ebac2eabf31ab47364aad4a7ed1d4fc2bb5f93bc443735456f1e5b3",
             "once": false
         },
         {
@@ -6835,9 +7009,27 @@
             "once": false
         },
         {
+            "path": "mods/immersive_guns-1.3.jar",
+            "size": 3176842,
+            "sha256": "c829d752af0c8aa9fa7d6f828c6aa21783a98609ff11f5a1a89615733ee9efd5",
+            "once": false
+        },
+        {
             "path": "mods/immersive_paintings-0.6.11+1.20.1-fabric.jar",
             "size": 4853363,
             "sha256": "eea0fd989d013f1749c079ba46c02e4e0e05d4d9fa8f8cf87101c0ebbdba6916",
+            "once": false
+        },
+        {
+            "path": "mods/immersive_weathering-1.20.1-2.0.5-fabric.jar",
+            "size": 2245587,
+            "sha256": "03e3eda4de5920fae8eee24e273cbb027f2f79b69c3913e02bdd8d3ad1bb7dd8",
+            "once": false
+        },
+        {
+            "path": "mods/itemplacer-mc1.20.1-fabric-3.0.0.jar",
+            "size": 38007,
+            "sha256": "49d018ad82768e9850f9698f8b1608b7473b140b5f2b74befdca1a77bb4c0e60",
             "once": false
         },
         {
@@ -6898,6 +7090,12 @@
             "path": "mods/mcef-fabric-2.1.6-1.20.1.jar",
             "size": 226323,
             "sha256": "7a99ca890dbc23ee4848c98a78524960069277ee4e181e63b7a95f6d6fbbbaf1",
+            "once": false
+        },
+        {
+            "path": "mods/mcpitanlib-3.6.3-1.20.1-fabric.jar",
+            "size": 2616101,
+            "sha256": "087e090e5313857a3063e91b42f08fb76edaadb8e5cc61a2d426db29009da909",
             "once": false
         },
         {
@@ -6985,9 +7183,27 @@
             "once": false
         },
         {
+            "path": "mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+            "size": 181008,
+            "sha256": "0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018",
+            "once": false
+        },
+        {
             "path": "mods/pointblank-fabric-1.20.1-1.11.1.jar",
             "size": 17617617,
             "sha256": "cd38c40d1670155bbc75ac5d659095e0a8a90fee384b58c4d99442efc5d11df6",
+            "once": false
+        },
+        {
+            "path": "mods/powergrid-mc1.20.1-0.5.4.1.jar",
+            "size": 5946390,
+            "sha256": "0db4166e71d767b3f4a7c7c8a6db2ad912307c4b889b5570cc9a1baabb8b7601",
+            "once": false
+        },
+        {
+            "path": "mods/powergrid_leds-fabric-0.1.0.jar",
+            "size": 127037,
+            "sha256": "d61a3575636fb4c4395c95ec97c99e2da35328ea4b7ac252f672ee6b7ce57374",
             "once": false
         },
         {
@@ -7042,6 +7258,18 @@
             "path": "mods/spawn-animations-compats-14.0.jar",
             "size": 69198,
             "sha256": "b44861d04bf8c1c04c2c7d3bad4845203a63f530c10a85c3642ef5c5dbf84fd4",
+            "once": false
+        },
+        {
+            "path": "mods/spell_engine-0.15.12+1.20.1.jar",
+            "size": 1459273,
+            "sha256": "abb0ab23961a563d5307d8527f718c0eed4f7f96312178960da4e6769a1012f2",
+            "once": false
+        },
+        {
+            "path": "mods/spell_power-0.12.0+1.20.1.jar",
+            "size": 184963,
+            "sha256": "896008ae5bf2869074f7b0a64a18bf12ea258b24da2ffb1ad9a87426db8b8662",
             "once": false
         },
         {
@@ -7436,8 +7664,8 @@
         },
         {
             "path": "options.txt",
-            "size": 9085,
-            "sha256": "8e23adaeadcfb197638107bd055c503805f5e7359e1709f409251b45f391ced2",
+            "size": 10679,
+            "sha256": "e7da17c60e173d12c2a5eb8f7689135a44feafb8289d0f8c8881e37cc1cadad5",
             "once": false
         },
         {
@@ -33681,7 +33909,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "e29aae814b283f54130b5624de347b828db3a9a1fe96bd479dda220ab38d285c",
+            "sha256": "e8cbee428b2a78467b7eb45875f418781cb05ea23b540461d8608e774237a497",
             "once": true
         },
         {
@@ -33743,5 +33971,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "07/04/2026 19:44:01,02"
+    "generated": "08/04/2026 11:29:12,52"
 }
