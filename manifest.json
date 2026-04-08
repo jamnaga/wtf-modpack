@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "79bd07cce5f337ef8c9e75c579c138d688b288331e2f4fbc06619f256804f6f7",
+            "sha256": "d5d66f3aab2155c3519368dba339307d504ef7befa2a06ae261952feea98cdd0",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "063e0047d10764a8609e97e52d513bdb3a955a71886d3f27f775eba2c98212bc",
+            "sha256": "2d6c6ede66db543f1120ff0f57c9644dbb7233033f7eab6b5c67a0b102b77b2f",
             "once": false
         },
         {
@@ -1527,7 +1527,7 @@
         {
             "path": ".mixin.out/class/net/minecraft/class_1657.class",
             "size": 155521,
-            "sha256": "1226480d9138926a86fbe6fd926635d9bee9906d9f4b89d8542e096775f9426d",
+            "sha256": "42ba2b3860baa7a4a3f15d113b144920f7455a476c6f3aca77bd878b3d95d1de",
             "once": false
         },
         {
@@ -1809,7 +1809,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "682e48f5b25f7d72cb01a216f2ff5e945f006c0f63f32bb3785905dd7181cc2e",
+            "sha256": "643f256b96e1506f1339697cb64aec996e60f5db418ffd3c1921f185fa1a5ac6",
             "once": false
         },
         {
@@ -2091,7 +2091,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 282,
-            "sha256": "53932b0ed098c4a01c8e6f086705a0c4953854e990136d1ae9abf6e667d9475e",
+            "sha256": "882a027b81430c9cd1a0a92e5db9a8cc9cbcd6a293f9047895b217b5bcaf6bd6",
             "once": false
         },
         {
@@ -2403,7 +2403,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 112,
-            "sha256": "068d519f59ac733645c5361ec616b100bf9b9bdd504c644a3bf0cafa5e7a1d93",
+            "sha256": "6e4ac80bb00115583df9134874bc127fb34e8e3baa7b94a0752fe2bd5bb5af90",
             "once": false
         },
         {
@@ -2463,13 +2463,19 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "b0fd59a3510dcdf4c99cf1954aaa159a23003a421cd77d782b8cdce043819e42",
+            "sha256": "645c23a832190ef346d83915f54944b6f48ebefc5ba736a1e3cd72515b07eb90",
             "once": false
         },
         {
             "path": "config/item-placer.toml",
             "size": 80,
             "sha256": "1951a28fbfaf6da012ca7f5bab393c61683fbe2c6e9eaab3717bb9c862339294",
+            "once": false
+        },
+        {
+            "path": "config/item_obliterator.json5",
+            "size": 2471,
+            "sha256": "ba77d7b6c3ed2e48db5e91a5bf80461ef1ebf10e13fd45d4806c0fcaf24a373d",
             "once": false
         },
         {
@@ -2685,7 +2691,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "10b8f3cb3d2fc0fa245015878a455f72478e52571fa83c7ec8a28ceb76fcbbc1",
+            "sha256": "e42cdef9a89ed31c31e303e513c9ff636a98fd7e333d6e93333ea99363351166",
             "once": false
         },
         {
@@ -2794,6 +2800,12 @@
             "path": "config/multiworld/portals.yml",
             "size": 0,
             "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "once": false
+        },
+        {
+            "path": "config/necronomicon.json5",
+            "size": 266,
+            "sha256": "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df",
             "once": false
         },
         {
@@ -2942,8 +2954,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 7391,
-            "sha256": "73eb3c6098c3c77a4830906f5d1cf842f929da54f40cde1fdc15cd98fcb2c6f7",
+            "size": 7461,
+            "sha256": "d9fe168fdf730e193fec1d55b86160901bcc4dcdedce03924b2a8330a071b08a",
             "once": false
         },
         {
@@ -2961,13 +2973,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "4b625122475e2ecd3c487051ba93b477bd9105ba9b052bb0e8e6c8f40e513d25",
+            "sha256": "93350a0c666889109d8039fdca8ede6cb6ac782017c2bb4abd8835418db57c9d",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "ac57d41f91aea0d92635e593b7e5b642d27ced08890393bcf548ffaabaea52ee",
+            "sha256": "27feea56582fcdef6bd8d497a942b63033b3929bc0475280558d555e87586747",
             "once": false
         },
         {
@@ -6445,6 +6457,12 @@
             "once": false
         },
         {
+            "path": "mods/Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar",
+            "size": 28620,
+            "sha256": "64bf81726963996f1c3e1404e9058c352daf6bcdf96f931f75da66a2869cb9c2",
+            "once": false
+        },
+        {
             "path": "mods/JCM-fabric-2.1.2+1.20.1.jar",
             "size": 24012063,
             "sha256": "08fa1aa67c66c70415f9248f149008c83e360a2524cab9a15508ac9d06b56790",
@@ -6466,6 +6484,12 @@
             "path": "mods/MTR-fabric-4.0.3+1.20.1.jar",
             "size": 85407855,
             "sha256": "b8bf18dc4ff204945744557dc280e2a1cd9a178c52a2ce6f570e10d0ff311191",
+            "once": false
+        },
+        {
+            "path": "mods/Necronomicon-Fabric-1.6.0+1.20.1.jar",
+            "size": 37533,
+            "sha256": "8239b393bfc5a7fd3209713745c88e6da13859cf3e64a36d175c7dc5a8519e60",
             "once": false
         },
         {
@@ -33927,7 +33951,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "0f53192a394801aa8492fc93d80b9dea00aa78150915bdb720fe78e11e170a2a",
+            "sha256": "a25aab2c825fea6ec928a7482d5e456b456d48e6a66c2e7fa89bcfdb8819d42d",
             "once": true
         },
         {
@@ -33989,5 +34013,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "08/04/2026 12:50:33,89"
+    "generated": "08/04/2026 12:59:28,29"
 }
