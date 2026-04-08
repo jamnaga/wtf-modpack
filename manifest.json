@@ -6565,7 +6565,7 @@
             "once": false
         },
         {
-            "path": "mods/Steam_Rails-1.7.2+fabric-mc1.20.1.jar.disabled",
+            "path": "mods/Steam_Rails-1.7.2+fabric-mc1.20.1.jar",
             "size": 16863902,
             "sha256": "a1204d76be4771778411c5def98ff3bcbe9869f12698ed9ce6795e93e6b49afe",
             "once": false
@@ -6835,7 +6835,7 @@
             "once": false
         },
         {
-            "path": "mods/banksystem-fabric-1.4.1.jar.disabled",
+            "path": "mods/banksystem-fabric-1.4.1.jar",
             "size": 490835,
             "sha256": "a19a87610f3a99248bc134351f2e1f1967f379411ea021f5c08da34ee60bf16c",
             "once": false
@@ -6919,7 +6919,7 @@
             "once": false
         },
         {
-            "path": "mods/createcafe-1.3.1-fabric.jar.disabled",
+            "path": "mods/createcafe-1.3.1-fabric.jar",
             "size": 332254,
             "sha256": "10a485c513fede758d87c67acdd0dbff223db486eeda1bb42e2dc4c91fc10de7",
             "once": false
@@ -36389,5 +36389,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "08/04/2026 14:10:11,90"
+    "generated": "08/04/2026 14:12:03,61"
 }
