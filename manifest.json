@@ -7201,12 +7201,6 @@
             "once": false
         },
         {
-            "path": "mods/powergrid_leds-fabric-0.1.0.jar",
-            "size": 127037,
-            "sha256": "d61a3575636fb4c4395c95ec97c99e2da35328ea4b7ac252f672ee6b7ce57374",
-            "once": false
-        },
-        {
             "path": "mods/resourcefulconfig-fabric-1.20.1-2.1.3.jar",
             "size": 135078,
             "sha256": "f8fbad0b2ab07ccaffce53a9d835601b41ab013af8a501af4de56b3958d1182a",
@@ -33971,5 +33965,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "08/04/2026 11:29:12,52"
+    "generated": "08/04/2026 11:38:04,35"
 }
