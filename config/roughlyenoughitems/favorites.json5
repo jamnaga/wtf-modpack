@@ -1,5 +1,11 @@
 {
-	"favorites": [],
+	"favorites": [
+		"{data:{Count:1b,id:\"minecraft:spruce_button\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:spruce_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"ad_astra:green_industrial_lamp\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:bamboo_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"immersive_weathering:cracked_polished_blackstone_brick_wall\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+	],
 	"hiddenFavorites": [],
 	"displays": []
 }

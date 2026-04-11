@@ -31,7 +31,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.5
-renderDistance:32
+renderDistance:20
 simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:2
@@ -148,6 +148,8 @@ key_key.immersive_aircraft.multi_control_push:key.keyboard.w
 key_key.immersive_aircraft.multi_use:key.mouse.right
 key_key.immersive_aircraft.dismount:key.keyboard.r
 key_key.immersive_aircraft.boost:key.keyboard.b
+key_Place item:key.keyboard.v
+key_Rotate item:key.keyboard.left.alt
 key_gui.jsblock.keybinds.script_debug_source_previous:key.keyboard.left.bracket
 key_gui.jsblock.keybinds.script_debug_source_next:key.keyboard.right.bracket
 key_gui.jsblock.keybinds.script_debug_reload:key.keyboard.r
@@ -173,6 +175,13 @@ key_key.pointblack.attachments:key.keyboard.y
 key_key.pointblack.scope_switch:key.keyboard.v
 key_key.pointblack.settings:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
+key_powergrid.keyinfo.rotate_component:key.keyboard.r
+key_powergrid.keyinfo.place_trace:key.keyboard.t
+key_powergrid.keyinfo.delete_area:key.keyboard.d
+key_powergrid.keyinfo.pick_component:key.keyboard.s
+key_powergrid.keyinfo.switch_layer:key.keyboard.x
+key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
+key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.replaymod.playeroverview:key.keyboard.b
 key_key.replaymod.lighting:key.keyboard.z
 key_key.replaymod.quickmode:key.keyboard.q
@@ -191,6 +200,16 @@ key_key.replaymod.positionkeyframe:key.keyboard.i
 key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.o
 key_key.replaymod.bothkeyframes:key.keyboard.unknown
+key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt
+key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_3:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_4:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_5:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_6:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown
 key_treechop.key.toggle_chopping:key.keyboard.unknown
 key_treechop.key.toggle_felling:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
