@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "e63652356c01ce7f3fe9aa88abfc97905563fd3fe8cc437370bcf2aa10a064b6",
+            "sha256": "bcdc1caff6fc65d42672e07607811ffe7f57f5e6b3099772d8e52bca1e2e35b3",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "4e7287904c9ed8ea75249c85ba44b5d9bc6d38efef6267877e650e0ca491441a",
+            "sha256": "037cc4054626a1b688b76e39ec34e2fb0639685855b1885ada13a40a2b386468",
             "once": false
         },
         {
@@ -1821,7 +1821,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "361df7c5e2ae3236242c105dac31276bca1fe6c055a2353b2d8e1030fd5ae0c6",
+            "sha256": "5d3c36b62ac46e1768201415db4e79dbc014031879b3560f05d633a42c27c39d",
             "once": false
         },
         {
@@ -2103,7 +2103,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "e36d227f197358172698bd13172ff21fc93e748f21be31db86fdb8ebd29418f2",
+            "sha256": "4d4d5672285db7107a440c3f08356a0b2b59b6db1a69a0c88ea2339cdcde83a4",
             "once": false
         },
         {
@@ -2415,7 +2415,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "a93b019b297d02369ec32e5e7b582adee61acefb424d2094c3339dfc7fe5bacd",
+            "sha256": "681194b232fa71880ae1f6390cf7a2c32389f883fdf55e41f9dc228106aede2e",
             "once": false
         },
         {
@@ -2475,7 +2475,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "723d408e17ce87981aaf41d734bc72c66d0164f03be682db57ed3773656f28c6",
+            "sha256": "f7f3c04023a40b7c2f09fddcde3d0b93460c519db877e4df5a100fb79c1a7357",
             "once": false
         },
         {
@@ -2703,7 +2703,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "f99fce8efc7a6fe15325a492228506a395efc3911d19c52ea6669f3e99e609ec",
+            "sha256": "8f4b71a3bae0ba93c3985e9aeb581cfa65f24e9bde5cb24f7a4d5c524ae0c785",
             "once": false
         },
         {
@@ -3015,13 +3015,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "e39b29401e4661d7aeb6557e23d3f6ad44a7354dae62329ffdc16b415462ba7f",
+            "sha256": "09d41cd0f2a3392a0bb88e75d2a45181274dc47f0d4e9098234fa8a0395ea493",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "a7fbbcd47de9c45a1207cce26c4b9be67d34af45ff3930fe146da1285e69f2cc",
+            "sha256": "13270a097ab8d879b95d9437f01eacf386f8079aa7329a92d37613d25f108b51",
             "once": false
         },
         {
@@ -3104,8 +3104,8 @@
         },
         {
             "path": "config/sound_physics_remastered/allowed_sounds.properties",
-            "size": 82852,
-            "sha256": "86c5d93f324f2cd92d1eb80ff73f7f7e6f616c78156f4cce18eaede277f583d7",
+            "size": 83257,
+            "sha256": "a1908b47ccd476b04fa23bba2337d806dcb2ac5e945fb9f84d5d96276ffa8e88",
             "once": false
         },
         {
@@ -3280,6 +3280,12 @@
             "path": "config/tips.json",
             "size": 274,
             "sha256": "af85f2909fde8c0dbea201fb6fb4afc5070be875c24266b47887f33f03c19321",
+            "once": false
+        },
+        {
+            "path": "config/trackwork-client.toml",
+            "size": 120,
+            "sha256": "db51dda719a11b86104a6f4b6eda50fb633730c78b341070456f32cc8ff34b47",
             "once": false
         },
         {
@@ -7441,6 +7447,18 @@
             "once": false
         },
         {
+            "path": "mods/timecontrol-1.0.0+1.20.jar",
+            "size": 42280,
+            "sha256": "6780e88656e8f78c9808f581ac09ae6cc1a38be6c96d3b57aea801d58676f0e3",
+            "once": false
+        },
+        {
+            "path": "mods/trackwork-fabric-1.2.2+mc1.20.1.jar",
+            "size": 579673,
+            "sha256": "8362cce69bd43de17827c8034344bddb9bc45d0cdb80b1883223355bc48ff407",
+            "once": false
+        },
+        {
             "path": "mods/trinkets-3.7.2.jar",
             "size": 238532,
             "sha256": "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3",
@@ -7808,8 +7826,8 @@
         },
         {
             "path": "options.txt",
-            "size": 10473,
-            "sha256": "7571fe3d26deb8106dee9dc914b282b5646a0d6a76a01c43f179e6050672d009",
+            "size": 10770,
+            "sha256": "0ca89cafcb3c6849b141beeb3e377bd509d62aeedd1a208685f97496f0061a91",
             "once": false
         },
         {
@@ -36405,7 +36423,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "983ae6181043384eb4fb2e72ceff895febd71bdf0a7ee6d36858ddf1a7f04ae7",
+            "sha256": "5364f86e36a9dc8b245b29c1a86d9460964b5c59ad333b92fef7396697b73450",
             "once": true
         },
         {
@@ -36467,5 +36485,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "12/04/2026 14:19:24,46"
+    "generated": "12/04/2026 14:37:47,82"
 }
