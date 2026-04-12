@@ -11,6 +11,7 @@
   },
   "projectiles": {
     "snowball_3d": true,
+    "slimeball_3d": true,
     "fireball_3d": true,
     "ghast_fireball_trail": true,
     "dragon_fireball_trail": true,
