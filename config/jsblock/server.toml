@@ -1,0 +1,9 @@
+# Reveal additional debug logs to aid troubleshooting
+# default: false
+debugMode = false
+# Disable client request to fetch stops data. For debugging only
+# default: false
+disableScriptStopsFetching = false
+# Disable client request to fetch MTR data. For debugging only
+# default: false
+disableScriptDataFetching = false

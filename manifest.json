@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "be586e237d3dbd7df4d58522d4286a2dbd2dafe5d75d02763737fdd654b4c13c",
+            "sha256": "58d93f1296cb7e7673f5eff080403047f6833362ea19709d1bfdab75c70372ae",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "d9e7a2cfe35ab37100901c3e4fe25615ff3ac3a949d22d2d13748940d03f4c0a",
+            "sha256": "2b8a157256ac729778f3b148d2220deffc76aadbd76e5c45ba68a92ec2312288",
             "once": false
         },
         {
@@ -634,6 +634,12 @@
             "path": ".fabric/processedMods/flywheel-1.0.5+1.20.1.build.264-7068fa0b85876735.jar",
             "size": 877574,
             "sha256": "570020012468461a62f751e683741252c3f5fa6f24f309006eba352cdcf7ed5f",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/folk_sisby_kaleido-config-0.3.3+1.3.2-8bd9fb65851c1a1a.jar",
+            "size": 313805,
+            "sha256": "9ab7b0a5c391509518036524026e2ae66f11eb9f0d0afbf8b91280a75b423eb8",
             "once": false
         },
         {
@@ -1821,7 +1827,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "83c7a9e0c50ed0fe3a0f963987c2bc533b9f0d74e395d81c4da50f362aaec628",
+            "sha256": "1cee17b2b4493a3ff4064bc35344b617f218727c3c0b0b7b731d03cce9e89455",
             "once": false
         },
         {
@@ -2103,7 +2109,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "320d45e69eacbd7ba93fd3b52be1df660f2dc0b5ea926957813e415119c2ee5c",
+            "sha256": "d0d317968b478edb1dfd015da100dae81e00c217137efce54d2d036d90cbb663",
             "once": false
         },
         {
@@ -2415,7 +2421,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "e10b4a786c43098e3699f81d596ae876dea64d14bc13c7fb121da4645f44e108",
+            "sha256": "67589995afab6bc33033b812140fcb3466485b5ea77c561a4afe72121d7c2830",
             "once": false
         },
         {
@@ -2475,7 +2481,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "1163afe25c12f3b79ac1852f43294a12b348fac80d492a34be02bf7f47a5af6e",
+            "sha256": "81c69aa93bd20e88c2f44503d25bae7a52d76803ff9e744f890b2d1eebb2bda0",
             "once": false
         },
         {
@@ -2647,6 +2653,18 @@
             "once": false
         },
         {
+            "path": "config/jsblock/client.toml",
+            "size": 1716,
+            "sha256": "eafaacb456f407b4e84c5644de813b34e6babc428ff386f01e9e915ef3281694",
+            "once": false
+        },
+        {
+            "path": "config/jsblock/server.toml",
+            "size": 320,
+            "sha256": "2e7b037e9e5bad89024c8b1ed70b83d36bb293fa40a7b0b9a9e221cced03dcf3",
+            "once": false
+        },
+        {
             "path": "config/jsblock_client.json",
             "size": 128,
             "sha256": "a5b4a877a0a899d996e28c228b3115c84289aa0e4beaaac64575f39ea32c944a",
@@ -2703,7 +2721,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "b7d93276883dc643c23ddb4e9f9556a26638c188b89b0f0e6baf2e2738e0fd8d",
+            "sha256": "ec4792b4b572fa71b35f7026920f46d4c21636a05c581fa5a692677ba955bad0",
             "once": false
         },
         {
@@ -2996,8 +3014,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 7461,
-            "sha256": "d9fe168fdf730e193fec1d55b86160901bcc4dcdedce03924b2a8330a071b08a",
+            "size": 7391,
+            "sha256": "73eb3c6098c3c77a4830906f5d1cf842f929da54f40cde1fdc15cd98fcb2c6f7",
             "once": false
         },
         {
@@ -6547,9 +6565,9 @@
             "once": false
         },
         {
-            "path": "mods/JCM-fabric-2.1.2+1.20.1.jar",
-            "size": 24012063,
-            "sha256": "08fa1aa67c66c70415f9248f149008c83e360a2524cab9a15508ac9d06b56790",
+            "path": "mods/JCM-fabric-2.2.0-beta.1+1.20.1.jar",
+            "size": 24804224,
+            "sha256": "7b55d95dbbccfb5c0e4fb6bbe5fa770731eee63b844da1ff3e7baff61c3954bb",
             "once": false
         },
         {
@@ -6565,9 +6583,9 @@
             "once": false
         },
         {
-            "path": "mods/MTR-fabric-4.0.3+1.20.1.jar",
-            "size": 85407855,
-            "sha256": "b8bf18dc4ff204945744557dc280e2a1cd9a178c52a2ce6f570e10d0ff311191",
+            "path": "mods/MTR-fabric-4.0.4+1.20.1.jar",
+            "size": 85411895,
+            "sha256": "28d17b412a7a3bd76773b87d6c831050e2d6e3a2b191ef8559ee877c2e93de2b",
             "once": false
         },
         {
@@ -6697,12 +6715,6 @@
             "once": false
         },
         {
-            "path": "mods/[client]chat_heads-0.15.0-fabric-1.20.jar",
-            "size": 84380,
-            "sha256": "8a5737b9ca310b50361f969565e6893ad848194af72ef2ab1f5679e56a1e9ce3",
-            "once": false
-        },
-        {
             "path": "mods/[client]colorwheel-fabric-1.2.3+mc1.20.1.jar",
             "size": 380796,
             "sha256": "86ed860c23ab598e54146bd42429d02352cc83721bc07900b038025d85d60da5",
@@ -6817,12 +6829,6 @@
             "once": false
         },
         {
-            "path": "mods/[client]spawnanimations-v1.11.3-mc1.17-1.21.11-mod.jar",
-            "size": 223524,
-            "sha256": "792970a9bc1c57800bf695e9e21ddbe9b72b3dda09dbb1172763a04c89d6aa78",
-            "once": false
-        },
-        {
             "path": "mods/[server]sleepwarp-2.2.0_rc1+1.20.1.jar.disabled",
             "size": 142846,
             "sha256": "7ceda7be2d123f6b8145e9cf93a324a4447e72d818d7e85734ba4a45d0a91d24",
@@ -6871,9 +6877,9 @@
             "once": false
         },
         {
-            "path": "mods/artifacts-fabric-9.5.15.jar",
-            "size": 960085,
-            "sha256": "85740411120632af463d0f8537e651e6a08f59f9457f4e40f475b3b863950bab",
+            "path": "mods/artifacts-fabric-9.5.17.jar",
+            "size": 960096,
+            "sha256": "7a2ce37ac5a0a762546df8c0f974d3466056457d85c7af22cbef669640a71d66",
             "once": false
         },
         {
@@ -6937,6 +6943,12 @@
             "once": false
         },
         {
+            "path": "mods/chat_heads-0.15.1-fabric-1.20.jar",
+            "size": 84192,
+            "sha256": "7b05c44105caf3246c8cb9ad6c8fdc1b4edc068ac77754da02451abfd2f865cc",
+            "once": false
+        },
+        {
             "path": "mods/claimorous-0.9.2.jar.disabled",
             "size": 550288,
             "sha256": "76ab7376dbc4f45aab46f678f1be581df8baf0a77bbed612470a7e04b5195003",
@@ -6955,9 +6967,9 @@
             "once": false
         },
         {
-            "path": "mods/collective-1.20.1-8.13.jar",
-            "size": 665169,
-            "sha256": "80dd754b75c530768904e912ace11e0cf4deac7d1784b883dbeaead082469cd2",
+            "path": "mods/collective-1.20.1-8.19.jar",
+            "size": 662492,
+            "sha256": "6a94d10df72f0dc4abd28759bc23f117a09a1bc889dcc9463e09ffd43b16562f",
             "once": false
         },
         {
@@ -7027,9 +7039,9 @@
             "once": false
         },
         {
-            "path": "mods/easyauth-mc1.20-3.4.2.jar",
-            "size": 23204155,
-            "sha256": "d77b0d2da1a987a388da0e22fc50a4ec66b7fd0a75482088ea5a534be07a3eb9",
+            "path": "mods/easyauth-mc1.20-3.4.3.jar",
+            "size": 24288821,
+            "sha256": "957489eb94d87bb134e1b4f09fc2a318546c9eb502ec6115bd785b4bb79e4bb7",
             "once": false
         },
         {
@@ -7237,9 +7249,9 @@
             "once": false
         },
         {
-            "path": "mods/mcpitanlib-3.6.3-1.20.1-fabric.jar",
-            "size": 2616101,
-            "sha256": "087e090e5313857a3063e91b42f08fb76edaadb8e5cc61a2d426db29009da909",
+            "path": "mods/mcpitanlib-3.6.5-1.20.1-fabric.jar",
+            "size": 2645912,
+            "sha256": "18e84b9234f967589610b04f578533fe4fabd63cfe25e52c83dfbb9e451211b9",
             "once": false
         },
         {
@@ -7291,15 +7303,15 @@
             "once": false
         },
         {
-            "path": "mods/notenoughanimations-fabric-1.12.0-mc1.20.1.jar",
-            "size": 1927789,
-            "sha256": "224be30c7bd6c99ccd68f4d499825bd8b0d9d27d4a1075ef88194d16fb5b232c",
+            "path": "mods/notenoughanimations-fabric-1.12.1-mc1.20.1.jar",
+            "size": 1927816,
+            "sha256": "cd561a5b0bc2083ccab8f99f239e70f571d7f790ac90b516ca5998fff74a35f3",
             "once": false
         },
         {
-            "path": "mods/open-parties-and-claims-fabric-1.20.1-0.25.10.jar",
-            "size": 1382387,
-            "sha256": "592edc259b320de99ee84f36abedc02b8957ba55b19461d1be1697a82503bc41",
+            "path": "mods/open-parties-and-claims-fabric-1.20.1-0.26.1.jar",
+            "size": 1647941,
+            "sha256": "91c5d6f552c0cd0e87d164313a330b95563c7b22a6a009761e4f3b4df63e6252",
             "once": false
         },
         {
@@ -7351,6 +7363,12 @@
             "once": false
         },
         {
+            "path": "mods/qfapi-7.7.0_qsl-6.3.0_fapi-0.92.2_mc-1.20.1.jar",
+            "size": 2755789,
+            "sha256": "b22e1f45ebea7c70b3bd86c9b2a5306f272d8aab76704505300fa5135babe708",
+            "once": false
+        },
+        {
             "path": "mods/resourcefulconfig-fabric-1.20.1-2.1.3.jar",
             "size": 135078,
             "sha256": "f8fbad0b2ab07ccaffce53a9d835601b41ab013af8a501af4de56b3958d1182a",
@@ -7399,9 +7417,15 @@
             "once": false
         },
         {
-            "path": "mods/spawn-animations-compats-14.0.jar",
-            "size": 69198,
-            "sha256": "b44861d04bf8c1c04c2c7d3bad4845203a63f530c10a85c3642ef5c5dbf84fd4",
+            "path": "mods/spawn-animations-compats-15.0.jar",
+            "size": 77724,
+            "sha256": "ba25cedb6b93cdbb6f24b9a1c249d553f3b519bf364c6803a84a0dcd9f1a9058",
+            "once": false
+        },
+        {
+            "path": "mods/spawnanimations-v1.11.4-mc1.17-26.1.1-mod.jar",
+            "size": 226177,
+            "sha256": "a5c5ae86dddfb9871c0cbb40d70a4c36a949f61ea9f730019cf114414b9c88b4",
             "once": false
         },
         {
@@ -7483,9 +7507,9 @@
             "once": false
         },
         {
-            "path": "mods/waveycapes-fabric-1.9.0-mc1.20.1.jar",
-            "size": 1840159,
-            "sha256": "e8d02187cf252eebdd496dfa63dff07cf77fa22546408e2af1fa0965e84162d4",
+            "path": "mods/waveycapes-fabric-1.9.1-mc1.20.1.jar",
+            "size": 1840207,
+            "sha256": "c551b3931e8464deb48de1bb84af38d21e5a1c6eae9cb0ad68779e71dee93820",
             "once": false
         },
         {
@@ -7510,6 +7534,12 @@
             "path": "mods/xaeroworldmap-fabric-1.20.1-1.40.11.jar",
             "size": 1409403,
             "sha256": "b3f4cb305708175d6a1eab2fd7d72d10d399ba9dafd3fbfff8cea0f2b4b60f5f",
+            "once": false
+        },
+        {
+            "path": "mods/yawp-1.20.1-fabric-0.6.3-beta1.jar",
+            "size": 780098,
+            "sha256": "59c4b01ac6cbae855b39e1788bd88661d35036c927e28713243e0726bcaae656",
             "once": false
         },
         {
@@ -36423,7 +36453,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "28b31e2fbf92194af91f3832a0c89c67017019dce12a2cc2bc0e4e3e07b5513a",
+            "sha256": "d97adbb335860827fe7e192ef259cb2f80cd3361617a14c211ea5bfc2d5480fc",
             "once": true
         },
         {
@@ -36485,5 +36515,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "13/04/2026 11:26:03,18"
+    "generated": "13/04/2026 17:41:49,01"
 }

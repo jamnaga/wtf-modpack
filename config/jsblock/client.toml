@@ -1,0 +1,35 @@
+# Disable rendering for all JCM's Block Entity to workaround crashes.
+# Only disable if you know what you are doing! This is a common issue causing JCM blocks to appear non-functional.
+# default: false
+disableRendering = false
+# Disable rendering of MTR's rail
+# Used to avoid distraction when locating specific blocks beneath the rail, and for performance debugging.
+# default: false
+disableRailRendering = false
+# Do not show the vehicles you are currently riding.
+# Useful for cab-view video recording, where the appearance of the vehicle model may be an obstruction.
+# default: false
+hideRidingVehicle = false
+# Reveal additional debug logs to aid troubleshooting
+# default: false
+debugMode = false
+# Enable the (now disused) alternate text renderer, which first draws a string onto a texture and render a single quad out to improve performance.
+# This has been phased out due to instability and has not been tested since, use at your own risk!
+# default: false
+useAlternateTextRenderer = false
+
+# Config related to the scripting feature in JCM
+[scripting]
+	# If true, do not parse any scripts, effectively disabling the scripting feature.
+	# default: false
+	skipScriptParsing = false
+	# Enable script debug mode to troubleshoot script errors, quick reload and more.
+	# default: false
+	scriptDebugMode = false
+	# Disable the built-in java class restrictions, allowing scripts to freely use any java package
+	# NOTE: Disabled by default for security reasons, enable at your own risk!
+	# default: false
+	disableScriptRestrictions = false
+	# When using print() statement or the Console API in scripts, also output the script file & line the print statement is triggered at.
+	# default: false
+	showLogSource = false
