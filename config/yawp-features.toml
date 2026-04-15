@@ -1,0 +1,5 @@
+["YAWP feature config"]
+	#Enable player position tracker
+	player_tracker = false
+	#Enables automatic creation of Dimensional Regions for new levels
+	auto_create_new_level_data = true

@@ -155,6 +155,7 @@ key_Rotate item:key.keyboard.left.alt
 key_gui.jsblock.keybinds.script_debug_source_previous:key.keyboard.left.bracket
 key_gui.jsblock.keybinds.script_debug_source_next:key.keyboard.right.bracket
 key_gui.jsblock.keybinds.script_debug_reload:key.keyboard.r
+key_missions.keyinfo.missions_menu:key.keyboard.h
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.mtr.lift_menu:key.keyboard.z
