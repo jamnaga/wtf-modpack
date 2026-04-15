@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "3ed1ca869171db2d3e3861f86393e8caca46da5c184960af12a2b6775969d355",
+            "sha256": "ce1a935a21b3a7438122401aaf8f2e4b933c7fa920dc796520607401ee75f65e",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "c379b471bc6bcea86aebc0aa27d7c8c033a1376f01ed3af9219e33dc0cd35a33",
+            "sha256": "a1daf2a6a9a3f21ff2bf4f21a504cc460ee24d1224e3e7c00a3bebf7bb4f628d",
             "once": false
         },
         {
@@ -1857,7 +1857,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "4f88c6860f541b0ec5650965050a27a6bad110ef46ec8b5b1b70f8834dd46f32",
+            "sha256": "afd3cc5ec83bc2423178b51d6e2f7792e4f54cd9deb40f3b4c5db0cd04848871",
             "once": false
         },
         {
@@ -2139,7 +2139,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "74a3b2777d4a818bf08bc4a65dd6c18404ba4d5dfe219bc9a6af86b9ef8431e1",
+            "sha256": "611fb2054ce218b1db30326cb63048dcf3b4058d273720c7156353df69616cd7",
             "once": false
         },
         {
@@ -2457,7 +2457,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "826aa6e48cab3d6b92e72e6551d2848a1f71d6999b55cd6ecb48484436ccedb9",
+            "sha256": "c3879e169166ab7855c7a0255f87579a5fce16c511a66933fc57b101022ac9b8",
             "once": false
         },
         {
@@ -2517,7 +2517,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "64b13c192186fd4cf2d2712285a7939c02c729be39632b3d1e350e5860c7005c",
+            "sha256": "70b8841b761a02218aeb9897f147a3414efb95ae913d74d43c7cfaccba819a8c",
             "once": false
         },
         {
@@ -2757,7 +2757,7 @@
         {
             "path": "config/libraryferret_1.properties",
             "size": 191,
-            "sha256": "4603dba383319ba523f891de1bb314b677bb27b96c99bab5b8cfd247eac063d3",
+            "sha256": "8873c2c66950e40ff093acaa0ed35b30287cd58ee63e916fb02ed5818adaee9a",
             "once": false
         },
         {
@@ -2800,6 +2800,24 @@
             "path": "config/midnightlib.json",
             "size": 34,
             "sha256": "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387",
+            "once": false
+        },
+        {
+            "path": "config/missions/config.json",
+            "size": 180,
+            "sha256": "a07ba94f3dc294c9a0b54c4b377c157fb8ebbed9ce24897162037f4593222a38",
+            "once": false
+        },
+        {
+            "path": "config/missions/currency.json",
+            "size": 106,
+            "sha256": "3b873262327503c5ef861c32b45f77366f448b9eb1276841813ab85aa7ff4b24",
+            "once": false
+        },
+        {
+            "path": "config/missions/missions.json",
+            "size": 43473,
+            "sha256": "69145925a52110814f2c7172afec05f999a8370babdaff74217593443f87580e",
             "once": false
         },
         {
@@ -3062,8 +3080,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 7461,
-            "sha256": "d9fe168fdf730e193fec1d55b86160901bcc4dcdedce03924b2a8330a071b08a",
+            "size": 7391,
+            "sha256": "73eb3c6098c3c77a4830906f5d1cf842f929da54f40cde1fdc15cd98fcb2c6f7",
             "once": false
         },
         {
@@ -3170,8 +3188,8 @@
         },
         {
             "path": "config/sound_physics_remastered/allowed_sounds.properties",
-            "size": 83381,
-            "sha256": "35cd9d117cfdc5692444f1700f8c4f06d31ba0f9c9cdf645c5d2ecf9a309c7d7",
+            "size": 83413,
+            "sha256": "70a7be384c4b527ee1080d0843edbcf0621d7f72e434ff89e62ae36b50be49e7",
             "once": false
         },
         {
@@ -7330,6 +7348,12 @@
             "path": "mods/memoryleakfix-fabric-1.17+-1.1.5.jar",
             "size": 49334,
             "sha256": "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde",
+            "once": false
+        },
+        {
+            "path": "mods/missions-fabric-0.4.9.jar",
+            "size": 565717,
+            "sha256": "7da2ad7655a42412eee4993373ed568f4cdb733639aa4b6bd2c069979265f70a",
             "once": false
         },
         {
@@ -36513,7 +36537,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "098cdb5620e467fb228c99ec6652a7cdd73554a5e8ea5bbc8c082577460924c1",
+            "sha256": "3e40952f94884a7583b5d59cd84c24b3d5b036f8daa354f70eb0b088a842662f",
             "once": true
         },
         {
@@ -36575,5 +36599,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "15/04/2026 19:45:17,95"
+    "generated": "15/04/2026 19:59:19,91"
 }
