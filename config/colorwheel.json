@@ -1,5 +1,5 @@
 {
   "alertIncompatiblePack": true,
-  "alertBrokenPack": true,
+  "alertBrokenPack": false,
   "enableFallbackMode": false
 }
