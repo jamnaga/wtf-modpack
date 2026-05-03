@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "42b1fc6620fd7da76522f36164398eb1a5f5e0690d7a69039f9924e2dddc352c",
+            "sha256": "a741d659fdda8b29bf20e96db7bdf9451e9e414b36a041d85105c1030764eb12",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "e8a4cb783b882efa4509a346f934041ebf083d04986f402c8dba6f3a9d11ad7b",
+            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
             "once": false
         },
         {
@@ -1051,6 +1051,12 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/jankson-5.0.1+j1.2.2-4056c649130145d4.jar",
+            "size": 112272,
+            "sha256": "255f8ad3a62e316ad5ca4fea9887a54251cc94f69edf235791c2408999e24896",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/javax_annotation_javax_annotation-api-1.3.2-856ae9f37105b194.jar",
             "size": 27164,
             "sha256": "361743b4d02a3fd14c2cc9e6ff861c6ef5f86abc3f8bc3233d5aefd250f26ad2",
@@ -1102,6 +1108,18 @@
             "path": ".fabric/processedMods/lavender-md-owo-ui-0.1.1+1.20-d8a60c6c8c08f3e6.jar",
             "size": 28977,
             "sha256": "fbfcf01a72d341ff2b95810f7ccf8528d13b5dfc6641eb27d1883696a2983b9d",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/libgui-8.0.0+1.20-b459cc0edac6ea68.jar",
+            "size": 402930,
+            "sha256": "b1837d217459c51083cdb58ecc90e963a76973e32b50e413e978028edabd6a23",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/libninepatch-1.2.0-6c44eeb181ef6f47.jar",
+            "size": 17531,
+            "sha256": "185c8ebebc748194a9298a2e79e344b2cec7379c4bcb302374bb936815fe406f",
             "once": false
         },
         {
@@ -2277,7 +2295,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "369f1aa4676173454f791db5247fa7bd322964a64fb641dd84bdc9a8406f592d",
+            "sha256": "915835d57cfa0894ebcfcce4b64107480afab858310aaca3093679c71ee51c8a",
             "once": false
         },
         {
@@ -2559,7 +2577,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "34799a29ad1f88d91e36a4e77eff33066ec0e0574adbb06f0637fb0befb6c667",
+            "sha256": "06cfe0ff4c6bba96b4307c434bd14e3ef88a494eece65c597f10263b2a417b68",
             "once": false
         },
         {
@@ -2925,7 +2943,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "7cbf55b94750dd5253f1b06289b0f7cb060fc48133d6bec6810be3ade0f6c98b",
+            "sha256": "353a7c91edca9ae2dfd96a6a5cd9294119b1df07e654ffd6153051d38d52f420",
             "once": false
         },
         {
@@ -2985,7 +3003,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "111551308f276663ea5995646b05fb2472a80f4ca859a06a3b080dc59c314de4",
+            "sha256": "9b0df5537edf4e8f1093b17d4f491ffa54a19a7d6436fba8468cdda2118e8d1b",
             "once": false
         },
         {
@@ -3226,6 +3244,12 @@
             "path": "config/lambdynlights.toml",
             "size": 5564,
             "sha256": "2904e8979505cb4bccfe684e921071f454ea6daab886db81581c79eceabcec01",
+            "once": false
+        },
+        {
+            "path": "config/libgui.json5",
+            "size": 101,
+            "sha256": "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d",
             "once": false
         },
         {
@@ -3566,14 +3590,14 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8498,
-            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
+            "size": 8428,
+            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 7883,
-            "sha256": "17978f1c81065b66a48b98c2582a465fb0f04638df8d48c31291758c02f82b3c",
+            "size": 8009,
+            "sha256": "ba7ef3d5842d866906fb51fb22a869cea618ea4dc6b5a6445be44615cd8d4c68",
             "once": false
         },
         {
@@ -3585,13 +3609,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "448284bb4ec8e0a7b6646a3759f120834ae1b4a0e6ebfdd9aefc911f90010c79",
+            "sha256": "385ad18cdb6939bcf41c9f0ec8bcc3d386a587e9d009b7a41b3d4fc2b8e99a80",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "2588b040d71ac31dfe96a4e645e5ee9305ac0073b5209a1294e2437b93c61d56",
+            "sha256": "386835de81e4e3745fc50c2f707fbe9ba355e901b739edc4c352628739b23e5a",
             "once": false
         },
         {
@@ -3868,6 +3892,12 @@
             "path": "config/trackwork-server.toml",
             "size": 515,
             "sha256": "7e8fe53f4148f1b05376deb960a074390607e7b5d0f672fa3ffed4c2211aac9b",
+            "once": false
+        },
+        {
+            "path": "config/trafficcraft-common.toml",
+            "size": 1216,
+            "sha256": "54358d7cad724a5bf4cc5cc19702e6cb8f94e87d4a65bb4d8f8088b8e2910039",
             "once": false
         },
         {
@@ -7267,6 +7297,18 @@
             "once": false
         },
         {
+            "path": "mods/Saros-Road-Blocks-Fabric-1.20.1-5.0.jar.disabled",
+            "size": 1836338,
+            "sha256": "bdcf6534ed8e54971f87f173a8bd6d3b5e11a71763130606fbd11909edd89f06",
+            "once": false
+        },
+        {
+            "path": "mods/Saros-Road-Signs-Mod-1.20.1-Fabric-4.6.jar.disabled",
+            "size": 1807822,
+            "sha256": "b3872d2214a36ac38d75999157736b89cf98e8c3d65bbd544625a1c2489c9fd6",
+            "once": false
+        },
+        {
             "path": "mods/Steam_Rails-1.7.2+fabric-mc1.20.1.jar",
             "size": 16863902,
             "sha256": "a1204d76be4771778411c5def98ff3bcbe9869f12698ed9ce6795e93e6b49afe",
@@ -7414,6 +7456,12 @@
             "path": "mods/ad_astra-fabric-1.20.1-1.15.20.jar",
             "size": 7317556,
             "sha256": "a8e35d0c92e50b13fb9cd07217f55f580e64a14178f82fcdfea47109a1678246",
+            "once": false
+        },
+        {
+            "path": "mods/aftersans53228-fabric-road-1.0.2+1.20.1Release-hotfix2.jar",
+            "size": 1511141,
+            "sha256": "b83cc0d42fbd1a0af702b7683801e1fc18d1bf3bc5748c8aadfb208466e65b38",
             "once": false
         },
         {
@@ -7963,6 +8011,12 @@
             "once": false
         },
         {
+            "path": "mods/trafficcraft-fabric-1.20.1-1.2.0-beta.3.jar",
+            "size": 4758764,
+            "sha256": "66ba38ccb5ec41be0e62724f696ac0dd47d81cb18b8f4f41ff31e23928de1063",
+            "once": false
+        },
+        {
             "path": "mods/trinkets-3.7.2.jar",
             "size": 238532,
             "sha256": "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3",
@@ -8330,8 +8384,8 @@
         },
         {
             "path": "options.txt",
-            "size": 9277,
-            "sha256": "44cfef77620721306a6e8bf4cd1f3bcfe98d99e1891fe4477c79a15b31385169",
+            "size": 9331,
+            "sha256": "0bbe056c805f423831598be50eb5cd02bcf4cceb4c6843fb0da6e5a580d40c27",
             "once": true
         },
         {
@@ -36927,7 +36981,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "7ac17f6563a3dffc27da206bce877e2cf3be3174b4d06179d6ee53e8b10a88f2",
+            "sha256": "9213b0e373326ebdff4a1338142ef5132f7d7a45b59646bc0ffcb86e244c727a",
             "once": true
         },
         {
@@ -36989,5 +37043,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "04/05/2026 01:01:38,33"
+    "generated": "04/05/2026 01:53:38,07"
 }
