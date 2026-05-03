@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "d3983d98fbb5d255d507d8655017d17c96ba737f828b6284d41fffcf15fe2143",
+            "sha256": "eef02c93bdec7e1b8efe4274e30211a37ce2acf267177840a2d21532df299c89",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "4b7c9252aec15c70cd466d307c3e138b006fa8c9f4fe3f6c1d8c24971215980c",
+            "sha256": "fc85499a4670d769f657bcb9b44c4b5b56fd7f67c13bc7f7bd22d6784ccb6c4f",
             "once": false
         },
         {
@@ -2247,7 +2247,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "1eb6704e07cc5de6116fa30a6185a5b530d7a57283b2938f4a92f6342594fc92",
+            "sha256": "da27d972f3315afef14d156d41d78277bee955cee482105830f68938c158a852",
             "once": false
         },
         {
@@ -2529,7 +2529,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "6a8c9d08c519dc07c3b4a384f06b42f230b85c8d35a4b8e03b059f07fbf2201d",
+            "sha256": "4df8b8e0bf88d61495144c391feefecee9c608eecfe80ed8d1466da47f81c417",
             "once": false
         },
         {
@@ -2588,8 +2588,8 @@
         },
         {
             "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-            "size": 9835,
-            "sha256": "6f69bc8c9a60662ee34aefb0f7ae9b6ba0fc6044a160d186944b8266f59afabc",
+            "size": 21362,
+            "sha256": "f6e51f63699cde6e7e8e36171f50cfa3cca9407a58fb76ecdd87701354bdcad3",
             "once": false
         },
         {
@@ -2889,7 +2889,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "ccea4afa84d4aaba5389e46fe0fc083de6b58f3572086fbc9a64c852b5b131fe",
+            "sha256": "db246bbb3ade4ff2099e434b9bfce3e6c5e9afd7b446087b8e822e0651a652bc",
             "once": false
         },
         {
@@ -2949,7 +2949,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "11eb3bb9c46d9824ba69d5f14394fa97b0c59adb812246c3a7aea36e0a74d2ab",
+            "sha256": "2771c3839f59d6e4a82c9b007e75bfca6b31d99cb0640d4865f841b231ac3ca2",
             "once": false
         },
         {
@@ -4087,9 +4087,21 @@
             "once": false
         },
         {
+            "path": "fancymenu_data/buddy/buddy_leveling_NmQwYzE4YWUtOGIzMC00ZmRhLThkZGQtOWY5ZTA4NmI4MmRiLTE3Nzc4NDcwMTQ2MTE.json",
+            "size": 1619,
+            "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+            "once": false
+        },
+        {
             "path": "fancymenu_data/buddy/buddy_save.json",
             "size": 260,
             "sha256": "03b703897ad8b086310650621febdb0fc561ca01120dd84f98f815c503968c76",
+            "once": false
+        },
+        {
+            "path": "fancymenu_data/buddy/buddy_save_NmQwYzE4YWUtOGIzMC00ZmRhLThkZGQtOWY5ZTA4NmI4MmRiLTE3Nzc4NDcwMTQ2MTE.json",
+            "size": 380,
+            "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
             "once": false
         },
         {
@@ -36837,7 +36849,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "a11a06f52f0b3f0f30ef1d9cea613a4456400304c99df82748016c54cdc7c86e",
+            "sha256": "543efd7c10d669340458f8a3a47ae377d820b278be87a04e00b0ecbedf595638",
             "once": true
         },
         {
@@ -36899,5 +36911,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "04/05/2026 00:20:23,50"
+    "generated": "04/05/2026 00:27:45,64"
 }
