@@ -4,7 +4,7 @@
 		"hiddenFavorites": [],
 		"displayHistory": [],
 		"cheating": false,
-		"favoritesEnabled": true,
+		"favoritesEnabled": false,
 		"reduceMotion": false,
 		"keyBindings": {
 			"useNativeKeybinds": false,
@@ -219,7 +219,36 @@
 					"create:automatic_shaped",
 					"create:mechanical_crafting",
 					"create:sequenced_assembly",
-					"create:mystery_conversion"
+					"create:mystery_conversion",
+					"powergrid:circuit_design",
+					"powergrid:circuit_assembly",
+					"create:magnetizing",
+					"energizedpower:charger",
+					"energizedpower:crusher",
+					"energizedpower:pulverizer",
+					"energizedpower:advanced_pulverizer",
+					"energizedpower:sawmill",
+					"energizedpower:compressor",
+					"energizedpower:metal_press",
+					"energizedpower:assembling_machine",
+					"energizedpower:plant_growth_chamber",
+					"energizedpower:plant_growth_chamber_fertilizer",
+					"energizedpower:energizer",
+					"energizedpower:crystal_growth_chamber",
+					"energizedpower:press_mold_maker",
+					"energizedpower:alloy_furnace",
+					"energizedpower:stone_liquefier",
+					"energizedpower:stone_solidifier",
+					"energizedpower:filtration_plant",
+					"energizedpower:fluid_transposer",
+					"energizedpower:in_world",
+					"energizedpower:dispenser",
+					"ad_astra:compressing",
+					"ad_astra:alloying",
+					"ad_astra:oxygen_loading",
+					"ad_astra:fuel_refining",
+					"ad_astra:cryo_freezing",
+					"ad_astra:nasa_workbench"
 				],
 				"hiddenCategories": []
 			}
@@ -229,8 +258,7 @@
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}",
-				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
+				"{id:\"roughlyenoughitems:basic\",rule:{}}"
 			]
 		}
 	}

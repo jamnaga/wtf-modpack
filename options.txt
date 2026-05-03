@@ -12,7 +12,7 @@ discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
-showSubtitles:false
+showSubtitles:true
 directionalAudio:false
 touchscreen:false
 fullscreen:true
@@ -31,13 +31,13 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.5
-renderDistance:16
+renderDistance:12
 simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:2
 particles:0
 maxFps:260
-graphicsMode:0
+graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
@@ -136,7 +136,6 @@ key_key.carry.desc:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_create.keyinfo.rotate_menu:key.keyboard.unknown
-key_key.energizedpower.teleporter.use:key.keyboard.v
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_key.immersive_aircraft.multi_control_left:key.keyboard.a
@@ -150,26 +149,12 @@ key_key.immersive_aircraft.multi_control_push:key.keyboard.w
 key_key.immersive_aircraft.multi_use:key.mouse.right
 key_key.immersive_aircraft.dismount:key.keyboard.r
 key_key.immersive_aircraft.boost:key.keyboard.b
+key_key.immersive_machinery.horn:key.keyboard.h
 key_Place item:key.keyboard.v
 key_Rotate item:key.keyboard.left.alt
-key_gui.jsblock.keybinds.script_debug_source_previous:key.keyboard.left.bracket
-key_gui.jsblock.keybinds.script_debug_source_next:key.keyboard.right.bracket
-key_gui.jsblock.keybinds.script_debug_reload:key.keyboard.r
-key_missions.keyinfo.missions_menu:key.keyboard.h
+key_missions.keyinfo.missions_menu:key.keyboard.minus
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
-key_key.mtr.lift_menu:key.keyboard.z
-key_key.mtr.train_accelerate:key.keyboard.up
-key_key.mtr.train_brake:key.keyboard.down
-key_key.mtr.train_toggle_doors:key.keyboard.left
-key_key.mtr.debug_1_negative:key.keyboard.keypad.4
-key_key.mtr.debug_2_negative:key.keyboard.keypad.5
-key_key.mtr.debug_3_negative:key.keyboard.keypad.6
-key_key.mtr.debug_1_positive:key.keyboard.keypad.7
-key_key.mtr.debug_2_positive:key.keyboard.keypad.8
-key_key.mtr.debug_3_positive:key.keyboard.keypad.9
-key_key.mtr.debug_cycle_negative:key.keyboard.keypad.subtract
-key_key.mtr.debug_cycle_positive:key.keyboard.keypad.add
 key_key.niftycarts.action:key.keyboard.r
 key_key.niftycarts.slow:key.keyboard.z
 key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe
@@ -206,16 +191,6 @@ key_key.replaymod.positionkeyframe:key.keyboard.i
 key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.o
 key_key.replaymod.bothkeyframes:key.keyboard.unknown
-key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt
-key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown
-key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown
-key_keybindings.spell_engine.spell_hotbar_3:key.keyboard.unknown
-key_keybindings.spell_engine.spell_hotbar_4:key.keyboard.unknown
-key_keybindings.spell_engine.spell_hotbar_5:key.keyboard.unknown
-key_keybindings.spell_engine.spell_hotbar_6:key.keyboard.unknown
-key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown
-key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown
-key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown
 key_treechop.key.toggle_chopping:key.keyboard.unknown
 key_treechop.key.toggle_felling:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
@@ -256,7 +231,6 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
-key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
@@ -273,4 +247,4 @@ modelPart_left_sleeve:true
 modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
-modelPart_hat:true
+modelPart_hat:false
