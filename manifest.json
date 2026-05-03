@@ -6961,12 +6961,6 @@
             "once": false
         },
         {
-            "path": "mods/[client]iris-1.7.6+mc1.20.1.jar",
-            "size": 2726899,
-            "sha256": "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
-            "once": false
-        },
-        {
             "path": "mods/[client]justzoom_fabric_2.1.0_MC_1.20.1.jar",
             "size": 196623,
             "sha256": "feb1442828c93f37a62d1dff5a5284b9c9e6a86a051e67aaa871ea51dba1f813",
@@ -7360,6 +7354,12 @@
             "path": "mods/immersive_weathering-1.20.1-2.0.5-fabric.jar",
             "size": 2245587,
             "sha256": "03e3eda4de5920fae8eee24e273cbb027f2f79b69c3913e02bdd8d3ad1bb7dd8",
+            "once": false
+        },
+        {
+            "path": "mods/iris-1.7.6+mc1.20.1.jar",
+            "size": 2726899,
+            "sha256": "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
             "once": false
         },
         {
@@ -36677,5 +36677,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "04/05/2026 00:10:55,42"
+    "generated": "04/05/2026 00:13:27,97"
 }
