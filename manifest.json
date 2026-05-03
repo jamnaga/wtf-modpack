@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "eef02c93bdec7e1b8efe4274e30211a37ce2acf267177840a2d21532df299c89",
+            "sha256": "6422f3a8e29287509b359cab3bcd06be5d3db974ead0200faafc639a64d3bd03",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "fc85499a4670d769f657bcb9b44c4b5b56fd7f67c13bc7f7bd22d6784ccb6c4f",
+            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
             "once": false
         },
         {
@@ -2239,6 +2239,12 @@
             "once": false
         },
         {
+            "path": "config/dragonlib-common.toml",
+            "size": 2750,
+            "sha256": "07f8823ced232a44f5e4a73eb919cf2f1a38c86e2438dc36f4215dc8fe8969c7",
+            "once": false
+        },
+        {
             "path": "config/drippyloadingscreen/options.txt",
             "size": 2465,
             "sha256": "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5",
@@ -2247,7 +2253,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "da27d972f3315afef14d156d41d78277bee955cee482105830f68938c158a852",
+            "sha256": "31f9b0e99238ee131991523d617ac4e48b4557ac1d9164e2918fc24931d1705b",
             "once": false
         },
         {
@@ -2529,7 +2535,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "4df8b8e0bf88d61495144c391feefecee9c608eecfe80ed8d1466da47f81c417",
+            "sha256": "9f855354dc16639782f5cc92796f58ce32a861308ab75ae47d608927b65fa835",
             "once": false
         },
         {
@@ -2624,8 +2630,8 @@
         },
         {
             "path": "config/fancymenu/customization/title_screen_layout.txt",
-            "size": 37986,
-            "sha256": "625eb0a8f6cddf63f3e0c9e5a050950f610628f143d4b8a4a7df4a950e7bff7d",
+            "size": 58003,
+            "sha256": "bc4bdaf5666f2ec5357bd9c6d4c9d620a6c5e596a21b183c00716824b175a853",
             "once": false
         },
         {
@@ -2889,7 +2895,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "db246bbb3ade4ff2099e434b9bfce3e6c5e9afd7b446087b8e822e0651a652bc",
+            "sha256": "25ad9f5960ad20947af18947ed92868a90cbba877d4c04ffdd814401aa87c7fd",
             "once": false
         },
         {
@@ -2949,7 +2955,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "2771c3839f59d6e4a82c9b007e75bfca6b31d99cb0640d4865f841b231ac3ca2",
+            "sha256": "96b1b7113b123a608b685ff2048241bcc4e1340c71cdf4c20ff51a963fa125c4",
             "once": false
         },
         {
@@ -3391,6 +3397,18 @@
             "once": false
         },
         {
+            "path": "config/pantographsandwires-client.toml",
+            "size": 186,
+            "sha256": "4bdeb52fa2672713b70bdac23c6ee66e6b54272551464b5a4567829b8cfdf87c",
+            "once": false
+        },
+        {
+            "path": "config/pantographsandwires-common.toml",
+            "size": 1710,
+            "sha256": "e50da2c7f2ea12769b4190cdb96034ff0f8938f116f7f81b0f1e2205b917e837",
+            "once": false
+        },
+        {
             "path": "config/pfm.json",
             "size": 408,
             "sha256": "c9a0306ff85ac3518a3ecd8694d1bae242cff042df367aa8443f5aa5cd052375",
@@ -3537,13 +3555,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "2769a3b92fcaca715c159b4e2eaaae20e5bd4156d92c70e0648ac60a78118b04",
+            "sha256": "0494703c7501b62b887808fc96ab7ed5e3d2c49dfcdd716cd3c30c5ab0d73d3c",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "a6b82a9c7b658ebd4606224c13b122cb86f90df50f517cb77f0764ffc6b981f5",
+            "sha256": "5fee14e00e10dd434c121b9f4a4a52a9fcffa9a1cdaaa3a09848ec5777559e9d",
             "once": false
         },
         {
@@ -4093,6 +4111,12 @@
             "once": false
         },
         {
+            "path": "fancymenu_data/buddy/buddy_leveling_ZjYxOTIwMjMtODFkZC00ZTE3LThkOWEtOTAxYWQzOGRmMjUxLTE3Nzc4NDc4NzY2MTU.json",
+            "size": 1619,
+            "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+            "once": false
+        },
+        {
             "path": "fancymenu_data/buddy/buddy_save.json",
             "size": 260,
             "sha256": "03b703897ad8b086310650621febdb0fc561ca01120dd84f98f815c503968c76",
@@ -4100,6 +4124,12 @@
         },
         {
             "path": "fancymenu_data/buddy/buddy_save_NmQwYzE4YWUtOGIzMC00ZmRhLThkZGQtOWY5ZTA4NmI4MmRiLTE3Nzc4NDcwMTQ2MTE.json",
+            "size": 380,
+            "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
+            "once": false
+        },
+        {
+            "path": "fancymenu_data/buddy/buddy_save_ZjYxOTIwMjMtODFkZC00ZTE3LThkOWEtOTAxYWQzOGRmMjUxLTE3Nzc4NDc4NzY2MTU.json",
             "size": 380,
             "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
             "once": false
@@ -7495,6 +7525,12 @@
             "once": false
         },
         {
+            "path": "mods/dragonlib-fabric-1.20.1-beta-3.0.26.jar",
+            "size": 2817404,
+            "sha256": "4b2fefe00191512c94ce5f0c23531ed1fc6efd555b5f81c95372b9463e965d66",
+            "once": false
+        },
+        {
             "path": "mods/drippyloadingscreen_fabric_3.1.2_MC_1.20.1.jar",
             "size": 283080,
             "sha256": "edde8620cc92ca4ff8c491f5806401062af5ae81c6339ab2ee15665453f41c1b",
@@ -7774,6 +7810,12 @@
             "path": "mods/paladin-furniture-mod-1.4.4-fabric-mc1.20.1.jar",
             "size": 5790131,
             "sha256": "16f52cb12ee8a25813e5b7be6d9cb12b9333172110c3b51043390a83a59f3481",
+            "once": false
+        },
+        {
+            "path": "mods/pantographsandwires-fabric-1.20.1-beta-0.2.1-C6.jar",
+            "size": 5144960,
+            "sha256": "e6ddb386a76eff1a01c12d26b633d87a443a4510059de63724791fca33e39a8c",
             "once": false
         },
         {
@@ -36849,7 +36891,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt",
             "size": 207,
-            "sha256": "543efd7c10d669340458f8a3a47ae377d820b278be87a04e00b0ecbedf595638",
+            "sha256": "c5946fabd701b9e13dd41f51fdca621ef28d44805f0740ed2b7efd6ab43ab591",
             "once": true
         },
         {
@@ -36911,5 +36953,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "04/05/2026 00:27:45,64"
+    "generated": "04/05/2026 00:39:53,90"
 }
