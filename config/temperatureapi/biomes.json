@@ -1,0 +1,17 @@
+[
+  {
+    "biome": "biome.minecraft.plains",
+    "temperature": 22.0,
+    "humidity": 40
+  },
+  {
+    "biome": "biome.minecraft.desert",
+    "temperature": 38.0,
+    "humidity": 5
+  },
+  {
+    "biome": "biome.minecraft.snowy_plains",
+    "temperature": -5.0,
+    "humidity": 60
+  }
+]

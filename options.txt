@@ -133,6 +133,8 @@ key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
 key_key.beansbackpacks.action:key.keyboard.unknown
 key_key.beansbackpacks.inventory:key.keyboard.unknown
+key_key.bodyhealthsystem.give_up:key.keyboard.g
+key_key.bodyhealthsystem.open_health:key.keyboard.f
 key_key.carry.desc:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
@@ -242,7 +244,7 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
-modelPart_cape:true
+modelPart_cape:false
 modelPart_jacket:true
 modelPart_left_sleeve:true
 modelPart_right_sleeve:true
