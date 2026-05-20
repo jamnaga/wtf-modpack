@@ -7903,12 +7903,6 @@
             "once": false
         },
         {
-            "path": "mods/bodyhealthsystem-0.7.0.jar",
-            "size": 376898,
-            "sha256": "dfaa6aefe0e4a7bb49008d2ff68f08e10ea6eb8b8b3247938c7696fbc920245c",
-            "once": false
-        },
-        {
             "path": "mods/botarium-fabric-1.20.1-2.3.4.jar",
             "size": 188388,
             "sha256": "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324",
@@ -7963,9 +7957,9 @@
             "once": false
         },
         {
-            "path": "mods/colorwheel-fabric-1.2.6+mc1.20.1.jar",
-            "size": 387010,
-            "sha256": "327db05f9e1750df61cbab03b93a27e4594cc7ab687f722c71e81ac9bf5bf0e0",
+            "path": "mods/colorwheel-fabric-1.2.7+mc1.20.1.jar",
+            "size": 391445,
+            "sha256": "40148e748dfcadb99809bc55221d43fdc2108919bb33748a8b0afdbedba2ff63",
             "once": false
         },
         {
@@ -37457,5 +37451,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "19/05/2026 03:04:55,81"
+    "generated": "20/05/2026 10:01:51,23"
 }
