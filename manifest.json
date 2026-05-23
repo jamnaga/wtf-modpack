@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "7b7d1d00132dac911514cc57fcb37f9b09e2c98b85f778816b864de18b858e02",
+            "sha256": "2571d3c2f5252d5788e8df8ca91eeee481501068b31e278fe031933864983a04",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "57c39d5d5f212af4032ffe76a5c19a35897a65a7e6915b8f6d0d6355b92992d2",
+            "sha256": "5e409c6e19f9a444998de529c611fc79e39846cefce9888b1e21a6526e3adb55",
             "once": false
         },
         {
@@ -2661,7 +2661,13 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "a893279e80b977b26c60d86ff96498216bdc5212f490f06c8c815170bb3f0e6b",
+            "sha256": "eeee7e141b547c0dded865f5c38517a2e9bf80304348a6682a512f6145820970",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/dialog_options.cfg",
+            "size": 335,
+            "sha256": "1a0fa2819dea228847a178502d877d75dcb6df26277a0630791eac98076d7a33",
             "once": false
         },
         {
@@ -2949,7 +2955,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "d200fb890802effe60477a7f1731d5f74e2f756c5a846913a6e34a7eeb085325",
+            "sha256": "ddee328b5c4a42258ef369db489b55d1617706b8855957c4a77fd37e859a9533",
             "once": false
         },
         {
@@ -3321,7 +3327,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "ad0f163f3ee84d010c766f860b0cde9cbd96a43096f8c1776e9eb4c38050d08c",
+            "sha256": "cf8b7bcd4bc9b9a9ab511fe91b80daaeebc4ab8202451aaeba84c7e60b2fe0c8",
             "once": false
         },
         {
@@ -3381,7 +3387,7 @@
         {
             "path": "config/iris.properties",
             "size": 276,
-            "sha256": "3fd19270c69a957d7e5d965616044b836a31341957765a7f98e21c0c691880c6",
+            "sha256": "bcd41ebce73fc443e14aa75f9cb75fefbb8ad72c3ed245b8e9ce09b4ff2d3dec",
             "once": false
         },
         {
@@ -3974,8 +3980,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8498,
-            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
+            "size": 8428,
+            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
             "once": false
         },
         {
@@ -7639,9 +7645,9 @@
             "once": false
         },
         {
-            "path": "mods/BetterAdvancements-Fabric-1.20.1-0.4.2.59.jar",
-            "size": 97700,
-            "sha256": "2fb09bd57feaa1d9f239e495006cda86a8521f7a5d646b4aa127ca19c646e400",
+            "path": "mods/BetterAdvancements-Fabric-1.20.1-0.4.2.60.jar",
+            "size": 97692,
+            "sha256": "689d4be72b5d39cc92dd6eff01c58248ec785c557a9279f1acc3d92187375279",
             "once": false
         },
         {
@@ -7663,9 +7669,9 @@
             "once": false
         },
         {
-            "path": "mods/CreativeCore_FABRIC_v2.12.36_mc1.20.1.jar",
-            "size": 1197162,
-            "sha256": "298430abe7b895363df6121d9a9e9ba35f38946747f0fbbc078a80b73a4c686f",
+            "path": "mods/CreativeCore_FABRIC_v2.12.38_mc1.20.1.jar",
+            "size": 1197198,
+            "sha256": "45c86c948fae7c253011f12a25bc76c30cd821b86f36ae00221dd9b83b5e3f17",
             "once": false
         },
         {
@@ -8113,21 +8119,21 @@
             "once": false
         },
         {
-            "path": "mods/easy_npc-fabric-1.20.1-6.15.0.jar",
-            "size": 2026053,
-            "sha256": "01f420c04a5e716e808ffe51e82df321f06d3cea3b22c30ffb726881772ff70c",
+            "path": "mods/easy_npc-fabric-1.20.1-6.16.0.jar",
+            "size": 2030270,
+            "sha256": "e1af56f5580850fcb7ad6ed06f75dac82b4d863dacb68ec13478a51e18977330",
             "once": false
         },
         {
-            "path": "mods/easy_npc_bundle-fabric-1.20.1-6.15.0.jar",
+            "path": "mods/easy_npc_bundle-fabric-1.20.1-6.16.0.jar",
             "size": 25260,
-            "sha256": "705192cd3a0142c710b25996ff9a29eaaab7153bbae398ad2cc1003298ad33ae",
+            "sha256": "7b059521d16d3f7a734b6c449d8124a5eb0322c0b70de82339116c32ba79c8fc",
             "once": false
         },
         {
-            "path": "mods/easy_npc_config_ui-fabric-1.20.1-6.15.0.jar",
-            "size": 817822,
-            "sha256": "251dc5b649664e04abdc07db3acc1eb222544aa3a58937dc35daca83d339b2e7",
+            "path": "mods/easy_npc_config_ui-fabric-1.20.1-6.16.0.jar",
+            "size": 827517,
+            "sha256": "afd43161d400dd185f14f6e947da8da0435fb3792b03798af002886e5fb04ee0",
             "once": false
         },
         {
@@ -8257,9 +8263,9 @@
             "once": false
         },
         {
-            "path": "mods/justenoughbreeding-fabric-1.20.1-3.0.0.jar",
-            "size": 261540,
-            "sha256": "b6a39e5df1bb1e4abc6d18d54565ae1cc0d195f7f7a23c91230acc3b50c5d456",
+            "path": "mods/justenoughbreeding-fabric-1.20.1-3.0.1.jar",
+            "size": 261259,
+            "sha256": "9f6dd2bf0fae95db5215e69b981d51446b4c234d24651490942e2a4ed10f058a",
             "once": false
         },
         {
@@ -8299,9 +8305,9 @@
             "once": false
         },
         {
-            "path": "mods/mcpitanlib-3.6.8-1.20.1-fabric.jar",
-            "size": 2700309,
-            "sha256": "f01660a2fabeb9ede59346779a9cbf81f75498f0ce4b587534b9df29ae0e985b",
+            "path": "mods/mcpitanlib-3.7.1-1.20.1-fabric.jar",
+            "size": 2731555,
+            "sha256": "9dca72efb379110d87135930149ae7c700d10ffc2a23bec9ea8fe4f655595d50",
             "once": false
         },
         {
@@ -8335,9 +8341,9 @@
             "once": false
         },
         {
-            "path": "mods/moonlight-1.20-2.16.31-fabric.jar",
-            "size": 1361296,
-            "sha256": "5caeeb1ac250999f442591f320775a8cc649c1e22e76bdcb2a326483a6a529cc",
+            "path": "mods/moonlight-1.20-2.16.32-fabric.jar",
+            "size": 1364815,
+            "sha256": "6e469342247b0fb4839a77a9a8ed0163cb3e62efae1a2bb336c884d8e92ea507",
             "once": false
         },
         {
@@ -37489,9 +37495,9 @@
             "once": true
         },
         {
-            "path": "shaderpacks/ComplementaryUnbound_r5.8.zip",
-            "size": 544616,
-            "sha256": "9c082960d858cc40b23b52563439b9790250dea9a7fb9a4ac00d2288aa1dbc2c",
+            "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+            "size": 546928,
+            "sha256": "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965",
             "once": false
         },
         {
@@ -37553,5 +37559,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "23/05/2026 20:56:02,92"
+    "generated": "23/05/2026 20:58:59,71"
 }
