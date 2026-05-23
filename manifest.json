@@ -3,7 +3,7 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "4058ced5f1004fb9c0c864cbd8718f3a62b83c44260a54678e6d7f1a3f5998b7",
+            "sha256": "7b7d1d00132dac911514cc57fcb37f9b09e2c98b85f778816b864de18b858e02",
             "once": false
         },
         {
@@ -2661,7 +2661,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "1f3515457836f15e06c8d35c13832b0016c3d77e14c48d81c48f770fbd64b6c1",
+            "sha256": "a893279e80b977b26c60d86ff96498216bdc5212f490f06c8c815170bb3f0e6b",
             "once": false
         },
         {
@@ -2949,7 +2949,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "7be4a1f8197e824e0d5d3ba535527056ceae790e1b93da7d99b44124088c2e4c",
+            "sha256": "d200fb890802effe60477a7f1731d5f74e2f756c5a846913a6e34a7eeb085325",
             "once": false
         },
         {
@@ -2990,8 +2990,8 @@
         },
         {
             "path": "config/fancymenu/custom_gui_screens.txt",
-            "size": 826,
-            "sha256": "5682f101289acec2a236be438cb691f4fd081348cd9436dac2e2c06e5daee5e5",
+            "size": 825,
+            "sha256": "f954a41340a34172c354203218254fcf4f93137f5e65018210d7bf03c6c5b686",
             "once": false
         },
         {
@@ -3021,7 +3021,7 @@
         {
             "path": "config/fancymenu/customization/pause_screen_layout.txt",
             "size": 42891,
-            "sha256": "bb0dccae6086b3b62eef7c5a7bb5df461ab75fe538baf79296118768bfa5ffce",
+            "sha256": "d8e5477637331179c8e51680ca4dce055ae2dfb606df32fad87887e1a7b4febf",
             "once": false
         },
         {
@@ -3050,8 +3050,8 @@
         },
         {
             "path": "config/fancymenu/customization/wiki_layout.txt",
-            "size": 22899,
-            "sha256": "5e74cdfbada8e282839a0fc18b1e5c5e2042c27bddcf984c39ea0fde547ae991",
+            "size": 20299,
+            "sha256": "a53d3616a7c7760875be52a105facc17d217d589db79dba5866b9fb1cf3bfa19",
             "once": false
         },
         {
@@ -3321,7 +3321,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "282df901322ae1c96cc799057008c1b3a3ede5814ac06ff0abcf560f7b23cc41",
+            "sha256": "ad0f163f3ee84d010c766f860b0cde9cbd96a43096f8c1776e9eb4c38050d08c",
             "once": false
         },
         {
@@ -3381,7 +3381,7 @@
         {
             "path": "config/iris.properties",
             "size": 276,
-            "sha256": "66fda475515eb647e052928c4c44fdf9dd72c8c4e96240c052f06da94ce861de",
+            "sha256": "3fd19270c69a957d7e5d965616044b836a31341957765a7f98e21c0c691880c6",
             "once": false
         },
         {
@@ -3974,8 +3974,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8428,
-            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
+            "size": 8498,
+            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
             "once": false
         },
         {
@@ -3993,13 +3993,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "3092720b0c99d2e0147de77e6ca47e30b8d7937bdc1dd4ad5902c1dc615a0b5a",
+            "sha256": "175b1dbc4152438a2756de05da4dbb5033e39e9cb4104651319d4cd928d6280e",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "13b800e532420839c8048c1999bf5e800c11783ae61439c71f6cb7fabc5cae42",
+            "sha256": "5a633ed5433e27024a0a3a8d6b48bebbe2122ae01991ec5cd861cf51b941d483",
             "once": false
         },
         {
@@ -4411,9 +4411,15 @@
             "once": false
         },
         {
+            "path": "config/voicechat/username-cache.json",
+            "size": 2,
+            "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+            "once": false
+        },
+        {
             "path": "config/voicechat/voicechat-client.properties",
-            "size": 4958,
-            "sha256": "d7d75b13d7ecc6d742e34fed58d3d84bf0814eb3fac64b2d8d4f07a2ceea4c04",
+            "size": 4977,
+            "sha256": "61204b30c3567153b020059c70fa496846728c15a5433ccb4ca642272acc0a26",
             "once": false
         },
         {
@@ -4635,7 +4641,7 @@
         {
             "path": "fancymenu_data/buddy/buddy_save_MzBiODY3ZDEtMGE4MS00NWYzLWFhNDItYzU3NmUyZmYyOTdkLTE3Nzk1NDE4NjgwODY.json",
             "size": 380,
-            "sha256": "f5d9349a4e4148bc31df0d54b9989a3bdd7525d005b3a4a5b7da1f74f4991987",
+            "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
             "once": false
         },
         {
@@ -4653,7 +4659,7 @@
         {
             "path": "fancymenu_data/buddy/buddy_save_ZGYwMjg5ZGYtMzUxNC00ODQ5LTk2YmUtZWUzNzVjYmQ5YzM0LTE3NzkxNDk2NDk0OTk.json",
             "size": 380,
-            "sha256": "dd0272aaad57ac0191f0f07ed3a7061d2c929879477cdf1c3ca53bda84f1c98e",
+            "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
             "once": false
         },
         {
@@ -4670,8 +4676,8 @@
         },
         {
             "path": "fancymenu_data/last_world.fmdata",
-            "size": 172,
-            "sha256": "8e2f6b35645129112c65f5eea4b6b64087f1b027a2dfac2a8cbda4363ef48cd7",
+            "size": 93,
+            "sha256": "ae54f8d6c0c8d7cf8cb472660f6e5acaaa9e77d1cf24354d57ed0ca606d91bed",
             "once": false
         },
         {
@@ -37547,5 +37553,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "23/05/2026 20:18:05,96"
+    "generated": "23/05/2026 20:56:02,92"
 }

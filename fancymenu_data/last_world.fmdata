@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = /Users/stefano.deblasi/Library/Application Support/ModrinthApp/profiles/GDCModpack 1.0.0/saves/Nuovo mondo
+  is_server = true
+  world = play.gangdrogacity.xyz:25565
 }
 
