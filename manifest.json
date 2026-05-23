@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "5adbd1ac3fe2beccc4cf2c00a8a99e782ff926a3939784ce5a646c19f540ea97",
+            "sha256": "4058ced5f1004fb9c0c864cbd8718f3a62b83c44260a54678e6d7f1a3f5998b7",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
+            "sha256": "57c39d5d5f212af4032ffe76a5c19a35897a65a7e6915b8f6d0d6355b92992d2",
             "once": false
         },
         {
@@ -2287,6 +2287,12 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/voicechat_api-2.6.13-99f067a213dea88d.jar",
+            "size": 2460,
+            "sha256": "8e5251d444067f0ef1c10f66825ac817af90e7f66f32221c227ea7fe0807d492",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/xaerolib-1.1.0-6993aed19577392e.jar",
             "size": 555059,
             "sha256": "75c3a7c58cd790de675cc06bfe52d198d2184a4b512cd03fe43137118f51211a",
@@ -2618,8 +2624,8 @@
         },
         {
             "path": "config/cubes-without-borders.json",
-            "size": 208,
-            "sha256": "1d285f5e6665666ace5fd570a246e836065991f34051b04be18ba84ae31bf1ef",
+            "size": 209,
+            "sha256": "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d",
             "once": false
         },
         {
@@ -2655,7 +2661,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "d11e3cb5e28b269f00f6ed5aea545464e9fe2fd9fd6a685016d5322eae3177e5",
+            "sha256": "1f3515457836f15e06c8d35c13832b0016c3d77e14c48d81c48f770fbd64b6c1",
             "once": false
         },
         {
@@ -2943,7 +2949,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "fed205d9c78e31e63f535ad305b64f4bc8939f04990b75955ecd58e502f71fbf",
+            "sha256": "7be4a1f8197e824e0d5d3ba535527056ceae790e1b93da7d99b44124088c2e4c",
             "once": false
         },
         {
@@ -3315,7 +3321,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "13ee44f46ebeb1199eaec4a1e101bb395a2d4cc9f55011c2b57100de56743d4e",
+            "sha256": "282df901322ae1c96cc799057008c1b3a3ede5814ac06ff0abcf560f7b23cc41",
             "once": false
         },
         {
@@ -3375,7 +3381,7 @@
         {
             "path": "config/iris.properties",
             "size": 276,
-            "sha256": "220845b761413491e624d13956cb926bd396df237da357d2e4094500875b6751",
+            "sha256": "66fda475515eb647e052928c4c44fdf9dd72c8c4e96240c052f06da94ce861de",
             "once": false
         },
         {
@@ -4384,6 +4390,36 @@
             "path": "config/vmp.properties",
             "size": 492,
             "sha256": "86039b6d07ba2ee9818909b766d51517d00ae48887a840c1893934d76547e0de",
+            "once": false
+        },
+        {
+            "path": "config/voicechat/category-volumes.properties",
+            "size": 44,
+            "sha256": "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009",
+            "once": false
+        },
+        {
+            "path": "config/voicechat/player-volumes.properties",
+            "size": 42,
+            "sha256": "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474",
+            "once": false
+        },
+        {
+            "path": "config/voicechat/translations.properties",
+            "size": 1168,
+            "sha256": "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e",
+            "once": false
+        },
+        {
+            "path": "config/voicechat/voicechat-client.properties",
+            "size": 4958,
+            "sha256": "d7d75b13d7ecc6d742e34fed58d3d84bf0814eb3fac64b2d8d4f07a2ceea4c04",
+            "once": false
+        },
+        {
+            "path": "config/voicechat/voicechat-server.properties",
+            "size": 2782,
+            "sha256": "3e50185309ef38267e6bd32c2d824515197a131a30e3b5f84e8b6d99015ee687",
             "once": false
         },
         {
@@ -8491,6 +8527,12 @@
             "once": false
         },
         {
+            "path": "mods/voicechat-fabric-1.20.1-2.6.17.jar",
+            "size": 5262944,
+            "sha256": "659a85a7835bcec529a188d5bb0416cfc452a37419692cab43a5c13cb845620f",
+            "once": false
+        },
+        {
             "path": "mods/watut-fabric-1.20.1-1.2.3.jar",
             "size": 789018,
             "sha256": "1f3da9141ca583b1bcc706e9826aa79d788b2b0c59202508c596526dc1016e67",
@@ -8846,8 +8888,8 @@
         },
         {
             "path": "options.txt",
-            "size": 9329,
-            "sha256": "3c87044b2bdf71096fad8a7b8bf2202f707218d5ed2cb1ae0b13c0af4d82f7dc",
+            "size": 9758,
+            "sha256": "1919edbfec4d80ed6096ccf519b9a4b6bf00a7cc7326d64060b28ff19f693559",
             "once": true
         },
         {
@@ -37505,5 +37547,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "23/05/2026 15:29:47,28"
+    "generated": "23/05/2026 20:18:05,96"
 }
