@@ -34,7 +34,7 @@ gamma:0.5
 renderDistance:8
 simulationDistance:10
 entityDistanceScaling:1.0
-guiScale:4
+guiScale:2
 particles:0
 maxFps:260
 graphicsMode:1
@@ -196,6 +196,16 @@ key_treechop.key.toggle_chopping:key.keyboard.unknown
 key_treechop.key.toggle_felling:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
 key_treechop.key.open_settings_overlay:key.keyboard.n
+key_key.push_to_talk:key.keyboard.unknown
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.m
+key_key.disable_voice_chat:key.keyboard.n
+key_key.hide_icons:key.keyboard.h
+key_key.voice_chat:key.keyboard.v
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.g
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_key.vs_clockwork.aeronaut_goggles_toggle:key.keyboard.g
 key_key.vs_clockwork.debug_lightning_toggle:key.keyboard.l
 key_gui.xaero_minimap_settings:key.keyboard.unknown
