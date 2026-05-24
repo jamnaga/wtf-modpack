@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "2571d3c2f5252d5788e8df8ca91eeee481501068b31e278fe031933864983a04",
+            "sha256": "75d568dea07b60f2fbe7553b0fddbc281fb0e91bea7bd97171174405e203fcb4",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "5e409c6e19f9a444998de529c611fc79e39846cefce9888b1e21a6526e3adb55",
+            "sha256": "b76c8314f735c4c1d0509e614cfc2a4da23669992afcff09958a0ef157e65033",
             "once": false
         },
         {
@@ -2661,7 +2661,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "eeee7e141b547c0dded865f5c38517a2e9bf80304348a6682a512f6145820970",
+            "sha256": "2837b4cc219ced7a03b43da13a96bacd20bd63af1de9cf5902947cb32ac4defd",
             "once": false
         },
         {
@@ -2955,7 +2955,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "ddee328b5c4a42258ef369db489b55d1617706b8855957c4a77fd37e859a9533",
+            "sha256": "3d1a97cfa78e906c00c12e046474840cbaad05a492591437d6ef17e1bea4803a",
             "once": false
         },
         {
@@ -3327,7 +3327,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "cf8b7bcd4bc9b9a9ab511fe91b80daaeebc4ab8202451aaeba84c7e60b2fe0c8",
+            "sha256": "cc5bf9e583c0a7c19e911cf299271cc064474e352b88b9ae3cf362628371a18e",
             "once": false
         },
         {
@@ -3386,8 +3386,8 @@
         },
         {
             "path": "config/iris.properties",
-            "size": 276,
-            "sha256": "bcd41ebce73fc443e14aa75f9cb75fefbb8ad72c3ed245b8e9ce09b4ff2d3dec",
+            "size": 278,
+            "sha256": "c3557c1c7c9f83226750b3d86327e263b8bcdd814e5d5eab5f2b17229bf48150",
             "once": false
         },
         {
@@ -3980,14 +3980,14 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8428,
-            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
+            "size": 8498,
+            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 9561,
-            "sha256": "9ac07a35ad1e82bb791c68b2c3cbdef515dd8dca7730a326e16b38cf5c00db6d",
+            "size": 9806,
+            "sha256": "26e8786f00f13b69812e3bee9ccec63eebac5bfad28ca4d4f5f7baf09397eca8",
             "once": false
         },
         {
@@ -3999,13 +3999,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "175b1dbc4152438a2756de05da4dbb5033e39e9cb4104651319d4cd928d6280e",
+            "sha256": "370e5475b42b01e1a6b8ed8fa87741c0200ab60a54c466adbde5297f9d9b6d45",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "5a633ed5433e27024a0a3a8d6b48bebbe2122ae01991ec5cd861cf51b941d483",
+            "sha256": "e2a830db8c2d3800869405cf8a823e538d96abde2eaa39e3387435f54099ae71",
             "once": false
         },
         {
@@ -4424,8 +4424,8 @@
         },
         {
             "path": "config/voicechat/voicechat-client.properties",
-            "size": 4977,
-            "sha256": "61204b30c3567153b020059c70fa496846728c15a5433ccb4ca642272acc0a26",
+            "size": 4976,
+            "sha256": "818aba0efc1fe2c576c5bf878aba4dcf1ae116f60454c63c64bb612b37d24f1b",
             "once": false
         },
         {
@@ -37559,5 +37559,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "23/05/2026 20:58:59,71"
+    "generated": "24/05/2026 14:44:59,40"
 }
