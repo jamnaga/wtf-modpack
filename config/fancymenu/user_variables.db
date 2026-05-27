@@ -1,6 +1,18 @@
 type = user_variables
 
 variable {
+  name = polizia_convocazione_username
+  value = 
+  reset_on_launch = false
+}
+
+variable {
+  name = convocazione_luogo
+  value = Municipio di Montagna
+  reset_on_launch = false
+}
+
+variable {
   name = button2
   value = GDC Online
   reset_on_launch = false
@@ -25,6 +37,12 @@ variable {
 }
 
 variable {
+  name = polizia_convocazione_indirizzo
+  value = 
+  reset_on_launch = false
+}
+
+variable {
   name = count
   value = 0/0
   reset_on_launch = false
@@ -33,6 +51,12 @@ variable {
 variable {
   name = password1
   value = asdasd12
+  reset_on_launch = false
+}
+
+variable {
+  name = polizia_convocazione_stato
+  value = Ok
   reset_on_launch = false
 }
 

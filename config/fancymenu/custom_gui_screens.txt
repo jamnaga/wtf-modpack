@@ -15,6 +15,17 @@ custom_gui {
 }
 
 custom_gui {
+  identifier = polizia
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = false
+  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
   identifier = login_screen
   title = Accedi a GangDrogaCity Online
   allow_esc = false
@@ -32,6 +43,28 @@ custom_gui {
   transparent_world_background = false
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = true
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = admin
+  title = Admin
+  allow_esc = true
+  transparent_world_background = false
+  transparent_world_background_overlay = false
+  pause_game = true
+  popup_mode = true
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = convocazione
+  title = Convocazione
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = false
+  pause_game = false
   popup_mode = true
   popup_mode_background_overlay = true
 }
