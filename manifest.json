@@ -8306,8 +8306,8 @@
         },
         {
             "path": "mods/gdc-aiplayer-0.1.0.jar",
-            "size": 26495,
-            "sha256": "52cf685345ad6694421d721703ef360eb6c660e0d47932396f778f680605d1c2",
+            "size": 39023,
+            "sha256": "19fdfca62c077ccd93efbbefd18e868f3697d7b60813d5e14a184029cb9284ec",
             "once": false
         },
         {
@@ -37679,5 +37679,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "31/05/2026 22:10:12,99"
+    "generated": "31/05/2026 22:24:23,47"
 }
