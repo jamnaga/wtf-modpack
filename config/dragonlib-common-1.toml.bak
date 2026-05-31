@@ -41,7 +41,3 @@
 		#A WORLD RESTART IS REQUIRED FOR CHANGES TO TAKE EFFECT!
 		#Range: 0 ~ 32
 		thread_count = 0
-		#The size of the networking queue. (Default: 8000)
-		#A WORLD RESTART IS REQUIRED FOR CHANGES TO TAKE EFFECT!
-		#Range: 100 ~ 30000
-		queue_size = 8000
