@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "aadf444724e02a408258ecc341f3d0057847948c9d1d78a5eb4dece7fe5650bf",
+            "sha256": "8210a66158729dd8b93855936bf1bdb585078215c186c4978fc397e303a6fa5c",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "b3d56f6145f0f10a1e9b275a2a963012c60b0c4d6bdf1aea44ae152f5b91fa3a",
+            "sha256": "3c69bde353144009c051dc091442d3abaa3a2fc2baf1b35c9581f0a3018826fd",
             "once": false
         },
         {
@@ -268,6 +268,12 @@
             "path": ".fabric/processedMods/commons-beanutils_commons-beanutils-1.9.4-9f3cf0afd0e7c9d4.jar",
             "size": 248568,
             "sha256": "831d6cf8464b95c599071b28fd355840a6f095a71371ab5bc54782429773fba7",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/conditional-mixin-0.3.1-a654166d604de2cb.jar",
+            "size": 22902,
+            "sha256": "8ebc129391d75b049e8a64978986504396c796f38b17f3eac16792da7c214b62",
             "once": false
         },
         {
@@ -2667,7 +2673,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "41f1d835ea476a536a4c25faae9eebfa56c85d4baffedfbea6dab0b7f0d90862",
+            "sha256": "f9be61eb52fccfea51f32fede51ab4ab99fee993bcec0dff76ae348012d5be8d",
             "once": false
         },
         {
@@ -2961,7 +2967,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "f4038da76a754decf9e25d4c324e42cacd5e7c8bb085782780438fa87db89dc8",
+            "sha256": "fa0c743a878081e4b1e09449885fb0dfad2c9e3ffa85c7b31d54eab20c507309",
             "once": false
         },
         {
@@ -3351,7 +3357,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "27f66e93e232284d907badbb72aa8273562c5c629bd480e71f72de16addb3f17",
+            "sha256": "df9dc97ce4cb814fa5968bc30e24cb5795ed5557b0747b09af83d1cd7170658f",
             "once": false
         },
         {
@@ -4004,14 +4010,14 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8498,
-            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
+            "size": 8428,
+            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 9806,
-            "sha256": "579c6bbfd6a0913aca76f11063c55c7aae35816278ed1b692b512943d8bb17e2",
+            "size": 10222,
+            "sha256": "050e324f8112aee167960a1539cb83eedb69b5425a31f6d727b364b41ef1aef2",
             "once": false
         },
         {
@@ -4023,13 +4029,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "3b9e1b12b841184c313f845a7f84794723fed08dcb1c2b84ed7384fdd4e42c86",
+            "sha256": "541514a0ba775ff1f64232becc7843f263445283a93888e1bf17b1750a64646c",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "274f2982677a837497b8c7537437fbec2256236bf2facbe99a5891608c0717a0",
+            "sha256": "5a0b2b2b9bdccee2c215bd99413e1d7605dab01fb2d23a3dafa23a0258f4535d",
             "once": false
         },
         {
@@ -8095,6 +8101,12 @@
             "once": false
         },
         {
+            "path": "mods/carpet-fixes-1.20-1.16.1.jar",
+            "size": 630264,
+            "sha256": "6096c43600640d4caa6536e044399f2220356ac784870bc4bfa7dbd02c06be96",
+            "once": false
+        },
+        {
             "path": "mods/carryon-fabric-1.20.1-2.1.2.7.jar",
             "size": 443033,
             "sha256": "8d25fb164fc4cc15cd9123a915c880c55527efe3fec26b2c7febf09e65c6ebdd",
@@ -8233,6 +8245,12 @@
             "once": false
         },
         {
+            "path": "mods/fabric-carpet-1.20-1.4.112+v230608.jar",
+            "size": 1577482,
+            "sha256": "00ad0ed15c457fdec0e6eefe84d79e1bb7b8f91f5f3a133cf89cb2b60ffb3d11",
+            "once": false
+        },
+        {
             "path": "mods/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
             "size": 7813444,
             "sha256": "c35713ee1da70fde6bf0e9ed26f8e2baf0814e60eb993cd12acb940e57f4fd2f",
@@ -8272,6 +8290,12 @@
             "path": "mods/fvtm-4.20.46.jar",
             "size": 1497550,
             "sha256": "cf91a2e2c9db8a008be1b686d23cb64786faa55b97835a5ef5771a3e6c177169",
+            "once": false
+        },
+        {
+            "path": "mods/gdc-aiplayer-0.1.0.jar",
+            "size": 26495,
+            "sha256": "52cf685345ad6694421d721703ef360eb6c660e0d47932396f778f680605d1c2",
             "once": false
         },
         {
@@ -37643,5 +37667,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "31/05/2026 18:32:07,93"
+    "generated": "31/05/2026 19:16:37,43"
 }
