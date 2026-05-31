@@ -4035,13 +4035,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "8a97f2d7bd4259e58d64c1400e2d618180dbc441ee0c7c5de98ff9b568dd8da8",
+            "sha256": "8f672ac6179d4374fbfaf6768df08a4db48afed51d344b39aaaf1679ec627540",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "0fd0e39d48d8b73fdf9461f789ea5907df06aab15854e206708985ac1854ec7f",
+            "sha256": "fbe289d27e46d37cb2e3df4159e7c2f7587ee32b6cb2e254cdfc4b79cf8aa455",
             "once": false
         },
         {
@@ -8300,8 +8300,8 @@
         },
         {
             "path": "mods/gdc-aiplayer-0.1.0.jar",
-            "size": 39023,
-            "sha256": "19fdfca62c077ccd93efbbefd18e868f3697d7b60813d5e14a184029cb9284ec",
+            "size": 45427,
+            "sha256": "abf0e284477f87fe662bbefc4398a5fedd504069f543b2ac647dc50b2f029358",
             "once": false
         },
         {
@@ -37673,5 +37673,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "31/05/2026 22:57:21,72"
+    "generated": "31/05/2026 23:17:32,75"
 }
