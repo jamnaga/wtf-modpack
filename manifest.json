@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "8210a66158729dd8b93855936bf1bdb585078215c186c4978fc397e303a6fa5c",
+            "sha256": "2be76e47a63c239396dc8507a896fbe6ab0f459798726963fbafb1313919bc0f",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "3c69bde353144009c051dc091442d3abaa3a2fc2baf1b35c9581f0a3018826fd",
+            "sha256": "18ae7020d9f1a61f7abb353eb45e0da0a714e76d5201752b1394486e6160a397",
             "once": false
         },
         {
@@ -2653,9 +2653,15 @@
             "once": false
         },
         {
-            "path": "config/dragonlib-common.toml",
+            "path": "config/dragonlib-common-1.toml.bak",
             "size": 2750,
             "sha256": "07f8823ced232a44f5e4a73eb919cf2f1a38c86e2438dc36f4215dc8fe8969c7",
+            "once": false
+        },
+        {
+            "path": "config/dragonlib-common.toml",
+            "size": 2904,
+            "sha256": "ed3101f75cc8c8ea290158ca65a557b29aeddf2413cb121109f3da8d8decd997",
             "once": false
         },
         {
@@ -2673,7 +2679,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "f9be61eb52fccfea51f32fede51ab4ab99fee993bcec0dff76ae348012d5be8d",
+            "sha256": "a2aa387c90fd5afc79231f9e84996ef3e18413130414576aaa9290d3efe315bc",
             "once": false
         },
         {
@@ -2967,7 +2973,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "fa0c743a878081e4b1e09449885fb0dfad2c9e3ffa85c7b31d54eab20c507309",
+            "sha256": "f7eaf876529b2645fd9a16fc2e2109d2dfe0dca635d5300587cf1f61b0147545",
             "once": false
         },
         {
@@ -3357,7 +3363,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "df9dc97ce4cb814fa5968bc30e24cb5795ed5557b0747b09af83d1cd7170658f",
+            "sha256": "35d13dcabe153f0d366c1e18e47cfd36743a383d0d4e7802743238bfc50c5df4",
             "once": false
         },
         {
@@ -3417,7 +3423,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "0624efdee1144e1b509f9eaa758a400c28501152bb937bb44491ca3a9ee62c36",
+            "sha256": "5c24dd0031be98444e6ee681d134f773037cc50bb57834b51dafe649644fe8e9",
             "once": false
         },
         {
@@ -4010,8 +4016,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8428,
-            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
+            "size": 8498,
+            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
             "once": false
         },
         {
@@ -4029,13 +4035,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "541514a0ba775ff1f64232becc7843f263445283a93888e1bf17b1750a64646c",
+            "sha256": "8a97f2d7bd4259e58d64c1400e2d618180dbc441ee0c7c5de98ff9b568dd8da8",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "5a0b2b2b9bdccee2c215bd99413e1d7605dab01fb2d23a3dafa23a0258f4535d",
+            "sha256": "0fd0e39d48d8b73fdf9461f789ea5907df06aab15854e206708985ac1854ec7f",
             "once": false
         },
         {
@@ -4455,13 +4461,13 @@
         {
             "path": "config/voicechat/voicechat-client.properties",
             "size": 4977,
-            "sha256": "61204b30c3567153b020059c70fa496846728c15a5433ccb4ca642272acc0a26",
+            "sha256": "04c7794f679388009592577425d921ffdc42b3f5af34e1e1a582494733891ba4",
             "once": false
         },
         {
             "path": "config/voicechat/voicechat-server.properties",
-            "size": 2782,
-            "sha256": "3e50185309ef38267e6bd32c2d824515197a131a30e3b5f84e8b6d99015ee687",
+            "size": 2774,
+            "sha256": "fc750100916d3365bbbd2a13abbfe029b75af3970ebf4def9f7f350c4a4090b6",
             "once": false
         },
         {
@@ -8185,9 +8191,9 @@
             "once": false
         },
         {
-            "path": "mods/dragonlib-fabric-1.20.1-beta-3.0.26.jar",
-            "size": 2817404,
-            "sha256": "4b2fefe00191512c94ce5f0c23531ed1fc6efd555b5f81c95372b9463e965d66",
+            "path": "mods/dragonlib-fabric-1.20.1-beta-3.0.28.jar",
+            "size": 2826599,
+            "sha256": "069786b5f30d93310a90559cd23ae50fd967699df3d63669f2cb6a6eaafcac4c",
             "once": false
         },
         {
@@ -8203,21 +8209,21 @@
             "once": false
         },
         {
-            "path": "mods/easy_npc-fabric-1.20.1-6.16.0.jar",
-            "size": 2030270,
-            "sha256": "e1af56f5580850fcb7ad6ed06f75dac82b4d863dacb68ec13478a51e18977330",
+            "path": "mods/easy_npc-fabric-1.20.1-6.17.0.jar",
+            "size": 2030633,
+            "sha256": "039bafb2105f7fcc6517839c2feb54264cd7ffce84d92c5ce20a108f32a60f6d",
             "once": false
         },
         {
-            "path": "mods/easy_npc_bundle-fabric-1.20.1-6.16.0.jar",
-            "size": 25260,
-            "sha256": "7b059521d16d3f7a734b6c449d8124a5eb0322c0b70de82339116c32ba79c8fc",
+            "path": "mods/easy_npc_bundle-fabric-1.20.1-6.17.0.jar",
+            "size": 25259,
+            "sha256": "2c08b6af3643e321750e84250a8f116d6eb647233585ff01c3cfc94842de9a35",
             "once": false
         },
         {
-            "path": "mods/easy_npc_config_ui-fabric-1.20.1-6.16.0.jar",
-            "size": 827517,
-            "sha256": "afd43161d400dd185f14f6e947da8da0435fb3792b03798af002886e5fb04ee0",
+            "path": "mods/easy_npc_config_ui-fabric-1.20.1-6.17.0.jar",
+            "size": 828031,
+            "sha256": "fe25f913513ad257c285aaf727b881c70ac437f68074cab28703967e4ed0b7fe",
             "once": false
         },
         {
@@ -8347,9 +8353,9 @@
             "once": false
         },
         {
-            "path": "mods/immersive_paintings-0.6.11+1.20.1-fabric.jar",
-            "size": 4853363,
-            "sha256": "eea0fd989d013f1749c079ba46c02e4e0e05d4d9fa8f8cf87101c0ebbdba6916",
+            "path": "mods/immersive_paintings-0.6.13+1.20.1-fabric.jar",
+            "size": 4854362,
+            "sha256": "ecd7ef5e513e8f6b74bb3ed045f235deef83c1e469bf34d73885662c91511434",
             "once": false
         },
         {
@@ -8647,9 +8653,9 @@
             "once": false
         },
         {
-            "path": "mods/voicechat-fabric-1.20.1-2.6.17.jar",
-            "size": 5262944,
-            "sha256": "659a85a7835bcec529a188d5bb0416cfc452a37419692cab43a5c13cb845620f",
+            "path": "mods/voicechat-fabric-1.20.1-2.6.18.jar",
+            "size": 5263604,
+            "sha256": "8b191ce6439afe2a244b9be4152744653c2f38a93df7e99b858e549063777d85",
             "once": false
         },
         {
@@ -37667,5 +37673,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "31/05/2026 22:24:23,47"
+    "generated": "31/05/2026 22:57:21,72"
 }
