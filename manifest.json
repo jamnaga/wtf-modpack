@@ -1,12 +1,6 @@
 {
     "files": [
         {
-            "path": ".claude/settings.local.json",
-            "size": 205,
-            "sha256": "a956b392fb0b4c93511c3eab0e57b8d2a538c309280d966cf1fab7d77a3b3978",
-            "once": false
-        },
-        {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
             "sha256": "9fa2b7912d98ea938fc5d1504be6e877e988a112efb677cc06a628b309cca06a",
@@ -2372,8 +2366,8 @@
         },
         {
             "path": ".manifestignore",
-            "size": 289,
-            "sha256": "fe7d7309d8b0ef041d3f3533971464ecbd7bd7267607145c22742902cc6e9dfd",
+            "size": 297,
+            "sha256": "35d49498e337677b461cf11220bbb775ce2925a89bf990be99bfd7c115274aef",
             "once": false
         },
         {
@@ -37775,5 +37769,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "02/06/2026 00:19:39,11"
+    "generated": "02/06/2026 00:46:12,45"
 }
