@@ -8701,18 +8701,6 @@
             "once": false
         },
         {
-            "path": "mods/watermedia-3.0.0.17.jar",
-            "size": 3104289,
-            "sha256": "6ed6a4ffe8a8f3ef722a47cc148a4d3a331f5d2f0609bad7026506ec5e4dab7c",
-            "once": false
-        },
-        {
-            "path": "mods/watervision-FB-mc1.20.1-v0.1.0-alpha.jar",
-            "size": 81782,
-            "sha256": "abab97a9d61f4471ff6e4011ae077baf4cd4ff292781c317ea5b45b005030a9c",
-            "once": false
-        },
-        {
             "path": "mods/watut-fabric-1.20.1-1.2.3.jar",
             "size": 789018,
             "sha256": "1f3da9141ca583b1bcc706e9826aa79d788b2b0c59202508c596526dc1016e67",
@@ -37723,51 +37711,9 @@
                     "sha256": "f4f5a4bc87f9dda4538b3f47df7733b33ec4bb6317652839482435855894885f"
                 }
             ]
-        },
-        {
-            "name": "Watermedia Binaries",
-            "description": "Watermedia dependencies",
-            "version": "1.0.0",
-            "archiveType": "7z",
-            "parts": [
-                "Watermedia_Binaries.7z.001",
-                "Watermedia_Binaries.7z.002",
-                "Watermedia_Binaries.7z.003",
-                "Watermedia_Binaries.7z.004"
-            ],
-            "extractTo": "mods/",
-            "filesToExtract": [
-                "wm_binaries-3.0.0-rc.1.jar"
-            ],
-            "action": "extract",
-            "overwrite": true,
-            "required": true,
-            "progressMessage": "*currentPart* di *totalParts* | Aggiornamento Watermedia Binaries: *percentage*%",
-            "files": [
-                {
-                    "path": "packages/Watermedia_Binaries/Watermedia_Binaries.7z.001",
-                    "size": 52428800,
-                    "sha256": "aebeebc561fae35f9fe017484614b4c04fb8ac83f76303b319a2d9a82ee2d0a8"
-                },
-                {
-                    "path": "packages/Watermedia_Binaries/Watermedia_Binaries.7z.002",
-                    "size": 52428800,
-                    "sha256": "edfc679c554fd301f0048a45763b564f1ed9b492f8788aa0181e9a6738b44527"
-                },
-                {
-                    "path": "packages/Watermedia_Binaries/Watermedia_Binaries.7z.003",
-                    "size": 52428800,
-                    "sha256": "83141f35a9f5a3c86d08bf5f99caca43846053e4fe836262b20e2cbd0cca4736"
-                },
-                {
-                    "path": "packages/Watermedia_Binaries/Watermedia_Binaries.7z.004",
-                    "size": 20883219,
-                    "sha256": "ae0c7cd7c8b4671b1cc021208f168eb286ebdcd97a386050f8bbe1223697c7bb"
-                }
-            ]
         }
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "02/06/2026 00:46:12,45"
+    "generated": "02/06/2026 00:54:49,30"
 }
