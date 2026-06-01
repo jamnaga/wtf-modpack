@@ -1,15 +1,21 @@
 {
     "files": [
         {
+            "path": ".claude/settings.local.json",
+            "size": 205,
+            "sha256": "a956b392fb0b4c93511c3eab0e57b8d2a538c309280d966cf1fab7d77a3b3978",
+            "once": false
+        },
+        {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "c481b933a71629572eba300fb8dcb8dd179ea841fd85e207393643e176f411f3",
+            "sha256": "9fa2b7912d98ea938fc5d1504be6e877e988a112efb677cc06a628b309cca06a",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "c3bbbf91ba7c8e6f332bfd650ba40f1dace41e8e874a774dd1db0a80b5ebc236",
+            "sha256": "160dedcefc9d3bbadc330ae385761975a7125892caa8701b6aeef68e5e868904",
             "once": false
         },
         {
@@ -2679,7 +2685,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "616ef7b15ac630d9fa093b378fb2ff88f7a74ab91c82c2082177a50e82802393",
+            "sha256": "2f65c537de4342ae7a24e3679c6cd494e5dc260be2482726a57142803005eccc",
             "once": false
         },
         {
@@ -2973,7 +2979,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "9352158f05699af1374b9fa6fdc68e58015b82c4ee5831618f75fd4810e56439",
+            "sha256": "fcc367fba2ce0cd1cfd559b0df976588ebd4f1b3625941579c467299385bcff2",
             "once": false
         },
         {
@@ -3363,7 +3369,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "630871e6dd96ed2661640906f081b669a3cc13b0d9d4a085dde4b5c7c43c6b60",
+            "sha256": "6fa8fa2c2adf9e06e3420589eebeaadecd37962a1e4824861cd6ccfec5d7ac69",
             "once": false
         },
         {
@@ -3423,7 +3429,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "ac87b88bb163e5134deab90ab19615269e87d15af93c39d7ad2f8c03aa1990b1",
+            "sha256": "c3b0236ee98e0ee3e2abe3fe32c51f6dfd14f13b81b63757f8e31442e3d9b5dd",
             "once": false
         },
         {
@@ -4016,8 +4022,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8428,
-            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
+            "size": 8498,
+            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
             "once": false
         },
         {
@@ -4035,13 +4041,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "790bfbdfb336ecc268e0ab94f848e87800dc1e56f75ba2e2e01a5fb17934584d",
+            "sha256": "cfc97b85927a85d58b3c3a09075a9b9b56542b909151db41848388cffebb5125",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "7474cdb3010268b6935dd46ef2dbed6cac7cf2bbb8420f6e070658e1c82affa6",
+            "sha256": "0516b60078315a30de6eb58ba4c28e5e8d2ae148a3ee9d356868e64b2cbc1f06",
             "once": false
         },
         {
@@ -4576,6 +4582,12 @@
             "path": "defaultconfigs/sdmshop/sdmshop-common.snbt",
             "size": 159,
             "sha256": "6840dc152c107d259ab897521035caa0157b89e8161840a40158c95997fe260b",
+            "once": false
+        },
+        {
+            "path": "deploy.sh",
+            "size": 23128,
+            "sha256": "6ff7619c7ac3f2fa9bdb2ea118f2cbf33f998d2990c59ff200c947a3ec933bb3",
             "once": false
         },
         {
@@ -8257,6 +8269,12 @@
             "once": false
         },
         {
+            "path": "mods/epicdeathscreen-fabric-1.20.1-1.0.0.jar",
+            "size": 1505796,
+            "sha256": "40f4e2505f560ffeafda23a7b4522b223efcb3642e1faec5d3e44aed54364999",
+            "once": false
+        },
+        {
             "path": "mods/eureka-1201-1.6.3.jar",
             "size": 451477,
             "sha256": "33cf5bda264c7a9c7ebac8c7df07e5e29af466b56088e427077209a9a734d268",
@@ -8641,6 +8659,12 @@
             "once": false
         },
         {
+            "path": "mods/thirdpersondeath-1.1.0+1.20.1.jar",
+            "size": 21476,
+            "sha256": "189331e733c9dd57d976aff8232ceb45f640106ade19ea01311d3df64272f58f",
+            "once": false
+        },
+        {
             "path": "mods/tia-1.20-1.1-fabric.jar",
             "size": 18492,
             "sha256": "ebf631eb18c66dd796f85627d61aa4d9da5efd180a29d49258422ae88d0eb918",
@@ -8677,6 +8701,24 @@
             "once": false
         },
         {
+            "path": "mods/waterframes-FABRIC-mc1.20.1-v2.1.22.jar",
+            "size": 261974,
+            "sha256": "7d8cff807bc53eaa6f4af2dc6c565d28a81663818c3dc566fd7c3a445b7b0962",
+            "once": false
+        },
+        {
+            "path": "mods/watermedia-3.0.0.17.jar",
+            "size": 3104289,
+            "sha256": "6ed6a4ffe8a8f3ef722a47cc148a4d3a331f5d2f0609bad7026506ec5e4dab7c",
+            "once": false
+        },
+        {
+            "path": "mods/watervision-FB-mc1.20.1-v0.1.0-alpha.jar",
+            "size": 81782,
+            "sha256": "abab97a9d61f4471ff6e4011ae077baf4cd4ff292781c317ea5b45b005030a9c",
+            "once": false
+        },
+        {
             "path": "mods/watut-fabric-1.20.1-1.2.3.jar",
             "size": 789018,
             "sha256": "1f3da9141ca583b1bcc706e9826aa79d788b2b0c59202508c596526dc1016e67",
@@ -8686,6 +8728,12 @@
             "path": "mods/waveycapes-fabric-1.9.2-mc1.20.1.jar",
             "size": 1840730,
             "sha256": "03a26ea4861848a7a30fbe4ffcd7a44d3bce9e6692b4e28adca29c9588039e3a",
+            "once": false
+        },
+        {
+            "path": "mods/wm_binaries-3.0.0-rc.1.jar",
+            "size": 179378119,
+            "sha256": "720d8cf3cef97856a1347738b259ed54d7a2aa06cbe7e304fc46d1c746343f0b",
             "once": false
         },
         {
@@ -37691,5 +37739,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "01/06/2026 13:29:33,06"
+    "generated": "01/06/2026 23:30:11,73"
 }
