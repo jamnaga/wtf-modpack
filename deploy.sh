@@ -5,6 +5,10 @@
 
 set -uo pipefail
 
+# Locale POSIX per numeri: evita che printf/bc producano numeri con la virgola
+# (es. it_IT) che poi rompono il parsing successivo.
+export LC_NUMERIC=C
+
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
@@ -226,16 +230,14 @@ file_inside_manifest_tree() {
 }
 
 human_size() {
-  local bytes="$1"
-  if [[ "$bytes" -lt 1024 ]]; then
-    printf '%d B' "$bytes"
-  elif [[ "$bytes" -lt 1048576 ]]; then
-    printf '%.1f KB' "$(echo "scale=1; $bytes/1024" | bc)"
-  elif [[ "$bytes" -lt 1073741824 ]]; then
-    printf '%.1f MB' "$(echo "scale=1; $bytes/1048576" | bc)"
-  else
-    printf '%.2f GB' "$(echo "scale=2; $bytes/1073741824" | bc)"
-  fi
+  # awk fa floating point internamente e usa sempre il punto decimale,
+  # immune al locale e senza dipendere da bc.
+  awk -v b="${1:-0}" 'BEGIN {
+    if      (b < 1024)       printf "%d B",    b
+    else if (b < 1048576)    printf "%.1f KB", b/1024
+    else if (b < 1073741824) printf "%.1f MB", b/1048576
+    else                     printf "%.2f GB", b/1073741824
+  }'
 }
 
 file_size_bytes() {
@@ -405,6 +407,9 @@ wizard_add_files() {
     echo
     ui_input "Path o glob da aggiungere (vuoto = fine, 'r N' = rimuovi #N, 'c' = svuota)" ""
     local entry="$UI_INPUT_VALUE"
+    # Trim leading/trailing whitespace (tipici da copy-paste o autocompletion del terminale)
+    entry="${entry#"${entry%%[![:space:]]*}"}"
+    entry="${entry%"${entry##*[![:space:]]}"}"
     [[ -z "$entry" ]] && break
 
     if [[ "$entry" == "c" ]]; then
