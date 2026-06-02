@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "9fa2b7912d98ea938fc5d1504be6e877e988a112efb677cc06a628b309cca06a",
+            "sha256": "72e493f9a148bc0009e8fba746d31b888cb900e89f7a4ad230450039d481fc2a",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "160dedcefc9d3bbadc330ae385761975a7125892caa8701b6aeef68e5e868904",
+            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
             "once": false
         },
         {
@@ -2360,14 +2360,14 @@
         },
         {
             "path": ".gitignore",
-            "size": 438,
-            "sha256": "7934fdbaa3078ccb80d0fb58b4323bc3ee8a9d94d3c981f9769e1eb54a4b8f25",
+            "size": 465,
+            "sha256": "bdb5d0adc41edcfda891e0ea37450b80907ba1e0cd2210a7c0b94505d8f7fb79",
             "once": false
         },
         {
             "path": ".manifestignore",
-            "size": 297,
-            "sha256": "35d49498e337677b461cf11220bbb775ce2925a89bf990be99bfd7c115274aef",
+            "size": 323,
+            "sha256": "1dee96227d88bc4ba932478e52834f979d3c9202905007ea5363db10e74cea2b",
             "once": false
         },
         {
@@ -2487,7 +2487,7 @@
         {
             "path": "config/beansbackpacks-common.json5",
             "size": 2118,
-            "sha256": "d40ebcdfd5dd17660597545ef5562e90daa5bf4caf32892ccb6cd5fed0afe543",
+            "sha256": "c2ac1a77b3fbfa4637c5fc16a8574366f9b63bc626ae3b1c31a59abe8bfe2461",
             "once": false
         },
         {
@@ -2530,6 +2530,18 @@
             "path": "config/cardinal-components-api.properties",
             "size": 273,
             "sha256": "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982",
+            "once": false
+        },
+        {
+            "path": "config/carpet/default_carpet-fixes.conf",
+            "size": 192,
+            "sha256": "4a3890638cb58a20e91d936ba783a83c27f20872c3d75cc538dbddc67bc1adcc",
+            "once": false
+        },
+        {
+            "path": "config/carpet/default_carpet.conf",
+            "size": 190,
+            "sha256": "a1841d4e9d82126db89b205ac363478a3e3c3d1017e721a1b13a85a421325380",
             "once": false
         },
         {
@@ -2679,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "2f65c537de4342ae7a24e3679c6cd494e5dc260be2482726a57142803005eccc",
+            "sha256": "727539d1dd2c97a53973b33ab582c450c7dcc51090823f26b4125635e6fbfdb1",
             "once": false
         },
         {
@@ -2953,6 +2965,12 @@
             "once": false
         },
         {
+            "path": "config/epicdeathscreen-client.properties",
+            "size": 195,
+            "sha256": "2e63988832f31a25caffa9666c84cad6b63e0886ef0aec9a100af2a610026278",
+            "once": false
+        },
+        {
             "path": "config/etf_warnings.json",
             "size": 28,
             "sha256": "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
@@ -2973,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "fcc367fba2ce0cd1cfd559b0df976588ebd4f1b3625941579c467299385bcff2",
+            "sha256": "0192a016e5b4a72561a955215440478b3bdf88864de369f6a7b54e40ded1e992",
             "once": false
         },
         {
@@ -3363,7 +3381,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "6fa8fa2c2adf9e06e3420589eebeaadecd37962a1e4824861cd6ccfec5d7ac69",
+            "sha256": "e20d8e87ed1a10127a8e52b61a75ad57f0a6577fda163c129d771cdfe7c2ea29",
             "once": false
         },
         {
@@ -4035,13 +4053,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "cfc97b85927a85d58b3c3a09075a9b9b56542b909151db41848388cffebb5125",
+            "sha256": "382e749c63aff262c6ef0bfcd70c317111a811fde0ccc2fa5d30e6f7ed8c151d",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "0516b60078315a30de6eb58ba4c28e5e8d2ae148a3ee9d356868e64b2cbc1f06",
+            "sha256": "3750da99272af54806a26f66cd242f9aa1b30d6d610bec76599f02c774fd05cc",
             "once": false
         },
         {
@@ -4124,8 +4142,8 @@
         },
         {
             "path": "config/sound_physics_remastered/allowed_sounds.properties",
-            "size": 83775,
-            "sha256": "1808b3147abc69c10569bf6d3decab42ba043e87db694b4caf708b42e744ac4f",
+            "size": 83839,
+            "sha256": "9c15e046bb9669c2c71e6a7696f5d3adb91a6e2e3cdd693624a50dcf9181b0df",
             "once": false
         },
         {
@@ -4180,6 +4198,48 @@
             "path": "config/spark/tmp/spark-12bef4de9094a-profile-data.jfr.tmp",
             "size": 135149,
             "sha256": "8507679c76694af010e6b4e36dbace980dfd4a9feba02b1a7a7991a0a1826e30",
+            "once": false
+        },
+        {
+            "path": "config/spark/tmp/spark-26bf52e077d49-libasyncProfiler.so.tmp",
+            "size": 724576,
+            "sha256": "1ca599cb9db2b40a508c665193fc73cd41143c8327d06900346206a05c52122f",
+            "once": false
+        },
+        {
+            "path": "config/spark/tmp/spark-26c12d71f0fc5-profile-data.jfr.tmp",
+            "size": 140353,
+            "sha256": "b749851e23fbfda486d1ca4ab004996f63714e0f426faddb0d98a57dd3df334d",
+            "once": false
+        },
+        {
+            "path": "config/spark/tmp/spark-26c2233e99100-profile-data.jfr.tmp",
+            "size": 137059,
+            "sha256": "e06c32afb68ee1ba22dde0370bf316017a64d3e00295d50b7f150215711e11f7",
+            "once": false
+        },
+        {
+            "path": "config/spark/tmp/spark-26c37f4309bee-libasyncProfiler.so.tmp",
+            "size": 724576,
+            "sha256": "1ca599cb9db2b40a508c665193fc73cd41143c8327d06900346206a05c52122f",
+            "once": false
+        },
+        {
+            "path": "config/spark/tmp/spark-26c389d2e26d8-profile-data.jfr.tmp",
+            "size": 136730,
+            "sha256": "72255ee5354385957782934b783cbd985cdc09d6b7242a1192a46b97fe8f6f73",
+            "once": false
+        },
+        {
+            "path": "config/spark/tmp/spark-26c5810879526-libasyncProfiler.so.tmp",
+            "size": 724576,
+            "sha256": "1ca599cb9db2b40a508c665193fc73cd41143c8327d06900346206a05c52122f",
+            "once": false
+        },
+        {
+            "path": "config/spark/tmp/spark-26c82aab76063-profile-data.jfr.tmp",
+            "size": 137962,
+            "sha256": "566f48f282f4fcab8d47d090df7d9578ce89aadb3fbc610aff25d0d3e9e5e81d",
             "once": false
         },
         {
@@ -4503,7 +4563,7 @@
         {
             "path": "config/worldedit/worldedit.properties",
             "size": 2496,
-            "sha256": "0650b07712fd9cdd22d86519ed7b63438b9a922ccc1cf16b24c04df99a10b0e5",
+            "sha256": "590b252606f2ad85d361aead46ac5ff9ab40f1fc7f842d63f1baa72f14d0e7ef",
             "once": false
         },
         {
@@ -4816,6 +4876,12 @@
             "path": "hs_err_pid82894.log",
             "size": 530422,
             "sha256": "bd0cc42dd647933d12d6448006c700f468712d66fac24ae10b6fe004247e498c",
+            "once": false
+        },
+        {
+            "path": "hs_err_pid89269.log",
+            "size": 1398607,
+            "sha256": "d4fd875a9626cdd69c066b50354410b2e5ee5489f3fac69946fb073a89f058fe",
             "once": false
         },
         {
@@ -8338,6 +8404,12 @@
             "path": "mods/gdc-raid-0.1.0.jar",
             "size": 4792,
             "sha256": "603bfefb65e9233ca5d999a819f70a35c356528fe139a7ec353b2d69a7e98564",
+            "once": false
+        },
+        {
+            "path": "mods/gdc-respawncam-0.1.0.jar",
+            "size": 9163,
+            "sha256": "981a91f2d5be36b4f9ea89e7cc55c01ea809f74b831c39b879e2a7d300a917f4",
             "once": false
         },
         {
@@ -37715,5 +37787,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "02/06/2026 00:54:49,30"
+    "generated": "02/06/2026 03:21:27,48"
 }
