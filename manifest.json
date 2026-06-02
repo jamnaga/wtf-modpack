@@ -8407,6 +8407,12 @@
             "once": false
         },
         {
+            "path": "mods/gdc-ae2bridge-0.1.0.jar",
+            "size": 16319,
+            "sha256": "404cae4d0f7fa19d4b37702a2fd2b79c4f0dde341e4d2c83db7b85dc29696254",
+            "once": false
+        },
+        {
             "path": "mods/gdc-aiplayer-0.1.0.jar",
             "size": 72120,
             "sha256": "06b1690fe96cf7dc5a7d1c94e5c16c673b2fb2e908b4abb072c37d17a9d78c35",
@@ -37805,5 +37811,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "03/06/2026 00:15:27,07"
+    "generated": "03/06/2026 00:17:12,80"
 }
