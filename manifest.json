@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "a676fb9cdb65ac4ec744f99d3486642c5840377bdc61e78e9c9f109114bc85e6",
+            "sha256": "4d02f9aed2eba74bb625a1437cafd66b68540e7b0fc0e635260031f2e6ea1608",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "57c39d5d5f212af4032ffe76a5c19a35897a65a7e6915b8f6d0d6355b92992d2",
+            "sha256": "a1daf2a6a9a3f21ff2bf4f21a504cc460ee24d1224e3e7c00a3bebf7bb4f628d",
             "once": false
         },
         {
@@ -2372,8 +2372,8 @@
         },
         {
             "path": ".oncelist",
-            "size": 60,
-            "sha256": "ee66819e4091927cd4d4ac8a5ef70f5f57e07a8e5fbb70e8ecf990eff50344e4",
+            "size": 105,
+            "sha256": "3dc2779ef3eddb5f45ae4d4a4317326507a6eecdd8e8438e3ae361a84df85358",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "4d569a5071f6e7bc80ddca17b558e3089ac3c49416ddc4c834a2359ef59ee0cf",
+            "sha256": "28111cbd165ce62554d87a780863bcd31f7e3737b844f3341de70fce686f41cb",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "2909f10751df17ea9e33b9da13d66df929144ddacfc4baede7b7b1dc38875a91",
+            "sha256": "24a941f9fbea27ebb0796ada9637ee380cbbb7383526f822810ea5e941c96734",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "2311be8c42a7917156b5bd6c11a67066568d06f9b352b5de310da8f415a44ae8",
+            "sha256": "54984a543168164c9833618aa04ecc161fcbc6d0e69878ef5007d9edd69753b9",
             "once": false
         },
         {
@@ -3381,7 +3381,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "163c5d366b035af4b0ec1bdff76710fe2e66798b9a483a25f527b787e73504b6",
+            "sha256": "3dba5b93a82f32e2da01b75adc198f841932eeee56d69425b53bf054bf2aa372",
             "once": false
         },
         {
@@ -3441,7 +3441,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "e15eddeb8542b3cd677f21df6d50fb73ba351f4ff26761284b6e4c4af4be4323",
+            "sha256": "755c7734aa5d9a8c0cd94b5af2b8e44c7a24b67890bc7f2cf0b613a67c5ec7a8",
             "once": false
         },
         {
@@ -4053,13 +4053,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "e98e5785d1703514edf546fc11f81a6c39991a17e7b080af2df5d7c177b36460",
+            "sha256": "12283c112c92bbe3082e6266798c24b44c05b8dccf49bc644118b67249642ab0",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "4a5fcd7da7b0e0f3d92892b0caa4848e63aa64448c6b39d1eff7d7122b7c3088",
+            "sha256": "15385a4ec07fa7b0dd6bbc54adaa4ce366b6781d8467079aab7ebb7e9e14f6ab",
             "once": false
         },
         {
@@ -4520,9 +4520,9 @@
         },
         {
             "path": "config/voicechat/voicechat-client.properties",
-            "size": 4977,
-            "sha256": "04c7794f679388009592577425d921ffdc42b3f5af34e1e1a582494733891ba4",
-            "once": false
+            "size": 4976,
+            "sha256": "0365894bec891c87e4cd9d802fb1e07ee5778e799ab4f2fd135d2ac1bba60b15",
+            "once": true
         },
         {
             "path": "config/voicechat/voicechat-server.properties",
@@ -4858,6 +4858,12 @@
             "path": "hs_err_pid13440.log",
             "size": 933015,
             "sha256": "69a49e46a20cbb2d44be2bdd105e4a4a91219c1fe964892643f6b82e630f2b99",
+            "once": false
+        },
+        {
+            "path": "hs_err_pid35935.log",
+            "size": 420661,
+            "sha256": "c8b880915b35355d89bec7ac5d6c08155678f2c2f55653da3db48a2072011dde",
             "once": false
         },
         {
@@ -37799,5 +37805,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "02/06/2026 22:42:55,87"
+    "generated": "03/06/2026 00:15:27,07"
 }
