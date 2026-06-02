@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "72e493f9a148bc0009e8fba746d31b888cb900e89f7a4ad230450039d481fc2a",
+            "sha256": "a676fb9cdb65ac4ec744f99d3486642c5840377bdc61e78e9c9f109114bc85e6",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
+            "sha256": "57c39d5d5f212af4032ffe76a5c19a35897a65a7e6915b8f6d0d6355b92992d2",
             "once": false
         },
         {
@@ -2360,8 +2360,8 @@
         },
         {
             "path": ".gitignore",
-            "size": 465,
-            "sha256": "bdb5d0adc41edcfda891e0ea37450b80907ba1e0cd2210a7c0b94505d8f7fb79",
+            "size": 447,
+            "sha256": "b68de3f23aa36b26f8af3cdeeb92ccd174f672968ca9933d5d0fc1be6f72668c",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "727539d1dd2c97a53973b33ab582c450c7dcc51090823f26b4125635e6fbfdb1",
+            "sha256": "4d569a5071f6e7bc80ddca17b558e3089ac3c49416ddc4c834a2359ef59ee0cf",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "2e63988832f31a25caffa9666c84cad6b63e0886ef0aec9a100af2a610026278",
+            "sha256": "2909f10751df17ea9e33b9da13d66df929144ddacfc4baede7b7b1dc38875a91",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "0192a016e5b4a72561a955215440478b3bdf88864de369f6a7b54e40ded1e992",
+            "sha256": "2311be8c42a7917156b5bd6c11a67066568d06f9b352b5de310da8f415a44ae8",
             "once": false
         },
         {
@@ -3381,7 +3381,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "e20d8e87ed1a10127a8e52b61a75ad57f0a6577fda163c129d771cdfe7c2ea29",
+            "sha256": "163c5d366b035af4b0ec1bdff76710fe2e66798b9a483a25f527b787e73504b6",
             "once": false
         },
         {
@@ -3441,7 +3441,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "c3b0236ee98e0ee3e2abe3fe32c51f6dfd14f13b81b63757f8e31442e3d9b5dd",
+            "sha256": "e15eddeb8542b3cd677f21df6d50fb73ba351f4ff26761284b6e4c4af4be4323",
             "once": false
         },
         {
@@ -4040,8 +4040,8 @@
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 10337,
-            "sha256": "c8d3f451899be1842cefce1914abfda7f450271a5deeaff399b3995e2c9f64f8",
+            "size": 10684,
+            "sha256": "49f1420c2c1e3a6df2e4764938f8f96a05fc7fa6b5d80e08ddf6b3560d91dca0",
             "once": false
         },
         {
@@ -4053,13 +4053,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "382e749c63aff262c6ef0bfcd70c317111a811fde0ccc2fa5d30e6f7ed8c151d",
+            "sha256": "e98e5785d1703514edf546fc11f81a6c39991a17e7b080af2df5d7c177b36460",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "3750da99272af54806a26f66cd242f9aa1b30d6d610bec76599f02c774fd05cc",
+            "sha256": "4a5fcd7da7b0e0f3d92892b0caa4848e63aa64448c6b39d1eff7d7122b7c3088",
             "once": false
         },
         {
@@ -4520,14 +4520,20 @@
         },
         {
             "path": "config/voicechat/voicechat-client.properties",
-            "size": 4976,
-            "sha256": "cf8fdf6956219ead2d3045054ed30366ee067c4a8b75969c13c51d20ca9d14df",
+            "size": 4977,
+            "sha256": "04c7794f679388009592577425d921ffdc42b3f5af34e1e1a582494733891ba4",
             "once": false
         },
         {
             "path": "config/voicechat/voicechat-server.properties",
             "size": 2774,
             "sha256": "fc750100916d3365bbbd2a13abbfe029b75af3970ebf4def9f7f350c4a4090b6",
+            "once": false
+        },
+        {
+            "path": "config/waterframes-client.json",
+            "size": 183,
+            "sha256": "0104572c4a14431c967d9871c73153a2bbec12398a0498c7e2272c349a4a23fe",
             "once": false
         },
         {
@@ -8398,6 +8404,12 @@
             "path": "mods/gdc-aiplayer-0.1.0.jar",
             "size": 72120,
             "sha256": "06b1690fe96cf7dc5a7d1c94e5c16c673b2fb2e908b4abb072c37d17a9d78c35",
+            "once": false
+        },
+        {
+            "path": "mods/gdc-fly-0.1.0.jar",
+            "size": 20156,
+            "sha256": "5ba763e0d53e80cf66dfc01f99ac8b4079069bcbef634d5902efe8a3fc0c3020",
             "once": false
         },
         {
@@ -37787,5 +37799,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "02/06/2026 03:21:27,48"
+    "generated": "02/06/2026 22:42:55,87"
 }
