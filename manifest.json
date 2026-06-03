@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "8210a66158729dd8b93855936bf1bdb585078215c186c4978fc397e303a6fa5c",
+            "sha256": "e9a4a24ed6fafdea14e837556d56303ca537e1e21be5cf33ac1300ef0fb81ab2",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
+            "sha256": "57c39d5d5f212af4032ffe76a5c19a35897a65a7e6915b8f6d0d6355b92992d2",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "7659cbb3ec8196fefb53776226c043980a1d06d6b0d2b0840ec3095040b36cc5",
+            "sha256": "8122131492e40ac7e0f2f4a7df0f7b65b36a9000b562dc83fc2cd52d8985bf6e",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "f02746910e1ece1bb240b30325b68240eae4d0e3d2d65995ed03ffc223cacf52",
+            "sha256": "6d232ec3ae45430765e432e0863f63111c7c9c3c9299d7a9cb9a509b0e6ea18b",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "724bec4cf7f796feff9120a6a4f1ce6bced2a6cc1c55f4545756782c429f74e0",
+            "sha256": "d571ac7d588956adea1ad05ec25dee6bb887e1721692b79cc894053de0f80704",
             "once": false
         },
         {
@@ -3381,7 +3381,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "533533b46851e8b5be64ff1dfafa6e8850b18f983a92db10ffa7a1cde3ccb2db",
+            "sha256": "bed1fd6d00fd2fa0827b90e406c2a47e8ff3559fe5bd0b6b666c6e92da1e2677",
             "once": false
         },
         {
@@ -3441,7 +3441,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "4aa19756de9aa059675b8b3ebd34be840b19c533d39043a6f889396c8c410291",
+            "sha256": "4d27f7d6d2804a8958f078000aa62351a724c9d7c0f0c1578b760ce6f7e42631",
             "once": false
         },
         {
@@ -4040,8 +4040,8 @@
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 11053,
-            "sha256": "ac282f879a3be726b4db5b387b17b69412b8a9056a997980398916b0df7cac03",
+            "size": 11169,
+            "sha256": "98ce7746c0fe1633fe4bd6135f0cc9ac8f84fa866ec56ea8eb3f74a54cf5724b",
             "once": false
         },
         {
@@ -4053,13 +4053,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "971402ff389a23da99f038dcecc855dc43ff5de7c86e80f07b55878ea441a868",
+            "sha256": "4e88dcda69dcc84fea9a09987ec6d71d997b8b9e44851a674eb190d73e67d2c9",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "c03e3d2c7af5e313e6ac075a85ebde55bbaa27532cdd3545eec21670337a45d9",
+            "sha256": "1949b52e99293fb05fc2d4a6881007ab3935cb6977dcf37ee23759f856d8eee3",
             "once": false
         },
         {
@@ -8408,8 +8408,8 @@
         },
         {
             "path": "mods/gdc-ae2bridge-0.1.0.jar",
-            "size": 16319,
-            "sha256": "404cae4d0f7fa19d4b37702a2fd2b79c4f0dde341e4d2c83db7b85dc29696254",
+            "size": 15636,
+            "sha256": "5c5e069fb3746befcb7523726337abf5f6961da28e6c305ed18bf21c55607d5e",
             "once": false
         },
         {
@@ -37811,5 +37811,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "03/06/2026 02:42:58,94"
+    "generated": "03/06/2026 03:27:07,22"
 }
