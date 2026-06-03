@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "e9a4a24ed6fafdea14e837556d56303ca537e1e21be5cf33ac1300ef0fb81ab2",
+            "sha256": "5cfb5c8cb5ddece2f3033aabe70d63dfa7d0b5f9bb40fb04280b7e9a8d0a96e5",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "57c39d5d5f212af4032ffe76a5c19a35897a65a7e6915b8f6d0d6355b92992d2",
+            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "8122131492e40ac7e0f2f4a7df0f7b65b36a9000b562dc83fc2cd52d8985bf6e",
+            "sha256": "c1081b4e8ad5f8dab025379c8e5390ce5a13e98bb5efdab989cb00e17ca8c3aa",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "6d232ec3ae45430765e432e0863f63111c7c9c3c9299d7a9cb9a509b0e6ea18b",
+            "sha256": "d3b92847470ed950ff36d37ac0527e46374e537934b811407aaa075a0da481ad",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "d571ac7d588956adea1ad05ec25dee6bb887e1721692b79cc894053de0f80704",
+            "sha256": "a5bc3ed428804d0812ab7d9b94827caab72e347d3892f8f09fec3f28df279cca",
             "once": false
         },
         {
@@ -3381,7 +3381,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "bed1fd6d00fd2fa0827b90e406c2a47e8ff3559fe5bd0b6b666c6e92da1e2677",
+            "sha256": "f6dc84269f2c6585b6dcd3d0d308d8146767ed70b3e65feac01d5d50b794fe99",
             "once": false
         },
         {
@@ -3441,7 +3441,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "4d27f7d6d2804a8958f078000aa62351a724c9d7c0f0c1578b760ce6f7e42631",
+            "sha256": "a38c1759adbf6a68f790322887f766ec2f575c6f33854c552a6ea14caf31d542",
             "once": false
         },
         {
@@ -4053,13 +4053,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "4e88dcda69dcc84fea9a09987ec6d71d997b8b9e44851a674eb190d73e67d2c9",
+            "sha256": "92afceede25628c13db58d448284eb829a1fd77a7fde19b713b8a60e2b5ee7d9",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "1949b52e99293fb05fc2d4a6881007ab3935cb6977dcf37ee23759f856d8eee3",
+            "sha256": "deb434344470d06d8cb0216210950c480c136abe5950e9f5547ed2f33739fa23",
             "once": false
         },
         {
@@ -8408,8 +8408,8 @@
         },
         {
             "path": "mods/gdc-ae2bridge-0.1.0.jar",
-            "size": 15636,
-            "sha256": "5c5e069fb3746befcb7523726337abf5f6961da28e6c305ed18bf21c55607d5e",
+            "size": 16730,
+            "sha256": "36dc864f7655418d3dfcd80db94b0d94e4244cc8cda8c379f763c728e38485e9",
             "once": false
         },
         {
@@ -37811,5 +37811,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "03/06/2026 03:27:07,22"
+    "generated": "03/06/2026 03:45:07,04"
 }
