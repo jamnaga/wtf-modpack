@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "83f11835d065a8f443b638a73e12486affc64e6f8eef5ff4a9feced282ce5fdc",
+            "sha256": "527e151a1cbe5db17f5b4a0682af836e49d61bdc897319138a8848ab8e28e7e0",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "a1daf2a6a9a3f21ff2bf4f21a504cc460ee24d1224e3e7c00a3bebf7bb4f628d",
+            "sha256": "38f547ec23e9689a98547d1a08c433e9acb44268695e39ab80923ef64bb4dec4",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "9f6717c4eaf8ea0f9f29793d3b763a43fc149278d2061d669ab6145dcc8ad4e8",
+            "sha256": "aeb8d1025844c6ede90f9ea22146c3276d3dc4d5cf9f4ba01f27a2aab0c473b6",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "b278f946944898e8f756383ab766c188c61d124f7e6f0a55087a176f99a49677",
+            "sha256": "41b67b0ca95bfb10ae903f8e784c15ccc87547035ef4d55e56e58d441961c55b",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "91cdc7b16684c7310d037088338697c7b05542801b6d601b0c8ec94ecd8dfd0e",
+            "sha256": "531fa5bf71479b7b18890be247cb87fb03c5f0aba97133841f1f53079a942339",
             "once": false
         },
         {
@@ -3381,7 +3381,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "52b3f3df75cfcddb449b368ca2b6f8f25131e0c8d8f38f38fc7aaf77f2f73cdb",
+            "sha256": "b0ef9652905f46243d2ead3e865f47f22eb7311c56a19939d8576be1eb3eede2",
             "once": false
         },
         {
@@ -3440,8 +3440,8 @@
         },
         {
             "path": "config/iris.properties",
-            "size": 278,
-            "sha256": "c2955f7b7cae87489cdd6c651be2324990082fb604ace9359419f20020aa0550",
+            "size": 279,
+            "sha256": "652b7123ae2d1bc8ca10abe0f09eaa02ab55141928e60143c3fe912b7df1b640",
             "once": false
         },
         {
@@ -4040,8 +4040,8 @@
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 11169,
-            "sha256": "98ce7746c0fe1633fe4bd6135f0cc9ac8f84fa866ec56ea8eb3f74a54cf5724b",
+            "size": 11553,
+            "sha256": "67c2d57d96e26c2f56f68ecbd9a79172d053c2e8bd9f8d798672e2a677f7cad5",
             "once": false
         },
         {
@@ -4053,13 +4053,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "bfe2a8405c704e43c14864a224bb6572e25eba725b9db4da14efad6d73cac85b",
+            "sha256": "cf8997b417781f0119b67c41a4f460eb73234108a1721e6dfde9dd5019c40eeb",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "70bb9347c97eff900b34ab9755ba421680b5224c1ded5ab5ef688c631cc38153",
+            "sha256": "ee2539578cdbad7fc8a285b4219b813de9b1e37a1120b9e759f30e5d60248899",
             "once": false
         },
         {
@@ -4520,8 +4520,8 @@
         },
         {
             "path": "config/voicechat/voicechat-client.properties",
-            "size": 4987,
-            "sha256": "3f2353882c26813c80029cce7ca3bdf6de0e6120444dbbcb5abfc5f6cccbe74d",
+            "size": 4986,
+            "sha256": "8cdef24006394fdfe6f9069611982c9d77a9248539dc93fd639d5b85bf7fc840",
             "once": true
         },
         {
@@ -8446,6 +8446,12 @@
             "path": "mods/gdc-targhe-0.1.0.jar",
             "size": 50223,
             "sha256": "5daf698cbb0aa15747572dc50fa47acb7c89c38f2a5e0685610891c5523da0f3",
+            "once": false
+        },
+        {
+            "path": "mods/gdcposta-0.1.0.jar",
+            "size": 48569,
+            "sha256": "5afc14b402be149ba41e83de9c1d319952e15c81e096ff523ba3d22609965950",
             "once": false
         },
         {
@@ -37817,5 +37823,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "03/06/2026 05:05:23,97"
+    "generated": "04/06/2026 01:18:53,29"
 }
