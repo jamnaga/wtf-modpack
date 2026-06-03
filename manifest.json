@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "1ee8281cfe74acdd9be512218aa5205bf021d72fc2b2ef8e6bcf0e8938e36c05",
+            "sha256": "0e383930396072237960904ae50f8937f27a6f04806f9ad9ffe1d329faecbc4a",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "1c8cb1984242df635a14f9ebace0d4b11d7aee83936bdb8b72e0cd4d37526d2b",
+            "sha256": "6610f4178001710fc9231261537c3504b0909308db45e9d05faa963b86346a89",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "70462d10dde750730ffde03556e247ea20e416c48bdd4ad6e816621c35481f02",
+            "sha256": "e31eb71d7344e76e737d025bca3d7835136b495eea448d12f6a5594cd8aa6ab4",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "55470c35f43614d55ab8a88888d36a4e60d278439292dfffaeca5a2db1ab6f61",
+            "sha256": "60e47bd031651409ee08d478eecbd47edb86c36785b7da64ace0c5e86939ce6f",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "2b871932266aadd2cb489ed491b8546a393d0dfa165eda2e3b0f329acfe490be",
+            "sha256": "80190e5041ab7e3d0f3def4c1795ffac93c50fed9d509aaa4c933ded81ebcbfd",
             "once": false
         },
         {
@@ -3104,8 +3104,8 @@
         },
         {
             "path": "config/fancymenu/customization/title_screen_layout.txt",
-            "size": 58082,
-            "sha256": "34421a0672eece6361e7516d63af90534ed4b9c3e4e5a59f609ebe5cc7b10eed",
+            "size": 58071,
+            "sha256": "12ade3ef3784804a4f6680ad90221fb32d043000a711245cfc4859a60b459e6d",
             "once": false
         },
         {
@@ -3381,7 +3381,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "1a5ace676a55fe3018902fcbe5a97fa1c7f13c900f009906f552889deec3076e",
+            "sha256": "217f029762b75a93353e7182de33490809e6bfb966ae276b529b6912ef42aa50",
             "once": false
         },
         {
@@ -3441,7 +3441,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "7b636b4f42a7bccdbba43bdf3122e2e9b15c818ba905186ce8f04fa48eea1bae",
+            "sha256": "3e99e1a6c1b208d50bfb9f42a5dc7b8ff15c53cfeff9bac2d1aa9295cb3d97c1",
             "once": false
         },
         {
@@ -37811,5 +37811,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "03/06/2026 02:32:35,96"
+    "generated": "03/06/2026 02:39:55,03"
 }
