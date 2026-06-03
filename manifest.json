@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "0e383930396072237960904ae50f8937f27a6f04806f9ad9ffe1d329faecbc4a",
+            "sha256": "8210a66158729dd8b93855936bf1bdb585078215c186c4978fc397e303a6fa5c",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "6610f4178001710fc9231261537c3504b0909308db45e9d05faa963b86346a89",
+            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "e31eb71d7344e76e737d025bca3d7835136b495eea448d12f6a5594cd8aa6ab4",
+            "sha256": "7659cbb3ec8196fefb53776226c043980a1d06d6b0d2b0840ec3095040b36cc5",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "60e47bd031651409ee08d478eecbd47edb86c36785b7da64ace0c5e86939ce6f",
+            "sha256": "f02746910e1ece1bb240b30325b68240eae4d0e3d2d65995ed03ffc223cacf52",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "80190e5041ab7e3d0f3def4c1795ffac93c50fed9d509aaa4c933ded81ebcbfd",
+            "sha256": "724bec4cf7f796feff9120a6a4f1ce6bced2a6cc1c55f4545756782c429f74e0",
             "once": false
         },
         {
@@ -3381,7 +3381,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "217f029762b75a93353e7182de33490809e6bfb966ae276b529b6912ef42aa50",
+            "sha256": "533533b46851e8b5be64ff1dfafa6e8850b18f983a92db10ffa7a1cde3ccb2db",
             "once": false
         },
         {
@@ -3441,7 +3441,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "3e99e1a6c1b208d50bfb9f42a5dc7b8ff15c53cfeff9bac2d1aa9295cb3d97c1",
+            "sha256": "4aa19756de9aa059675b8b3ebd34be840b19c533d39043a6f889396c8c410291",
             "once": false
         },
         {
@@ -4034,8 +4034,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8428,
-            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
+            "size": 8498,
+            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
             "once": false
         },
         {
@@ -4053,13 +4053,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "de602e0c87c1a76db8d9df02c5d344bab026b4661fc56c0c8eab46a51b8b14d3",
+            "sha256": "971402ff389a23da99f038dcecc855dc43ff5de7c86e80f07b55878ea441a868",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "d8a37983dd2aeef42cf85006146c461e4a55a73340676c101e3bd3a9156b71b1",
+            "sha256": "c03e3d2c7af5e313e6ac075a85ebde55bbaa27532cdd3545eec21670337a45d9",
             "once": false
         },
         {
@@ -8791,7 +8791,7 @@
             "once": false
         },
         {
-            "path": "mods/waterframes-FABRIC-mc1.20.1-v2.1.22.jar",
+            "path": "mods/waterframes-FABRIC-mc1.20.1-v2.1.22.jar.disabled",
             "size": 261974,
             "sha256": "7d8cff807bc53eaa6f4af2dc6c565d28a81663818c3dc566fd7c3a445b7b0962",
             "once": false
@@ -37811,5 +37811,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "03/06/2026 02:39:55,03"
+    "generated": "03/06/2026 02:42:58,94"
 }
