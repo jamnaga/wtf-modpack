@@ -8083,6 +8083,12 @@
             "once": false
         },
         {
+            "path": "mods/[client]gdc-players-0.1.0.jar",
+            "size": 33024,
+            "sha256": "5cd2a3606f25fb765497fa230036e081afcac806057ef1e5cb356e386badde06",
+            "once": false
+        },
+        {
             "path": "mods/[client]indium-1.0.36+mc1.20.1.jar",
             "size": 105382,
             "sha256": "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
@@ -8422,12 +8428,6 @@
             "path": "mods/gdc-fly-0.1.0.jar",
             "size": 20156,
             "sha256": "5ba763e0d53e80cf66dfc01f99ac8b4079069bcbef634d5902efe8a3fc0c3020",
-            "once": false
-        },
-        {
-            "path": "mods/gdc-players-0.1.0.jar",
-            "size": 33024,
-            "sha256": "5cd2a3606f25fb765497fa230036e081afcac806057ef1e5cb356e386badde06",
             "once": false
         },
         {
@@ -37817,5 +37817,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "03/06/2026 04:43:32,53"
+    "generated": "03/06/2026 04:44:09,82"
 }
