@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "02ab03563a7791b76c0d5e8a3c68122ad715dd4f501c354400a09194897a4b8d",
+            "sha256": "b0418886792816284c7af3b0c5a4aae71e51cf8813bdb624803b4672331e55b5",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "57c39d5d5f212af4032ffe76a5c19a35897a65a7e6915b8f6d0d6355b92992d2",
+            "sha256": "5e409c6e19f9a444998de529c611fc79e39846cefce9888b1e21a6526e3adb55",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "7309732dc07f968ae7744bddbbfaad8f704ee29f910f3790ca2052b653d4fb0b",
+            "sha256": "9a3c87aca2fa4190b6c80d5f41db1833f2c68946a47c6046926397d274c73595",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "51dee148aff2dae48e2b31307f9faf8877b205e42fba656a331a8bede5e25a7c",
+            "sha256": "d32394b1f7472665a60e1fd702fbe146dd036b676216c6ca1678107e26c7d4b5",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "c752c72e2a3044e0b962a9b24d997bdd55cb7964c43a1a91c413bbba1cbaeb0b",
+            "sha256": "338d77fcae2242c7c9bf015096e76be0d8fff9d544cfe66805dab67578c87482",
             "once": false
         },
         {
@@ -3381,7 +3381,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "8022d3a7b93cdeb8ec364d1b33580dd75820647d1006c8eb286a34f366485397",
+            "sha256": "595a680dc209c71319ea660c4d205514b611b99e738d2a4d5cbadf63e82f7e22",
             "once": false
         },
         {
@@ -3441,7 +3441,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "35e51cb8fc706ca60f3c41468ec41f7389780761f06d53e6fb42bd4433996991",
+            "sha256": "057ce7c53fc02ad977e484b70e85d76a71bbd50d032457a0a1b6045f9c4c914a",
             "once": false
         },
         {
@@ -4053,13 +4053,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "02948978ee0beef969754fb5716526cb4fe8f298483e4af4fd5327fc8f3f78ef",
+            "sha256": "8472cdabcadaa3fd1416964e7181ec597b91c677e4df469c8cf53370c839f3ed",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "cac30aa918b063b5807c0653b27b25f4e830bcdd0fb4f1fe49a0f94a1a7ee2d1",
+            "sha256": "e336bd9a0456868316dda0d114f6fb30a6ac22a27844b318f58bfee118d2cbf0",
             "once": false
         },
         {
@@ -8422,6 +8422,12 @@
             "path": "mods/gdc-fly-0.1.0.jar",
             "size": 20156,
             "sha256": "5ba763e0d53e80cf66dfc01f99ac8b4079069bcbef634d5902efe8a3fc0c3020",
+            "once": false
+        },
+        {
+            "path": "mods/gdc-players-0.1.0.jar",
+            "size": 33024,
+            "sha256": "5cd2a3606f25fb765497fa230036e081afcac806057ef1e5cb356e386badde06",
             "once": false
         },
         {
@@ -37811,5 +37817,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "03/06/2026 03:53:01,08"
+    "generated": "03/06/2026 04:43:32,53"
 }
