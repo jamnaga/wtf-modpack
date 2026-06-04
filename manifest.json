@@ -3,7 +3,7 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "f2f74aaa0104c5d173f6991a8981bd988d2f46e75a4b725848166fe1f81e9e78",
+            "sha256": "cca5d59e1e49dd449fa1766f13fd49dafc8b970abdb2c79525382d8428e48eb1",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "9eae92d7a76f7f0526c7653a8391580f6ce6d887d4925312569f72d77164fe2a",
+            "sha256": "293b91e32ce9694a7800c4529d3ffdd62d71959485a355d1ff6857f982ac2f36",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "e8b86ee813f2c67ced074946ec58f5f86016df08797b3ec09de3dfddbe9470f1",
+            "sha256": "d09b4e96ec724ef686eb2923e08872096af51525346d7fe7e92cfeec93b11b33",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "c65b3a35e2cf07c7a6adb194201dbdd850aa3552b30493720d0d467a17bab859",
+            "sha256": "7c44da6d379e319752b20bfa5e18a3f23d5d0fa8646566b611cef2d8dfa384e4",
             "once": false
         },
         {
@@ -3387,7 +3387,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "434d5e338fb23259ca1c1c5be6e7507b5955348518df7f243e6a7b9ad90fb982",
+            "sha256": "fe5093f7dd3f2d40e5b49264723e1c3b7529a3a81509cfd5a35468cdfe1846e4",
             "once": false
         },
         {
@@ -3447,7 +3447,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "cff9c65aefc154746e17949f7d8a632cd9029425798a155a46cb199241709c34",
+            "sha256": "bfb0bd3d0600b0de2cabe5b7fe8cbb894bfa176e621ebe747392e22a2ee30592",
             "once": false
         },
         {
@@ -4059,13 +4059,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "52b9992b044d5960070609c437f8cce27a802c8d0fe81c91bfbe08757226be90",
+            "sha256": "ed6305ea6543aca5131f440ebbbe1ec3fb49985cb076b557133b91017a57e05e",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "fa0e2d9ca1f2f432c6f23375660757a47b85b7b161d82b7c37b4dcc6663cfb83",
+            "sha256": "08140beb5b4798be089f3bce20dd9e973f013ec6ee9e4cd2c9cdcf7284f1b378",
             "once": false
         },
         {
@@ -8437,6 +8437,12 @@
             "once": false
         },
         {
+            "path": "mods/gdc-chiosco-0.1.0.jar",
+            "size": 81788,
+            "sha256": "c36e739bf30b6d2d7f8df6c1aab6905812f636dbc2ffeb9200588cd3e7c9ad92",
+            "once": false
+        },
+        {
             "path": "mods/gdc-fly-0.1.0.jar",
             "size": 20156,
             "sha256": "5ba763e0d53e80cf66dfc01f99ac8b4079069bcbef634d5902efe8a3fc0c3020",
@@ -8464,6 +8470,12 @@
             "path": "mods/gdcposta-0.1.0.jar",
             "size": 53205,
             "sha256": "107c29b16354788e07f0773e82930bf38c01b36f133eeaaedfe7d7f5205c5b13",
+            "once": false
+        },
+        {
+            "path": "mods/gdcposta-0.2.0.jar",
+            "size": 57868,
+            "sha256": "dc88968940515e4aac2b89c8921f1ac6bf88c5839d88a1f3e40cc805727f912b",
             "once": false
         },
         {
@@ -37779,7 +37791,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "69089a2908fafc34b24d1c65cf2c3297451785b1f7a8a4a702f4209ab6924bad",
+            "sha256": "191bc221b758709a7033a0acd1fe67cdf80824496614741744bcb96809980ac0",
             "once": false
         },
         {
@@ -37841,5 +37853,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "04/06/2026 16:49:26,83"
+    "generated": "04/06/2026 20:43:17,60"
 }
