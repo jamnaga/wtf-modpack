@@ -8467,12 +8467,6 @@
             "once": false
         },
         {
-            "path": "mods/gdcposta-0.1.0.jar",
-            "size": 53205,
-            "sha256": "107c29b16354788e07f0773e82930bf38c01b36f133eeaaedfe7d7f5205c5b13",
-            "once": false
-        },
-        {
             "path": "mods/gdcposta-0.2.0.jar",
             "size": 57868,
             "sha256": "dc88968940515e4aac2b89c8921f1ac6bf88c5839d88a1f3e40cc805727f912b",
@@ -37853,5 +37847,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "04/06/2026 20:43:17,60"
+    "generated": "04/06/2026 20:44:44,93"
 }
