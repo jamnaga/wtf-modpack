@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "534b13f135ae34d2c49c97899eac7349c5cab870874037018d301ee6684d4715",
+            "sha256": "9afd2b5321659e5e9875ee44e83c7c74e4fc2305b4114e90d06254416673e10d",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "5e409c6e19f9a444998de529c611fc79e39846cefce9888b1e21a6526e3adb55",
+            "sha256": "7e77929ccb36962f4757e7dac125606b1dcefe774798cfa7602654e37be38f07",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "92efcb4d1a690245e5fd7f5a66d936919744f6437589e6ade456abf3b0972ba3",
+            "sha256": "b654e57d2c88c05991b633c16eb236e3bd22e884a722222d08a5fbffebb80b29",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "902d92619d08d197cf776e36d1ee1470735af99f4c9ecbfb629833ca1f34dee8",
+            "sha256": "86b892e4f58c51bf056fe7af034c7ea5a8c4f324d7316bbbf3a45f71bfe7246e",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "fa585c409b60ef46a58bc0052dda288d9d041ad9d6114763ff5b7f5e6b9a1445",
+            "sha256": "877ce0511ccd172ce50fa62115d260c36658841ea5a620ff6f8d77c1164705f1",
             "once": false
         },
         {
@@ -3128,8 +3128,8 @@
         },
         {
             "path": "config/fancymenu/options.txt",
-            "size": 4449,
-            "sha256": "4d7d847a3664024410dc196497b308bcb1fe69737545d031c7defd3e822ec546",
+            "size": 4450,
+            "sha256": "bb1b6f5a8614597b0a1bcbdc4f8dcd20cd21dad300ef99a02ba6fe43b8a1764d",
             "once": false
         },
         {
@@ -3387,7 +3387,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "a5ffdd9efaca1a745f9cdd89a43615a277d843fa7299bac2b762983bab8079c6",
+            "sha256": "6b0bdca1210ea0ec144ef7444bc8f6ab7d1576fcfc1026f024e001f6f8729b73",
             "once": false
         },
         {
@@ -3447,7 +3447,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "d1b8941cbb0ddaa1cc710518a2b20da06d0205e598a61db38e6bf3a0dfa9f1e5",
+            "sha256": "081b98e92e6826b865e9afca5568e80eaa443709fc8934e5ff20bd22cc1d3755",
             "once": false
         },
         {
@@ -4059,13 +4059,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "2923c1714375e4476042c7c463916acb7ff8ca3be6fcc7678a03e78139076f34",
+            "sha256": "4ef182d8fd9a11b761d886ee9e968cc7f7517b2b2bc4f871af35fe8b92685b21",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "e0a75029e55ff9c74c158bb444b2aeb461d8add7c80de391a7514f4a55998db6",
+            "sha256": "f44823a6af0f1d00c6fb67d131edb59db914d976bd47a28e457e9f5975ec585e",
             "once": false
         },
         {
@@ -8462,8 +8462,8 @@
         },
         {
             "path": "mods/gdcposta-0.1.0.jar",
-            "size": 48738,
-            "sha256": "9ff03e3d38a2ec29241dd9f3ce87893461aabd484386608a65bab0e64f120666",
+            "size": 51126,
+            "sha256": "c0c71e1010b560e8d3dca90e66803f8e9e41795beff210a4eb6871535cc27e6e",
             "once": false
         },
         {
@@ -37779,7 +37779,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "fd169072a2855a191ef05a71f4f0978afadaba74d144815605abecd9447d7aca",
+            "sha256": "1baee7189c1835712a8c0396a9f4cb010a6d13d01596d5cc259fa74193f8bbf0",
             "once": false
         },
         {
@@ -37841,5 +37841,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "04/06/2026 01:52:06,06"
+    "generated": "04/06/2026 02:22:38,98"
 }
