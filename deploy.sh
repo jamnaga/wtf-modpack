@@ -410,6 +410,11 @@ wizard_add_files() {
     # Trim leading/trailing whitespace (tipici da copy-paste o autocompletion del terminale)
     entry="${entry#"${entry%%[![:space:]]*}"}"
     entry="${entry%"${entry##*[![:space:]]}"}"
+    # Rimuovi virgolette singole o doppie bilanciate attorno al path
+    # (utenti che incollano path già quotati dalla shell).
+    if [[ "$entry" == \'*\' || "$entry" == \"*\" ]] && [[ ${#entry} -ge 2 ]]; then
+      entry="${entry:1:${#entry}-2}"
+    fi
     [[ -z "$entry" ]] && break
 
     if [[ "$entry" == "c" ]]; then
