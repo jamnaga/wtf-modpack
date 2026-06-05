@@ -2366,8 +2366,8 @@
         },
         {
             "path": ".manifestignore",
-            "size": 323,
-            "sha256": "1dee96227d88bc4ba932478e52834f979d3c9202905007ea5363db10e74cea2b",
+            "size": 329,
+            "sha256": "28eb8c6588a80a7f9ead488a92f4a94ed58d278d7b7d205a325ae75d61784daf",
             "once": false
         },
         {
@@ -4658,8 +4658,8 @@
         },
         {
             "path": "deploy.sh",
-            "size": 23935,
-            "sha256": "3f1b3ffd56ff0266050f4015c0b05c3e1ee6b98a0f28b1f090dbbd64f1767162",
+            "size": 25968,
+            "sha256": "d45aeb8401ff33c3927c85d39c9026e1c6eafa5cb00a07f11652551a227e83d9",
             "once": false
         },
         {
@@ -5680,1980 +5680,6 @@
             "path": "irisUpdateInfo.json",
             "size": 315,
             "sha256": "2ae3d55c9841b7dd3a610bbdfcbba81f40003f6ef942942fbf1aef100fbb73e7",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/DISCLAIMER",
-            "size": 2765,
-            "sha256": "d83d865ecf5cdbc8fe11c279a7f00876027f0f1eb8b521c76075480496db4ffb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/Welcome.html",
-            "size": 1213,
-            "sha256": "c8ebf772ea7d874dd67df462d8be9047d1fb4c5993b39f308478016a0e7a1bcb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/WinFallbackLookup.dll",
-            "size": 27680,
-            "sha256": "ab3de6beb16306d1418f059c636e85ded13865c2d2d6ffff7dce5beb51385dfa",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-console-l1-1-0.dll",
-            "size": 22056,
-            "sha256": "869ec6bc79d1da594b0db2cfa510472ca781ffd826acbe7716198415ea3a3605",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-console-l1-2-0.dll",
-            "size": 21960,
-            "sha256": "69a12b4beba7e6cf1a9b7263e2c6a494a60ddbbed0bd8c40920c51179f571d99",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-datetime-l1-1-0.dll",
-            "size": 22056,
-            "sha256": "60675dfc2cb2af87456032d28d454baa4821d6b1921cb03f12a2891def445fd6",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-debug-l1-1-0.dll",
-            "size": 21960,
-            "sha256": "3182765b6cae55cf4c67b9cb5b6f0b037f323585950ff9b6301b59e5e5acf780",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-errorhandling-l1-1-0.dll",
-            "size": 22056,
-            "sha256": "3746169e2226c52c7b930bbffc8f3e263283d559d3237c4e193cbb07abaced1c",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-fibers-l1-1-0.dll",
-            "size": 22056,
-            "sha256": "7ad9720c4999b88c8b8db1dcb1ee765f374900b489b2f09bb40e4951b68b0aab",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-fibers-l1-1-1.dll",
-            "size": 21960,
-            "sha256": "6599741ffe12d3e90ef2b456b64cee90425ff995bc0d1c3cd9c754ddba6697ae",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-file-l1-1-0.dll",
-            "size": 26056,
-            "sha256": "3a7bdd492a945a962eb18f486ae7bcddc2bbd5b43a12eb461057a6cdc5657f5f",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-file-l1-2-0.dll",
-            "size": 22072,
-            "sha256": "1b384401b534ca9a61dce7f51c8d54b9eabb625f86569bf09e449be5724c6ca0",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-file-l2-1-0.dll",
-            "size": 22056,
-            "sha256": "1d2f1efefd0a802190f0257aac7e1589d08ffbaea550c561c69c1827e57b55e7",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-handle-l1-1-0.dll",
-            "size": 22072,
-            "sha256": "819976a22a6648536ba0c184d80d093d867d513849baa8f7011fade104a7f8c0",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-heap-l1-1-0.dll",
-            "size": 22072,
-            "sha256": "83ca55315263d7a42d16cf032e67b79359052321c43c5df97d687c2f4d84a79c",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-interlocked-l1-1-0.dll",
-            "size": 22072,
-            "sha256": "7e32a4463c99e54dd1366658b4284020e1a3384c4c366761116309dae49ee831",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-kernel32-legacy-l1-1-1.dll",
-            "size": 21960,
-            "sha256": "82bb3c053e3c8f4ed9127d3a4d0d5bea73d13b98a023073ea0f039ca96405c09",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-libraryloader-l1-1-0.dll",
-            "size": 21960,
-            "sha256": "c29c1592af0578c58f2f37e77a044573e8c9fda4daba184c3ac5032b061693a5",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-localization-l1-2-0.dll",
-            "size": 22056,
-            "sha256": "2fb638be18863ef6077fef2b7f4ebda92527b8e19d2e5b39eba27b3bf96a7fed",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-memory-l1-1-0.dll",
-            "size": 22056,
-            "sha256": "7aacd77d48b5a7595c59ef95c09d65bd9ee6644206b0878a8108398563b09515",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-namedpipe-l1-1-0.dll",
-            "size": 22056,
-            "sha256": "c184419f20f5ea131239e627dcad237da804a5fd21b446846f5c0d60b06a7b49",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-processenvironment-l1-1-0.dll",
-            "size": 22056,
-            "sha256": "9ab3de163dd167a9423946c308a6f225e22172e8547ccf154e0269d258588df7",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-processthreads-l1-1-0.dll",
-            "size": 22056,
-            "sha256": "f5b2cd5c8fbe89ac55a09b6939cfacdd0861ff47e1fc3df300412603fa96e00b",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-processthreads-l1-1-1.dll",
-            "size": 22072,
-            "sha256": "5a3d41a750d1d6714232448193e57ab7d8fd718ba9cec24c7afc71f69886dae3",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-profile-l1-1-0.dll",
-            "size": 21944,
-            "sha256": "23a1324112574ad2f7d903a881592354e8fe915ba3086e830b9dc49cfbf7154c",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-rtlsupport-l1-1-0.dll",
-            "size": 21944,
-            "sha256": "17423b1dfc0d5c9246a1b4c50bce5af931b186ad66268761b2611e611d9adbb3",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-string-l1-1-0.dll",
-            "size": 22072,
-            "sha256": "ac5a66b65ead96dfbc63afd947601bd276c1c5ede2a7acc0d580b02ef104892a",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-synch-l1-1-0.dll",
-            "size": 21944,
-            "sha256": "2d577cdae281cd49141a87340d21ee3b372a297ef9ce35e82cf449dd352f380d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-synch-l1-2-0.dll",
-            "size": 22072,
-            "sha256": "220a7cee500b92a005b58d45006b1b98545fcd2040dda5d3d750fe2e6de5c62b",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-sysinfo-l1-1-0.dll",
-            "size": 21960,
-            "sha256": "371442d516a47a8949945f85c6bb0fe3c3b88731de07a4ff457c2b041c928cfd",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-sysinfo-l1-2-0.dll",
-            "size": 21960,
-            "sha256": "da65cf54767305c74eaf35e39ac8b7ff472c2df5e22a84e4fc465e2448d2fea3",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-timezone-l1-1-0.dll",
-            "size": 21944,
-            "sha256": "9dae313de05c31ab6583545323e422dd1bdaec4aa26e81cbea0d5b69b632fd0c",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-core-util-l1-1-0.dll",
-            "size": 22056,
-            "sha256": "d627df017ddcf7472c761f9796cb55fc7a2347f05cc897bf6c7c29aee8e4dd0c",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-conio-l1-1-0.dll",
-            "size": 22072,
-            "sha256": "4324863a74391b29229e5376020de3e1a04f436abbd4604e305307fde4601fa7",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-convert-l1-1-0.dll",
-            "size": 26040,
-            "sha256": "6f997e4a9837f42295fa25f45cb564f5efa93c99768e2a2e2643008ecffe97b0",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-environment-l1-1-0.dll",
-            "size": 21944,
-            "sha256": "3c0893659c504d16984d6b87c61c98fa050d60473ff77e294f69fdb7fae155bb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-filesystem-l1-1-0.dll",
-            "size": 21944,
-            "sha256": "924099811552d0e9623d220fd9f9348a14d44ef08694a15d442010193574b1fe",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-heap-l1-1-0.dll",
-            "size": 22056,
-            "sha256": "2cfc2c7c376630b595e3582ccd2dda019f82ae5dc1665d34d3621e2c62e1a868",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-locale-l1-1-0.dll",
-            "size": 22072,
-            "sha256": "3c2bc1ebdcb4c6fedefc5b82419a1a4b5ba035c3f5453e9d083dccdbfe2d9e95",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-math-l1-1-0.dll",
-            "size": 30248,
-            "sha256": "930fbbcfd3fbd97bfc2c0174f059ff48f33fa54274e409ed6d629a7230e45aa0",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-multibyte-l1-1-0.dll",
-            "size": 30264,
-            "sha256": "ebf235dce2322da2bf32ff0ddc0e2b0a159b1360ee0a07e3604f621fca883125",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-private-l1-1-0.dll",
-            "size": 75320,
-            "sha256": "0b6c38eae2ba2929b5a25393766cf66028b0d5d2cd51c218528a8df9f62cafee",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-process-l1-1-0.dll",
-            "size": 21944,
-            "sha256": "4efdca4ac7819401a586e2abebc3b858ba8ba0b13ad296c6afacd583500f2575",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-runtime-l1-1-0.dll",
-            "size": 26168,
-            "sha256": "5e9837abf4517eb8f74edcf7ea08a3d32916e253d9c24663869dda40cf7b0280",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-stdio-l1-1-0.dll",
-            "size": 26168,
-            "sha256": "f2a7e41ededd62b2c192fe6381c8cc33f9bd223164ffc8b38623c9220c009ccb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-string-l1-1-0.dll",
-            "size": 26168,
-            "sha256": "0b337649b564a760abb57e21fb2a755cff080a604034b71c3e8a3cc48c7da71d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-time-l1-1-0.dll",
-            "size": 21944,
-            "sha256": "63a56aa00ca3bec9225e516ccd336003fc4145c1c1439c7d4d9925d8be24c0e7",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/api-ms-win-crt-utility-l1-1-0.dll",
-            "size": 21944,
-            "sha256": "dc75e73ff3f294ada7e9646b51b2ed137f5c26364cbbd71f36a8f5029a3111db",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/awt.dll",
-            "size": 1486368,
-            "sha256": "d179dd06db88bcf4f87a2ae97d8b82033934a4c592b5bf1320015b571d71914e",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/debug.log",
-            "size": 380903,
-            "sha256": "87815c3b747daef500915981b3c74a6ddc16dc06cd04fd577149c160c9087dfc",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/dt_socket.dll",
-            "size": 35872,
-            "sha256": "ef216f019aced75ef830b7407555af7a094c6c01e55d84ef7b26c2868d38fdce",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/extnet.dll",
-            "size": 23584,
-            "sha256": "d43ee525ba5739cf1b9c624306ac9708feb065c36cc0070df7df480d488e8eda",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/fontmanager.dll",
-            "size": 878112,
-            "sha256": "13396907d1d23288d92cf41ef0be65facd4902c4925f3c6643ce6a8bf909aef4",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/freetype.dll",
-            "size": 548384,
-            "sha256": "e2767a375b92ccee5401dc7766ff3eb4d14d2c5a1743da7d9f0ab2d8e9c754b8",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/instrument.dll",
-            "size": 51744,
-            "sha256": "20cfc01d3030b9ce76908ff9501c9a7bfa18db7b77d1b01b4bdcfe81b8c80f7a",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/j2gss.dll",
-            "size": 50720,
-            "sha256": "d0f52ae9b5ad545834dafa32e471916f89a231c53d8d74017cc5aa152a2507bd",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/j2pcsc.dll",
-            "size": 26144,
-            "sha256": "3f51cb85fe924efd1f8f01a88611388268d50f3c66963c81e19beb5db8a2f6bf",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/j2pkcs11.dll",
-            "size": 78880,
-            "sha256": "0138f717a8d397219136fadfdbe8d1194ca93470adb5bae13870582a9798bef7",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/jaas.dll",
-            "size": 28192,
-            "sha256": "3199797d22228b5c468b5996e4938a3eea43419a4f0f7c6fc55fd537417701d6",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/jabswitch.exe",
-            "size": 45088,
-            "sha256": "d337781e8bb50dfcaf2409b391ddc43d2e9a4bf27a2b0828d1c3669e55f9c955",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/jaccessinspector.exe",
-            "size": 106528,
-            "sha256": "85479e1ba9d090db20fadbed058e89686d235d66943a8bd5e3b36528bd96463e",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/jaccesswalker.exe",
-            "size": 70688,
-            "sha256": "64f1eb191c39c3f1be9d70b02e44a9931389622b700f909fa4e318ef7096ec05",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/java.dll",
-            "size": 146976,
-            "sha256": "c153c116fb65e5273383a1fda35d374a8dce0c51f411f7b208fbbb53dcedd831",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/java.exe",
-            "size": 49696,
-            "sha256": "e2b24721cd0c56e0ec7a03082202b1816cb16e261502b33fd9648b432f0e1503",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/javaaccessbridge.dll",
-            "size": 304672,
-            "sha256": "7f853e64dcf20a2e856b017dcbb5e6e485bea04521037d88e3af8cbdcae1e803",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/javajpeg.dll",
-            "size": 178720,
-            "sha256": "86fcc25258b82b395a4e92776df315e08ae86f83ded66962ed7d9e8ca4d4822f",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/javaw.exe",
-            "size": 49696,
-            "sha256": "fdb1e6a8baba3fadee6143b7c4870ec307c6122086072e5843caafc88476f452",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/jawt.dll",
-            "size": 21024,
-            "sha256": "00126cc1ae79f981f293785fbf13ed9ad3c239173c84d315aa53613c83505c8e",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/jdwp.dll",
-            "size": 229920,
-            "sha256": "ecd63664d6502f272855e1e54642a31d70afebeba2e73d7f99d666ea4260343b",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/jfr.exe",
-            "size": 23584,
-            "sha256": "96068359ad6bd6409591358d0e10eba912d9d67cc937dda9b882ec372a1fbb38",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/jimage.dll",
-            "size": 33312,
-            "sha256": "289f304171ee5a3591058666fbd77046a3c403932ba4ed8c2d530fb564ab5fe3",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/jli.dll",
-            "size": 92192,
-            "sha256": "5453ef260b73037d7c6395baa076898d76c33b72cc760e85207a245a3b628807",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/jrunscript.exe",
-            "size": 23584,
-            "sha256": "fd05d7f9b1a36815e6e3c133141cb6d3df83ad91be70f8655baaab1e6c2f406d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/jsound.dll",
-            "size": 61472,
-            "sha256": "8d6a403c97b15519b1c0a9ad849dac3d65341fcde3856f47ac4a31dad40bf403",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/jsvml.dll",
-            "size": 869920,
-            "sha256": "2631eb2abd84bf6792ffc5dc8e58e5404a81e3b861d5ff36d707a8c36748b74f",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/keytool.exe",
-            "size": 23584,
-            "sha256": "d5ab4e9cfbf4f82814d037ff258ecd9ad822387d539ba9cf34c2d4258e30d25e",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/kinit.exe",
-            "size": 23584,
-            "sha256": "83f5016e8d803c25155abef02e120f5570d45ba15084ff404ec6bfe1a5ea88b1",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/klist.exe",
-            "size": 23584,
-            "sha256": "e7be11090e357b8374f46e674e10843bbe3eb6a0b67f77ff94edc2a3db363770",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/ktab.exe",
-            "size": 23584,
-            "sha256": "7cfffcd017e3f6f1e3971901bcb8397fb415029950a497781178329dc161c806",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/lcms.dll",
-            "size": 256032,
-            "sha256": "7b8318550f4afe731d4578cc4cdf037c82c88dcd795eff03fa4cb0be006e348e",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/management.dll",
-            "size": 28704,
-            "sha256": "a336e6af620c047a08f3a20571c8647b1aeb762bc46c3faaa585898bcdfaade8",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/management_agent.dll",
-            "size": 24096,
-            "sha256": "066c0de0b745c9222c6560db69b9bf6db0c76754fb81e80769fe3345b3d75199",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/management_ext.dll",
-            "size": 35872,
-            "sha256": "1b35397eb549745473bcd8b8fbb08e884adcadbc654c0fd413a50c4cdc53511b",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/mlib_image.dll",
-            "size": 509984,
-            "sha256": "d62249c626272ffb45a21f24d793f46652ac6d3ce9ff7b3f7e698719718213da",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/msvcp140.dll",
-            "size": 575056,
-            "sha256": "a4c2229bdc2a2a630acdc095b4d86008e5c3e3bc7773174354f3da4f5beb9cde",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/net.dll",
-            "size": 96800,
-            "sha256": "5069c0ed3d8d3d419aa07600afc2c0e095fdd4f915165a33e0ee82698342ad2c",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/nio.dll",
-            "size": 79904,
-            "sha256": "45fd1508c0142d31fe0f93d67d291a67089084aed9d75dca6dc5d3388ba3781d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/prefs.dll",
-            "size": 25632,
-            "sha256": "078f96fff79729ec4a59d3f8663fd43b6687d5c35a4543c626dbdc0ee428afe5",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/rmi.dll",
-            "size": 21024,
-            "sha256": "900c3b6cb86373c6ddf730bfef2b825f6dc61c4290d9f562108262cf722997da",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/rmiregistry.exe",
-            "size": 23584,
-            "sha256": "2618798d1bd6e4b3edee0d2a64096bc9a0d286734372c88d23801297031d8ecc",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/server/classes.jsa",
-            "size": 11272192,
-            "sha256": "db01bc25493cbbbeacdc2b6a1ae6c970a4c83bb77763cd2006bf7aa00672c1b6",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/server/classes_nocoops.jsa",
-            "size": 11272192,
-            "sha256": "bcba6611a4600b73bac57456eb7f7f86b52992531568dc8de17b0d7ec79a547d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/server/jvm.dll",
-            "size": 12715040,
-            "sha256": "b891c9301d562bc91b246f939e498fd3016ed954fb7a902075f39fd5855dd657",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/splashscreen.dll",
-            "size": 220192,
-            "sha256": "cd4817b440d2382c49601f0bebb5a7e9a777e6c2b0e05eb4887736bdbbea96a4",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/sspi_bridge.dll",
-            "size": 44576,
-            "sha256": "11fbb35e48cf3fb45caaf30c2c4c1dc8f2093419f395b6716555b9d2e79d1d2c",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/sunmscapi.dll",
-            "size": 47648,
-            "sha256": "2b29ba706c7c79a10b2391a5a3260514878e5d06164ab5b528fe25bae1667f8c",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/ucrtbase.dll",
-            "size": 1357256,
-            "sha256": "d404dc9aa843d53d7e276dd078b2cac8d7aa905e2838a1fe8385278e19ba3810",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/vcruntime140.dll",
-            "size": 119888,
-            "sha256": "02c6aa0e6e624411a9f19b0360a7865ab15908e26024510e5c38a9c08362c35a",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/vcruntime140_1.dll",
-            "size": 49640,
-            "sha256": "7dd9aa02e271c68ca6d5f18d651d23a15d7259715af43326578f7dde27f37637",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/verify.dll",
-            "size": 54816,
-            "sha256": "bfd5cb550793db19d7f8416d9f48070fe9240dd456af084cb33d2ec96cf86727",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/w2k_lsa_auth.dll",
-            "size": 31264,
-            "sha256": "e4b2151bf2a6699919335eb9be154eb054d6561cf76b3b106e03efd0e050038f",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/windowsaccessbridge-64.dll",
-            "size": 72224,
-            "sha256": "0a1947fd996b7c23f8df7815d5738c7cc62f8a64fe5b048d785678ad2b57da42",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/bin/zip.dll",
-            "size": 89120,
-            "sha256": "871228bb090e794050b4eca93b57e8e31deace16bf2c98f1ceaaaab022f110f2",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/logging.properties",
-            "size": 2732,
-            "sha256": "b62d2733ab99556b108a1951d894c5a8d76b1ac7a00c02c388f9eb9be046c56f",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/management/jmxremote.access",
-            "size": 3997,
-            "sha256": "0c25d26ee212ca1e8c33f67c3c460d43fe849c3a1d23dbe341148517602b280c",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/management/jmxremote.password.template",
-            "size": 5690,
-            "sha256": "0273b6a6b9e20e6ce54c5aee70164028e0395063b2b7d39060a40b6495543dbf",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/management/management.properties",
-            "size": 14410,
-            "sha256": "f80096ec028dcb71625c398ec16d12023cafc6a1c055aceaed07d02e8d56f637",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/net.properties",
-            "size": 7504,
-            "sha256": "56dd1f6095c189c1052f6baa32e457efc09de4832e19cdb82bb236dc8abfee9f",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/java.policy",
-            "size": 2293,
-            "sha256": "1224c11b69032c80e1493416641c82a37e558913a41f959f83ab2f96f097d6c0",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/java.security",
-            "size": 58250,
-            "sha256": "78386673a271141a99fba065590b02d8a886945e2fc313a65d9619ab443a22b1",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/policy/README.txt",
-            "size": 2390,
-            "sha256": "6da0747334b0fea7592fd92614b2bbc8b126535e129b1fee483774d914e98eb5",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/policy/limited/default_US_export.policy",
-            "size": 146,
-            "sha256": "758b930a526fc670ab7537f8c26321527050a31f5f42149a2dda623c56a0a1a9",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/policy/limited/default_local.policy",
-            "size": 647,
-            "sha256": "2b2627548e61316150d47ffc3e6cad465ca05b3cccd4785eb7d21aa7baa0f441",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/policy/limited/exempt_local.policy",
-            "size": 566,
-            "sha256": "8c3d7648abcd95a272ce12db870082937f4d7f6878d730d83cb7fbb31eb8b2c9",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/policy/unlimited/default_US_export.policy",
-            "size": 146,
-            "sha256": "758b930a526fc670ab7537f8c26321527050a31f5f42149a2dda623c56a0a1a9",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/security/policy/unlimited/default_local.policy",
-            "size": 193,
-            "sha256": "8d8a318e6d90dfd7e26612d2b6385aa704f686ca6134c551f8928418d92b851a",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/conf/sound.properties",
-            "size": 1210,
-            "sha256": "299c2360b6155eb28990ec49cd21753f97e43442fe8fab03e04f3e213df43a66",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/com.azul.crs.client/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/com.azul.crs.client/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/com.azul.crs.client/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/com.azul.crs.client/crs-asm.md",
-            "size": 1578,
-            "sha256": "db966057af84b64a34949ef5b08ed73c285149e7e32689821d4816d6c45f522f",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/com.azul.tooling/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/com.azul.tooling/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/com.azul.tooling/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/ADDITIONAL_LICENSE_INFO",
-            "size": 2114,
-            "sha256": "a69bce275ba7a3570af6579cb0f55682cd75fedfcd49e0e8e9022270c447c916",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/ASSEMBLY_EXCEPTION",
-            "size": 1522,
-            "sha256": "a44eb7b5caf5534c6ef536b21edb40b4d6babf91bf97d9d45596868618b2c6fb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/LICENSE",
-            "size": 19274,
-            "sha256": "4b9abebc4338048a7c2dc184e9f800deb349366bdf28eb23c2677a77b4c87726",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/aes.md",
-            "size": 1444,
-            "sha256": "45c6d4da48325edfbff3dcf71c704e504c057904435ed23c6d57046d551eb69d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/asm.md",
-            "size": 1584,
-            "sha256": "1ff912740e84e024711def5fa482ffbb46eff64559760c467352dfa7c39a3307",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/c-libutl.md",
-            "size": 1556,
-            "sha256": "bef40679922d6fdfb7e4ddb223ad6722300f6054ba737bbf6188d60fcec517f9",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/cldr.md",
-            "size": 9130,
-            "sha256": "f2bd33ded550a05d59e8f659416ef382490504548d846e6388b1dffd273aa077",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/icu.md",
-            "size": 11086,
-            "sha256": "af0057e8553906083f69c2fb9fe9ed4ae8bc2340a0b1e376a424702f00300b29",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/public_suffix.md",
-            "size": 17785,
-            "sha256": "54bd8ebaa51b530b13082da28457ae188f76cc64977607e0bc61e0ab11cd7aa7",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/siphash.md",
-            "size": 8256,
-            "sha256": "5a792b5a74ad2a5f3d6a7ad8b7a841116e58a772c18bc6e392320a365b222c76",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/unicode.md",
-            "size": 2384,
-            "sha256": "5e4e6623a21a63f9bc16ea54af4133b8038e490c0d499a74676f9e5a61b9c5b2",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/wepoll.md",
-            "size": 1454,
-            "sha256": "3ac2992770080453b98c42afa807ba4b2c1738ef756b92a55c645f55e7df48f0",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.base/zlib.md",
-            "size": 1010,
-            "sha256": "809b62ba648e02302f7d9ea6b6886c10d5253ac86ad528038a50c73eada5fce2",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.compiler/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.compiler/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.compiler/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.datatransfer/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.datatransfer/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.datatransfer/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/colorimaging.md",
-            "size": 741,
-            "sha256": "129dd272e6343cb400abbe3df310d85c79e4e753d50c53b0c1f928c047aca4b0",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/freetype.md",
-            "size": 30422,
-            "sha256": "ea4bec570ed35eb163aff9420f7ce08f6f9378c115bdcf7865dc1cd1d4d4ea48",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/giflib.md",
-            "size": 1646,
-            "sha256": "6cd971730d3047ea57f6865b7bdca2509a9876ae24d5c0ed0c4e32def5f9107e",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/harfbuzz.md",
-            "size": 3627,
-            "sha256": "721d7c5a24bd0c0a59fe5ee1fde1c17541a745c038e3883d4b184a21779f4e48",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/jpeg.md",
-            "size": 3475,
-            "sha256": "580be596216ee11e2554b24ce944973acaede2ebf5ffba34a6bd8cc441c05043",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/lcms.md",
-            "size": 2544,
-            "sha256": "e9f5f374cb4116acbd82ec39b0a1f93ab1f5adfd8c208488ba8f97de65e86446",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/libpng.md",
-            "size": 7195,
-            "sha256": "26429c1eb65db41cac81999bebd705a60a5dba1d837664e4cc94f54d5867d818",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.desktop/mesa3d.md",
-            "size": 5732,
-            "sha256": "63f4e6f75caebbccb95d903fb43e46ac7111b3624d0a34f146b276d7d9e7b152",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.instrument/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.instrument/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.instrument/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.logging/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.logging/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.logging/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.management.rmi/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.management.rmi/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.management.rmi/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.management/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.management/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.management/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.naming/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.naming/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.naming/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.net.http/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.net.http/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.net.http/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.prefs/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.prefs/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.prefs/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.rmi/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.rmi/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.rmi/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.scripting/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.scripting/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.scripting/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.se/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.se/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.se/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.security.jgss/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.security.jgss/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.security.jgss/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.security.sasl/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.security.sasl/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.security.sasl/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.smartcardio/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.smartcardio/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.smartcardio/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.sql.rowset/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.sql.rowset/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.sql.rowset/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.sql/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.sql/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.sql/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.transaction.xa/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.transaction.xa/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.transaction.xa/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml.crypto/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml.crypto/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml.crypto/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml.crypto/santuario.md",
-            "size": 11499,
-            "sha256": "b7764b61731d4ee9567b090f34d02237afcfb0377e5d1136c7ad3ef345cc4937",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/bcel.md",
-            "size": 11195,
-            "sha256": "853a1e7ce397bb10de0e2b3bde0844bcc651f17d983decd07d2d003c0304c311",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/dom.md",
-            "size": 3761,
-            "sha256": "6686e8877667584a3a7c07344baadca1a03e29f677162d87c3c0811e990d1148",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/jcup.md",
-            "size": 1448,
-            "sha256": "8d5dcfdf50455a3c34c753a98f21e953248af200415a9084e3f102cb6c43b8bf",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/xalan.md",
-            "size": 13494,
-            "sha256": "ea67226be5cfe19c7e79725c2c24a16676323264d69f9747c528de0b44541b03",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/java.xml/xerces.md",
-            "size": 11852,
-            "sha256": "472224f99de833f4f4c19f2f8a0317f22114e1c641f5d77ffa3a4280a1b80176",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.accessibility/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.accessibility/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.charsets/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.charsets/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.charsets/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.cryptoki/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.cryptoki/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.cryptoki/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md",
-            "size": 4095,
-            "sha256": "1f36ff1342a581142c858f90064e20633d43529ac82adb85345bd902a14e18b2",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.cryptoki/pkcs11wrapper.md",
-            "size": 2131,
-            "sha256": "371974b1fca3744a3892c7ee1fcc593b8b4281fc218f4cafd2f709e9df5fd81d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.ec/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.ec/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.mscapi/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.mscapi/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.crypto.mscapi/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.dynalink/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.dynalink/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.dynalink/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.dynalink/dynalink.md",
-            "size": 1502,
-            "sha256": "17312591cabee3ef6c34ed8897d92e4e361ba9cea41ec00dcd61a322a8fc2cdb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.httpserver/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.httpserver/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.httpserver/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.incubator.foreign/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.incubator.foreign/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.incubator.foreign/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.incubator.vector/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.incubator.vector/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.incubator.vector/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.internal.vm.ci/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.internal.vm.ci/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.internal.vm.ci/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.internal.vm.compiler.management/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.internal.vm.compiler.management/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.internal.vm.compiler.management/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.internal.vm.compiler/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.internal.vm.compiler/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.internal.vm.compiler/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.jdwp.agent/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.jdwp.agent/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.jdwp.agent/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.jfr/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.jfr/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.jfr/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.jsobject/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.jsobject/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.jsobject/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.localedata/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.localedata/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.localedata/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.localedata/cldr.md",
-            "size": 32,
-            "sha256": "c8aba9b5d0b6904764d93994e97c3f1d182ba791257634036982bae5bb3eb58c",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.localedata/thaidict.md",
-            "size": 1346,
-            "sha256": "c326144a2351c9608fa708b5d7d3c5a3da03e82b66479b128e9db4969539824a",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.management.agent/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.management.agent/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.management.agent/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.management.jfr/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.management.jfr/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.management.jfr/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.management/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.management/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.management/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.naming.dns/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.naming.dns/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.naming.dns/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.naming.rmi/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.naming.rmi/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.naming.rmi/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.net/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.net/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.net/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.nio.mapmode/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.nio.mapmode/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.nio.mapmode/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.random/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.random/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.random/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.sctp/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.sctp/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.sctp/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.security.auth/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.security.auth/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.security.auth/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.security.jgss/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.security.jgss/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.security.jgss/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.unsupported/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.unsupported/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.unsupported/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.xml.dom/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.xml.dom/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.xml.dom/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.zipfs/ADDITIONAL_LICENSE_INFO",
-            "size": 48,
-            "sha256": "31cf9d68e91f003b1d332f2a7517c3439e1a6571ff9dc4b740122a53cdcd4f5d",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.zipfs/ASSEMBLY_EXCEPTION",
-            "size": 43,
-            "sha256": "619a29daab4a59e606c31d43bbd3c80dae8cc496559b353b74d85bea91f134ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/legal/jdk.zipfs/LICENSE",
-            "size": 32,
-            "sha256": "9e4ffc186121534972af9be8632e57b2b2f3cf203a10f2205e5814120f2b5bfb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/classlist",
-            "size": 71788,
-            "sha256": "b6e1a13e691127afddeaaf472dd967f9fd84cb54632136566190e0cf0d45454e",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/fontconfig.bfc",
-            "size": 4630,
-            "sha256": "968ac99bbaaf8a49a474c934e73ad58f88c6c7f2a363cb44771e0378444e36ba",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/fontconfig.properties.src",
-            "size": 12345,
-            "sha256": "b44540473b97364e0f7a8a0002dd21d7a0717028fa1533f139bc98f40c91c0f0",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/jawt.lib",
-            "size": 1682,
-            "sha256": "4ef584eff8bf701fcfe1f80a5dff2e2846833aa0ed2145be8624a73cce1fface",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/jfr/default.jfc",
-            "size": 35912,
-            "sha256": "361f53708abb16fad960cc1acdbf2e0c44d26bba19f25f0f701c7b956b8c207e",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/jfr/profile.jfc",
-            "size": 35871,
-            "sha256": "9da7ab71c763344677cabe8898496b0aad1fb42fe49363d5e1ae00df8a1baded",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/jrt-fs.jar",
-            "size": 110515,
-            "sha256": "c6cd8c1213edde93845d5f9bebe208804b6bf53f6f2fb5df75bee3a791db8d9c",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/jvm.cfg",
-            "size": 29,
-            "sha256": "aa9efb969444c1484e29adecab55a122458090616e766b2f1230ef05bc3867e0",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/jvm.lib",
-            "size": 1043062,
-            "sha256": "a693e09d3b950cd3d7323d2ebed1f6012704b4c806a029bb31f21b6cd6e79f95",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/modules",
-            "size": 84018684,
-            "sha256": "afe421123748fbdebe4a46d2894851cd4ee605525716b73bae30f949694f9570",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/psfont.properties.ja",
-            "size": 3793,
-            "sha256": "5a4bd51b969bf187ff86d94f4a71fdfbfa602762975fa3c73d264b4575f7c78f",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/psfontj2d.properties",
-            "size": 11390,
-            "sha256": "780c565d5af3ee6f68b887b75c041cdf46a0592f67012f12eeb691283e92630a",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/security/blocked.certs",
-            "size": 2488,
-            "sha256": "96572f243f31c2ef81a6e627542e596f6a9295cff3c7ae095c1b595cb1457ded",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/security/cacerts",
-            "size": 126674,
-            "sha256": "8fe06f7f215933a643f348fda34a8e2835aadd6ea54356f1283448df5cd27c72",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/security/default.policy",
-            "size": 12493,
-            "sha256": "8367df1325de0f00bb9b7201c7b4b217ae01da7e03fcdcd9f8ae62869cd751fb",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/security/public_suffix_list.dat",
-            "size": 230382,
-            "sha256": "3a2e10e573625dab5489812711b874c05a115ac2471bf90776e45561e8f52e8a",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/tzdb.dat",
-            "size": 101803,
-            "sha256": "fd55364d6c1619040abd43ef6af9232e704dfb5d4f9c34feba58c35e2a08a4bf",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/lib/tzmappings",
-            "size": 21638,
-            "sha256": "78b549294c63d171d29317c100cb25d3bb18201dbdffc44af11e2608f92c6da2",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/readme.txt",
-            "size": 863,
-            "sha256": "91a2ee7783a44da2804a5db7853f03e478c615d79b52ebbd8d15cb58750f197f",
-            "once": false
-        },
-        {
-            "path": "java/zulu17.58.21-ca-jre17.0.15-win_x64/release",
-            "size": 1090,
-            "sha256": "d2f1ac268a65592f16afbee43d07c39505eea3a6576e67a6f17e0d50845490c4",
             "once": false
         },
         {
@@ -37855,9 +35881,361 @@
                     "sha256": "f4f5a4bc87f9dda4538b3f47df7733b33ec4bb6317652839482435855894885f"
                 }
             ]
+        },
+        {
+            "name": "Java Runtime",
+            "description": "Zulu Java",
+            "version": "1.0.0",
+            "archiveType": "7z",
+            "parts": [
+                "Java_Binaries.7z.001"
+            ],
+            "extractTo": "java/",
+            "filesToExtract": [
+                "DISCLAIMER",
+                "api-ms-win-crt-time-l1-1-0.dll",
+                "api-ms-win-crt-filesystem-l1-1-0.dll",
+                "instrument.dll",
+                "api-ms-win-crt-utility-l1-1-0.dll",
+                "vcruntime140.dll",
+                "rmiregistry.exe",
+                "api-ms-win-core-console-l1-1-0.dll",
+                "kinit.exe",
+                "prefs.dll",
+                "api-ms-win-core-processenvironment-l1-1-0.dll",
+                "j2pcsc.dll",
+                "verify.dll",
+                "jsound.dll",
+                "jaccesswalker.exe",
+                "jaccessinspector.exe",
+                "ucrtbase.dll",
+                "api-ms-win-core-file-l1-1-0.dll",
+                "w2k_lsa_auth.dll",
+                "jli.dll",
+                "api-ms-win-core-errorhandling-l1-1-0.dll",
+                "lcms.dll",
+                "javaaccessbridge.dll",
+                "api-ms-win-crt-process-l1-1-0.dll",
+                "keytool.exe",
+                "api-ms-win-core-heap-l1-1-0.dll",
+                "jsvml.dll",
+                "rmi.dll",
+                "api-ms-win-core-processthreads-l1-1-1.dll",
+                "freetype.dll",
+                "api-ms-win-core-processthreads-l1-1-0.dll",
+                "api-ms-win-core-console-l1-2-0.dll",
+                "ktab.exe",
+                "api-ms-win-crt-convert-l1-1-0.dll",
+                "api-ms-win-crt-private-l1-1-0.dll",
+                "api-ms-win-core-file-l2-1-0.dll",
+                "net.dll",
+                "api-ms-win-core-debug-l1-1-0.dll",
+                "jaas.dll",
+                "api-ms-win-crt-stdio-l1-1-0.dll",
+                "extnet.dll",
+                "classes_nocoops.jsa",
+                "classes.jsa",
+                "jvm.dll",
+                "api-ms-win-core-localization-l1-2-0.dll",
+                "klist.exe",
+                "api-ms-win-core-datetime-l1-1-0.dll",
+                "j2pkcs11.dll",
+                "api-ms-win-crt-math-l1-1-0.dll",
+                "management_agent.dll",
+                "api-ms-win-core-file-l1-2-0.dll",
+                "api-ms-win-core-timezone-l1-1-0.dll",
+                "nio.dll",
+                "api-ms-win-core-rtlsupport-l1-1-0.dll",
+                "api-ms-win-core-handle-l1-1-0.dll",
+                "dt_socket.dll",
+                "api-ms-win-core-synch-l1-1-0.dll",
+                "api-ms-win-core-string-l1-1-0.dll",
+                "javaw.exe",
+                "javajpeg.dll",
+                "java.dll",
+                "jrunscript.exe",
+                "sspi_bridge.dll",
+                "vcruntime140_1.dll",
+                "jimage.dll",
+                "api-ms-win-core-interlocked-l1-1-0.dll",
+                "api-ms-win-core-sysinfo-l1-2-0.dll",
+                "awt.dll",
+                "api-ms-win-core-memory-l1-1-0.dll",
+                "debug.log",
+                "jawt.dll",
+                "api-ms-win-core-util-l1-1-0.dll",
+                "management.dll",
+                "api-ms-win-core-namedpipe-l1-1-0.dll",
+                "fontmanager.dll",
+                "mlib_image.dll",
+                "splashscreen.dll",
+                "WinFallbackLookup.dll",
+                "jabswitch.exe",
+                "sunmscapi.dll",
+                "api-ms-win-crt-conio-l1-1-0.dll",
+                "api-ms-win-crt-runtime-l1-1-0.dll",
+                "api-ms-win-crt-string-l1-1-0.dll",
+                "api-ms-win-crt-multibyte-l1-1-0.dll",
+                "api-ms-win-core-synch-l1-2-0.dll",
+                "api-ms-win-core-profile-l1-1-0.dll",
+                "api-ms-win-crt-locale-l1-1-0.dll",
+                "jfr.exe",
+                "api-ms-win-core-fibers-l1-1-0.dll",
+                "api-ms-win-crt-heap-l1-1-0.dll",
+                "api-ms-win-core-sysinfo-l1-1-0.dll",
+                "jdwp.dll",
+                "api-ms-win-core-fibers-l1-1-1.dll",
+                "windowsaccessbridge-64.dll",
+                "api-ms-win-core-libraryloader-l1-1-0.dll",
+                "api-ms-win-core-kernel32-legacy-l1-1-1.dll",
+                "java.exe",
+                "api-ms-win-crt-environment-l1-1-0.dll",
+                "msvcp140.dll",
+                "zip.dll",
+                "j2gss.dll",
+                "management_ext.dll",
+                "release",
+                "Welcome.html",
+                "tzmappings",
+                "psfontj2d.properties",
+                "fontconfig.properties.src",
+                "jvm.cfg",
+                "public_suffix_list.dat",
+                "default.policy",
+                "cacerts",
+                "blocked.certs",
+                "default.jfc",
+                "profile.jfc",
+                "tzdb.dat",
+                "jrt-fs.jar",
+                "fontconfig.bfc",
+                "jawt.lib",
+                "psfont.properties.ja",
+                "modules",
+                "classlist",
+                "jvm.lib",
+                "readme.txt",
+                "LICENSE",
+                "ADDITIONAL_LICENSE_INFO",
+                "ASSEMBLY_EXCEPTION",
+                "2_LICENSE",
+                "2_ADDITIONAL_LICENSE_INFO",
+                "2_ASSEMBLY_EXCEPTION",
+                "3_LICENSE",
+                "3_ADDITIONAL_LICENSE_INFO",
+                "3_ASSEMBLY_EXCEPTION",
+                "4_LICENSE",
+                "4_ADDITIONAL_LICENSE_INFO",
+                "4_ASSEMBLY_EXCEPTION",
+                "5_LICENSE",
+                "5_ADDITIONAL_LICENSE_INFO",
+                "5_ASSEMBLY_EXCEPTION",
+                "6_LICENSE",
+                "6_ADDITIONAL_LICENSE_INFO",
+                "6_ASSEMBLY_EXCEPTION",
+                "7_LICENSE",
+                "7_ADDITIONAL_LICENSE_INFO",
+                "7_ASSEMBLY_EXCEPTION",
+                "8_LICENSE",
+                "8_ADDITIONAL_LICENSE_INFO",
+                "8_ASSEMBLY_EXCEPTION",
+                "9_LICENSE",
+                "9_ADDITIONAL_LICENSE_INFO",
+                "9_ASSEMBLY_EXCEPTION",
+                "10_LICENSE",
+                "10_ADDITIONAL_LICENSE_INFO",
+                "10_ASSEMBLY_EXCEPTION",
+                "11_LICENSE",
+                "11_ADDITIONAL_LICENSE_INFO",
+                "11_ASSEMBLY_EXCEPTION",
+                "12_LICENSE",
+                "12_ADDITIONAL_LICENSE_INFO",
+                "12_ASSEMBLY_EXCEPTION",
+                "dynalink.md",
+                "13_LICENSE",
+                "13_ADDITIONAL_LICENSE_INFO",
+                "13_ASSEMBLY_EXCEPTION",
+                "14_LICENSE",
+                "14_ADDITIONAL_LICENSE_INFO",
+                "14_ASSEMBLY_EXCEPTION",
+                "bcel.md",
+                "15_LICENSE",
+                "xalan.md",
+                "15_ADDITIONAL_LICENSE_INFO",
+                "15_ASSEMBLY_EXCEPTION",
+                "dom.md",
+                "jcup.md",
+                "xerces.md",
+                "16_LICENSE",
+                "16_ADDITIONAL_LICENSE_INFO",
+                "16_ASSEMBLY_EXCEPTION",
+                "17_LICENSE",
+                "17_ADDITIONAL_LICENSE_INFO",
+                "17_ASSEMBLY_EXCEPTION",
+                "18_LICENSE",
+                "18_ADDITIONAL_LICENSE_INFO",
+                "18_ASSEMBLY_EXCEPTION",
+                "cldr.md",
+                "thaidict.md",
+                "19_LICENSE",
+                "19_ADDITIONAL_LICENSE_INFO",
+                "19_ASSEMBLY_EXCEPTION",
+                "20_LICENSE",
+                "20_ADDITIONAL_LICENSE_INFO",
+                "20_ASSEMBLY_EXCEPTION",
+                "21_LICENSE",
+                "21_ADDITIONAL_LICENSE_INFO",
+                "21_ASSEMBLY_EXCEPTION",
+                "pkcs11wrapper.md",
+                "pkcs11cryptotoken.md",
+                "22_LICENSE",
+                "22_ADDITIONAL_LICENSE_INFO",
+                "22_ASSEMBLY_EXCEPTION",
+                "23_LICENSE",
+                "23_ADDITIONAL_LICENSE_INFO",
+                "23_ASSEMBLY_EXCEPTION",
+                "24_LICENSE",
+                "24_ADDITIONAL_LICENSE_INFO",
+                "24_ASSEMBLY_EXCEPTION",
+                "siphash.md",
+                "asm.md",
+                "zlib.md",
+                "25_LICENSE",
+                "public_suffix.md",
+                "25_ADDITIONAL_LICENSE_INFO",
+                "25_ASSEMBLY_EXCEPTION",
+                "2_cldr.md",
+                "wepoll.md",
+                "icu.md",
+                "unicode.md",
+                "c-libutl.md",
+                "aes.md",
+                "26_LICENSE",
+                "26_ADDITIONAL_LICENSE_INFO",
+                "26_ASSEMBLY_EXCEPTION",
+                "27_LICENSE",
+                "27_ADDITIONAL_LICENSE_INFO",
+                "27_ASSEMBLY_EXCEPTION",
+                "28_LICENSE",
+                "28_ADDITIONAL_LICENSE_INFO",
+                "28_ASSEMBLY_EXCEPTION",
+                "29_LICENSE",
+                "29_ADDITIONAL_LICENSE_INFO",
+                "29_ASSEMBLY_EXCEPTION",
+                "30_LICENSE",
+                "30_ADDITIONAL_LICENSE_INFO",
+                "30_ASSEMBLY_EXCEPTION",
+                "31_LICENSE",
+                "31_ADDITIONAL_LICENSE_INFO",
+                "31_ASSEMBLY_EXCEPTION",
+                "32_LICENSE",
+                "32_ADDITIONAL_LICENSE_INFO",
+                "32_ASSEMBLY_EXCEPTION",
+                "33_LICENSE",
+                "33_ADDITIONAL_LICENSE_INFO",
+                "33_ASSEMBLY_EXCEPTION",
+                "34_LICENSE",
+                "34_ADDITIONAL_LICENSE_INFO",
+                "34_ASSEMBLY_EXCEPTION",
+                "35_LICENSE",
+                "35_ADDITIONAL_LICENSE_INFO",
+                "35_ASSEMBLY_EXCEPTION",
+                "36_LICENSE",
+                "36_ADDITIONAL_LICENSE_INFO",
+                "36_ASSEMBLY_EXCEPTION",
+                "37_LICENSE",
+                "37_ADDITIONAL_LICENSE_INFO",
+                "37_ASSEMBLY_EXCEPTION",
+                "38_LICENSE",
+                "38_ADDITIONAL_LICENSE_INFO",
+                "38_ASSEMBLY_EXCEPTION",
+                "39_LICENSE",
+                "39_ADDITIONAL_LICENSE_INFO",
+                "39_ASSEMBLY_EXCEPTION",
+                "40_LICENSE",
+                "40_ADDITIONAL_LICENSE_INFO",
+                "40_ASSEMBLY_EXCEPTION",
+                "41_LICENSE",
+                "41_ADDITIONAL_LICENSE_INFO",
+                "41_ASSEMBLY_EXCEPTION",
+                "42_LICENSE",
+                "42_ADDITIONAL_LICENSE_INFO",
+                "42_ASSEMBLY_EXCEPTION",
+                "43_LICENSE",
+                "43_ADDITIONAL_LICENSE_INFO",
+                "43_ASSEMBLY_EXCEPTION",
+                "44_LICENSE",
+                "44_ADDITIONAL_LICENSE_INFO",
+                "44_ASSEMBLY_EXCEPTION",
+                "45_LICENSE",
+                "45_ADDITIONAL_LICENSE_INFO",
+                "45_ASSEMBLY_EXCEPTION",
+                "46_LICENSE",
+                "46_ADDITIONAL_LICENSE_INFO",
+                "46_ASSEMBLY_EXCEPTION",
+                "47_LICENSE",
+                "47_ADDITIONAL_LICENSE_INFO",
+                "47_ASSEMBLY_EXCEPTION",
+                "48_LICENSE",
+                "48_ADDITIONAL_LICENSE_INFO",
+                "48_ASSEMBLY_EXCEPTION",
+                "crs-asm.md",
+                "freetype.md",
+                "mesa3d.md",
+                "colorimaging.md",
+                "49_LICENSE",
+                "libpng.md",
+                "49_ADDITIONAL_LICENSE_INFO",
+                "49_ASSEMBLY_EXCEPTION",
+                "giflib.md",
+                "harfbuzz.md",
+                "jpeg.md",
+                "lcms.md",
+                "50_LICENSE",
+                "50_ADDITIONAL_LICENSE_INFO",
+                "50_ASSEMBLY_EXCEPTION",
+                "51_LICENSE",
+                "51_ADDITIONAL_LICENSE_INFO",
+                "51_ASSEMBLY_EXCEPTION",
+                "52_LICENSE",
+                "52_ADDITIONAL_LICENSE_INFO",
+                "52_ASSEMBLY_EXCEPTION",
+                "53_LICENSE",
+                "53_ADDITIONAL_LICENSE_INFO",
+                "53_ASSEMBLY_EXCEPTION",
+                "santuario.md",
+                "54_LICENSE",
+                "54_ADDITIONAL_LICENSE_INFO",
+                "54_ASSEMBLY_EXCEPTION",
+                "logging.properties",
+                "sound.properties",
+                "java.security",
+                "java.policy",
+                "default_US_export.policy",
+                "default_local.policy",
+                "2_README.txt",
+                "2_default_US_export.policy",
+                "exempt_local.policy",
+                "2_default_local.policy",
+                "net.properties",
+                "jmxremote.access",
+                "management.properties",
+                "jmxremote.password.template"
+            ],
+            "action": "extract",
+            "overwrite": true,
+            "required": true,
+            "progressMessage": "*currentPart* di *totalParts* | Scaricamento di Java Zulu 17.58.21: *percentage*%",
+            "files": [
+                {
+                    "path": "packages/Java_Binaries/Java_Binaries.7z.001",
+                    "size": 23801424,
+                    "sha256": "515a7f4c4fc7e46a29512e670f73066801838e1114af29cedf97286c3312b67e"
+                }
+            ]
         }
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "05/06/2026 19:02:01,61"
+    "generated": "05/06/2026 19:32:22,92"
 }
