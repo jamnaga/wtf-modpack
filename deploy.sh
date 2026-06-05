@@ -410,10 +410,20 @@ wizard_add_files() {
     # Trim leading/trailing whitespace (tipici da copy-paste o autocompletion del terminale)
     entry="${entry#"${entry%%[![:space:]]*}"}"
     entry="${entry%"${entry##*[![:space:]]}"}"
-    # Rimuovi virgolette singole o doppie bilanciate attorno al path
-    # (utenti che incollano path già quotati dalla shell).
-    if [[ "$entry" == \'*\' || "$entry" == \"*\" ]] && [[ ${#entry} -ge 2 ]]; then
-      entry="${entry:1:${#entry}-2}"
+    # Rimuovi virgolette di apertura/chiusura attorno al path:
+    # - ASCII:        '...'  oppure  "..."
+    # - Unicode curly: ‘...’  oppure  “...”
+    # (macOS sostituisce spesso le virgolette dritte in app come Notes/Pages.)
+    local _LSQUO=$'\xe2\x80\x98' _RSQUO=$'\xe2\x80\x99'
+    local _LDQUO=$'\xe2\x80\x9c' _RDQUO=$'\xe2\x80\x9d'
+    if [[ ${#entry} -ge 2 ]]; then
+      if [[ "$entry" == \'*\' || "$entry" == \"*\" ]]; then
+        entry="${entry:1:${#entry}-2}"
+      elif [[ "$entry" == "${_LSQUO}"*"${_RSQUO}" ]]; then
+        entry="${entry#$_LSQUO}"; entry="${entry%$_RSQUO}"
+      elif [[ "$entry" == "${_LDQUO}"*"${_RDQUO}" ]]; then
+        entry="${entry#$_LDQUO}"; entry="${entry%$_RDQUO}"
+      fi
     fi
     [[ -z "$entry" ]] && break
 
