@@ -3884,8 +3884,8 @@
         },
         {
             "path": "config/openpartiesandclaims-server.toml",
-            "size": 39284,
-            "sha256": "fc9809916718749c241d87aac6993a23b1a3be593366b10d43647d64cddc9e32",
+            "size": 39925,
+            "sha256": "6bd3f174468ab153e04d738fd0455b9737ae73b64165241d244cc56ce5a2c5c5",
             "once": false
         },
         {
@@ -4658,8 +4658,8 @@
         },
         {
             "path": "deploy.sh",
-            "size": 23935,
-            "sha256": "3f1b3ffd56ff0266050f4015c0b05c3e1ee6b98a0f28b1f090dbbd64f1767162",
+            "size": 25968,
+            "sha256": "d45aeb8401ff33c3927c85d39c9026e1c6eafa5cb00a07f11652551a227e83d9",
             "once": false
         },
         {
@@ -37859,5 +37859,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "05/06/2026 19:02:01,61"
+    "generated": "05/06/2026 20:55:17,22"
 }
