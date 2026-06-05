@@ -490,24 +490,57 @@ wizard_add_files() {
       matches=("$f")
     fi
 
+    # Espandi ricorsivamente le directory: dato un match (da glob o path singolo),
+    # se è un file lo prende, se è una dir fa find -type f (esclude .DS_Store).
+    local file_list=()
     local m
     for m in "${matches[@]}"; do
-      if [[ ! -f "$m" ]]; then
-        ui_warn "Salto (non è un file regolare): $m"
+      if [[ -d "$m" ]]; then
+        local ff
+        while IFS= read -r -d '' ff; do
+          file_list+=("$ff")
+        done < <(find "$m" -type f ! -name '.DS_Store' -print0 2>/dev/null)
+      elif [[ -f "$m" ]]; then
+        file_list+=("$m")
+      else
+        ui_warn "Salto (non è file né directory): $m"
+      fi
+    done
+
+    if [[ ${#file_list[@]} -eq 0 ]]; then
+      ui_warn "Niente da aggiungere."
+      ui_pause
+      continue
+    fi
+
+    # Conferma se l'operazione coinvolge molti file (evita aggiunte accidentali)
+    if [[ ${#file_list[@]} -gt 50 ]]; then
+      echo
+      ui_info "Stai per aggiungere ${#file_list[@]} file."
+      if ! ui_yesno "Continuare?" "y"; then
         continue
       fi
-      # evita duplicati
+    fi
+
+    # Aggiungi al package, ignora duplicati
+    local added=0
+    local f
+    for f in "${file_list[@]}"; do
       local dup=0
       local existing
       for existing in "${PKG_FILES[@]+"${PKG_FILES[@]}"}"; do
-        if [[ "$existing" == "$m" ]]; then dup=1; break; fi
+        if [[ "$existing" == "$f" ]]; then dup=1; break; fi
       done
-      if [[ $dup -eq 1 ]]; then
-        continue
-      fi
-      PKG_FILES+=("$m")
-      PKG_FILES_INSIDE_ROOT+=("$(file_inside_manifest_tree "$m")")
+      [[ $dup -eq 1 ]] && continue
+      PKG_FILES+=("$f")
+      PKG_FILES_INSIDE_ROOT+=("$(file_inside_manifest_tree "$f")")
+      added=$((added + 1))
     done
+
+    if [[ $added -gt 0 ]]; then
+      ui_ok "Aggiunti $added file (totale: ${#PKG_FILES[@]})"
+      sleep 1
+    fi
   done
 }
 
