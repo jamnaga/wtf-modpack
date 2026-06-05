@@ -449,10 +449,16 @@ wizard_add_files() {
       # Glob: relativo a SCRIPT_DIR se non assoluto
       local pattern="$entry"
       [[ "$pattern" != /* ]] && pattern="$SCRIPT_DIR/$pattern"
+      # Disabilita word splitting (IFS vuoto) per preservare gli spazi nel path,
+      # mantenendo il pathname expansion (glob). Altrimenti "Application Support"
+      # verrebbe spezzato in due parole prima dell'espansione del glob.
+      local oldIFS="$IFS"
+      IFS=
       shopt -s nullglob
       local m
       for m in $pattern; do matches+=("$m"); done
       shopt -u nullglob
+      IFS="$oldIFS"
       if [[ ${#matches[@]} -eq 0 ]]; then
         ui_warn "Nessun file matcha: $entry"
         ui_pause
