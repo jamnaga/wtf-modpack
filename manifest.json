@@ -8444,8 +8444,8 @@
         },
         {
             "path": "mods/gdc-chiosco-0.1.0.jar",
-            "size": 132705,
-            "sha256": "45be8213f361c6f8e063b15ed127db07370802d00adc5359069ceaf3353b0fd7",
+            "size": 178392,
+            "sha256": "63d39e25302894bef088afe0ec98ec949f8cba3bf7c40e7928fee6b195d16bee",
             "once": false
         },
         {
@@ -37853,5 +37853,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "06/06/2026 04:50:05,34"
+    "generated": "06/06/2026 15:13:52,45"
 }
