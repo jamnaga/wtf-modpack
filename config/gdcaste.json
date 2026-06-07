@@ -1,0 +1,15 @@
+{
+  "feeRatePercent": 5,
+  "minStartPrice": 1,
+  "maxStartPrice": 100000000,
+  "minIncrementFloor": 1,
+  "durationsHours": [
+    1,
+    6,
+    12,
+    24,
+    72,
+    168
+  ],
+  "tickIntervalSeconds": 5
+}
