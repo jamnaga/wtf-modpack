@@ -10,13 +10,16 @@ sortReversed:false
 ignoreHeightmaps:false
 
 //dimension types (DO NOT EDIT)
-dimensionType:ad_astra$moon_orbit:ad_astra$moon_orbit
-dimensionType:minecraft$void2:minecraft$overworld
-dimensionType:minecraft$overworld:minecraft$overworld
-dimensionType:ad_astra$moon:ad_astra$moon
 dimensionType:minecraft$void:minecraft$overworld
+dimensionType:ad_astra$moon:ad_astra$moon
+dimensionType:mbackrooms$level_zero:mbackrooms$level_zero
+dimensionType:ad_astra$mercury:ad_astra$mercury
+dimensionType:ad_astra$moon_orbit:ad_astra$moon_orbit
 dimensionType:minecraft$the_nether:minecraft$the_nether
 dimensionType:mbackrooms$level_one:mbackrooms$level_one
 dimensionType:minecraft$flat:minecraft$overworld
-dimensionType:mbackrooms$level_zero:mbackrooms$level_zero
+dimensionType:ad_astra$venus:ad_astra$venus
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:ad_astra$glacio:ad_astra$glacio
+dimensionType:minecraft$void2:minecraft$overworld
 //server waypoints
