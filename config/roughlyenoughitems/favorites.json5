@@ -59,7 +59,6 @@
 		"{data:{Count:1b,id:\"minecraft:jungle_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"automobility:rear_attachment\",tag:{attachment:\"automobility:passenger_seat\"},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:stripped_bamboo_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:stripped_birch_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:oak_button\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:brick_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_log\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
@@ -81,7 +80,6 @@
 		"{data:{Count:1b,id:\"pfm:diorite_classic_nightstand\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:bamboo_pressure_plate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:brown_shulker_box\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:oak_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"supplementaries:candle_holder_yellow\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"ae2:wireless_terminal\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:mossy_cobblestone_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
@@ -96,7 +94,6 @@
 		"{data:{Count:1b,id:\"minecraft:enchanted_book\",tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:jungle_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_trapdoor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:oak_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:flint_and_steel\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_fence\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:bamboo_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
@@ -104,7 +101,13 @@
 		"{data:{Count:1b,id:\"nirvana:old_pipe\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:birch_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:smooth_red_sandstone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:birch_pressure_plate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{Count:1b,id:\"minecraft:birch_pressure_plate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:oak_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:jungle_log\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:dark_oak_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:activator_rail\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:stripped_birch_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:oak_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []
