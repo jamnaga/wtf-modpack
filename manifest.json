@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "e9f16f813c6c836526646677285091b17e88d0f54ed419e142bcfd115e930dfd",
+            "sha256": "0afc3ed527d7c3a6dd5ac69a503ee0cb14565f5d38e48af5dc09a9940414daf2",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "c3bbbf91ba7c8e6f332bfd650ba40f1dace41e8e874a774dd1db0a80b5ebc236",
+            "sha256": "fc85499a4670d769f657bcb9b44c4b5b56fd7f67c13bc7f7bd22d6784ccb6c4f",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "66701dc3a5f20a303f5502cd4219c93b4b2364e0065bb20740ead78653550f53",
+            "sha256": "ecebc61f854724270217382f6cd3a8a27a9c5c4245b0b049737d4230344cc478",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "8f80a18599960f8e6f5f35370363801bb0ba8541221bf80bdb3a5b22bc76f166",
+            "sha256": "de2a59497bcade8605f9988940b2a91c79c51210c8a7e8c9e3266d36a63a8ea6",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "d35cab08688edc704dfb913aff7a61c28d1fbd3de3b8ee27bac9fe5a6795a973",
+            "sha256": "e1016515ceb565251cdb409e1217ff656b7afafbecdaeee1e5e0a277ab5e50ef",
             "once": false
         },
         {
@@ -3405,7 +3405,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "ff6af82b060aa5f4e270d3f8b957feb3562f7e636dcf1db420d6725440ee54b8",
+            "sha256": "1be52757879e7c84e345c6d8ce40d9829cc8bca3e5005e2b1903997f43289253",
             "once": false
         },
         {
@@ -3465,7 +3465,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "ee7b8e0fffec0db1faecee70f8666ba758be73a0d170ae43b605e076a72a6606",
+            "sha256": "e050315963aa5cd7482fc92805aee3a6238b561ed9277499672185322d44999a",
             "once": false
         },
         {
@@ -4077,13 +4077,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "f9c077036f2f782b58f9ec16ba667844a7a04238c90885fd69b0330f837c0892",
+            "sha256": "ed9a616af175340ebbd8a043d5e543e875d3b17c8034d4fb7c01291c31736ffd",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "12536e4a7b2f68c827d6490ecc315ba493648a4f97a1c325f0e3145255a759b4",
+            "sha256": "fef5e137383efce66059a3bf58d215d18f9c4e45988e739b0e710fb5d0040527",
             "once": false
         },
         {
@@ -8554,6 +8554,12 @@
             "path": "mods/gdc-targhe-0.1.0.jar",
             "size": 50223,
             "sha256": "5daf698cbb0aa15747572dc50fa47acb7c89c38f2a5e0685610891c5523da0f3",
+            "once": false
+        },
+        {
+            "path": "mods/gdc-telco-0.1.0.jar",
+            "size": 72168,
+            "sha256": "9213ae3c7483874317b46a3befe66973b1690b7e407dca0cfd1b8ebfbe8d9f47",
             "once": false
         },
         {
@@ -37875,7 +37881,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "7583b49f2ad59ed36be88c0a6fee4164573d4858c75ce9eb55df832d7ad852a2",
+            "sha256": "3f82d1c6260bce94c65e0e7412c0027b0d9bc0043ef7b269933ec4099c6296bd",
             "once": false
         },
         {
@@ -37937,5 +37943,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "11/06/2026 22:29:08,27"
+    "generated": "11/06/2026 23:33:21,20"
 }
