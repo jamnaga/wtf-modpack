@@ -3104,8 +3104,8 @@
         },
         {
             "path": "config/fancymenu/customization/title_screen_layout.txt",
-            "size": 60750,
-            "sha256": "97e71f517776a3212871e6a12873c25f75655bdb95fcc78197263fed77a8867a",
+            "size": 60749,
+            "sha256": "9f895fd4b38ffd59dabb162e60cc3d6d8810a3977dbe95e4a74e597a5295e164",
             "once": false
         },
         {
@@ -37925,5 +37925,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "11/06/2026 15:23:28,23"
+    "generated": "11/06/2026 15:24:15,09"
 }

@@ -4,12 +4,12 @@ layout-meta {
   identifier = title_screen
   render_custom_elements_behind_vanilla = true
   last_edited_time = 1780455899267
-  is_enabled = false
+  is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:a24eb830-72bf-4f54-b101-941fb8ec4ea5-1781182675572] = [groups:][instances:344e8232-72fa-4f94-98ac-dc272cdfdc1f-1760883936026;]
+  [loading_requirement_container_meta:0e12c5e2-1f88-4def-93ae-059663e9b7cb-1781184191580] = [groups:][instances:344e8232-72fa-4f94-98ac-dc272cdfdc1f-1760883936026;]
   [loading_requirement:is_mcef_loaded][requirement_mode:if][req_id:344e8232-72fa-4f94-98ac-dc272cdfdc1f-1760883936026] = 
 }
 
