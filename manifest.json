@@ -8137,6 +8137,12 @@
             "once": false
         },
         {
+            "path": "mods/[client]colorwheel-fabric-1.2.7+mc1.20.1.jar",
+            "size": 391445,
+            "sha256": "40148e748dfcadb99809bc55221d43fdc2108919bb33748a8b0afdbedba2ff63",
+            "once": false
+        },
+        {
             "path": "mods/[client]continuity-3.0.0+1.20.1.jar",
             "size": 1016063,
             "sha256": "fdb646bd51667c57e576d1412c740ac48e3bf6953294dde11a62101a09395fe3",
@@ -8350,12 +8356,6 @@
             "path": "mods/collective-1.20.1-8.22.jar",
             "size": 662615,
             "sha256": "f5266d805601c540baa1a908387b71b674fe967337226cf1b9d3e0aceba36cee",
-            "once": false
-        },
-        {
-            "path": "mods/colorwheel-fabric-1.2.7+mc1.20.1.jar",
-            "size": 391445,
-            "sha256": "40148e748dfcadb99809bc55221d43fdc2108919bb33748a8b0afdbedba2ff63",
             "once": false
         },
         {
@@ -37943,5 +37943,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "11/06/2026 23:33:21,20"
+    "generated": "11/06/2026 23:38:46,77"
 }
