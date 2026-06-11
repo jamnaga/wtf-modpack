@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "d7ad10e679932a7fc6e80d4f28f1c8e6e7ade3584db9a649544e0dbdd4e8d66b",
+            "sha256": "534b13f135ae34d2c49c97899eac7349c5cab870874037018d301ee6684d4715",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "c3bbbf91ba7c8e6f332bfd650ba40f1dace41e8e874a774dd1db0a80b5ebc236",
+            "sha256": "e34f4082b953f7c47d6d1d7af9214ec86ca0fb3d6aa49e5e8c0d47cfc3b73e1d",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "b0bbb5ebadf879bc2a6b321934e0961d4c73af3d59386e9c75912c9080389f5b",
+            "sha256": "f512f6d19439a3a6235d8ff78252bd27b0128ef6e52d4dfaf115ed11ff94ded5",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "f9ba8b5d0f15dca966312c5854b6e46e5847cfb0c61b99fd46a8629798bac429",
+            "sha256": "00b4c6bf6622572fac2058c3921077b4eab64e69f69957a5a35ed7de38eec1eb",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "515c1c470eaf4bb800d1012809fd69a4aec2c651d6889c66d6b9eba998f72e1d",
+            "sha256": "06e7cad85528c4672915e4ad27f05e601303dcc8b15dc9ffcd314efd570cfc5d",
             "once": false
         },
         {
@@ -3405,7 +3405,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "b717c2b8154d33ec1336d1f7f16a1e64433acb386b6c1de09a5f9ff24ac75348",
+            "sha256": "36be5b34aa7ea2ae063b236b107220af3ef31a8d0037bb19e3a15aa5b0fd5cde",
             "once": false
         },
         {
@@ -3465,7 +3465,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "02cfa1426b71320cf8aa04496f2068931c46627f3adbb191b184c910953f3f4f",
+            "sha256": "c90af2d60a83ec4c26cf743dd8427bacc604265f2a5a2732f251442142d141fd",
             "once": false
         },
         {
@@ -4077,13 +4077,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "3cc3c8fca5e167e341304420741bd86d35a1ed33e09cf585e83c789cf5f32ce5",
+            "sha256": "06d397f7e3d7c40adc5a284c535c7b165dfdf2773a0ffb993ec3b4d2a10e3b53",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "1ede23d994517152a4e49e482f15dc6fdf73cee257105e3884387553f731118d",
+            "sha256": "353e5b02f27e8217c460e7240f75754b6495d4af7cd9b5af3625ca2b61990a22",
             "once": false
         },
         {
@@ -8002,6 +8002,12 @@
             "path": "mods/ImmediatelyFast-Fabric-1.5.4+1.20.4.jar",
             "size": 354883,
             "sha256": "cbb4ca2f6fda0c0b7e4bec16f34bbff7661d989a443029f40bbf5393a76e53b4",
+            "once": false
+        },
+        {
+            "path": "mods/InvView-1.4.12-1.20+.jar",
+            "size": 159796,
+            "sha256": "082454675a38c0a0696874a834aa13e6551c1d155e4d2b9409848faafc5fe9ab",
             "once": false
         },
         {
@@ -37869,7 +37875,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "bedafdf8958756d09c9305b5e3196628e9f3c850605eae7bcad7751f2f2aca81",
+            "sha256": "b0ac8e63254c288730f061839a006c512420cb25a21912144d80d197b22f52f0",
             "once": false
         },
         {
@@ -37931,5 +37937,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "11/06/2026 18:42:27,46"
+    "generated": "11/06/2026 19:12:58,31"
 }
