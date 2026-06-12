@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "1be0f8ea54b6398a95553a64dca435985744d8348266f95416628682468b628a",
+            "sha256": "f583b69a333cb9df3204d73cc8676ab9e3e2384b8ba92a88a73f0bf1fe5b8250",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "5e409c6e19f9a444998de529c611fc79e39846cefce9888b1e21a6526e3adb55",
+            "sha256": "57c39d5d5f212af4032ffe76a5c19a35897a65a7e6915b8f6d0d6355b92992d2",
             "once": false
         },
         {
@@ -2487,7 +2487,7 @@
         {
             "path": "config/beansbackpacks-common.json5",
             "size": 2118,
-            "sha256": "f46aba48dd742b3bdcc2962b58490783c075395e86aaac48e6f832065713aae2",
+            "sha256": "231ffe77b816db7f4eae8e504f946149472da9b13b5a86e475aa4d9514552276",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "4a7520ac276e20ff3291be704e10b2e03a795d699c28740d14a12923a809a587",
+            "sha256": "643e6bcaf1c166fc4270a8531bf9ff679f99a7397d21a9fcbb3a17bb96456630",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "a3cc5a4aebbb0a9ac6696b05f7e25252461460a24d42afb13655dd27d5b1a041",
+            "sha256": "a88c02c9acfdbadd9bbf1964820e9cbe99eca94282bf75989a535117e613b4a2",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "348db47c5005d59efcdad6eecd4295edb2a13f0b66b13050c6af1d54c9aa1235",
+            "sha256": "f5e7486041f764b5fe228931630172702e7c36bcc5a40d77544554cfcc88fd6c",
             "once": false
         },
         {
@@ -3411,7 +3411,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "885936b4377e5fe9d3c66110dbecfce55dd473c66ac27b3884cc064def120c4e",
+            "sha256": "aa482bbacb7cc4dc6686b0f9a31f4109239544f6f450b4ccbf0c21e7d81399f8",
             "once": false
         },
         {
@@ -3471,7 +3471,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "cf3350821022166ee57b2b5b4eed9e621d974b73dea2e5c319fdf959c167e23d",
+            "sha256": "ae57e320ce9c626989ed61a2acd3c3f51aa706e7b46987c105a873e066960679",
             "once": false
         },
         {
@@ -4083,13 +4083,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "6946cea8771cdad7aee526edd1d0cd5e358849a8168d2305965ab10ceec3e3cf",
+            "sha256": "ba45b4d8017abf5fb9cd5e39e3a403a8ea1bd8b0201b8f3f0759ccf569cd54bd",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "41e1450e7cc4ff93d7e16c2c7b5c2445a60ca2534f45d395265ac989923f19b6",
+            "sha256": "949a990ab5cd4abd5268c81be0b4ce4815ab1405bae39846d2ccfb60586daae4",
             "once": false
         },
         {
@@ -8536,6 +8536,12 @@
             "path": "mods/gdc-fly-0.1.0.jar",
             "size": 20156,
             "sha256": "5ba763e0d53e80cf66dfc01f99ac8b4079069bcbef634d5902efe8a3fc0c3020",
+            "once": false
+        },
+        {
+            "path": "mods/gdc-join-0.1.0.jar",
+            "size": 130437,
+            "sha256": "948d0820a692cf74262010d0bd5d668eac4e26ece1d5ac9a5100876cb606714f",
             "once": false
         },
         {
@@ -37893,7 +37899,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "d0800abe36d46e23256e1c2b4864dbfe2be1cb0104f743a4aa4a7a0212ba8fe0",
+            "sha256": "faaa199c6bff97a4c8936333ae38278753134663abfd46f5a7e3c76318eba6c3",
             "once": false
         },
         {
@@ -37955,5 +37961,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "12/06/2026 15:59:52,14"
+    "generated": "12/06/2026 17:04:03,66"
 }
