@@ -92,7 +92,6 @@
 		"{data:{Count:1b,id:\"minecraft:diorite_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:enchanted_book\",tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:jungle_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:spruce_trapdoor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:flint_and_steel\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_fence\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:bamboo_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
@@ -110,7 +109,8 @@
 		"{data:{Count:1b,id:\"minecraft:stone_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_pressure_plate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"immersive_weathering:cracked_prismarine_bricks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:prismarine_brick_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{Count:1b,id:\"minecraft:prismarine_brick_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:spruce_trapdoor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []
