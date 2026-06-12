@@ -9,3 +9,15 @@ net.minecraft.class_442 {
 net.minecraft.class_433 {
 }
 
+net.minecraft.class_412 {
+}
+
+net.minecraft.class_434 {
+}
+
+net.minecraft.class_424 {
+}
+
+net.minecraft.class_435 {
+}
+

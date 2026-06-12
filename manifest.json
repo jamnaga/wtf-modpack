@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "f583b69a333cb9df3204d73cc8676ab9e3e2384b8ba92a88a73f0bf1fe5b8250",
+            "sha256": "4fcbee432344d86ef8bc005ef9a76185937d00c0d55ad82252fdb086c44a60e6",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "57c39d5d5f212af4032ffe76a5c19a35897a65a7e6915b8f6d0d6355b92992d2",
+            "sha256": "f86f6bc802b49fb873229d6599d0e0dba40d8b21e7bc5e49bd45d158e6cd0e5e",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "643e6bcaf1c166fc4270a8531bf9ff679f99a7397d21a9fcbb3a17bb96456630",
+            "sha256": "1876f8ed8c9787db7a1337c073d508bd25f2de6f6b6a8b8be68b7c437e580d29",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "a88c02c9acfdbadd9bbf1964820e9cbe99eca94282bf75989a535117e613b4a2",
+            "sha256": "931a81318e60d306957e52a561805539255197dca47c615be38d32ccd253cc6e",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "f5e7486041f764b5fe228931630172702e7c36bcc5a40d77544554cfcc88fd6c",
+            "sha256": "63c1a9a3acb4798d8fa1d33efbd599ae56354fdc933768cff65b054175481e38",
             "once": false
         },
         {
@@ -3038,8 +3038,8 @@
         },
         {
             "path": "config/fancymenu/customizablemenus.txt",
-            "size": 157,
-            "sha256": "25ed74958f178a35542c64a29d0709048199442f7c6c9572b78d3edb29193815",
+            "size": 273,
+            "sha256": "423a1e48236b58c7affec15dc8f75b200e3bcc96559887eac3cb1b43ec1e8551",
             "once": false
         },
         {
@@ -3050,8 +3050,8 @@
         },
         {
             "path": "config/fancymenu/customization/connect_screen_layout.txt",
-            "size": 5638,
-            "sha256": "f684f0eee6563cbe453a08134275a4e12c26005a6ea81be17fdaba923ddd69ae",
+            "size": 16138,
+            "sha256": "81d1a11927e95f67d478ba93fd5402158cbfd6db918092e6c17ffc31eb06d737",
             "once": false
         },
         {
@@ -3064,6 +3064,12 @@
             "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
             "size": 21362,
             "sha256": "0e35d607f45369369f92377a3a55ff20f7448fb44cdafd44d21ec24b8e011796",
+            "once": false
+        },
+        {
+            "path": "config/fancymenu/customization/generic_dirt_message_screen_layout.txt",
+            "size": 13272,
+            "sha256": "c29e0043c2ce73bd59314d79d302305991dcf4a8ce58985fc75c4a9481d57a72",
             "once": false
         },
         {
@@ -3091,9 +3097,15 @@
             "once": false
         },
         {
+            "path": "config/fancymenu/customization/progress_screen_layout.txt",
+            "size": 15922,
+            "sha256": "597051a4f687f7d0e36beed5cd153c9c27cc59acec30696137de08f0d1399ebf",
+            "once": false
+        },
+        {
             "path": "config/fancymenu/customization/receiving_level_screen_layout.txt",
-            "size": 3278,
-            "sha256": "cd55860839e671564ef59e7263ce6595ed53cb98182ae82987a77c30147a4ece",
+            "size": 13422,
+            "sha256": "3f753182fcd72c93400d918e7176ab4ec22d9e6df6efe12d01e8ec16c28704fa",
             "once": false
         },
         {
@@ -3411,7 +3423,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "aa482bbacb7cc4dc6686b0f9a31f4109239544f6f450b4ccbf0c21e7d81399f8",
+            "sha256": "8ae1998cced390e41c774d20703303f1ba41d464d33da1821575a76356b9d3cc",
             "once": false
         },
         {
@@ -3471,7 +3483,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "ae57e320ce9c626989ed61a2acd3c3f51aa706e7b46987c105a873e066960679",
+            "sha256": "d14a6a27bf4023671335dd9ecf841c693db6bda74bf8a97fb9b8d22342545fad",
             "once": false
         },
         {
@@ -4083,13 +4095,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "ba45b4d8017abf5fb9cd5e39e3a403a8ea1bd8b0201b8f3f0759ccf569cd54bd",
+            "sha256": "af15bffa87370420eef06eca190ac1a3854ab1078c3d6f72ffc0e9cc83be0bb9",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "949a990ab5cd4abd5268c81be0b4ce4815ab1405bae39846d2ccfb60586daae4",
+            "sha256": "f066c30ed8f5583a4fec25fdb3d3257bd6be7a8cf3735cff065bcc8b6fe3f212",
             "once": false
         },
         {
@@ -4771,13 +4783,31 @@
             "once": false
         },
         {
+            "path": "fancymenu_data/buddy/buddy_leveling_MGZmYzA4MmMtZDM3NS00NDQ2LTljYjEtNTEwNTliOTk2ZDZjLTE3ODEyNzcxNzA2NDE.json",
+            "size": 1619,
+            "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+            "once": false
+        },
+        {
             "path": "fancymenu_data/buddy/buddy_leveling_MzBiODY3ZDEtMGE4MS00NWYzLWFhNDItYzU3NmUyZmYyOTdkLTE3Nzk1NDE4NjgwODY.json",
             "size": 1619,
             "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
             "once": false
         },
         {
+            "path": "fancymenu_data/buddy/buddy_leveling_N2E1ODJhZmItMWE0NS00MjIwLTg0NzAtODU0YWZjN2NjZGFkLTE3ODEyNzcyMDUwNTE.json",
+            "size": 1619,
+            "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+            "once": false
+        },
+        {
             "path": "fancymenu_data/buddy/buddy_leveling_NmQwYzE4YWUtOGIzMC00ZmRhLThkZGQtOWY5ZTA4NmI4MmRiLTE3Nzc4NDcwMTQ2MTE.json",
+            "size": 1619,
+            "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+            "once": false
+        },
+        {
+            "path": "fancymenu_data/buddy/buddy_leveling_NzBlM2I4ZWEtMmIwYy00YzZmLTkzZWMtNGQzYjZhNDFlZTQ1LTE3ODEyNzY4NDYzNjM.json",
             "size": 1619,
             "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
             "once": false
@@ -4796,6 +4826,12 @@
         },
         {
             "path": "fancymenu_data/buddy/buddy_leveling_YzFjNDhlNjQtZDU5Zi00Y2Q1LTgyMDAtNzFhZDhjOWFlOThkLTE3Nzk2MzAwOTkwMzg.json",
+            "size": 1619,
+            "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+            "once": false
+        },
+        {
+            "path": "fancymenu_data/buddy/buddy_leveling_ZDNlNzMzYTQtMzIwMC00OGUzLWEyZjMtNzEyNjRhZDMwMGQxLTE3ODEyNzY5NzAzNjc.json",
             "size": 1619,
             "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
             "once": false
@@ -4825,7 +4861,19 @@
             "once": false
         },
         {
+            "path": "fancymenu_data/buddy/buddy_save_MGZmYzA4MmMtZDM3NS00NDQ2LTljYjEtNTEwNTliOTk2ZDZjLTE3ODEyNzcxNzA2NDE.json",
+            "size": 380,
+            "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
+            "once": false
+        },
+        {
             "path": "fancymenu_data/buddy/buddy_save_MzBiODY3ZDEtMGE4MS00NWYzLWFhNDItYzU3NmUyZmYyOTdkLTE3Nzk1NDE4NjgwODY.json",
+            "size": 380,
+            "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
+            "once": false
+        },
+        {
+            "path": "fancymenu_data/buddy/buddy_save_N2E1ODJhZmItMWE0NS00MjIwLTg0NzAtODU0YWZjN2NjZGFkLTE3ODEyNzcyMDUwNTE.json",
             "size": 380,
             "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
             "once": false
@@ -4834,6 +4882,12 @@
             "path": "fancymenu_data/buddy/buddy_save_NmQwYzE4YWUtOGIzMC00ZmRhLThkZGQtOWY5ZTA4NmI4MmRiLTE3Nzc4NDcwMTQ2MTE.json",
             "size": 381,
             "sha256": "48261da762c8581c3c0361dd4a7851caac9e1703b71f1bd07f705f5e4d5aeb89",
+            "once": false
+        },
+        {
+            "path": "fancymenu_data/buddy/buddy_save_NzBlM2I4ZWEtMmIwYy00YzZmLTkzZWMtNGQzYjZhNDFlZTQ1LTE3ODEyNzY4NDYzNjM.json",
+            "size": 380,
+            "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
             "once": false
         },
         {
@@ -4850,6 +4904,12 @@
         },
         {
             "path": "fancymenu_data/buddy/buddy_save_YzFjNDhlNjQtZDU5Zi00Y2Q1LTgyMDAtNzFhZDhjOWFlOThkLTE3Nzk2MzAwOTkwMzg.json",
+            "size": 380,
+            "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
+            "once": false
+        },
+        {
+            "path": "fancymenu_data/buddy/buddy_save_ZDNlNzMzYTQtMzIwMC00OGUzLWEyZjMtNzEyNjRhZDMwMGQxLTE3ODEyNzY5NzAzNjc.json",
             "size": 380,
             "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
             "once": false
@@ -8540,8 +8600,8 @@
         },
         {
             "path": "mods/gdc-join-0.1.0.jar",
-            "size": 130437,
-            "sha256": "948d0820a692cf74262010d0bd5d668eac4e26ece1d5ac9a5100876cb606714f",
+            "size": 18676,
+            "sha256": "d71cca6b79ea6d58482324936d22759b3c4b4a4843a16806fd5cbd10a2648f8f",
             "once": false
         },
         {
@@ -37899,7 +37959,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "faaa199c6bff97a4c8936333ae38278753134663abfd46f5a7e3c76318eba6c3",
+            "sha256": "529d052b2241ab1ba6317506d84398d38d162abda90730ba3e2eaa0f118e772f",
             "once": false
         },
         {
@@ -37961,5 +38021,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "12/06/2026 17:04:03,66"
+    "generated": "12/06/2026 17:22:25,73"
 }
