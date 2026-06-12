@@ -4077,13 +4077,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "ed9a616af175340ebbd8a043d5e543e875d3b17c8034d4fb7c01291c31736ffd",
+            "sha256": "837147b4b35d8771cb29e6ecb50658618e0927713cb586cc24cd45e560505668",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "fef5e137383efce66059a3bf58d215d18f9c4e45988e739b0e710fb5d0040527",
+            "sha256": "ca6d5c37c5a3f928b710ca9bf5325d7af8af78b6456285d99981fa2494c361cd",
             "once": false
         },
         {
@@ -8522,8 +8522,8 @@
         },
         {
             "path": "mods/gdc-chiosco-0.1.0.jar",
-            "size": 178767,
-            "sha256": "d23f8b114cbf94d9fa0c2d00c334f4d8d6d93788713447dd7249b2625bfc4dee",
+            "size": 180197,
+            "sha256": "a5d29fea05443cccfa22230a30c3c0e140c97855c6f30d276602ec35b15e4aa2",
             "once": false
         },
         {
@@ -8534,14 +8534,20 @@
         },
         {
             "path": "mods/gdc-polizia-0.1.0.jar",
-            "size": 312249,
-            "sha256": "2d8208c72e5c651a24185686dd1f4f258dfdf086baa28e0690199353199d4046",
+            "size": 312300,
+            "sha256": "fc5c9cc2c935420b04e09c743db937b6fa8b9b8fffbf3af75c60f6530b4cf8ec",
             "once": false
         },
         {
             "path": "mods/gdc-raid-0.1.0.jar",
             "size": 4792,
             "sha256": "603bfefb65e9233ca5d999a819f70a35c356528fe139a7ec353b2d69a7e98564",
+            "once": false
+        },
+        {
+            "path": "mods/gdc-regole-0.1.0.jar",
+            "size": 53950,
+            "sha256": "ce224f7d0d340fb3d9fc895abd3514876f69525e0c3e53d3ff1762250b93a8c8",
             "once": false
         },
         {
@@ -37943,5 +37949,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "11/06/2026 23:38:46,77"
+    "generated": "12/06/2026 11:59:34,22"
 }
