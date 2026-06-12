@@ -1,0 +1,16 @@
+{
+  "titolo": "GANGDROGACITY",
+  "etaMinima": 16,
+  "urlRegolamento": "https://wiki.gangdrogacity.xyz/it/regolamento",
+  "testo": [
+    "Per giocare su GangDrogaCity devi avere almeno 16 anni.",
+    "",
+    "Premendo ACCETTO dichiari di avere almeno 16 anni e di",
+    "accettare integralmente i Regolamenti e i Codici del server.",
+    "",
+    "L\u0027accettazione viene richiesta una sola volta."
+  ],
+  "etichettaAccetta": "ACCETTO integralmente i Regolamenti e i Codici",
+  "etichettaRegolamento": "Apri il Regolamento completo",
+  "etichettaRifiuta": "Non accetto - esci dal server"
+}
