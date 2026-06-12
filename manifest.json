@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "8417d6246b53a6c6b4b02cd3286e3e00454beaa3bbeac526a19b862ebd14f412",
+            "sha256": "3b1cf6b1a956bd1ecdfee9bfa7495d81e26a1aaecb66e312dfd0775e4eeb9f1b",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "cd9ac69b02d3df1628f53fea1eb3dfa97593674cc147e7919bf24849031008db",
+            "sha256": "91a56a3ff73b32a2f824c295449d84ef8fa52fbf5c518c3aed9ccdad96e58207",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "7e8551e3f0b124949d9a0f3ff2911f0f316d0499d847fe4ebe5abb50fd6fa9f3",
+            "sha256": "84fab74796ce900cd3176903456dd2c7a0fd546d6932f39958c42db25885f3f0",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "5f65443797ba178ff238e03445ca09ba6bd40e5af867dddf8b5520a3ab693b91",
+            "sha256": "3858ca08812489ca6d3cc756d4512b57fc9621ad48f1ce26e0d89d087b721a39",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "d2f71be029c007da723893b8676c34e1513d6fb113463aed9d4bac1c30f36901",
+            "sha256": "28dedb3df2f9e222f7eaf3571b4308fef60709b8e3c3c448a782b4813f1d0f65",
             "once": false
         },
         {
@@ -3411,7 +3411,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "e01e0966223cdee1623b6ef7be50d9de505ce499fda912309f1c50355e84b9f1",
+            "sha256": "ad0927ac83324ecfbf46638adb83d1aabd2de4ed32ee350d5d41115569e103ef",
             "once": false
         },
         {
@@ -3471,7 +3471,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "6161d7bb91b74169ebb6480ed20e2733311912adbbaf6aa9a881ff54566335c1",
+            "sha256": "0e8640dea3ea85222485a912a90ff7e0897e4de6144865e013484b8d7afd585d",
             "once": false
         },
         {
@@ -4083,13 +4083,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "ed8d65ce434029cbb8b3a497ec055a7df1ef236017640834bc4064f8feb94c88",
+            "sha256": "e834c7148ac97ed838cc434fb128b7dc8bfac937b2e93d0eea9054953d949227",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "247291ef9162df1c8af6ce9944ed5a16a8bc9be4640a25ce39cf16b57f36fc09",
+            "sha256": "09c8a4b732d5722a1794f782a0ed031b68bffe700ef7d55080ae442553d45ce7",
             "once": false
         },
         {
@@ -4172,8 +4172,8 @@
         },
         {
             "path": "config/sound_physics_remastered/allowed_sounds.properties",
-            "size": 83839,
-            "sha256": "9c15e046bb9669c2c71e6a7696f5d3adb91a6e2e3cdd693624a50dcf9181b0df",
+            "size": 83934,
+            "sha256": "b1cb8132d0f1631e6f8964f3ba6fc8d810c848bc0d7efe0a3114b49363a32963",
             "once": false
         },
         {
@@ -8570,8 +8570,8 @@
         },
         {
             "path": "mods/gdc-telco-0.1.0.jar",
-            "size": 319513,
-            "sha256": "257cc366960f1866c55117f62a45655887b38c0a29160be84fdd1ca590413ee1",
+            "size": 320147,
+            "sha256": "2c947959d24957018ec8be579532db60196009f0aacc78cc7b1fa9224b5da97a",
             "once": false
         },
         {
@@ -37893,7 +37893,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "6c2c1941b88184ace47a74266ff9bd562d3b9bd7d2fcaf9dafa37b14d4f4db2a",
+            "sha256": "8f554e5a1666dacd39e2061b2d06c396f03f007ad9d9cc6d1dc165ee7212b9c8",
             "once": false
         },
         {
@@ -37955,5 +37955,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "12/06/2026 13:35:03,84"
+    "generated": "12/06/2026 14:19:48,60"
 }
