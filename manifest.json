@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "7a8a8d4218ccf34c36f765c2cdf275ba8f36c055ae52c03e5aab371e348485c8",
+            "sha256": "1bf864d5bf7e4f7917d3d169983e6703d8397f8f1737da4fb20bcbd352a53fac",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "a1daf2a6a9a3f21ff2bf4f21a504cc460ee24d1224e3e7c00a3bebf7bb4f628d",
+            "sha256": "70b582343c3539052c2025f16dc483658d989c960a9f7b87cb04f5e2ad15bfa9",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "4928217a824b454b97d021d8da60e2762323f51be36f3ab6473225621862a00e",
+            "sha256": "dddd1e879bea0742fa9d882c25b10a7778add4c965b48e9d4fef6d62d97b2cdf",
             "once": false
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "06e22c4d0d69cbfa8c7372102e2cb695ae38b9dfbeb90c7ae946a8c7ff52b458",
+            "sha256": "f04969d9667accc93355d53e8b8cede4a768d446c9619a1c2487a72b8f1bbed1",
             "once": false
         },
         {
@@ -2991,7 +2991,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "4d128039777c8893774e8845df0e8d1036062662ccd851fe830e4a1f5e650b45",
+            "sha256": "d2aac56ce2b613d5235ae990dfea0424fc007752dccd61a5af70c40dafb6d257",
             "once": false
         },
         {
@@ -3411,7 +3411,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "eb05a6d38ab86d54688d8ac143b52165aeeb4a1b0b9d1d76bb77a42d22880f04",
+            "sha256": "0fbfa27f1a9c433006f3f93941753f4e9c23973d19e7b310cdb2f4fc852733f6",
             "once": false
         },
         {
@@ -3471,7 +3471,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "83cf3a589b2a59b0cf030fb9cc8f9177b01b13cf2a5b8a6d31d37963532462d8",
+            "sha256": "33a3445c890cc6471bc34b6e1785765ee7f7b114471fdaeea474e68c19c1e289",
             "once": false
         },
         {
@@ -4083,13 +4083,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "cb204d67243a2357c6828e15e948328ebfe399f17ba1d40d96d0c528efe0c234",
+            "sha256": "1a9fcb09ebb56fbec6486a7e922c1b3744b1e1f1666b7f6faeace73f8324665c",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "af910671d1520995151b381d94b94f9eca745a41fcc9093ea81fcf9301de57fb",
+            "sha256": "3cdf5043da9f79e176c75089cd52c15c37cb7ea8b1491fce988d4f597e157c27",
             "once": false
         },
         {
@@ -8570,8 +8570,8 @@
         },
         {
             "path": "mods/gdc-telco-0.1.0.jar",
-            "size": 337793,
-            "sha256": "9e59b61a60b724d4babb6d9d65dfc39838e3da71396d7a7fd8fcfcf3c3b5776d",
+            "size": 348473,
+            "sha256": "0f1c82e4b2e59eace397e3be3a75919dc11075f1da228648cb4605f4cd05e4ed",
             "once": false
         },
         {
@@ -37893,7 +37893,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "bc48e42b0b458583d46c4e26823bc1cc673b3ff7224128c0186d583b428eed11",
+            "sha256": "797609a09b34c89263a2743449bcd841db471b96ef5c6c3da8614702710ac950",
             "once": false
         },
         {
@@ -37955,5 +37955,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "12/06/2026 14:51:30,48"
+    "generated": "12/06/2026 15:26:34,99"
 }
