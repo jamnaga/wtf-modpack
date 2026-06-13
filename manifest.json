@@ -2360,14 +2360,14 @@
         },
         {
             "path": ".gitignore",
-            "size": 447,
-            "sha256": "b68de3f23aa36b26f8af3cdeeb92ccd174f672968ca9933d5d0fc1be6f72668c",
+            "size": 480,
+            "sha256": "2bc35d5c99bc72a20b1081d18dd6229dc62b4c9f4404862cd356bae4fd009d1e",
             "once": false
         },
         {
             "path": ".manifestignore",
-            "size": 323,
-            "sha256": "1dee96227d88bc4ba932478e52834f979d3c9202905007ea5363db10e74cea2b",
+            "size": 356,
+            "sha256": "a2be8dd8ab23500a11dc341d0c0cf306b404ab0ac6577ad60e196cf220735fca",
             "once": false
         },
         {
@@ -4095,13 +4095,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "217875fa81159ccb3645ea42e469b76ab5eeef04117f92f72f13ddc34ba95094",
+            "sha256": "4bfaefef28d37aa2e8b26d8aa32d32bcf127583f58e13a4654edc8b5c65caac4",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "fc7195c24f67ace6c20c1e308093f37bf998ed8cdd7ed5ed9d364472dd796292",
+            "sha256": "f6f3ddcedfe08a305b0eb714d7ad598f0b31f5ee9ffa30473de6376f08cd7184",
             "once": false
         },
         {
@@ -38021,5 +38021,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "13/06/2026 00:43:38,07"
+    "generated": "13/06/2026 12:55:27,09"
 }
