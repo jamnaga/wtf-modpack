@@ -3,13 +3,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "f0945d44859bd1f87fbe9df6691c85a66481a9437770c86b0adc4873c608de0d",
+            "sha256": "3efea22eff1ff5be9286970e963f448ec2deea1c44585247dfd7ecc407d95deb",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
+            "sha256": "ba6b7e5ee51027bfb3e9b8b0f4afbdc2b09592dcbfee60aa2b8ca6af4d3ebc70",
             "once": false
         },
         {
@@ -2691,7 +2691,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "6184a3a27d18c5ec1346e2a27d11eab21ebaa925fb5e189c8a87020e3398e426",
+            "sha256": "12e0dc46f24308519c05c671b899f959703d4608287f0b612b060d3d739a58ee",
             "once": false
         },
         {
@@ -8636,8 +8636,8 @@
         },
         {
             "path": "mods/gdc-telco-0.1.0.jar",
-            "size": 402301,
-            "sha256": "9f6d0363fe8c46ffa165ec7cd73861b9382fd85539b8e669176e4ffb28700c72",
+            "size": 414891,
+            "sha256": "558f54d7f4ad4950adeb6df2e163114f048e9061d69197123b0cbcb12c6db680",
             "once": false
         },
         {
@@ -38021,5 +38021,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "13/06/2026 12:55:27,09"
+    "generated": "13/06/2026 15:27:13,89"
 }
