@@ -37985,7 +37985,7 @@
         {
             "name": "GDC Online DH Chunks",
             "description": "Distant Horizons LOD Data",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "archiveType": "7z",
             "parts": [
                 "DistantHorizons.sqlite.7z.001",
@@ -37993,7 +37993,9 @@
                 "DistantHorizons.sqlite.7z.003",
                 "DistantHorizons.sqlite.7z.004",
                 "DistantHorizons.sqlite.7z.005",
-                "DistantHorizons.sqlite.7z.006"
+                "DistantHorizons.sqlite.7z.006",
+                "DistantHorizons.sqlite.7z.007",
+                "DistantHorizons.sqlite.7z.008"
             ],
             "extractTo": "Distant_Horizons_server_data/Minecraft+Server/",
             "filesToExtract": [
@@ -38014,37 +38016,47 @@
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.001",
                     "size": 52428800,
-                    "sha256": "2cff405f02d11b9f6cbdd346352b086a1a2143b31c86aa8ba1d4be491e59f212"
+                    "sha256": "d486f0b3b301694cf1b321dd0febf74016d217063d60274c9a240ca07f842f52"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.002",
                     "size": 52428800,
-                    "sha256": "3ced969610b971f2273cff5b425d3272655d955bd0b08479a9b0f4773ce96667"
+                    "sha256": "6f6ff8bfcf5eaa7ff19a01587bb9e7073247849ca8cf4a0a041fcc92bb6d50d2"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.003",
                     "size": 52428800,
-                    "sha256": "190d067040def717283855288e9d7b74f3e83ce8a4395f445070a78b59d580fc"
+                    "sha256": "acf406c938021f079449409f972203b4b6a4701ce0f93c40b671995680f1f1ff"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.004",
                     "size": 52428800,
-                    "sha256": "4e0a997acecac6358ae3c82ac869809c221fc88ee5146957c2dd40a28b6f9cc7"
+                    "sha256": "439d505ff022b4b498b30f3a18f736f77bb6d515236ac0a2de640f1357f3222d"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.005",
                     "size": 52428800,
-                    "sha256": "ea693ef71f7d3634434b6bb52f9bafe9fa618dea0c7c072aa4c612718e832edb"
+                    "sha256": "aec1154456312d094122f989375fb84f82fc7e958e1107e86e832c9969485782"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.006",
-                    "size": 43984561,
-                    "sha256": "4777b8df46ad98dac98d3a7d745e3edd7c77e1d6ec350c48aef3311eb386bcb9"
+                    "size": 52428800,
+                    "sha256": "81cd353a2d55fd112254c9114e17f51776a5b2488371a4324b2bbbd2e38be690"
+                },
+                {
+                    "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.007",
+                    "size": 52428800,
+                    "sha256": "19c4b4852b4ae079b621466a0d8808eca6969194c032ca99d8857120b163192b"
+                },
+                {
+                    "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.008",
+                    "size": 11270908,
+                    "sha256": "f679f2689b670dec6d8ac3bd1e8af098f3bae4671294278d9e980580601bbf5c"
                 }
             ]
         }
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "14/06/2026 02:59:24,03"
+    "generated": "14/06/2026 03:01:23,69"
 }
