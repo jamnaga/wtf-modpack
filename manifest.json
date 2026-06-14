@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "914fdd6ba0c4dcfbee3bbacd2668a4e58760353d33f77410454c02457771b02e",
+            "sha256": "66cf7dffaa1aa88312ba64070f53a73d18cac9a0142fef462eecc576f5dfae10",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "a1daf2a6a9a3f21ff2bf4f21a504cc460ee24d1224e3e7c00a3bebf7bb4f628d",
+            "sha256": "12c89ed50db967531da8c6cf7dc0cc4cbe0f1e9570f9d8efe326022b11fed5a4",
             "once": false
         },
         {
@@ -2414,8 +2414,8 @@
         },
         {
             "path": ".gitignore",
-            "size": 480,
-            "sha256": "2bc35d5c99bc72a20b1081d18dd6229dc62b4c9f4404862cd356bae4fd009d1e",
+            "size": 486,
+            "sha256": "b5d2cef8978d1765de6e163924f0385c04a38846e61f891d0c4d3755e67cad3f",
             "once": false
         },
         {
@@ -2745,7 +2745,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "e8a469c3b9f3662729ce35db5fbe403b3d7240864a778d700325c3165c34d22f",
+            "sha256": "195554fb8defce135e34aadafd89a7e39db1a31bbe9c969b47d4c64cfe04f587",
             "once": false
         },
         {
@@ -2764,18 +2764,6 @@
             "path": "config/easy_npc/npc_base.cfg",
             "size": 211,
             "sha256": "2215f2449437471123172dd7b0a6f94e151c6bd8cb9fe0f1b0c678fee4d7d63f",
-            "once": false
-        },
-        {
-            "path": "config/easy_npc/preset/humanoid/8a525fb8-4ad5-424c-bf78-02809c3b4979.npc.nbt",
-            "size": 2277,
-            "sha256": "07293d0aef8c4098f1099990f46934aa4797e5ddd0367ebee59947c9eef106bd",
-            "once": false
-        },
-        {
-            "path": "config/easy_npc/preset/humanoid/pinotemp.npc.nbt",
-            "size": 2241,
-            "sha256": "88fd60a46e4899a0d3d906affd4b1248d6f4ca49b52a36924c02ba09504f95d8",
             "once": false
         },
         {
@@ -3027,7 +3015,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "8c313420c2b06a5d81abc1da27fba02fc0f1beb5d71d00762cc5ca946e560a22",
+            "sha256": "02bb6ee6323529ac90a4a72fee21feb0ab623151bb69461e90607a7351c63a85",
             "once": false
         },
         {
@@ -3051,7 +3039,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "4d21571abb57d38a90cd6299f2a1c056b564ac4610f6eeeafb5eb4f6734724c3",
+            "sha256": "e6e4fcdc3e1269602553a08eafbeb92dd0df44723432201f08763ff52f9bbae6",
             "once": false
         },
         {
@@ -3415,6 +3403,12 @@
             "once": false
         },
         {
+            "path": "config/gdcstalker.json",
+            "size": 2167,
+            "sha256": "54f16a1fcc53d7ef3a73552fe92a00d089e0fa25beb08f30f8aefe5f24c864c2",
+            "once": false
+        },
+        {
             "path": "config/gravestones.json",
             "size": 246,
             "sha256": "5d54a39cf8caa1576127e054b2fae188376c440e889fec101cb469dd48be40b5",
@@ -3483,7 +3477,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "45f5af38cdf7960737d883e412832086d032060688a74e8b9c951c7d5f89fc6e",
+            "sha256": "fd5a1065ab82bdb5aca5d3b933acf8fb727a2d0437f46674c893f3258ca3ce20",
             "once": false
         },
         {
@@ -3543,7 +3537,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "c3740ddaeeb29fef5742b3a122b662de86c3fce914ef4537bd08bb1664066ba9",
+            "sha256": "a1dc8cd7f169d030efd9f0f2825ce872b1cde3638af32ae0caa8eef47a3a83af",
             "once": false
         },
         {
@@ -4155,13 +4149,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "69d888fa441eade1726dd640dce3a9a273060620e952fabb6183f706aadbfc0f",
+            "sha256": "3ee0caaa9472df5b51bd7518ba7a75f000d41ab1a6e1ab8fe2181d5a673a3f06",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "eea445c664d3d2557f9ca5d06c7b678d221c71e3c3fa4c9abc3fe4f455aa4137",
+            "sha256": "9ad76735b25974deb8d2d212df415ebbef79575275ae6e229b6e33b2475f4366",
             "once": false
         },
         {
@@ -4244,8 +4238,8 @@
         },
         {
             "path": "config/sound_physics_remastered/allowed_sounds.properties",
-            "size": 83987,
-            "sha256": "e53f3355bf42e6532f25c061280120ed9fb5360244ad2b93fa55e4600890dd2c",
+            "size": 84084,
+            "sha256": "ac883b9acf51f480057a826e2a4c1cec7cdb36fae59cd34fb6f1d62cc4f0d654",
             "once": false
         },
         {
@@ -8708,8 +8702,8 @@
         },
         {
             "path": "mods/gdc-stalker-0.1.0.jar",
-            "size": 532980,
-            "sha256": "e98591ff58b463576cdd73580f6280a6eb0d1314874ca5c15cb9098ee0e18e0b",
+            "size": 539144,
+            "sha256": "6f20d760227a7567d94fb92d9be38fd3ae8acd7bde4a4551f5e5e7c98bdf6b25",
             "once": false
         },
         {
@@ -8720,8 +8714,8 @@
         },
         {
             "path": "mods/gdc-telco-0.1.0.jar",
-            "size": 477307,
-            "sha256": "b21fc58b860560620c9d22263da555a2ca5b1d44dbe57967b0d476e9281a5ccc",
+            "size": 480056,
+            "sha256": "83a944bb71fd8f020940cd2f123de4a00d69323c8a037fd8686922bd4a83d387",
             "once": false
         },
         {
@@ -38043,7 +38037,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "c75a60fc84c1843d43feb8a16efc099a36f8ae6131bfd3ff71cd77e3a69e75ef",
+            "sha256": "45a0fa58cbfad582d13d6defe457c6788bf1392fd4220d5303841888fa9c6ace",
             "once": false
         },
         {
@@ -38140,5 +38134,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "14/06/2026 05:37:32,89"
+    "generated": "14/06/2026 06:12:31,91"
 }
