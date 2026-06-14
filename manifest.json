@@ -38071,7 +38071,6 @@
             ],
             "extractTo": "Distant_Horizons_server_data/Minecraft+Server/",
             "filesToExtract": [
-                "69ppfid62q2s4@minecraft@@overworld/DistantHorizons.sqlite",
                 "f9p48rt6rre72@ad_astra@@glacio/DistantHorizons.sqlite",
                 "f9p48rt6rre72@ad_astra@@mercury/DistantHorizons.sqlite",
                 "f9p48rt6rre72@ad_astra@@moon/DistantHorizons.sqlite",
@@ -38135,5 +38134,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "14/06/2026 03:46:17,06"
+    "generated": "14/06/2026 03:48:54,68"
 }
