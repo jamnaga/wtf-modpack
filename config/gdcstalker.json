@@ -72,5 +72,10 @@
   "doorMinTicks": 100,
   "doorMaxTicks": 240,
   "doorOpenTicksMin": 20,
-  "doorOpenTicksMax": 60
+  "doorOpenTicksMax": 60,
+  "lightningMinTicks": 40,
+  "lightningMaxTicks": 160,
+  "lightningRadius": 24,
+  "lightningVisualOnly": true,
+  "attackReactCooldownTicks": 10
 }
