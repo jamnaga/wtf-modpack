@@ -77,5 +77,10 @@
   "lightningMaxTicks": 160,
   "lightningRadius": 24,
   "lightningVisualOnly": true,
-  "attackReactCooldownTicks": 10
+  "attackReactCooldownTicks": 10,
+  "petSearchRadius": 64,
+  "petSacrificeTimeoutSeconds": 90,
+  "enslaveMinSeconds": 30,
+  "enslaveMaxSeconds": 120,
+  "enslaveScreenText": "Sei diventato uno schiavo del demone e stai aspettando di essere liberato."
 }
