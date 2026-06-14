@@ -11,5 +11,6 @@
   "mpPokerMaxBuyIn": 100000,
   "mpPokerRakePercent": 0,
   "mpPokerRakeCap": 0,
+  "crazyTimeMaxBetPerSpot": 10000,
   "minBet": 1
 }
