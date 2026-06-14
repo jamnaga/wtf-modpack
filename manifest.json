@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "398a89af068231b9f9ade6a9698401ddfaf7474592087c44531f1760291f63ee",
+            "sha256": "f0e28260f12189dbeeabce42bd6a3edb67f055daf37801541a56fb2e3d3a8714",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "fc85499a4670d769f657bcb9b44c4b5b56fd7f67c13bc7f7bd22d6784ccb6c4f",
+            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
             "once": false
         },
         {
@@ -1777,6 +1777,24 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/org_jetbrains_kotlin_kotlin-reflect-2.4.0-5df91ca4b0e86857.jar",
+            "size": 3790344,
+            "sha256": "4c75783a8ef0db07dd107397deb01b95c9914d359630fec9babfaba9ebeb1028",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdl-jdk7-2.4.0-6c50ed69a61ccffb.jar",
+            "size": 1276,
+            "sha256": "883279c275d18f6780793003fef044e0438d4d653d1d619ffcc0f6c41396a355",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdl-jdk8-2.4.0-c228fa2696a92a18.jar",
+            "size": 1281,
+            "sha256": "64a104013824324649707e04cc00e4cffc483d7e068c6b872cbcac666f609da5",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdlib-2.3.10-ad793327a8821907.jar",
             "size": 1813901,
             "sha256": "ea08977ecbe0955f2a2b1988b12165edcecc09341ee5aa7903ce5eeb35c064fb",
@@ -1792,6 +1810,12 @@
             "path": ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdlib-2.3.21-b4da3d816dd89bf6.jar",
             "size": 1821782,
             "sha256": "b482a7b5915d68941ad8670d3307aaa227319e31861629ae1f47f8e059944669",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdlib-2.4.0-b7c44403154bf922.jar",
+            "size": 1859022,
+            "sha256": "5318b3795efdc5300599ef48d4ac5b26c9406fae3e45ab240e8368d09d3a6676",
             "once": false
         },
         {
@@ -1843,9 +1867,21 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/org_jetbrains_kotlinx_atomicfu-jvm-0.33.0-e348aaa397d08812.jar",
+            "size": 63124,
+            "sha256": "843dd749ff32112956dba51a57923ad995900665d058cb9c90d44cbeace7dcdb",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-co-jvm-1.10.2-dc3d13b93361afd1.jar",
             "size": 1493394,
             "sha256": "ae929ea347b9fe917304ac0018ba8b83139eda179bf6f92c22aeeea7cdb16364",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-co-jvm-1.11.0-e44c0f0f4a5439d9.jar",
+            "size": 1591688,
+            "sha256": "14f5a46b344ab7420d35ed618ed0a483687d57b23470722b6568f1b643f001f3",
             "once": false
         },
         {
@@ -1855,9 +1891,21 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-cojdk8-1.11.0-d32d9ed9e92938cf.jar",
+            "size": 1366,
+            "sha256": "180d58cac512a1a3003b2f11085a81636792dc13fcf0b4859e6f502a93ab9ded",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-dae-jvm-0.7.1-5cc8fbc762d530db.jar",
             "size": 701705,
             "sha256": "829a80dd3476f88cf802f78cc1eb3ec007b92bacbebc5a0f7b080bd471896d39",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-dae-jvm-0.8.0-29674e5d8fb61b6d.jar",
+            "size": 732301,
+            "sha256": "28cf54bf6dc8fd304249fea4b33ae10855e65fb4ef007c5acbbcf3dfa72f549e",
             "once": false
         },
         {
@@ -2697,7 +2745,13 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "b9b122706ae5bcb28115cad9ce192ce7430e46aa2925d26587b26c46103853fd",
+            "sha256": "e409ad9531aa9979f1d81207dc0c035999cd2649fa687bda181157f8042e7cbb",
+            "once": false
+        },
+        {
+            "path": "config/easy_npc/dialog_client.cfg",
+            "size": 273,
+            "sha256": "879295209b74cff8fe79210c7c67e26aefb491aa4b1ef1ae3c677ecdbe849293",
             "once": false
         },
         {
@@ -2973,7 +3027,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "d11ed75dc18537701ccd9089f48701e1011231aaf2611b91586a805422491dca",
+            "sha256": "3e3899f130099c66e0cd022e24576ef5f3d81bab99f101819dffca0ddf9fb663",
             "once": false
         },
         {
@@ -2997,7 +3051,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "bf320e5e132a8fc1afcb04da5808a200deacbf2d17c0edc038d15045e98b2c74",
+            "sha256": "031b911f5300b9ca90c49148f5781316398b12780770de8c6bf75796c0612da6",
             "once": false
         },
         {
@@ -3429,7 +3483,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "074aec5eef3ec2f4138e0a948ef6a1c1875d1363ea384f3edfd8875a4eac4ac9",
+            "sha256": "d4b59dd88e72ac8e8f622d461df1bfacd48455b0e3db79ba28e43f18d80b0085",
             "once": false
         },
         {
@@ -3489,7 +3543,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "f04a2b471ebbe8b98c6d9583eb79b5da25e13be46880f622a06f3ab6d91cfca7",
+            "sha256": "ea424af127a80d9a4be92fc2f03b530c2a7916e6212124b157d5a5ab9f43d31c",
             "once": false
         },
         {
@@ -4082,8 +4136,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8498,
-            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
+            "size": 8428,
+            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
             "once": false
         },
         {
@@ -4142,8 +4196,8 @@
         },
         {
             "path": "config/skinrestorer/config.json",
-            "size": 1016,
-            "sha256": "022c1696a4c8d5a2332dfbd69640410483f15974493d1c8b6d7d9959b6ca7100",
+            "size": 1035,
+            "sha256": "3765c332a3a1f2697b4ec88dc206f5c93c063ca86663faeef3181fe5e01d44df",
             "once": false
         },
         {
@@ -4190,8 +4244,8 @@
         },
         {
             "path": "config/sound_physics_remastered/allowed_sounds.properties",
-            "size": 83958,
-            "sha256": "0bc770bd9b0cdf0ea0ed80fb7cf32ed72408b4cf0539a71b9773be788fa22358",
+            "size": 83987,
+            "sha256": "e53f3355bf42e6532f25c061280120ed9fb5360244ad2b93fa55e4600890dd2c",
             "once": false
         },
         {
@@ -4678,6 +4732,24 @@
             "path": "data/fabricDefaultResourcePacks.dat",
             "size": 70,
             "sha256": "6c4932523a4331f8b18a025ff78d4fae7ed80ce1a39310255a12effb8bc58641",
+            "once": false
+        },
+        {
+            "path": "data/serilum/translations/applied.json",
+            "size": 32,
+            "sha256": "ee7432717bf61ad08d74f741d26b5df167bf7af5f1dfa575ecd5973acdc00cd7",
+            "once": false
+        },
+        {
+            "path": "data/serilum/translations/assets/collective/lang/it_it.json",
+            "size": 54375,
+            "sha256": "d503916357fb2583e3ec655e447c2d987a8bb69e8b6d94779b22e1cee56465fd",
+            "once": false
+        },
+        {
+            "path": "data/serilum/translations/pack.mcmeta",
+            "size": 81,
+            "sha256": "40c0177c7bfea09f440029006c257d42c8cc5e048855cec2d5dbd398d1b9e971",
             "once": false
         },
         {
@@ -8209,12 +8281,6 @@
             "once": false
         },
         {
-            "path": "mods/[client]colorwheel-fabric-1.2.7+mc1.20.1.jar",
-            "size": 391445,
-            "sha256": "40148e748dfcadb99809bc55221d43fdc2108919bb33748a8b0afdbedba2ff63",
-            "once": false
-        },
-        {
             "path": "mods/[client]continuity-3.0.0+1.20.1.jar",
             "size": 1016063,
             "sha256": "fdb646bd51667c57e576d1412c740ac48e3bf6953294dde11a62101a09395fe3",
@@ -8323,9 +8389,9 @@
             "once": false
         },
         {
-            "path": "mods/alcocraftplus-1.20-2.1.0-fabric.jar",
-            "size": 277122,
-            "sha256": "d551037847b838c36c77bb3c6fa08be71d25d13765376e82d36dd2fd646eb43b",
+            "path": "mods/alcocraftplus-1.20-2.1.1-fabric.jar",
+            "size": 273801,
+            "sha256": "b75be189cc77e6072e5408b176c6fd284b1f3af84ecd40067fdf1e588850203d",
             "once": false
         },
         {
@@ -8407,9 +8473,9 @@
             "once": false
         },
         {
-            "path": "mods/chat_heads-0.15.1-fabric-1.20.jar",
-            "size": 84192,
-            "sha256": "7b05c44105caf3246c8cb9ad6c8fdc1b4edc068ac77754da02451abfd2f865cc",
+            "path": "mods/chat_heads-0.15.2-fabric-1.20.jar",
+            "size": 84255,
+            "sha256": "317190f3ae17e1e28257218f6645f7e7ddc6ec06189b7dd243408ea3c80073fe",
             "once": false
         },
         {
@@ -8425,9 +8491,15 @@
             "once": false
         },
         {
-            "path": "mods/collective-1.20.1-8.22.jar",
-            "size": 662615,
-            "sha256": "f5266d805601c540baa1a908387b71b674fe967337226cf1b9d3e0aceba36cee",
+            "path": "mods/collective-1.20.1-8.25.jar",
+            "size": 697968,
+            "sha256": "250faee787661a5a065cd152560c645690f5e3fc86c3a5def112742cb6c7f9be",
+            "once": false
+        },
+        {
+            "path": "mods/colorwheel-fabric-1.2.9+mc1.20.1.jar",
+            "size": 395598,
+            "sha256": "c5a26563fb083df3d781ef2e15beeb89588ac92d470639d62a9c41429aa3ef72",
             "once": false
         },
         {
@@ -8485,21 +8557,21 @@
             "once": false
         },
         {
-            "path": "mods/easy_npc-fabric-1.20.1-6.17.0.jar",
-            "size": 2030633,
-            "sha256": "039bafb2105f7fcc6517839c2feb54264cd7ffce84d92c5ce20a108f32a60f6d",
+            "path": "mods/easy_npc-fabric-1.20.1-6.19.0.jar",
+            "size": 2070100,
+            "sha256": "1e3ca00f17ee770ad1145d225eb2607992016557f341b7e511bc0ee3742001c9",
             "once": false
         },
         {
-            "path": "mods/easy_npc_bundle-fabric-1.20.1-6.17.0.jar",
-            "size": 25259,
-            "sha256": "2c08b6af3643e321750e84250a8f116d6eb647233585ff01c3cfc94842de9a35",
+            "path": "mods/easy_npc_bundle-fabric-1.20.1-6.19.0.jar",
+            "size": 25260,
+            "sha256": "94773c5b79ace385fdd3a2fdf4beb6c84dd0cee032b85deb173d8b3790935328",
             "once": false
         },
         {
-            "path": "mods/easy_npc_config_ui-fabric-1.20.1-6.17.0.jar",
-            "size": 828031,
-            "sha256": "fe25f913513ad257c285aaf727b881c70ac437f68074cab28703967e4ed0b7fe",
+            "path": "mods/easy_npc_config_ui-fabric-1.20.1-6.19.0.jar",
+            "size": 866207,
+            "sha256": "87cf6bb7fb7f08bd7bd70e1125cc31a416ff0a13a6a3935100a06a2ff716304d",
             "once": false
         },
         {
@@ -8539,9 +8611,9 @@
             "once": false
         },
         {
-            "path": "mods/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
-            "size": 7813444,
-            "sha256": "c35713ee1da70fde6bf0e9ed26f8e2baf0814e60eb993cd12acb940e57f4fd2f",
+            "path": "mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+            "size": 8076848,
+            "sha256": "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832",
             "once": false
         },
         {
@@ -8677,9 +8749,9 @@
             "once": false
         },
         {
-            "path": "mods/immersive_aircraft-1.4.0+1.20.1-fabric.jar",
-            "size": 2417420,
-            "sha256": "87c40c0e9308438e1d8bbe2df2ca73245cf0eff95d31509fd6b9dc3716c9b776",
+            "path": "mods/immersive_aircraft-1.4.1+1.20.1-fabric.jar",
+            "size": 2424850,
+            "sha256": "b7b3ae48413ef33e1534c298e5fe8d4ff10e4aa5a23a4c7491ce033aed9a6d1d",
             "once": false
         },
         {
@@ -8821,9 +8893,9 @@
             "once": false
         },
         {
-            "path": "mods/open-parties-and-claims-fabric-1.20.1-0.26.3.jar",
-            "size": 1648012,
-            "sha256": "e84df4d32c1ff047298e7f2ea40040e6ec1989089c9511653ff22351301384a7",
+            "path": "mods/open-parties-and-claims-fabric-1.20.1-0.27.5.jar",
+            "size": 1731834,
+            "sha256": "cea35d65c90fd504563ef4a13a7525c80093ce509602a85802b5221495dbef0f",
             "once": false
         },
         {
@@ -8845,9 +8917,9 @@
             "once": false
         },
         {
-            "path": "mods/pantographsandwires-fabric-1.20.1-beta-0.2.1-C6.jar",
-            "size": 5144960,
-            "sha256": "e6ddb386a76eff1a01c12d26b633d87a443a4510059de63724791fca33e39a8c",
+            "path": "mods/pantographsandwires-fabric-1.20.1-beta-0.2.3-C6.jar",
+            "size": 2458969,
+            "sha256": "a3758ef90dd51be0c219f732daafc1c5370f58646837db68d9dffd48d5478433",
             "once": false
         },
         {
@@ -8899,9 +8971,9 @@
             "once": false
         },
         {
-            "path": "mods/skinrestorer-2.7.0+1.20-fabric.jar",
-            "size": 252827,
-            "sha256": "4f1660ae3b543f2100866b900ffd311260f33365e154764c3f8139b6b33f199f",
+            "path": "mods/skinrestorer-2.8.1+1.20-fabric.jar",
+            "size": 259202,
+            "sha256": "2cb2c9782dc2794a39cd1fd0d355516a3f6d6917e605ca9d640b5cb5895e728d",
             "once": false
         },
         {
@@ -8953,9 +9025,9 @@
             "once": false
         },
         {
-            "path": "mods/temperatureapi-1.1.8.jar",
-            "size": 92323,
-            "sha256": "8251e1fbbd24efa8a783f91ec8f1ecc2b6c6f9fe0b10e3e8ae90d8902ad337fc",
+            "path": "mods/temperatureapi-1.2.0.jar",
+            "size": 117707,
+            "sha256": "8800e8645ecb20896001d523242b0de43b31fee4c2b256608880fbbb16efb39e",
             "once": false
         },
         {
@@ -9031,15 +9103,15 @@
             "once": false
         },
         {
-            "path": "mods/xaerominimap-fabric-1.20.1-25.3.12.jar",
-            "size": 2171370,
-            "sha256": "e76276745007a2648dbe7616dc685802cc8c0126fc03eff3ae79d86534b1fe7a",
+            "path": "mods/xaerominimap-fabric-1.20.1-26.1.0.jar",
+            "size": 2171315,
+            "sha256": "b8e12e853fe985b0b65642908f474076ad076283350bcf0f4c0be5add607be78",
             "once": false
         },
         {
-            "path": "mods/xaeroworldmap-fabric-1.20.1-1.40.16.jar",
-            "size": 1410559,
-            "sha256": "1272928dca90c2bfa209f7a3e80aedd742e2438ab0b6a769b29ac8010bedffd9",
+            "path": "mods/xaeroworldmap-fabric-1.20.1-1.41.0.jar",
+            "size": 1410493,
+            "sha256": "333923dc4c0b1ad15837582c84b1313ec0df4f82ab76a8453c926ca5c4c5ee0f",
             "once": false
         },
         {
@@ -37965,7 +38037,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "6a09b62e7f4405a7eb661048aa7241a5cb418595f8c1c41f86a66891fb22cf5f",
+            "sha256": "367f18be720a063ad2770f00ad7acbf9cdc39ab86b6619af3608532bd4e3409f",
             "once": false
         },
         {
@@ -38063,5 +38135,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "14/06/2026 03:38:26,99"
+    "generated": "14/06/2026 03:42:26,38"
 }
