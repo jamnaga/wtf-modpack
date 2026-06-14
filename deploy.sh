@@ -12,9 +12,13 @@ export LC_NUMERIC=C
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
-PACKAGES_DIR="$SCRIPT_DIR/packages"
-GENERATE_MANIFEST="$SCRIPT_DIR/generate_manifest.sh"
+# Path configurabili: il default punta al modpack, ma possono essere
+# sovrascritte da variabili d'ambiente (utile per test in sandbox).
+PACKAGES_DIR="${DEPLOY_PACKAGES_DIR:-$SCRIPT_DIR/packages}"
+GENERATE_MANIFEST="${DEPLOY_GENERATE_MANIFEST:-$SCRIPT_DIR/generate_manifest.sh}"
 MANIFESTIGNORE="$SCRIPT_DIR/.manifestignore"
+DH_ENGINE="$SCRIPT_DIR/tools/dh_update_package.py"
+DH_SERVER_DATA="${DEPLOY_DH_SERVER_DATA:-$SCRIPT_DIR/Distant_Horizons_server_data/Minecraft+Server}"
 
 # ───── Stato globale wizard (no array associativi: bash 3.2 compat) ─────
 PKG_NAME=""
@@ -864,6 +868,169 @@ action_full_deploy() {
   ui_pause
 }
 
+# ───── Aggiorna LOD Package (Distant Horizons) ─────
+#
+# Sincronizza UN package DH multi-mondo con i dati LOD locali: scopre tutti i
+# mondi sotto Distant_Horizons_server_data/Minecraft+Server/, li fonde nel
+# package (most-recent-wins) e rigenera le parti 7z. Vedi tools/dh_update_package.py.
+
+action_update_lod_package() {
+  ui_clear
+  ui_header "Aggiorna LOD Package (Distant Horizons)"
+
+  # Prerequisiti
+  if [[ ! -f "$DH_ENGINE" ]]; then
+    ui_error "Motore non trovato: $DH_ENGINE"
+    ui_pause; return 1
+  fi
+  if ! python3 -c 'import sqlite3' 2>/dev/null; then
+    ui_error "Modulo python sqlite3 non disponibile."
+    ui_pause; return 1
+  fi
+  local sevenz; sevenz="$(detect_7z)"
+  if [[ -z "$sevenz" ]]; then
+    ui_error "7z non trovato. Installa con: brew install p7zip"
+    ui_pause; return 1
+  fi
+
+  # 1) Rileva i package DH (filesToExtract contiene DistantHorizons.sqlite)
+  local detect
+  detect=$(python3 - "$PACKAGES_DIR" <<'PY'
+import json, os, sys
+root = sys.argv[1]
+if os.path.isdir(root):
+    for name in sorted(os.listdir(root)):
+        d = os.path.join(root, name)
+        pj = os.path.join(d, "package.json")
+        if not os.path.isfile(pj):
+            continue
+        try:
+            cfg = json.load(open(pj, encoding="utf-8"))
+        except Exception:
+            continue
+        fte = cfg.get("filesToExtract") or []
+        if any(str(x).endswith("DistantHorizons.sqlite") for x in fte):
+            print("\t".join([d, cfg.get("name") or name]))
+PY
+)
+  if [[ -z "$detect" ]]; then
+    ui_error "Nessun package DH trovato in packages/."
+    ui_info "(serve un package con filesToExtract = DistantHorizons.sqlite)"
+    ui_pause; return 1
+  fi
+
+  local PKG_DIRS=() PKG_NAMES=()
+  while IFS=$'\t' read -r d n; do
+    [[ -z "$d" ]] && continue
+    PKG_DIRS+=("$d"); PKG_NAMES+=("$n")
+  done <<< "$detect"
+
+  # 2) Scegli quale package (menu solo se più d'uno)
+  local pidx=0
+  if [[ ${#PKG_DIRS[@]} -gt 1 ]]; then
+    local opts=() i=0
+    while [[ $i -lt ${#PKG_NAMES[@]} ]]; do opts+=("${PKG_NAMES[$i]}"); i=$((i+1)); done
+    opts+=("« Annulla »")
+    ui_menu "Quale LOD package aggiornare?" "${opts[@]}" || return 0
+    pidx=$UI_MENU_INDEX
+    [[ $pidx -ge ${#PKG_DIRS[@]} ]] && return 0
+  fi
+  local pkg_dir="${PKG_DIRS[$pidx]}"
+  local pkg_name="${PKG_NAMES[$pidx]}"
+
+  # 3) Sorgente-radice: locale (default) o cartella esterna con struttura <mondo>/DistantHorizons.sqlite
+  local server_data="$DH_SERVER_DATA"
+  ui_clear
+  ui_header "Aggiorna LOD Package — sorgente"
+  printf '%sPackage:%s  %s\n' "$C_BOLD" "$C_RESET" "$pkg_name"
+  printf '%sLocale:%s   %s\n\n' "$C_BOLD" "$C_RESET" "$server_data"
+  if ui_yesno "Usare una cartella sorgente DIVERSA da quella locale?" "n"; then
+    ui_input "Percorso radice (contiene le cartelle <mondo>/DistantHorizons.sqlite)" ""
+    local ext="$UI_INPUT_VALUE"
+    ext="${ext#"${ext%%[![:space:]]*}"}"; ext="${ext%"${ext##*[![:space:]]}"}"
+    if [[ "$ext" == \'*\' || "$ext" == \"*\" ]] && [[ ${#ext} -ge 2 ]]; then
+      ext="${ext:1:${#ext}-2}"
+    fi
+    ext="${ext/#\~/$HOME}"
+    [[ -z "$ext" ]] && return 0
+    if [[ ! -d "$ext" ]]; then
+      ui_error "Cartella non trovata: $ext"
+      ui_pause; return 1
+    fi
+    server_data="$ext"
+  fi
+
+  local dhignore="$SCRIPT_DIR/.dhignore"
+
+  # 4) Anteprima veloce (--plan): elenco mondi senza estrarre nulla
+  ui_clear
+  ui_header "Aggiorna LOD Package — anteprima"
+  local plan
+  plan=$(python3 "$DH_ENGINE" "$pkg_dir" "$server_data" --plan --dhignore "$dhignore" 2>/dev/null)
+  if [[ -z "$plan" ]]; then
+    ui_error "Impossibile generare l'anteprima."
+    ui_pause; return 1
+  fi
+
+  # Renderizza il piano: l'elenco mondi su stdout + una riga sentinella col totale.
+  # Il plan viaggia via env var (DH_PLAN), non via stdin: lo stdin qui è il
+  # heredoc dello script python, non possono coesistere.
+  local rendered
+  rendered=$(DH_PLAN="$plan" python3 - <<'PY'
+import json, os
+line = os.environ.get("DH_PLAN", "")
+p = json.loads(line[7:]) if line.startswith("RESULT ") else None
+if not p:
+    print("__WORLDS__=0"); raise SystemExit
+labels = {"merge": "merge ", "new": "NUOVO ", "keep": "tieni "}
+for w in p["worlds"]:
+    sz = f"{w['source_size']/1048576:6.1f} MB" if w.get("source_size") else "      -   "
+    print(f"  {labels.get(w['state'], w['state']):6} {sz}  {w['world']}")
+if p.get("removed_by_ignore"):
+    print("  rimossi (.dhignore): " + ", ".join(p["removed_by_ignore"]))
+print(f"__WORLDS__={len(p['worlds'])}")
+PY
+)
+  local n_worlds
+  n_worlds=$(printf '%s\n' "$rendered" | sed -n 's/^__WORLDS__=//p')
+  printf '%s\n' "$rendered" | grep -v '^__WORLDS__='
+  echo
+  ui_info "merge = mondo già nel package fuso col locale  •  NUOVO = aggiunto  •  tieni = preservato"
+  ui_warn "Controlla i mondi NUOVI: se uno è di un altro server, aggiungilo a .dhignore"
+  ui_info "(.dhignore: un nome-cartella per riga, in $dhignore)"
+  echo
+
+  if [[ "${n_worlds:-0}" -eq 0 ]]; then
+    ui_error "Nessun mondo da includere."
+    ui_pause; return 1
+  fi
+
+  ui_info "Regola di merge: vince il dato con timestamp più recente."
+  echo
+  if ! ui_yesno "Sincronizzare $n_worlds mondi nel package?" "y"; then
+    ui_info "Operazione annullata."
+    ui_pause; return 0
+  fi
+
+  # 5) Esegui il motore (output live)
+  ui_clear
+  ui_header "Sincronizzazione in corso: $pkg_name"
+  echo
+  if python3 "$DH_ENGINE" "$pkg_dir" "$server_data" --seven-z "$sevenz" --dhignore "$dhignore"; then
+    echo
+    ui_ok "LOD package multi-mondo aggiornato con successo."
+    echo
+    if ui_yesno "Rigenerare ora il manifest.json?" "y"; then
+      echo
+      bash "$GENERATE_MANIFEST" && ui_ok "Manifest rigenerato." || ui_error "Errore manifest."
+    fi
+  else
+    echo
+    ui_error "Aggiornamento fallito. Il package originale non è stato modificato."
+  fi
+  ui_pause
+}
+
 # ───── Main loop ─────
 
 main_menu() {
@@ -871,6 +1038,7 @@ main_menu() {
     ui_menu "Menu principale" \
       "Rigenera manifest.json" \
       "Crea nuovo package" \
+      "Aggiorna LOD Package (DH Chunks — tutti i mondi)" \
       "Elenca packages esistenti" \
       "Elimina package" \
       "Crea package + rigenera manifest (deploy completo)" \
@@ -883,10 +1051,11 @@ main_menu() {
     case "$UI_MENU_INDEX" in
       0) action_regenerate_manifest ;;
       1) action_create_package ;;
-      2) action_list_packages ;;
-      3) action_delete_package ;;
-      4) action_full_deploy ;;
-      5) break ;;
+      2) action_update_lod_package ;;
+      3) action_list_packages ;;
+      4) action_delete_package ;;
+      5) action_full_deploy ;;
+      6) break ;;
     esac
   done
   ui_clear

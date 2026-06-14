@@ -1,0 +1,6 @@
+# .dhignore — mondi Distant Horizons da ESCLUDERE dal LOD package multi-mondo.
+# Un nome-cartella per riga (quello sotto Distant_Horizons_server_data/Minecraft+Server/).
+# Le righe vuote e quelle che iniziano con # vengono ignorate.
+#
+# Esempio: per non includere i mondi di un altro server, scommenta:
+# 69ppfid62q2s4@minecraft@@overworld

@@ -1,21 +1,29 @@
 {
   "name": "GDC Online DH Chunks",
   "description": "Distant Horizons LOD Data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "archiveType": "7z",
   "parts": [
     "DistantHorizons.sqlite.7z.001",
     "DistantHorizons.sqlite.7z.002",
     "DistantHorizons.sqlite.7z.003",
     "DistantHorizons.sqlite.7z.004",
-    "DistantHorizons.sqlite.7z.005"
+    "DistantHorizons.sqlite.7z.005",
+    "DistantHorizons.sqlite.7z.006"
   ],
-  "extractTo": "Distant_Horizons_server_data/Minecraft+Server/f9p48rt6rre72@minecraft@@overworld/",
+  "extractTo": "Distant_Horizons_server_data/Minecraft+Server/",
   "filesToExtract": [
-    "DistantHorizons.sqlite"
+    "69ppfid62q2s4@minecraft@@overworld/DistantHorizons.sqlite",
+    "f9p48rt6rre72@ad_astra@@glacio/DistantHorizons.sqlite",
+    "f9p48rt6rre72@ad_astra@@mercury/DistantHorizons.sqlite",
+    "f9p48rt6rre72@ad_astra@@moon/DistantHorizons.sqlite",
+    "f9p48rt6rre72@ad_astra@@moon_orbit/DistantHorizons.sqlite",
+    "f9p48rt6rre72@ad_astra@@venus/DistantHorizons.sqlite",
+    "f9p48rt6rre72@minecraft@@overworld/DistantHorizons.sqlite",
+    "f9p48rt6rre72@minecraft@@the_nether/DistantHorizons.sqlite"
   ],
   "action": "extract",
-  "overwrite": false,
+  "overwrite": true,
   "required": true,
   "progressMessage": "*currentPart* di *totalParts* | Scaricamento chunks di GangDrogaCity Online: *percentage*%"
 }

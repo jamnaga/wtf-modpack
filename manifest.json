@@ -1,15 +1,21 @@
 {
     "files": [
         {
+            "path": ".dhignore",
+            "size": 342,
+            "sha256": "8d321b2810345485353a89e6457146aabd8756777546896715007ac61c463e64",
+            "once": false
+        },
+        {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "3efea22eff1ff5be9286970e963f448ec2deea1c44585247dfd7ecc407d95deb",
+            "sha256": "302c9378229497ee3f623334b8a95ca630ecfdb300dcdc1260a3f77ee8170920",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "ba6b7e5ee51027bfb3e9b8b0f4afbdc2b09592dcbfee60aa2b8ca6af4d3ebc70",
+            "sha256": "edc3fda48b56c1011a7f3e719f723da3003bc0504c6877e49ff85f21b9eb942d",
             "once": false
         },
         {
@@ -2691,7 +2697,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "12e0dc46f24308519c05c671b899f959703d4608287f0b612b060d3d739a58ee",
+            "sha256": "181bcec69045484c8dd984cefafff1986d9c0598b70116f98a8d38bb2dd40fb1",
             "once": false
         },
         {
@@ -2967,7 +2973,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "6a2b53f08e1575579a8e378eb99247224314596cd09fa83ba078baf06125d912",
+            "sha256": "d75fec904a5e80d5d36d9621b9524ec58ad69183fc6ce56fe2ab935a42f74e90",
             "once": false
         },
         {
@@ -2991,7 +2997,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "d4f60dea2aa82b5550b78a18d7b8142e22b908bbcb6bda42433eb3c6f59fd333",
+            "sha256": "72dc5ea02155abd58eaeb1010d43d670f6a43785cd09f4addc8393efafe9f41b",
             "once": false
         },
         {
@@ -3423,7 +3429,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "b0849ba02b70de1ac32c4a3bda0ee4f1532aad6442d7484419fba3c08d3dd23a",
+            "sha256": "1864d9c56e03f8cdc2d923e85242306d0176953da56f6b0186aa50139203c5f9",
             "once": false
         },
         {
@@ -3483,7 +3489,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "70621b090159a9327d85018b7187587a45f227b3b54814c66d4962d7872a3553",
+            "sha256": "829cc6258c67e3babafea907bc51c93ac0fdb9dfdd5ee09737b58887d0ea27b9",
             "once": false
         },
         {
@@ -4095,13 +4101,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "4bfaefef28d37aa2e8b26d8aa32d32bcf127583f58e13a4654edc8b5c65caac4",
+            "sha256": "4f844cd2cf5c3d0d6803d07da35ce08dda410f703152ba24ec0f92e22594e2cb",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "f6f3ddcedfe08a305b0eb714d7ad598f0b31f5ee9ffa30473de6376f08cd7184",
+            "sha256": "54002fd57856dfe2068bbc46b594db975504c91d296fe40686cab33493a1fb17",
             "once": false
         },
         {
@@ -4184,8 +4190,8 @@
         },
         {
             "path": "config/sound_physics_remastered/allowed_sounds.properties",
-            "size": 83934,
-            "sha256": "b1cb8132d0f1631e6f8964f3ba6fc8d810c848bc0d7efe0a3114b49363a32963",
+            "size": 83958,
+            "sha256": "0bc770bd9b0cdf0ea0ed80fb7cf32ed72408b4cf0539a71b9773be788fa22358",
             "once": false
         },
         {
@@ -4688,8 +4694,8 @@
         },
         {
             "path": "deploy.sh",
-            "size": 25968,
-            "sha256": "d45aeb8401ff33c3927c85d39c9026e1c6eafa5cb00a07f11652551a227e83d9",
+            "size": 32222,
+            "sha256": "dac4a107ddce345c4437706eb5809e91a39235688f3c4be8bd9c53d5b3c611ba",
             "once": false
         },
         {
@@ -37959,7 +37965,13 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "a360e164bd94b3d325eef9544898eb3f66fcd814dcd27bf062fe2a699bdabbb4",
+            "sha256": "1dc801677381f8a3144ec2589c3afa321694b8719f51b508aa524e1db416a609",
+            "once": false
+        },
+        {
+            "path": "tools/dh_update_package.py",
+            "size": 17307,
+            "sha256": "2d720275232e4371cbf80e7af92e18cd5fa9cd2e33405a1166045c7369bdb8c4",
             "once": false
         },
         {
@@ -37973,53 +37985,66 @@
         {
             "name": "GDC Online DH Chunks",
             "description": "Distant Horizons LOD Data",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "archiveType": "7z",
             "parts": [
                 "DistantHorizons.sqlite.7z.001",
                 "DistantHorizons.sqlite.7z.002",
                 "DistantHorizons.sqlite.7z.003",
                 "DistantHorizons.sqlite.7z.004",
-                "DistantHorizons.sqlite.7z.005"
+                "DistantHorizons.sqlite.7z.005",
+                "DistantHorizons.sqlite.7z.006"
             ],
-            "extractTo": "Distant_Horizons_server_data/Minecraft+Server/f9p48rt6rre72@minecraft@@overworld/",
+            "extractTo": "Distant_Horizons_server_data/Minecraft+Server/",
             "filesToExtract": [
-                "DistantHorizons.sqlite"
+                "69ppfid62q2s4@minecraft@@overworld/DistantHorizons.sqlite",
+                "f9p48rt6rre72@ad_astra@@glacio/DistantHorizons.sqlite",
+                "f9p48rt6rre72@ad_astra@@mercury/DistantHorizons.sqlite",
+                "f9p48rt6rre72@ad_astra@@moon/DistantHorizons.sqlite",
+                "f9p48rt6rre72@ad_astra@@moon_orbit/DistantHorizons.sqlite",
+                "f9p48rt6rre72@ad_astra@@venus/DistantHorizons.sqlite",
+                "f9p48rt6rre72@minecraft@@overworld/DistantHorizons.sqlite",
+                "f9p48rt6rre72@minecraft@@the_nether/DistantHorizons.sqlite"
             ],
             "action": "extract",
-            "overwrite": false,
+            "overwrite": true,
             "required": true,
             "progressMessage": "*currentPart* di *totalParts* | Scaricamento chunks di GangDrogaCity Online: *percentage*%",
             "files": [
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.001",
                     "size": 52428800,
-                    "sha256": "979de206ff610f42df3dfe87031b8a64d5772566e41ba2ccd73ecb48ea6b177c"
+                    "sha256": "2cff405f02d11b9f6cbdd346352b086a1a2143b31c86aa8ba1d4be491e59f212"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.002",
                     "size": 52428800,
-                    "sha256": "864ea79ac332bf4713a10170a2ea7a7269834a180436e53464565d1588e869e1"
+                    "sha256": "3ced969610b971f2273cff5b425d3272655d955bd0b08479a9b0f4773ce96667"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.003",
                     "size": 52428800,
-                    "sha256": "6b05927ba0b579f371b910765f2b84c1b6613dd64b7a401a6a0ed6c021a5b6db"
+                    "sha256": "190d067040def717283855288e9d7b74f3e83ce8a4395f445070a78b59d580fc"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.004",
                     "size": 52428800,
-                    "sha256": "f0e0fba4e7e28d923c951e2d563aa8e76c494a8c6d3a52553bc827b1278b5c76"
+                    "sha256": "4e0a997acecac6358ae3c82ac869809c221fc88ee5146957c2dd40a28b6f9cc7"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.005",
-                    "size": 16828200,
-                    "sha256": "f4f5a4bc87f9dda4538b3f47df7733b33ec4bb6317652839482435855894885f"
+                    "size": 52428800,
+                    "sha256": "ea693ef71f7d3634434b6bb52f9bafe9fa618dea0c7c072aa4c612718e832edb"
+                },
+                {
+                    "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.006",
+                    "size": 43984561,
+                    "sha256": "4777b8df46ad98dac98d3a7d745e3edd7c77e1d6ec350c48aef3311eb386bcb9"
                 }
             ]
         }
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "13/06/2026 15:27:13,89"
+    "generated": "14/06/2026 02:59:24,03"
 }
