@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "b56e88a0784cd10bdea9996624380205273145466a1e6a2aac45a7bfecae58c7",
+            "sha256": "398a89af068231b9f9ade6a9698401ddfaf7474592087c44531f1760291f63ee",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "7743d8f63baa481b27dff2391689d86ac8fa51ef001559bfe725aa66b7b444da",
+            "sha256": "fc85499a4670d769f657bcb9b44c4b5b56fd7f67c13bc7f7bd22d6784ccb6c4f",
             "once": false
         },
         {
@@ -2697,7 +2697,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "d316b22bc871f9cb6a137448d20ea21f3db14ade0b48682b7b3dba48432ca719",
+            "sha256": "b9b122706ae5bcb28115cad9ce192ce7430e46aa2925d26587b26c46103853fd",
             "once": false
         },
         {
@@ -2973,7 +2973,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "334ce529b19cf4fc8a0d01bd441c9b4a19084f37bfe90519ffdf5dc4405f911b",
+            "sha256": "d11ed75dc18537701ccd9089f48701e1011231aaf2611b91586a805422491dca",
             "once": false
         },
         {
@@ -2997,7 +2997,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "82192d0f768a67272f29de44a1d9849f01db7e6768597cc03929bb29584ef204",
+            "sha256": "bf320e5e132a8fc1afcb04da5808a200deacbf2d17c0edc038d15045e98b2c74",
             "once": false
         },
         {
@@ -3429,7 +3429,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "14161db78c4476394bbd662cb00fb5d3e43918fe34b5c4f95cf38e3e897f3d96",
+            "sha256": "074aec5eef3ec2f4138e0a948ef6a1c1875d1363ea384f3edfd8875a4eac4ac9",
             "once": false
         },
         {
@@ -3489,7 +3489,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "67bcf080fe171117a16fb0b505495009f5b66ce39540696c5e14d84b90085208",
+            "sha256": "f04a2b471ebbe8b98c6d9583eb79b5da25e13be46880f622a06f3ab6d91cfca7",
             "once": false
         },
         {
@@ -4101,13 +4101,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "9b434885caa499e3541fbcc2080b4e0a2235a8c13aef1059923200a1b9c4f989",
+            "sha256": "0a501a12ab20e387e40cb9f237b19108bf3eb49d06cae549c1e71574879ce88e",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "e00d006db9e676e04cb3b68232852fdc223b784114a146fbe95958af0980a35b",
+            "sha256": "285874b6259325dc987a095ecb18db238010b9e60ef2d0c75b4e4c2ea04d3aef",
             "once": false
         },
         {
@@ -8642,8 +8642,8 @@
         },
         {
             "path": "mods/gdc-telco-0.1.0.jar",
-            "size": 427838,
-            "sha256": "c477086d23f42dbd8c68ee4bdcab56641fa9972562060b3f1f73ab926797f9e0",
+            "size": 476628,
+            "sha256": "79543c1ec7167e18c349f03bd5a7f80561a422e1a897a7bb801fb329538e11a0",
             "once": false
         },
         {
@@ -37965,7 +37965,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "8c80be25759a3488fc33892b68d6641be34fde1a28686cea1b78a25eb266dbcf",
+            "sha256": "6a09b62e7f4405a7eb661048aa7241a5cb418595f8c1c41f86a66891fb22cf5f",
             "once": false
         },
         {
@@ -38014,6 +38014,11 @@
             "progressMessage": "*currentPart* di *totalParts* | Scaricamento chunks di GangDrogaCity Online: *percentage*%",
             "files": [
                 {
+                    "path": "packages/GDC Online DH Chunks/.DS_Store",
+                    "size": 6148,
+                    "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+                },
+                {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.001",
                     "size": 52428800,
                     "sha256": "d486f0b3b301694cf1b321dd0febf74016d217063d60274c9a240ca07f842f52"
@@ -38058,5 +38063,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "14/06/2026 03:23:10,64"
+    "generated": "14/06/2026 03:38:26,99"
 }
