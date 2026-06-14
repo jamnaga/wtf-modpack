@@ -5,5 +5,11 @@
   "blackjackMaxBet": 1000,
   "rouletteMaxBet": 1000,
   "pokerMaxAnte": 1000,
+  "mpPokerSmallBlind": 5,
+  "mpPokerBigBlind": 10,
+  "mpPokerMinBuyIn": 100,
+  "mpPokerMaxBuyIn": 100000,
+  "mpPokerRakePercent": 0,
+  "mpPokerRakeCap": 0,
   "minBet": 1
 }
