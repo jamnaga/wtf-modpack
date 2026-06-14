@@ -4136,8 +4136,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8428,
-            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
+            "size": 8498,
+            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
             "once": false
         },
         {
@@ -4155,13 +4155,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "312cbbfd2159b31d151c0b56965ee3bdbd2a8733efb85a783fe21192dbc8dda8",
+            "sha256": "5df607b0b52f861a862f9753bc631441c21eb33420104f4dd00c985ff4aa07a2",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "5fabbbfa61a1a78a510005b4254503468ad8cc6f95f07668edfa238d04d33a98",
+            "sha256": "8184f6175b359d3eff96c5f940e9541c0a7e65bd676e6ab002fa34e3c4af2ba2",
             "once": false
         },
         {
@@ -8666,8 +8666,8 @@
         },
         {
             "path": "mods/gdc-casino-0.1.0.jar",
-            "size": 98200,
-            "sha256": "d0566e4eff881d6edfc153006380eb75c2554cada0151e56b89f0b9bc2028819",
+            "size": 113468,
+            "sha256": "4f75dff15b98c58358f936d89f6506d0cd522823a2f319a745b9e41917949c05",
             "once": false
         },
         {
@@ -38146,5 +38146,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "14/06/2026 20:40:59,22"
+    "generated": "14/06/2026 21:54:09,40"
 }
