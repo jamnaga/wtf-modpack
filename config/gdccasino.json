@@ -1,0 +1,8 @@
+{
+  "casinoAccountName": "Casino",
+  "startingFloat": 100000,
+  "slotMaxBet": 500,
+  "blackjackMaxBet": 1000,
+  "rouletteMaxBet": 1000,
+  "minBet": 1
+}
