@@ -23,3 +23,4 @@ xaero/
 .DS_Store
 /backups
 config/gdcchiosco-indirizzi.json
+*.nbt
