@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "2018d8f969ebbefd166df504bbcc34cfe5e8ecc31a9f2ce0be4e6303b28ee854",
+            "sha256": "41e048ba8c6733b888f066ec5f032ef2c2dac4559d025913bbf9ddceabfb0581",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "52e328c49f02078b3fb245b0ddc1438598541b0dd6542a91b4c504a93ee266a5",
+            "sha256": "74e8661dc797cfd0f2418ef4201fb2e96b4726ed2dc645c67d876e64714fc5ac",
             "once": false
         },
         {
@@ -2745,7 +2745,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "32bd83c2d6a4b926a865584d0908458864bd1158a9d8bf932b6d365fad9e6b25",
+            "sha256": "00b4c83f652a34096ce61e37abe6654bb17037e99a41b2e62c5efb858adb5834",
             "once": false
         },
         {
@@ -3015,7 +3015,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "00359aac498106e8427c354bbbbb52503824c3d1ed906e689a8fe6ea9bf4ff75",
+            "sha256": "b2eeaf389eb641e8fa82b0ab3e683990f4540f9d5cb98ac64eaf5030d5df7bec",
             "once": false
         },
         {
@@ -3039,7 +3039,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "8692aff784e977a0679a001e492c8973bc0fb9ec1262cf9228ae8b906195dcb2",
+            "sha256": "33298e4f6db2511dd9590c15c02f02d77afad41c2cd345c16d76867dd517117b",
             "once": false
         },
         {
@@ -3375,7 +3375,7 @@
         {
             "path": "config/gdc-join.properties",
             "size": 124,
-            "sha256": "0d7926c21578c090f2995fa2cc8c0ba3a310485f02b3b3347f8842aed60c7034",
+            "sha256": "d4e2aa06da4e7d5ee0031ebadb83146bb2bd0327442f9c34a236ecb4a342ab1b",
             "once": false
         },
         {
@@ -3489,7 +3489,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "a3bea6102e24f3d81509971b21b7b50a724a774c756e015b89c735d393983a19",
+            "sha256": "30113bb9b97f91779b7e26237d0a166ab15921313751ffc6e467ea42765835d5",
             "once": false
         },
         {
@@ -3549,7 +3549,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "ca550ab2da26821a58e163d1f098d308d2e9c7ad1a050ddd2151665929c1788d",
+            "sha256": "d3eedf9c015d374d7a921f3860d039ff368a5ac0a2d170ee2b387f0345d57bb4",
             "once": false
         },
         {
@@ -4142,8 +4142,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8498,
-            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
+            "size": 8428,
+            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
             "once": false
         },
         {
@@ -8756,8 +8756,8 @@
         },
         {
             "path": "mods/gdctablegames-0.1.0.jar",
-            "size": 908861,
-            "sha256": "a235d93d3c4bc52eed7782ee396653f688d451ebaf04f9cde22b2c94dff13b60",
+            "size": 908853,
+            "sha256": "c65d947bd7eb571bea7af6772ca56702f7a956ae83f6f39f276dd71752d1055c",
             "once": false
         },
         {
@@ -38073,7 +38073,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "e465ca56404a07dc00c1a5b649d810cd1778c1824490d6a3cf6cce75a1b46064",
+            "sha256": "c4f4d7c9deeadd517ecb477f0bfe2d5829361ae1f940d21be7edc0354830e89e",
             "once": false
         },
         {
@@ -38170,5 +38170,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "15/06/2026 13:01:01,86"
+    "generated": "15/06/2026 13:05:45,26"
 }
