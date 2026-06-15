@@ -4142,8 +4142,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8428,
-            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
+            "size": 8498,
+            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
             "once": false
         },
         {
@@ -4161,13 +4161,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "63d20dd8e5030eb79992e3e4b56adc4c010a60b91f70a9771de6d0c8dd7bd8ca",
+            "sha256": "0f6af945800ea161ddd2d18b4e961f0ed2764f2a15dcd89cc8a1ccef8afceb79",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "1c1908cd39823cab9ba71f0951bb23a0c97076bcd27d86b631990d4a269e277b",
+            "sha256": "5d66a8555581f24994bf96be22568c48307678371cf11e60f239ca99746f4917",
             "once": false
         },
         {
@@ -4628,8 +4628,8 @@
         },
         {
             "path": "config/voicechat/voicechat-client.properties",
-            "size": 4984,
-            "sha256": "48490fd5dc92923872561470849daddf4078c7c33e4a7ae4d65a1534e473e370",
+            "size": 4975,
+            "sha256": "3a1b103cb6dc31977f0b102d05f2214de6808f6baf67fc2fa580fdb466da9e26",
             "once": true
         },
         {
@@ -8756,8 +8756,8 @@
         },
         {
             "path": "mods/gdctablegames-0.1.0.jar",
-            "size": 908853,
-            "sha256": "c65d947bd7eb571bea7af6772ca56702f7a956ae83f6f39f276dd71752d1055c",
+            "size": 909108,
+            "sha256": "e9fd1a9064b7d18e335b96ec7842e27f6c92b12dd0de56d64eaa0e1c4a83b59a",
             "once": false
         },
         {
@@ -38170,5 +38170,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "15/06/2026 13:05:45,26"
+    "generated": "15/06/2026 13:26:45,26"
 }
