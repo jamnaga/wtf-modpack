@@ -1,0 +1,7 @@
+{
+  "paymentEnabled": true,
+  "protectUnitsFromOthers": true,
+  "maxUnitVolume": 250000,
+  "currencySuffix": "$",
+  "debug": false
+}
