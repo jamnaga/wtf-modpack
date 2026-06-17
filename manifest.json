@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "04a8f9e4accb493c39b81f57e3000b965868b36cdb96fc320929c5b83a12798c",
+            "sha256": "f7aa0255860c99db3f24dbeb584c64d95763f00d9fc288b6576ae57c787ed712",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "fc85499a4670d769f657bcb9b44c4b5b56fd7f67c13bc7f7bd22d6784ccb6c4f",
+            "sha256": "c379b471bc6bcea86aebc0aa27d7c8c033a1376f01ed3af9219e33dc0cd35a33",
             "once": false
         },
         {
@@ -2745,7 +2745,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "02da54ad60e2a79b1f73eefbc74f3cde9b2043d972a221ba4afa98a8edccd2d5",
+            "sha256": "8b71bc1b167a721049c680e6a92b843276d4a134d5bdde7ffe32cd86bf56bd6c",
             "once": false
         },
         {
@@ -3015,7 +3015,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "52bf98e2d814d347559d1b06dd76c971457ea102d811937b7dd2d36091eee097",
+            "sha256": "bddfd5d176a4797514c8a6ac5e515b20b8076ac16fe98ae7bbf7c6c359f0f708",
             "once": false
         },
         {
@@ -3039,7 +3039,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "f6ce0e6b9bfd848555732498a0e55b14314123f38280cb5505ae1ba97f3672cd",
+            "sha256": "24d04ce53a691f105121a6d4518559b83caa6dbf535bd43744130b3ac2f98801",
             "once": false
         },
         {
@@ -3375,7 +3375,7 @@
         {
             "path": "config/gdc-join.properties",
             "size": 124,
-            "sha256": "b54e2c2dc1f69e7973ffb32de1a5d46764c452466ef432407b85a5b9b407ec24",
+            "sha256": "7397ac3e598ae3fdb203dc932e73c3560d4832ea336f70178f8b33fba9f05256",
             "once": false
         },
         {
@@ -3495,7 +3495,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "7e05ec8dfd97d2bc13e655298d3c2c7d28b2ac8f4d4f1c63d05251dcd98726ae",
+            "sha256": "c286e8294f51a90d931e619194bee83520b94c2ad28b24393c9ecd341a9088ff",
             "once": false
         },
         {
@@ -3555,7 +3555,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "7ad7a3f08f56767d0d299f7105d7441bf6f3f9b0e1f00db7e9928b81ab74669c",
+            "sha256": "c4dfe3de712b32717aced2c8defd8eb1ca36c81df55fbbb7d82a1f6feb333173",
             "once": false
         },
         {
@@ -4148,8 +4148,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8498,
-            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
+            "size": 8428,
+            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
             "once": false
         },
         {
@@ -8695,9 +8695,9 @@
             "once": false
         },
         {
-            "path": "mods/gdc-immobili-0.1.0.jar",
-            "size": 111752,
-            "sha256": "4ddebd07dbb6474a236cb54f3707078b05e01ec112ec1cd5e9f11f983edc0e99",
+            "path": "mods/gdc-immobili-0.1.1.jar",
+            "size": 111980,
+            "sha256": "223668db664937f236aa5f89d435d03abfecd4e8ab17168208c8cac16a369d48",
             "once": false
         },
         {
@@ -38079,7 +38079,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "19ffa66ec086201ecf1fb10d1e6f156db4043e8696d490dce82354b121469739",
+            "sha256": "129111ee3718c746ee131f7dc78c2c6e63d8e725999794fc8a1222bf951acaa8",
             "once": false
         },
         {
@@ -38176,5 +38176,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "17/06/2026 01:58:42,40"
+    "generated": "17/06/2026 02:13:00,30"
 }
