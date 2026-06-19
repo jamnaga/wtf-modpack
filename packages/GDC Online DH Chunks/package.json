@@ -1,7 +1,7 @@
 {
   "name": "GDC Online DH Chunks",
   "description": "Distant Horizons LOD Data",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "archiveType": "7z",
   "parts": [
     "DistantHorizons.sqlite.7z.001",
@@ -11,10 +11,12 @@
     "DistantHorizons.sqlite.7z.005",
     "DistantHorizons.sqlite.7z.006",
     "DistantHorizons.sqlite.7z.007",
-    "DistantHorizons.sqlite.7z.008"
+    "DistantHorizons.sqlite.7z.008",
+    "DistantHorizons.sqlite.7z.009"
   ],
   "extractTo": "Distant_Horizons_server_data/Minecraft+Server/",
   "filesToExtract": [
+    "69ppfid62q2s4@minecraft@@overworld/DistantHorizons.sqlite",
     "f9p48rt6rre72@ad_astra@@glacio/DistantHorizons.sqlite",
     "f9p48rt6rre72@ad_astra@@mercury/DistantHorizons.sqlite",
     "f9p48rt6rre72@ad_astra@@moon/DistantHorizons.sqlite",
