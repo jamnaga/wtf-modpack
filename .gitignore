@@ -24,3 +24,4 @@ xaero/
 /backups
 config/gdcchiosco-indirizzi.json
 *.nbt
+/schematics
