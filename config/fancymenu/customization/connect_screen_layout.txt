@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = connect_screen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1781276929544
+  last_edited_time = 1781927120620
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:2504f2eb-8913-4294-b1a8-f4e5e2ea9380-1781276884408] = [groups:][instances:]
+  [loading_requirement_container_meta:c1616df6-9acd-4ae4-a323-09ecbdbec07a-1781927072388] = [groups:][instances:]
 }
 
 customization {
@@ -75,7 +75,7 @@ menu_background {
   show_background = true
   source = [source:local]config/fancymenu/assets/1002.mp4
   loop = true
-  volume = 1.0
+  volume = 0.4
   sound_source = master
   parallax = false
   parallax_intensity_x = 0.02
@@ -97,7 +97,7 @@ menu_background {
   hide_video_controls = false
   loop_videos = false
   mute_media = false
-  media_volume = 1.0
+  media_volume = 0.5
 }
 
 menu_background {
