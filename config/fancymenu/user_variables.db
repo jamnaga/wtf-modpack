@@ -20,7 +20,7 @@ variable {
 
 variable {
   name = conn_status
-  value = Preparazione...
+  value = Server offline
   reset_on_launch = false
 }
 

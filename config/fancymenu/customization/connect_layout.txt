@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = connect
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1781921125787
+  last_edited_time = 1781922913233
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:b6a0d0d9-4003-4faf-a82a-bceb52c22c32-1781921125799] = [groups:][instances:344e8232-72fa-4f94-98ac-dc272cdfdc1f-1760883936026;]
+  [loading_requirement_container_meta:abd0026c-8137-4daf-8f98-882f2a7c22d0-1781922900834] = [groups:][instances:344e8232-72fa-4f94-98ac-dc272cdfdc1f-1760883936026;]
   [loading_requirement:is_mcef_loaded][requirement_mode:if][req_id:344e8232-72fa-4f94-98ac-dc272cdfdc1f-1760883936026] = 
 }
 
@@ -360,7 +360,6 @@ scroll_list_customization {
 
 layout_action_executable_blocks {
   open_screen_executable_block_identifier = b526216b-04fa-48be-8a99-adb6108ec385-1759422914276
-  [executable_action_instance:0b9297bd-5d8f-4302-aeb7-6f3f971a23e7-1759431342851][action_type:reloadmenu] = 
   [executable_action_instance:8aaee347-79fe-44da-acd8-4d9990a05174-1760884266129][action_type:set_variable] = packversion:{"placeholder":"file_text","values":{"path_or_url":"version.txt","mode":"all","separator":"\n","last_lines":"1"}}
   [executable_block:7cb675b3-0291-4cd4-8c02-89279266492f-1760884407671][type:if] = [executables:8aaee347-79fe-44da-acd8-4d9990a05174-1760884266129;][appended:01d2f8d3-997d-4cb9-a8ff-6e62ef2c2525-1760884416117]
   [executable_action_instance:de1598de-ddd6-42ab-9824-ee7c394bc255-1760884433950][action_type:set_variable] = packversion:N/A
@@ -369,17 +368,19 @@ layout_action_executable_blocks {
   [loading_requirement_container_meta:05d24cdc-25c9-4c97-89dd-7028411c8f07-1760884385549] = [groups:][instances:7061674d-61b0-4abb-80f5-43fa614e08f4-1760884386767;]
   [loading_requirement:fancymenu_loading_requirement_file_exists][requirement_mode:if][req_id:7061674d-61b0-4abb-80f5-43fa614e08f4-1760884386767] = version.txt
   [if_executable_block_collapsed:7cb675b3-0291-4cd4-8c02-89279266492f-1760884407671] = false
-  [executable_action_instance:c4bcd1d2-61a6-4929-a65f-b207f1332c9d-1781920632696][action_type:set_variable] = conn_status:In attesa del server...
-  [executable_block:5d67fb01-6e82-4edc-a2d4-b5f77cbef129-1781920681478][type:delay] = [executables:]
-  [delay_executable_block_value:5d67fb01-6e82-4edc-a2d4-b5f77cbef129-1781920681478] = 1000
-  [delay_executable_block_collapsed:5d67fb01-6e82-4edc-a2d4-b5f77cbef129-1781920681478] = false
-  [executable_block:85441674-0734-446c-9f95-987c4197d352-1781920627831][type:while] = [executables:c4bcd1d2-61a6-4929-a65f-b207f1332c9d-1781920632696;5d67fb01-6e82-4edc-a2d4-b5f77cbef129-1781920681478;]
-  [while_executable_block_body:85441674-0734-446c-9f95-987c4197d352-1781920627831] = b62e44cd-1c17-4a4d-9788-833eeeafbd28-1781920601358
-  [loading_requirement_container_meta:b62e44cd-1c17-4a4d-9788-833eeeafbd28-1781920601358] = [groups:][instances:33933356-74c0-45d5-88a7-5cccfbb8deac-1781920603079;]
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if_not][req_id:33933356-74c0-45d5-88a7-5cccfbb8deac-1781920603079] = play.gangdrogacity.xyz
-  [while_executable_block_collapsed:85441674-0734-446c-9f95-987c4197d352-1781920627831] = false
   [executable_action_instance:4819007f-f50d-41ae-b1ce-e4258b6971d4-1781920707918][action_type:joinserver] = play.gangdrogacity.xyz
-  [executable_block:b526216b-04fa-48be-8a99-adb6108ec385-1759422914276][type:generic] = [executables:0b9297bd-5d8f-4302-aeb7-6f3f971a23e7-1759431342851;7cb675b3-0291-4cd4-8c02-89279266492f-1760884407671;85441674-0734-446c-9f95-987c4197d352-1781920627831;4819007f-f50d-41ae-b1ce-e4258b6971d4-1781920707918;]
+  [executable_block:d48637ab-806e-478b-8c06-c8984dfbd55a-1781922578305][type:if] = [executables:4819007f-f50d-41ae-b1ce-e4258b6971d4-1781920707918;][appended:5b49cc63-cb03-4c0c-9983-5550d3f90e41-1781922578305]
+  [executable_action_instance:640f0899-9105-4284-91a8-100004e6a3c7-1781922578305][action_type:set_variable] = conn_status:In attesa del server...
+  [executable_action_instance:85f1ba24-cf1b-4193-ad6b-9891f964806a-1781922578305][action_type:reloadmenu] = 
+  [executable_block:dfffb831-421f-44ad-ba68-413c25bf5a4a-1781922578305][type:delay] = [executables:85f1ba24-cf1b-4193-ad6b-9891f964806a-1781922578305;]
+  [delay_executable_block_value:dfffb831-421f-44ad-ba68-413c25bf5a4a-1781922578305] = 1000
+  [delay_executable_block_collapsed:dfffb831-421f-44ad-ba68-413c25bf5a4a-1781922578305] = false
+  [executable_block:5b49cc63-cb03-4c0c-9983-5550d3f90e41-1781922578305][type:else] = [executables:640f0899-9105-4284-91a8-100004e6a3c7-1781922578305;dfffb831-421f-44ad-ba68-413c25bf5a4a-1781922578305;]
+  [if_executable_block_body:d48637ab-806e-478b-8c06-c8984dfbd55a-1781922578305] = 73c067ef-1d6e-4845-803b-1f8f6fb1e5a7-1781922578305
+  [loading_requirement_container_meta:73c067ef-1d6e-4845-803b-1f8f6fb1e5a7-1781922578305] = [groups:][instances:8d3613c8-6bdd-4ede-8900-edc3592a5882-1781922578305;]
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:8d3613c8-6bdd-4ede-8900-edc3592a5882-1781922578305] = play.gangdrogacity.xyz
+  [if_executable_block_collapsed:d48637ab-806e-478b-8c06-c8984dfbd55a-1781922578305] = false
+  [executable_block:b526216b-04fa-48be-8a99-adb6108ec385-1759422914276][type:generic] = [executables:7cb675b3-0291-4cd4-8c02-89279266492f-1760884407671;d48637ab-806e-478b-8c06-c8984dfbd55a-1781922578305;]
 }
 
 element {
