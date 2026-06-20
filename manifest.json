@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "4e7d43ed69d79aa614b6ad4686527fb3c271e22de2d4d2984a73144996b6ece5",
+            "sha256": "37a782676584a5f51c8f42621333aa71676088c1ed197ac914cae05659fd8942",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "c2a1fe2d24a69431fef085bcad0ee3e8d3e527c0ad87c79f55ceafcbfc531de6",
+            "sha256": "48be598a295e6e8b0803f7e33fc41b237eca2844088809e283afd4d6b5601f66",
             "once": false
         },
         {
@@ -2829,7 +2829,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "5c2ba32a8eea57468fb633c77d2bfd5f4b42d359f217dd3269ff24d1b83c3da5",
+            "sha256": "bedff04daaedfa4ea8dce8351a1ab12705698fe5a292ed84fd6106825ac84f9c",
             "once": false
         },
         {
@@ -3099,7 +3099,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "f6657038c1e7379cd5f3b90dd842c899ee50e2a5c8f5ef0ce2ff3b19398b808c",
+            "sha256": "40fa2184acffbd472aa94aca8053799650bbe5dea5588f67b0f11eb299c57b0a",
             "once": false
         },
         {
@@ -3123,7 +3123,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "3b497215d18ae57c64473ca5db9c0ad82ff4d786b91ba3b453ce1a3d5486cecc",
+            "sha256": "51d5fbd9965808d176756f7f119c5361ff4f26513194f7649604b5909658729c",
             "once": false
         },
         {
@@ -3164,8 +3164,8 @@
         },
         {
             "path": "config/fancymenu/custom_gui_screens.txt",
-            "size": 1547,
-            "sha256": "8ce0bfeab4e27b81165edab347a5857be0efdd546075b1d5a04d68dfb63fb617",
+            "size": 1782,
+            "sha256": "af752c83ce002654a46db39df86bf90f524a1722b968a41cf2647324b387da26",
             "once": false
         },
         {
@@ -3178,6 +3178,12 @@
             "path": "config/fancymenu/customization/admin_layout.txt",
             "size": 29542,
             "sha256": "3299b763e658a6ebfd7991fd512f531d3f81621d2c238b62359dbd6e891872aa",
+            "once": false
+        },
+        {
+            "path": "config/fancymenu/customization/connect_layout.txt",
+            "size": 64795,
+            "sha256": "4b32bd398bfe3da2cd083898a772d2ecbaa67b64492ec2ba7efb4933ce271b26",
             "once": false
         },
         {
@@ -3248,8 +3254,8 @@
         },
         {
             "path": "config/fancymenu/customization/title_screen_layout.txt",
-            "size": 60749,
-            "sha256": "9f895fd4b38ffd59dabb162e60cc3d6d8810a3977dbe95e4a74e597a5295e164",
+            "size": 60932,
+            "sha256": "f2528263a74fbf9435628f9770e8593c24c1f14acd82e47d2f649f4098af8310",
             "once": false
         },
         {
@@ -3272,8 +3278,8 @@
         },
         {
             "path": "config/fancymenu/options.txt",
-            "size": 4450,
-            "sha256": "bb1b6f5a8614597b0a1bcbdc4f8dcd20cd21dad300ef99a02ba6fe43b8a1764d",
+            "size": 4449,
+            "sha256": "4d7d847a3664024410dc196497b308bcb1fe69737545d031c7defd3e822ec546",
             "once": false
         },
         {
@@ -3374,8 +3380,8 @@
         },
         {
             "path": "config/fancymenu/user_variables.db",
-            "size": 995,
-            "sha256": "ab50a8cfb8138d1b1f1033b0e6731356674a8ee1ede496418651655013d0a426",
+            "size": 1082,
+            "sha256": "954d98787c5518fde53ab8df12c04925afa70ebe86fec116c49cdb4eeaf51c4b",
             "once": false
         },
         {
@@ -3459,7 +3465,7 @@
         {
             "path": "config/gdc-join.properties",
             "size": 124,
-            "sha256": "6cc4e7cc36d98b552969acfb6c28bf95d8c7ca0ce64c123c57f19950e630f1be",
+            "sha256": "61adcf236d9780a83d1e7e9e159d53dc3c9905355e371639b3d16711faf1f5a7",
             "once": false
         },
         {
@@ -3494,8 +3500,8 @@
         },
         {
             "path": "config/gdcmistica.json",
-            "size": 979,
-            "sha256": "c40b76acf2a5112beb2115e92c0eae6feeea900438bec65df411966078fcdb34",
+            "size": 1184,
+            "sha256": "975e682fc2482847befe9a33149c1631dab750e872c09e730c0d765fbc38edbe",
             "once": false
         },
         {
@@ -3585,7 +3591,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "9788779107186991f1a1ef81839adf385363727e74e0d1e88ebfd029c902d9d2",
+            "sha256": "7c1f1909913d72a0e762ad245bd461c6e522b936d439a1af72737d1750d9635e",
             "once": false
         },
         {
@@ -3645,7 +3651,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "89c4f4fabc9c49e2f65a94bcd837c87133008390147d569ffed00af57bba7232",
+            "sha256": "26b37d7794fb11e2e1354a1ccaff428349513479976f5998f425cdce46a6c7cc",
             "once": false
         },
         {
@@ -4238,8 +4244,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8498,
-            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
+            "size": 8428,
+            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
             "once": false
         },
         {
@@ -5011,6 +5017,12 @@
             "once": false
         },
         {
+            "path": "fancymenu_data/buddy/buddy_leveling_YzY5YjliY2MtODA5MC00YTJkLWJjZjAtNzQwOGY3OGVlZjdlLTE3ODE5MjExNjUyODk.json",
+            "size": 1619,
+            "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+            "once": false
+        },
+        {
             "path": "fancymenu_data/buddy/buddy_leveling_ZDNlNzMzYTQtMzIwMC00OGUzLWEyZjMtNzEyNjRhZDMwMGQxLTE3ODEyNzY5NzAzNjc.json",
             "size": 1619,
             "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
@@ -5084,6 +5096,12 @@
         },
         {
             "path": "fancymenu_data/buddy/buddy_save_YzFjNDhlNjQtZDU5Zi00Y2Q1LTgyMDAtNzFhZDhjOWFlOThkLTE3Nzk2MzAwOTkwMzg.json",
+            "size": 380,
+            "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
+            "once": false
+        },
+        {
+            "path": "fancymenu_data/buddy/buddy_save_YzY5YjliY2MtODA5MC00YTJkLWJjZjAtNzQwOGY3OGVlZjdlLTE3ODE5MjExNjUyODk.json",
             "size": 380,
             "sha256": "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
             "once": false
@@ -8860,6 +8878,12 @@
             "path": "mods/gdc-telco-0.1.0.jar",
             "size": 518478,
             "sha256": "dcdb7dbd6ce96faea3c193685905a455e70ca8144834192e36ba713b9aaaa426",
+            "once": false
+        },
+        {
+            "path": "mods/gdcendpoem-1.0.0.jar",
+            "size": 2089,
+            "sha256": "df0206034b55041c4c287640d814c88462a64a0fc5f06f2ca1809fae1c6394b2",
             "once": false
         },
         {
@@ -44565,7 +44589,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "9077c74497da46b05b12dc530690485819c5abfb1e29b266df6f7ee006576f79",
+            "sha256": "37983f28accbb61099bc4a9f37861d9f7a8cc08b7cf243c08690b3f8cc85174c",
             "once": false
         },
         {
@@ -44669,5 +44693,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "20/06/2026 03:42:06,55"
+    "generated": "20/06/2026 04:16:48,71"
 }

@@ -28,5 +28,13 @@
   "jumpBoostAmplifier": 2,
   "arrivalMessageEnabled": true,
   "arrivalMessage": "§5§oSei nel Mondo Sotto. La gravità è cambiata. Interagisci col §d§lVarco di Ritorno§5§o (il blocco luminoso) per tornare indietro.",
-  "mondoTrades": true
+  "mondoTrades": true,
+  "saggioEnabled": true,
+  "occhioDropChance": 0.04,
+  "templeMinDist": 250,
+  "templeMaxDist": 700,
+  "bossMaxHealth": 100.0,
+  "bossAttackDamage": 7.0,
+  "dialogueRange": 6.0,
+  "donoCostoSmeraldi": 16
 }
