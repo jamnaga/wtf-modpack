@@ -15,7 +15,17 @@
     "minecraft:warped",
     "ad_astra:aeronos",
     "ad_astra:strophar",
-    "ad_astra:glacian"
+    "ad_astra:glacian",
+    "betterend:mossy_glowshroom",
+    "betterend:pythadendron",
+    "betterend:end_lotus",
+    "betterend:lacugrove",
+    "betterend:dragon_tree",
+    "betterend:tenanea",
+    "betterend:helix_tree",
+    "betterend:umbrella_tree",
+    "betterend:jellyshroom",
+    "betterend:lucernia"
   ],
   "ingredients": {
     "vanillaIngredients": [

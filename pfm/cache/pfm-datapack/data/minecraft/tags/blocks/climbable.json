@@ -13,6 +13,16 @@
     "pfm:warped_simple_bunk_ladder",
     "pfm:aeronos_ad_astra_simple_bunk_ladder",
     "pfm:strophar_ad_astra_simple_bunk_ladder",
-    "pfm:glacian_ad_astra_simple_bunk_ladder"
+    "pfm:glacian_ad_astra_simple_bunk_ladder",
+    "pfm:mossy_glowshroom_betterend_simple_bunk_ladder",
+    "pfm:pythadendron_betterend_simple_bunk_ladder",
+    "pfm:end_lotus_betterend_simple_bunk_ladder",
+    "pfm:lacugrove_betterend_simple_bunk_ladder",
+    "pfm:dragon_tree_betterend_simple_bunk_ladder",
+    "pfm:tenanea_betterend_simple_bunk_ladder",
+    "pfm:helix_tree_betterend_simple_bunk_ladder",
+    "pfm:umbrella_tree_betterend_simple_bunk_ladder",
+    "pfm:jellyshroom_betterend_simple_bunk_ladder",
+    "pfm:lucernia_betterend_simple_bunk_ladder"
   ]
 }

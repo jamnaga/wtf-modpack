@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:end_lotus_betterend_kitchen_cabinet"
+        }
+      ]
+    }
+  ]
+}
