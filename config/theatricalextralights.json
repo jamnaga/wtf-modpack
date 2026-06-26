@@ -1,0 +1,13 @@
+{
+  "laserBeamLength": 400.0,
+  "rgbBarBeamLength": 9.0,
+  "renderLens": true,
+  "maxGoboDistance": 500.0,
+  "laserPassThroughBlocks": [
+    "minecraft:glass",
+    "minecraft:tinted_glass",
+    "minecraft:iron_bars",
+    "minecraft:barrier"
+  ],
+  "render2DBeam": false
+}

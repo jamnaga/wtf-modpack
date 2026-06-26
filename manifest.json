@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "c9a419cd5197aa5f09677b31d851a1451448c194f18520e5d979a6eed1f0b8b1",
+            "sha256": "dbf18fc692783ab595967e265085f1c66fd8c055ea1cd687709758f80ca43133",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "a4f35cf08a0c441fd0f4e6ec6b88d9ac305fe5642039ffadb0d7ff096c21fa7c",
+            "sha256": "c379b471bc6bcea86aebc0aa27d7c8c033a1376f01ed3af9219e33dc0cd35a33",
             "once": false
         },
         {
@@ -2437,6 +2437,12 @@
             "once": false
         },
         {
+            "path": ".mixin.out/class/net/minecraft/class_429.class",
+            "size": 19213,
+            "sha256": "fbdc8407ea21f6b9989597a0d2b6269b764867dce7557b642eda0873ad3fec37",
+            "once": false
+        },
+        {
             "path": ".oncelist",
             "size": 105,
             "sha256": "3dc2779ef3eddb5f45ae4d4a4317326507a6eecdd8e8438e3ae361a84df85358",
@@ -2792,8 +2798,8 @@
         },
         {
             "path": "config/cubes-without-borders.json",
-            "size": 208,
-            "sha256": "1d285f5e6665666ace5fd570a246e836065991f34051b04be18ba84ae31bf1ef",
+            "size": 209,
+            "sha256": "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d",
             "once": false
         },
         {
@@ -2835,7 +2841,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "0c368eeb33fa1533823643ff955f6f7df5a2a11652692100e26c25f3c2fce46c",
+            "sha256": "40a93747b1e76ed39c70af716e8252f649be5d1daa8c1968540fbc9b92ceb390",
             "once": false
         },
         {
@@ -3105,7 +3111,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "69d7f864d1e64cf8eed5f59b2171d47f0838b9d13020041a1900b821a4b9a124",
+            "sha256": "bfc484ba8b10c93a1f24330947fd7bce05ed184762b5168c3a28f4dccc5c52fe",
             "once": false
         },
         {
@@ -3129,7 +3135,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "c12b46233181dfe945c584e2d93a2028273094486c86a0aca84170aff4b10583",
+            "sha256": "94c8c6ffbbd861d698dc303574809d3a5381aaeeef6d704d77ac4112bab2301f",
             "once": false
         },
         {
@@ -3477,7 +3483,7 @@
         {
             "path": "config/gdc-join.properties",
             "size": 581,
-            "sha256": "7e6f1be7ed97d59bf9ab37dafab5a925a9100ec8cd565782b4e1273a3439b667",
+            "sha256": "2c255d05bbe744b508549c9e4325576f1d53979d1677d668746c4da5f35c145c",
             "once": false
         },
         {
@@ -3603,7 +3609,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "ad693941c24a383686c16de70ccd2ab0beb14b316214e3e0dd7326558efad73b",
+            "sha256": "bb3bb2db524918e0d99820bb636db3333cd53b27bc728e8b1b08ac579759fcf3",
             "once": false
         },
         {
@@ -3663,7 +3669,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "374df9b783d6fe8953679925ea4579ca5731394e16eca5045dc26757f527a878",
+            "sha256": "39413553909b89210c8a6e47094671e4632a3bdac8660241b28a53111b70c81e",
             "once": false
         },
         {
@@ -4262,8 +4268,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8498,
-            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
+            "size": 8428,
+            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
             "once": false
         },
         {
@@ -4588,6 +4594,12 @@
             "path": "config/theatrical-common.yml",
             "size": 91,
             "sha256": "f78655daea09eef0241b1b0a96f3ddd525ba2103b05d4aef9d53d54c1cd5abf9",
+            "once": false
+        },
+        {
+            "path": "config/theatricalextralights.json",
+            "size": 271,
+            "sha256": "3232c7880f0180140c763781584e51a2d0791fd1260eb948a2e856655007109b",
             "once": false
         },
         {
@@ -9838,6 +9850,12 @@
             "path": "otyacraftengine/url_texture_cache/a2664a37909048d8b091edd0682f71df",
             "size": 6849,
             "sha256": "407c42522ec009787c31af630f2643147dee282054bafd19dc83aade354d2d65",
+            "once": false
+        },
+        {
+            "path": "otyacraftengine/url_textures_index.json",
+            "size": 71,
+            "sha256": "83d80c8633cafe03a8af3ee98c06a9759c8ca43760da9f5c5f0c75d46689673f",
             "once": false
         },
         {
@@ -51183,7 +51201,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "4ae8a4e509779bc03d4a64c3d56e259ed6f1d3ef5ad17cfd04c06b026422bbfb",
+            "sha256": "189d8b0cfcb60a29465af877b114213d7d40b9d61e5cb793a42c0648a2d11e2e",
             "once": false
         },
         {
@@ -51289,5 +51307,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "27/06/2026 01:40:08,57"
+    "generated": "27/06/2026 01:42:07,29"
 }
