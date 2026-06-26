@@ -8935,9 +8935,9 @@
             "once": false
         },
         {
-            "path": "mods/gdc-cadaveri-0.1.0.jar",
-            "size": 29135,
-            "sha256": "fc2730a26cfc6a91e0aab3c657df39dbc79483d5d5525ba707cffed86482f71b",
+            "path": "mods/gdc-cadaveri-0.1.1.jar",
+            "size": 30122,
+            "sha256": "ea9724e371c06a35c0a8bd95a437af07e6405743a416a3ae569a5525afa6ab92",
             "once": false
         },
         {
@@ -51217,5 +51217,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "26/06/2026 21:16:56,01"
+    "generated": "26/06/2026 21:18:43,86"
 }
