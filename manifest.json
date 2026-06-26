@@ -2426,14 +2426,14 @@
         },
         {
             "path": ".gitignore",
-            "size": 498,
-            "sha256": "927c195c354ece9f57d3d0f6ba18714288fd5b26946b1106a28681cfa5e6f31f",
+            "size": 536,
+            "sha256": "7189f8cbcb1a90f4997d1fa7370cd3687b26ed645d0a6cc4ce3afce10cd90a3f",
             "once": false
         },
         {
             "path": ".manifestignore",
-            "size": 356,
-            "sha256": "a2be8dd8ab23500a11dc341d0c0cf306b404ab0ac6577ad60e196cf220735fca",
+            "size": 380,
+            "sha256": "f0682cf4e80134b26ab0efc8e73c50e865424460782656e935a4223c96d3f97c",
             "once": false
         },
         {
@@ -3476,8 +3476,8 @@
         },
         {
             "path": "config/gdc-join.properties",
-            "size": 347,
-            "sha256": "0f9237f2fbf13c0decba38d7ebca8562854298e7ea916c7b643e8052fd57a8aa",
+            "size": 532,
+            "sha256": "f62a77d7d2a02b06380d2907c1120f71ca916cd236f7eba622cad33e2394abe8",
             "once": false
         },
         {
@@ -4262,8 +4262,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8428,
-            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
+            "size": 8498,
+            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
             "once": false
         },
         {
@@ -4281,13 +4281,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "2e9fb18810597573858cb14b777699f2db3c771b30e2ed6f1dc29f60a4a10b54",
+            "sha256": "af9d569cc1e026ef837dcf59655e3364eb5652a23a65cd3b02d1c8a1dcfe9c62",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "d0fff32d5515b450610b65313c29a5eefc470d34f4916762e9b087719527996d",
+            "sha256": "a58864853c004ec616f43cbf899c506180eff23b8fdc9df09a15508a58407250",
             "once": false
         },
         {
@@ -5185,9 +5185,21 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/31827f45a044a5c2bfb39be9881a3b9ed1acdb583c31d6b0c275cae7d7014d88.bin",
+            "size": 192215,
+            "sha256": "31827f45a044a5c2bfb39be9881a3b9ed1acdb583c31d6b0c275cae7d7014d88",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/3a8d92420a49780da1a248d05e2a1cf6f635a234d1ee57dc98d44efcfd6574a0.bin",
             "size": 73596,
             "sha256": "3a8d92420a49780da1a248d05e2a1cf6f635a234d1ee57dc98d44efcfd6574a0",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/3ece45b5c42ab955a71660749802c8a95fa08aa14f92ecb79b3e423a4f96d507.bin",
+            "size": 1564639,
+            "sha256": "3ece45b5c42ab955a71660749802c8a95fa08aa14f92ecb79b3e423a4f96d507",
             "once": false
         },
         {
@@ -5209,6 +5221,12 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/9e1dfe0de1ee6f6e0cccdb8f67fce853d7ccbc4a7125834a2c51278218446f3a.bin",
+            "size": 192215,
+            "sha256": "9e1dfe0de1ee6f6e0cccdb8f67fce853d7ccbc4a7125834a2c51278218446f3a",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/aed02edb9102a31e0e636a1bc581c9ad604b0378f37b8322150de90fbb276f9f.bin",
             "size": 192215,
             "sha256": "aed02edb9102a31e0e636a1bc581c9ad604b0378f37b8322150de90fbb276f9f",
@@ -5227,6 +5245,12 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/cda815aa4df217563e08120a6f2b5b8bcaf9a3e1429c1eb0d71f102f95ab2720.bin",
+            "size": 73528,
+            "sha256": "cda815aa4df217563e08120a6f2b5b8bcaf9a3e1429c1eb0d71f102f95ab2720",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/d01e3c87e8c02c733e8f0b919f0c1f8183a3f09b00bba2e3c976e5ffc09f3075.bin",
             "size": 1564639,
             "sha256": "d01e3c87e8c02c733e8f0b919f0c1f8183a3f09b00bba2e3c976e5ffc09f3075",
@@ -5236,6 +5260,12 @@
             "path": "gdcjoin-cache/d8bfdfa0c98cc5ac6633e70e97210cd4e7c6947fb8708889b1b817642c80a9cf.bin",
             "size": 192215,
             "sha256": "d8bfdfa0c98cc5ac6633e70e97210cd4e7c6947fb8708889b1b817642c80a9cf",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/dd01bfc83230ad22ef3f4c44df2fc9e878d1cb29fca74ac73ae135ceefc8cee5.bin",
+            "size": 1564639,
+            "sha256": "dd01bfc83230ad22ef3f4c44df2fc9e878d1cb29fca74ac73ae135ceefc8cee5",
             "once": false
         },
         {
@@ -8935,9 +8965,9 @@
             "once": false
         },
         {
-            "path": "mods/gdc-join-0.5.0.jar",
-            "size": 52907,
-            "sha256": "5cdd30cc8da375911c00e297877541daf1a8ccbe286e90cc020c1da04bc72b6b",
+            "path": "mods/gdc-join-0.6.0.jar",
+            "size": 67238,
+            "sha256": "a95dc75c1b3d03e1526c5917110945b81e43127f0c3223ef4f1e86f96157ba99",
             "once": false
         },
         {
@@ -51187,5 +51217,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "26/06/2026 20:04:37,21"
+    "generated": "26/06/2026 21:16:56,01"
 }
