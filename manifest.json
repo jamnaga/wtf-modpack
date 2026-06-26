@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "c9a70c945cc80d20ae4b04213b0d25682a126fd67cf6edc6b0f90a18417a7d15",
+            "sha256": "17037937951728a79a5346e7aac9da74bcdfac6d853c2b81050f897d20479bae",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "7a2cf7ee0314682918cf8619b5d6ebbfa3ea4bc09191fd30c8b6656c58fa859b",
+            "sha256": "fc85499a4670d769f657bcb9b44c4b5b56fd7f67c13bc7f7bd22d6784ccb6c4f",
             "once": false
         },
         {
@@ -1423,6 +1423,12 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/kanos_config-0.4.1+1.14.4-1.19.4-9939c2743d050810.jar",
+            "size": 18437,
+            "sha256": "d78ac7fabf5120f415a92f341fa4ec4daeec7258af795f9806aee92c3a6cc67c",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/kelvin-1.20.1-0.5.0+5c1c62c654-8ccfe3d73b1830e4.jar",
             "size": 788116,
             "sha256": "70f91b7affc68a09bc88c98d78d64b1d0bf57b74d8210ffb7be9896a332df363",
@@ -2583,7 +2589,7 @@
         {
             "path": "config/beansbackpacks-common.json5",
             "size": 2118,
-            "sha256": "9d0d1dd0ef020b83cea22caecd723c32bd5e175d4300f66d8c69fabe670bc76a",
+            "sha256": "45416803209c1d751c6897ced4bdfe18ead27bee98f309cb5bdac8e9e68c5a62",
             "once": false
         },
         {
@@ -2786,8 +2792,8 @@
         },
         {
             "path": "config/cubes-without-borders.json",
-            "size": 209,
-            "sha256": "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d",
+            "size": 208,
+            "sha256": "1d285f5e6665666ace5fd570a246e836065991f34051b04be18ba84ae31bf1ef",
             "once": false
         },
         {
@@ -2829,7 +2835,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "78a8607ccf4bc53f1255fd859f766d40becefa8db0c8b7b5da8739ba523f6128",
+            "sha256": "e8b2fd46de820ce4b360656d1061d296e7490fca473c15652669ab224e71384d",
             "once": false
         },
         {
@@ -3099,7 +3105,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "c444f93b99c904aa7e1a731462e1ef85cb7cb7431da05b5dbf4328972c7fa64b",
+            "sha256": "a6065c82f49d1050b4f4fbaf4c4e9e6b22f9b6967d935922cfefc8538c060814",
             "once": false
         },
         {
@@ -3123,7 +3129,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "59edddf5668392c47287d6349a6a5e0c02c61f2d370411edec8300b6ecb25151",
+            "sha256": "f36f8603f5d76cca09099884cccdaa9cbd2b9704b61641a8b404824f497d2c23",
             "once": false
         },
         {
@@ -3463,9 +3469,15 @@
             "once": false
         },
         {
+            "path": "config/gdc-cadaveri.json",
+            "size": 83,
+            "sha256": "f9d7ad2bcfcaea1ad9d2d836c70d850598ca41855518bf84efc6629b6d3447a0",
+            "once": false
+        },
+        {
             "path": "config/gdc-join.properties",
             "size": 347,
-            "sha256": "ec1bb28c8110ef5bc1bc837c1afd722ed0b19b014aa476e2c7ba3b27677b3cc6",
+            "sha256": "0f9237f2fbf13c0decba38d7ebca8562854298e7ea916c7b643e8052fd57a8aa",
             "once": false
         },
         {
@@ -3591,7 +3603,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "cdb58b0062cc43d894463ba59484185a52ccb89ace17af43f286201fbed17a98",
+            "sha256": "0ee4ab6306320fa6be083e23ab4760518ad670edbbacb9a9deb60323620a9a0f",
             "once": false
         },
         {
@@ -3651,7 +3663,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "fc7c44a2aa86de9f4a7932e2ba71e64689a46c29fe16162624e663539bec09a6",
+            "sha256": "56e1654f66d5ad803944d4905f8bcf5a57ed9dcaefe41433d090104fbfd4ef5b",
             "once": false
         },
         {
@@ -4117,6 +4129,12 @@
             "once": false
         },
         {
+            "path": "config/pehkui/config.json",
+            "size": 3271,
+            "sha256": "75e8ec2af2fc88915cdb24c8bcc5c1fe4091851ff2b1ed910aa53c0f110883a6",
+            "once": false
+        },
+        {
             "path": "config/pfm.json",
             "size": 408,
             "sha256": "c9a0306ff85ac3518a3ecd8694d1bae242cff042df367aa8443f5aa5cd052375",
@@ -4244,8 +4262,8 @@
         },
         {
             "path": "config/roughlyenoughitems/config.json5",
-            "size": 8498,
-            "sha256": "92d3a2d482b4b7480b33f48e2674db94701b433a03d3e16d961ca7e5aaa99212",
+            "size": 8428,
+            "sha256": "6f9bc3a6c0ff56b013e49154cd947e1114f6a073c6e8017f33c920534b7cd010",
             "once": false
         },
         {
@@ -4263,13 +4281,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "781d7ef2d6ee3c70ae633ff5b78de85012ccbb6e6986915c2bd0e3b1722cb675",
+            "sha256": "2e9fb18810597573858cb14b777699f2db3c771b30e2ed6f1dc29f60a4a10b54",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "39740b94891ea81e5adbb223213b6d41612b42923e3ae7836691ab420d54cfc1",
+            "sha256": "d0fff32d5515b450610b65313c29a5eefc470d34f4916762e9b087719527996d",
             "once": false
         },
         {
@@ -4851,13 +4869,13 @@
         {
             "path": "data/serilum/translations/applied.json",
             "size": 32,
-            "sha256": "ee7432717bf61ad08d74f741d26b5df167bf7af5f1dfa575ecd5973acdc00cd7",
+            "sha256": "a921b9c7be631b5d968df69d20139c83e69a46e0b81db30f349deb92c348897d",
             "once": false
         },
         {
             "path": "data/serilum/translations/assets/collective/lang/it_it.json",
-            "size": 54375,
-            "sha256": "d503916357fb2583e3ec655e447c2d987a8bb69e8b6d94779b22e1cee56465fd",
+            "size": 55143,
+            "sha256": "a96ddce566da60bdde572aafa54df33d7e3f9219036127c56e613d8e5d3ae1ca",
             "once": false
         },
         {
@@ -5161,6 +5179,18 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/30451afa29645d3a861eb1cf3190de22d8be6fd5a1eb11cc861c67edebafd416.bin",
+            "size": 1564639,
+            "sha256": "30451afa29645d3a861eb1cf3190de22d8be6fd5a1eb11cc861c67edebafd416",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/3a8d92420a49780da1a248d05e2a1cf6f635a234d1ee57dc98d44efcfd6574a0.bin",
+            "size": 73596,
+            "sha256": "3a8d92420a49780da1a248d05e2a1cf6f635a234d1ee57dc98d44efcfd6574a0",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/4ffa9b7872d082288a89d76199af7722fa89e65534ec8e63cf350dcdebe36a91.bin",
             "size": 1564639,
             "sha256": "4ffa9b7872d082288a89d76199af7722fa89e65534ec8e63cf350dcdebe36a91",
@@ -5179,6 +5209,12 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/aed02edb9102a31e0e636a1bc581c9ad604b0378f37b8322150de90fbb276f9f.bin",
+            "size": 192215,
+            "sha256": "aed02edb9102a31e0e636a1bc581c9ad604b0378f37b8322150de90fbb276f9f",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/b90198c6f2f411255c129987c2a9d2d4aefa1c26ccc13e32ce3e1947d13dbf3a.bin",
             "size": 1564639,
             "sha256": "b90198c6f2f411255c129987c2a9d2d4aefa1c26ccc13e32ce3e1947d13dbf3a",
@@ -5188,6 +5224,18 @@
             "path": "gdcjoin-cache/cb87ed4c8c1956a49220c3727b9e380df3cae05555fbaef0f54b260702d5b7d2.bin",
             "size": 1564639,
             "sha256": "cb87ed4c8c1956a49220c3727b9e380df3cae05555fbaef0f54b260702d5b7d2",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/d01e3c87e8c02c733e8f0b919f0c1f8183a3f09b00bba2e3c976e5ffc09f3075.bin",
+            "size": 1564639,
+            "sha256": "d01e3c87e8c02c733e8f0b919f0c1f8183a3f09b00bba2e3c976e5ffc09f3075",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/d8bfdfa0c98cc5ac6633e70e97210cd4e7c6947fb8708889b1b817642c80a9cf.bin",
+            "size": 192215,
+            "sha256": "d8bfdfa0c98cc5ac6633e70e97210cd4e7c6947fb8708889b1b817642c80a9cf",
             "once": false
         },
         {
@@ -8923,7 +8971,7 @@
             "once": false
         },
         {
-            "path": "mods/gdc-regole-0.1.0.jar",
+            "path": "mods/gdc-regole-0.1.0.jar.disabled",
             "size": 53950,
             "sha256": "ce224f7d0d340fb3d9fc895abd3514876f69525e0c3e53d3ff1762250b93a8c8",
             "once": false
@@ -51033,7 +51081,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "45607d285aa1e53686f4ec21d5f06f86a1c5e46c32b128b929ae7510b6f5ed24",
+            "sha256": "d71425a3679faccabbd5fd2d357f99854cb97d145700bd180e03bf9173bb678e",
             "once": false
         },
         {
@@ -51139,5 +51187,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "24/06/2026 21:05:32,32"
+    "generated": "26/06/2026 20:02:46,06"
 }

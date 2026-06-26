@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Rimosso il rango %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Colore sconosciuto: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Giorno %s",
+  "collective.brandnewday.summary": "Riepilogo:",
+  "collective.brandnewday.stat.mobs_slain": "Creature uccise:",
+  "collective.brandnewday.stat.deaths": "Decessi:",
+  "collective.brandnewday.stat.blocks_broken": "Blocchi rotti:",
+  "collective.brandnewday.stat.items_crafted": "Oggetti fabbricati:",
+  "collective.brandnewday.stat.blocks_traveled": "Blocchi percorsi:",
+  "collective.brandnewday.message.previewing": "Anteprima della schermata del nuovo giorno.",
+  "collective.brandnewday.message.showinglast": "Visualizzazione dell'ultima schermata del nuovo giorno.",
+  "collective.brandnewday.message.nolast": "Non c'è nessun nuovo giorno precedente da mostrare.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Il coniglio assassino è già stato addomesticato.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "È nato un coniglio assassino! Sei abbastanza lontano o hai una carota d'oro da offrirgli?",
