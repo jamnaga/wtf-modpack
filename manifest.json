@@ -51187,12 +51187,6 @@
             "once": false
         },
         {
-            "path": "test.gif",
-            "size": 51705,
-            "sha256": "1312cc16eedf858139531463922210befe39bc7893b816986865f74df7e80611",
-            "once": false
-        },
-        {
             "path": "tools/dh_update_package.py",
             "size": 17307,
             "sha256": "2d720275232e4371cbf80e7af92e18cd5fa9cd2e33405a1166045c7369bdb8c4",
@@ -51209,7 +51203,7 @@
         {
             "name": "GDC Online DH Chunks",
             "description": "Distant Horizons LOD Data",
-            "version": "1.0.4",
+            "version": "1.0.5",
             "archiveType": "7z",
             "parts": [
                 "DistantHorizons.sqlite.7z.001",
@@ -51248,52 +51242,52 @@
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.001",
                     "size": 52428800,
-                    "sha256": "50cd433e1fa093179d45bd7dac37cefa77999a9299d6bdd3f3d864c2b4d87e3f"
+                    "sha256": "00bb62b622f0d6a5040890fdcb76e9882acdbfc15a24009533a29f39947e3abe"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.002",
                     "size": 52428800,
-                    "sha256": "a09f8a18bd606f441727ef0a942dba22e0623b0a9e42b3741715c47e3fa0d9e3"
+                    "sha256": "088eec062d144678d0bdf19ef6309f753d189cde5b6cd25302a5bfd0f8437505"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.003",
                     "size": 52428800,
-                    "sha256": "8ea634deb5f033f312224031c08c8a12cdac65612bb5c8f9b9dd3b6923d22f33"
+                    "sha256": "0b556256228e54317ab9c7ccba30461556fd2246977f47ddde1a0e65d41bd7ab"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.004",
                     "size": 52428800,
-                    "sha256": "4c8e7b8dbfc6f04e0e6bc03439799503addd6b5aada137c3e7743b09cfe41d79"
+                    "sha256": "210e14891b834dbd158d044a0ee0e9938c1d085ce4136e7b28eaff0928126949"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.005",
                     "size": 52428800,
-                    "sha256": "9ead764097810e8e3504c338fb7d2d59f1e33471f1a37b680149406c06a2ddf1"
+                    "sha256": "42c92c2badf3edd4432bfb9370aaa415e2f528c188652a87daa9837d23619e2a"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.006",
                     "size": 52428800,
-                    "sha256": "d724ff1fd6145f2d35745c19f71f0e026c2451bb58c3da59f92655374d04adc8"
+                    "sha256": "e2f3e538dccb30331ca27c716301ec2206666bd36fa7f4ef5f11bafb7d3fca40"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.007",
                     "size": 52428800,
-                    "sha256": "21204f10b6291c100f4f1076861a7962dbd0e1dde987af738c8d1a851865b8c5"
+                    "sha256": "bada23d64595897c95bf9864ec4e7b59883040768f536e0bd122c82374c7c541"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.008",
                     "size": 52428800,
-                    "sha256": "b00eb35f08ea855bcc2efc0c09b83ed70e3aa70c8781f22a735ae1df2e9bbd16"
+                    "sha256": "966bae88aefb4f5b0760145d5fd409fd21d1bbfa4883b3f5985f277dd5690215"
                 },
                 {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.009",
-                    "size": 24905752,
-                    "sha256": "5664450183aa467df820c4031a63e3b4269383013557267f991077aaf1383b6a"
+                    "size": 25232612,
+                    "sha256": "f338ea95adccf2ccff4a58b5b580ab776eebf0d071fe143a2537ec77bf4e0cde"
                 }
             ]
         }
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "27/06/2026 01:37:35,11"
+    "generated": "27/06/2026 01:40:08,57"
 }

@@ -1,7 +1,7 @@
 {
   "name": "GDC Online DH Chunks",
   "description": "Distant Horizons LOD Data",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "archiveType": "7z",
   "parts": [
     "DistantHorizons.sqlite.7z.001",
