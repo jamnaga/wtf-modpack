@@ -109,14 +109,15 @@
 		"{data:{Count:1b,id:\"minecraft:cracked_deepslate_bricks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:acacia_fence_gate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:stripped_spruce_log\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:spruce_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:oak_fence\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:oak_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:mossy_stone_brick_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_trapdoor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"supplementaries:trapped_present_red\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{Count:1b,id:\"supplementaries:trapped_present_red\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:spruce_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:oak_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []

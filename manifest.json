@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "17037937951728a79a5346e7aac9da74bcdfac6d853c2b81050f897d20479bae",
+            "sha256": "c9a419cd5197aa5f09677b31d851a1451448c194f18520e5d979a6eed1f0b8b1",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "fc85499a4670d769f657bcb9b44c4b5b56fd7f67c13bc7f7bd22d6784ccb6c4f",
+            "sha256": "a4f35cf08a0c441fd0f4e6ec6b88d9ac305fe5642039ffadb0d7ff096c21fa7c",
             "once": false
         },
         {
@@ -2835,7 +2835,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "e8b2fd46de820ce4b360656d1061d296e7490fca473c15652669ab224e71384d",
+            "sha256": "0c368eeb33fa1533823643ff955f6f7df5a2a11652692100e26c25f3c2fce46c",
             "once": false
         },
         {
@@ -3105,7 +3105,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "a6065c82f49d1050b4f4fbaf4c4e9e6b22f9b6967d935922cfefc8538c060814",
+            "sha256": "69d7f864d1e64cf8eed5f59b2171d47f0838b9d13020041a1900b821a4b9a124",
             "once": false
         },
         {
@@ -3129,7 +3129,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "f36f8603f5d76cca09099884cccdaa9cbd2b9704b61641a8b404824f497d2c23",
+            "sha256": "c12b46233181dfe945c584e2d93a2028273094486c86a0aca84170aff4b10583",
             "once": false
         },
         {
@@ -3470,14 +3470,14 @@
         },
         {
             "path": "config/gdc-cadaveri.json",
-            "size": 83,
-            "sha256": "f9d7ad2bcfcaea1ad9d2d836c70d850598ca41855518bf84efc6629b6d3447a0",
+            "size": 104,
+            "sha256": "f0eaedeedb2978f02b3f836376cbe42ae4431e4a041e58e4115169c0594955ea",
             "once": false
         },
         {
             "path": "config/gdc-join.properties",
-            "size": 532,
-            "sha256": "f62a77d7d2a02b06380d2907c1120f71ca916cd236f7eba622cad33e2394abe8",
+            "size": 581,
+            "sha256": "7e6f1be7ed97d59bf9ab37dafab5a925a9100ec8cd565782b4e1273a3439b667",
             "once": false
         },
         {
@@ -3603,7 +3603,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "0ee4ab6306320fa6be083e23ab4760518ad670edbbacb9a9deb60323620a9a0f",
+            "sha256": "ad693941c24a383686c16de70ccd2ab0beb14b316214e3e0dd7326558efad73b",
             "once": false
         },
         {
@@ -3663,7 +3663,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "56e1654f66d5ad803944d4905f8bcf5a57ed9dcaefe41433d090104fbfd4ef5b",
+            "sha256": "374df9b783d6fe8953679925ea4579ca5731394e16eca5045dc26757f527a878",
             "once": false
         },
         {
@@ -4268,8 +4268,8 @@
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 14647,
-            "sha256": "ea556ebbf7adfd767044c67a69857871621465dfafc46e2317d0b85265b2e5b0",
+            "size": 14760,
+            "sha256": "445f8b28f1988150a2b962a018d1d11075a39e53c66fe80b72adfa92bebfb22f",
             "once": false
         },
         {
@@ -4281,13 +4281,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "af9d569cc1e026ef837dcf59655e3364eb5652a23a65cd3b02d1c8a1dcfe9c62",
+            "sha256": "8eb27de6a493c532fb4a64b1ebc499ced8078f7af1eb944878ef1160ea9cc950",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "a58864853c004ec616f43cbf899c506180eff23b8fdc9df09a15508a58407250",
+            "sha256": "bdae630ccdab5c85f8aeab7289db60cfe6e0871d043defd7b331f7b6d90b7274",
             "once": false
         },
         {
@@ -4754,8 +4754,8 @@
         },
         {
             "path": "config/voicechat/voicechat-client.properties",
-            "size": 4957,
-            "sha256": "5f13f14b758bc70f4789b00116ff1cd2de37ddf3f5c0f24da68a694a2218f70a",
+            "size": 4974,
+            "sha256": "c3f441b83380a99c5a946ab51b76325e0d9675b404b1142a76c39ea499ad46d8",
             "once": true
         },
         {
@@ -5167,9 +5167,33 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/0764d6aa5482558d7a9f58429bb5ecfa954d348056c7ced53278341f4153c204.bin",
+            "size": 192215,
+            "sha256": "0764d6aa5482558d7a9f58429bb5ecfa954d348056c7ced53278341f4153c204",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/0986d6984a3b853ef84b4ed7517bab6c37dcd4877d5e56297a0e28f10d065669.bin",
+            "size": 192215,
+            "sha256": "0986d6984a3b853ef84b4ed7517bab6c37dcd4877d5e56297a0e28f10d065669",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/0a4d16aa517fc750844cc119a8c7fe417863982acc998982ac22d43de33212dd.bin",
+            "size": 1564639,
+            "sha256": "0a4d16aa517fc750844cc119a8c7fe417863982acc998982ac22d43de33212dd",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/0c3e04c69d87abf4ba0bc5209e14460dc12fa79d7d0747e428710253a846a131.bin",
             "size": 70246,
             "sha256": "0c3e04c69d87abf4ba0bc5209e14460dc12fa79d7d0747e428710253a846a131",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/0dd505a8f627b77031b2cc8ac243761152f6084eb71d8c61e65c366589fe1119.bin",
+            "size": 192215,
+            "sha256": "0dd505a8f627b77031b2cc8ac243761152f6084eb71d8c61e65c366589fe1119",
             "once": false
         },
         {
@@ -5203,9 +5227,21 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/4961520341abd6f135a309a84c3be435d7eea52523e9da7ee0cb1c76721dc3bc.bin",
+            "size": 1564639,
+            "sha256": "4961520341abd6f135a309a84c3be435d7eea52523e9da7ee0cb1c76721dc3bc",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/4ffa9b7872d082288a89d76199af7722fa89e65534ec8e63cf350dcdebe36a91.bin",
             "size": 1564639,
             "sha256": "4ffa9b7872d082288a89d76199af7722fa89e65534ec8e63cf350dcdebe36a91",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/612d25be95b75ba6ff487ecb2b05bc756e429fcbc7af65a688e4cc054a791bb4.bin",
+            "size": 1564639,
+            "sha256": "612d25be95b75ba6ff487ecb2b05bc756e429fcbc7af65a688e4cc054a791bb4",
             "once": false
         },
         {
@@ -5215,9 +5251,21 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/7a28a9fbd1b966e613b9c7ba3ef9b5663bf6ff387d943fe12d4218c23f6693ab.bin",
+            "size": 73599,
+            "sha256": "7a28a9fbd1b966e613b9c7ba3ef9b5663bf6ff387d943fe12d4218c23f6693ab",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/7d69fffdd519e5b2dfe6c9202f35549a9e7d25838f32332e50ed96428c8708c2.bin",
             "size": 192215,
             "sha256": "7d69fffdd519e5b2dfe6c9202f35549a9e7d25838f32332e50ed96428c8708c2",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/8e16b3deab8d4ccc573b63ef4e33e4fe7b8a1aae650e5ecac43e81451d1a21a7.bin",
+            "size": 192215,
+            "sha256": "8e16b3deab8d4ccc573b63ef4e33e4fe7b8a1aae650e5ecac43e81451d1a21a7",
             "once": false
         },
         {
@@ -5272,6 +5320,12 @@
             "path": "gdcjoin-cache/dd0ede9fce62c21549181647d5f648c0a23149d5889da5a9f38a5f025f1b2595.bin",
             "size": 1564639,
             "sha256": "dd0ede9fce62c21549181647d5f648c0a23149d5889da5a9f38a5f025f1b2595",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/ddc69b41dd2eb7800a344bd2d50c92165d01fe6979db86df2399ffc52c8fac64.bin",
+            "size": 1564639,
+            "sha256": "ddc69b41dd2eb7800a344bd2d50c92165d01fe6979db86df2399ffc52c8fac64",
             "once": false
         },
         {
@@ -8497,6 +8551,18 @@
             "once": false
         },
         {
+            "path": "mods/Theatrical-fabric-1.0.0-alpha.28.120+mc1.20.1.jar",
+            "size": 722910,
+            "sha256": "84ea7a0e5d366cb51308f205ae2b040e6f837b8d48f97c79e75cd51246c6f891",
+            "once": false
+        },
+        {
+            "path": "mods/TheatricalExtraLights-fabric-1.4.1-release-mc1.20.1.jar",
+            "size": 3487872,
+            "sha256": "27056cf81a194da373157c8ef9f157d6f8bd72bbe38dfb888befca10ac359f20",
+            "once": false
+        },
+        {
             "path": "mods/Tips-Fabric-1.20.1-12.1.9.jar",
             "size": 113816,
             "sha256": "3775edba439d7a723a64d8b04348907e7bc6d89cee89a04bc933b0d8bf867aed",
@@ -9767,6 +9833,12 @@
             "size": 9786,
             "sha256": "9e9caaa9bf761c33a560f145f6689c86078e06c66baeaf62d37efca52bebd2c8",
             "once": true
+        },
+        {
+            "path": "otyacraftengine/url_texture_cache/a2664a37909048d8b091edd0682f71df",
+            "size": 6849,
+            "sha256": "407c42522ec009787c31af630f2643147dee282054bafd19dc83aade354d2d65",
+            "once": false
         },
         {
             "path": "pfm/cache/pfm-assetpack/assets/pfm/blockstates/acacia_black_classic_bed.json",
@@ -51111,7 +51183,13 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "d71425a3679faccabbd5fd2d357f99854cb97d145700bd180e03bf9173bb678e",
+            "sha256": "4ae8a4e509779bc03d4a64c3d56e259ed6f1d3ef5ad17cfd04c06b026422bbfb",
+            "once": false
+        },
+        {
+            "path": "test.gif",
+            "size": 51705,
+            "sha256": "1312cc16eedf858139531463922210befe39bc7893b816986865f74df7e80611",
             "once": false
         },
         {
@@ -51217,5 +51295,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "26/06/2026 21:18:43,86"
+    "generated": "27/06/2026 01:37:35,11"
 }

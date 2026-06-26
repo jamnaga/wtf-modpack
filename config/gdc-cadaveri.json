@@ -1,5 +1,6 @@
 {
   "despawnSeconds": 0,
   "showName": false,
-  "permission": "gdccadaveri.spawn"
+  "permission": "gdccadaveri.spawn",
+  "debugLog": false
 }
