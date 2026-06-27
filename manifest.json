@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "dbf18fc692783ab595967e265085f1c66fd8c055ea1cd687709758f80ca43133",
+            "sha256": "3ee75184d216c17085503fb3eeb6ff783aa73441ca47cb380020a6736a2742d3",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "c379b471bc6bcea86aebc0aa27d7c8c033a1376f01ed3af9219e33dc0cd35a33",
+            "sha256": "1c8cb1984242df635a14f9ebace0d4b11d7aee83936bdb8b72e0cd4d37526d2b",
             "once": false
         },
         {
@@ -2335,6 +2335,12 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/transition-1.0.21-ea70c1ff13ea4919.jar",
+            "size": 1285461,
+            "sha256": "8a141ed7efa4c6220baf6e4fc54796572b70c4923d47f8f64029f2970aff671a",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/trender-1.0.10-52d04b38e7091e61.jar",
             "size": 379788,
             "sha256": "78d9865453dc4697c848d0bad6c4e4c1f0ed0ea92123513fcd7e749c6237a413",
@@ -2359,9 +2365,21 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/trender-1.0.15-4bbbcf64d3ed9b8.jar",
+            "size": 382840,
+            "sha256": "c48f8cd65f1f708aaba28be6226d685f7f1cbee1712acee3469e1debfca7474d",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/voicechat_api-2.6.13-99f067a213dea88d.jar",
             "size": 2460,
             "sha256": "8e5251d444067f0ef1c10f66825ac817af90e7f66f32221c227ea7fe0807d492",
+            "once": false
+        },
+        {
+            "path": ".fabric/processedMods/voicechat_api-2.6.20-a75144d119029c80.jar",
+            "size": 2460,
+            "sha256": "ff5871ecc7d79f05b919a7136ec6fc4313999117d7219ee2ecbc94416761cbf3",
             "once": false
         },
         {
@@ -2434,12 +2452,6 @@
             "path": ".manifestignore",
             "size": 380,
             "sha256": "f0682cf4e80134b26ab0efc8e73c50e865424460782656e935a4223c96d3f97c",
-            "once": false
-        },
-        {
-            "path": ".mixin.out/class/net/minecraft/class_429.class",
-            "size": 19213,
-            "sha256": "fbdc8407ea21f6b9989597a0d2b6269b764867dce7557b642eda0873ad3fec37",
             "once": false
         },
         {
@@ -2841,7 +2853,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "40a93747b1e76ed39c70af716e8252f649be5d1daa8c1968540fbc9b92ceb390",
+            "sha256": "8c271ec7d0d54889fca704a6d2be50c6cf9e5324d94c424a793e44c9632beed5",
             "once": false
         },
         {
@@ -2852,8 +2864,8 @@
         },
         {
             "path": "config/easy_npc/dialog_options.cfg",
-            "size": 335,
-            "sha256": "1a0fa2819dea228847a178502d877d75dcb6df26277a0630791eac98076d7a33",
+            "size": 465,
+            "sha256": "3ae331d23f82a4528f397c9b71d4583cf5c8026371ebae83cf2cf363a14571d8",
             "once": false
         },
         {
@@ -3111,7 +3123,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "bfc484ba8b10c93a1f24330947fd7bce05ed184762b5168c3a28f4dccc5c52fe",
+            "sha256": "0289da4c00529c5e960d4ba0abed9118aac8960c67512821c1932e2344924561",
             "once": false
         },
         {
@@ -3135,7 +3147,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "94c8c6ffbbd861d698dc303574809d3a5381aaeeef6d704d77ac4112bab2301f",
+            "sha256": "9308917ed0eeaa5924305d669a8e239364cc745b732193e1152229feb2ab502f",
             "once": false
         },
         {
@@ -3483,7 +3495,7 @@
         {
             "path": "config/gdc-join.properties",
             "size": 581,
-            "sha256": "2c255d05bbe744b508549c9e4325576f1d53979d1677d668746c4da5f35c145c",
+            "sha256": "2c21b3e1816b6990569d209dc63d4417393bafceaed4626e3dc8dde4464c730b",
             "once": false
         },
         {
@@ -3609,7 +3621,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "bb3bb2db524918e0d99820bb636db3333cd53b27bc728e8b1b08ac579759fcf3",
+            "sha256": "fa2c6186acad237f043fb031532f6317eb0f6585a968af640054df448ea3ea9e",
             "once": false
         },
         {
@@ -3669,7 +3681,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "39413553909b89210c8a6e47094671e4632a3bdac8660241b28a53111b70c81e",
+            "sha256": "a1f91ca843953cc1e82260cdc2f39dffb64cfc90bd26015122c64e990223a4e5",
             "once": false
         },
         {
@@ -4274,8 +4286,8 @@
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 14760,
-            "sha256": "445f8b28f1988150a2b962a018d1d11075a39e53c66fe80b72adfa92bebfb22f",
+            "size": 14880,
+            "sha256": "02fe6190c67f210092b969a66c5c66173d62f8cf2357e87372d28d77ae444942",
             "once": false
         },
         {
@@ -4287,13 +4299,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "8eb27de6a493c532fb4a64b1ebc499ced8078f7af1eb944878ef1160ea9cc950",
+            "sha256": "33c9c98faec35ef746d9f3d4a7b131f3abdeb35490b5ed15a9c9be2d3bb081a3",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "bdae630ccdab5c85f8aeab7289db60cfe6e0871d043defd7b331f7b6d90b7274",
+            "sha256": "c1c23b1fd85facf27755d16e1d7301c6c2aec584268ab29d9817076415e95af8",
             "once": false
         },
         {
@@ -4767,13 +4779,13 @@
         {
             "path": "config/voicechat/voicechat-client.properties",
             "size": 4974,
-            "sha256": "c3f441b83380a99c5a946ab51b76325e0d9675b404b1142a76c39ea499ad46d8",
+            "sha256": "ee14f5a3dbeb893e704626a4f1c47c584e4342fc11aaae0ec3a460ed6ccf553b",
             "once": true
         },
         {
             "path": "config/voicechat/voicechat-server.properties",
             "size": 2774,
-            "sha256": "fc750100916d3365bbbd2a13abbfe029b75af3970ebf4def9f7f350c4a4090b6",
+            "sha256": "8895e02a42b4495ad7cb304958b40911375c4ce7aa48c2d7a4ebbb092bdace2a",
             "once": false
         },
         {
@@ -5239,6 +5251,12 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/47281d93e60f5340ec74a58dfc7dec85b6e4340f3a949a8fb5699c69e0108ef8.bin",
+            "size": 73895,
+            "sha256": "47281d93e60f5340ec74a58dfc7dec85b6e4340f3a949a8fb5699c69e0108ef8",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/4961520341abd6f135a309a84c3be435d7eea52523e9da7ee0cb1c76721dc3bc.bin",
             "size": 1564639,
             "sha256": "4961520341abd6f135a309a84c3be435d7eea52523e9da7ee0cb1c76721dc3bc",
@@ -5248,6 +5266,12 @@
             "path": "gdcjoin-cache/4ffa9b7872d082288a89d76199af7722fa89e65534ec8e63cf350dcdebe36a91.bin",
             "size": 1564639,
             "sha256": "4ffa9b7872d082288a89d76199af7722fa89e65534ec8e63cf350dcdebe36a91",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/50950908e1286d71689c35602f577a1f67719e3cc5351aa6d1a8deee348a557b.bin",
+            "size": 1564639,
+            "sha256": "50950908e1286d71689c35602f577a1f67719e3cc5351aa6d1a8deee348a557b",
             "once": false
         },
         {
@@ -5278,6 +5302,12 @@
             "path": "gdcjoin-cache/8e16b3deab8d4ccc573b63ef4e33e4fe7b8a1aae650e5ecac43e81451d1a21a7.bin",
             "size": 192215,
             "sha256": "8e16b3deab8d4ccc573b63ef4e33e4fe7b8a1aae650e5ecac43e81451d1a21a7",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/93877cb371677659dd7b7ab18b96b71ea20f7662f50baf7c08ad9d23e3802a1e.bin",
+            "size": 192215,
+            "sha256": "93877cb371677659dd7b7ab18b96b71ea20f7662f50baf7c08ad9d23e3802a1e",
             "once": false
         },
         {
@@ -8413,9 +8443,9 @@
             "once": false
         },
         {
-            "path": "mods/CreativeCore_FABRIC_v2.12.38_mc1.20.1.jar",
-            "size": 1197198,
-            "sha256": "45c86c948fae7c253011f12a25bc76c30cd821b86f36ae00221dd9b83b5e3f17",
+            "path": "mods/CreativeCore_FABRIC_v2.12.39_mc1.20.1.jar",
+            "size": 1197255,
+            "sha256": "c6780ecc0487e40b132dc2ed41692b14f4cdb37d95758cda86a8d55f9138a61f",
             "once": false
         },
         {
@@ -8545,33 +8575,9 @@
             "once": false
         },
         {
-            "path": "mods/Saros-Road-Blocks-Fabric-1.20.1-5.0.jar.disabled",
-            "size": 1836338,
-            "sha256": "bdcf6534ed8e54971f87f173a8bd6d3b5e11a71763130606fbd11909edd89f06",
-            "once": false
-        },
-        {
-            "path": "mods/Saros-Road-Signs-Mod-1.20.1-Fabric-4.6.jar.disabled",
-            "size": 1807822,
-            "sha256": "b3872d2214a36ac38d75999157736b89cf98e8c3d65bbd544625a1c2489c9fd6",
-            "once": false
-        },
-        {
             "path": "mods/Steam_Rails-1.7.2+fabric-mc1.20.1.jar",
             "size": 16863902,
             "sha256": "a1204d76be4771778411c5def98ff3bcbe9869f12698ed9ce6795e93e6b49afe",
-            "once": false
-        },
-        {
-            "path": "mods/Theatrical-fabric-1.0.0-alpha.28.120+mc1.20.1.jar",
-            "size": 722910,
-            "sha256": "84ea7a0e5d366cb51308f205ae2b040e6f837b8d48f97c79e75cd51246c6f891",
-            "once": false
-        },
-        {
-            "path": "mods/TheatricalExtraLights-fabric-1.4.1-release-mc1.20.1.jar",
-            "size": 3487872,
-            "sha256": "27056cf81a194da373157c8ef9f157d6f8bd72bbe38dfb888befca10ac359f20",
             "once": false
         },
         {
@@ -8701,12 +8707,6 @@
             "once": false
         },
         {
-            "path": "mods/[client]skinlayers3d-fabric-1.11.1-mc1.20.1.jar",
-            "size": 1973785,
-            "sha256": "a3b7d719eabfda8255904143662586a2a6dbcf6c226f75405e0f7fea7a40532b",
-            "once": false
-        },
-        {
             "path": "mods/[client]sodium-extra-0.5.9+mc1.20.1.jar",
             "size": 370701,
             "sha256": "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f",
@@ -8821,9 +8821,9 @@
             "once": false
         },
         {
-            "path": "mods/cc-tweaked-1.20.1-fabric-1.119.0.jar",
-            "size": 3611748,
-            "sha256": "b13866b6cad4c24c4f770701ca1c3eb0ac8ef473582ebbfc36b9ae0c58361117",
+            "path": "mods/cc-tweaked-1.20.1-fabric-1.120.0.jar",
+            "size": 3612484,
+            "sha256": "9b959aacf17bf7128f04abf916817ea2ada98754fc826d7f14f4bb8e69adf7e1",
             "once": false
         },
         {
@@ -8845,9 +8845,9 @@
             "once": false
         },
         {
-            "path": "mods/collective-1.20.1-8.25.jar",
-            "size": 697968,
-            "sha256": "250faee787661a5a065cd152560c645690f5e3fc86c3a5def112742cb6c7f9be",
+            "path": "mods/collective-1.20.1-8.32.jar",
+            "size": 725700,
+            "sha256": "622635674a9b5d6dace2458629b22a86e4b234a104b2e355eae5187b0d0854c2",
             "once": false
         },
         {
@@ -8899,27 +8899,21 @@
             "once": false
         },
         {
-            "path": "mods/earlyloadingscreen-mc1.20.1-0.1.5-all.jar.disabled",
-            "size": 434127,
-            "sha256": "7ba31905e49dfedb2b50f79f60c0b39c151b748d825e39cdadc651e3b2447a10",
+            "path": "mods/easy_npc-fabric-1.20.1-6.23.0.jar",
+            "size": 2111558,
+            "sha256": "a01e3c0321889dce6f0fb3386f113e653031cf9ff5d56ace8b3241ed5e9a9827",
             "once": false
         },
         {
-            "path": "mods/easy_npc-fabric-1.20.1-6.19.0.jar",
-            "size": 2070100,
-            "sha256": "1e3ca00f17ee770ad1145d225eb2607992016557f341b7e511bc0ee3742001c9",
+            "path": "mods/easy_npc_bundle-fabric-1.20.1-6.23.0.jar",
+            "size": 25261,
+            "sha256": "5190b122f4f64ebfad10f2c708884506cd8ae78dcb89fad206a1cea7aedaae36",
             "once": false
         },
         {
-            "path": "mods/easy_npc_bundle-fabric-1.20.1-6.19.0.jar",
-            "size": 25260,
-            "sha256": "94773c5b79ace385fdd3a2fdf4beb6c84dd0cee032b85deb173d8b3790935328",
-            "once": false
-        },
-        {
-            "path": "mods/easy_npc_config_ui-fabric-1.20.1-6.19.0.jar",
-            "size": 866207,
-            "sha256": "87cf6bb7fb7f08bd7bd70e1125cc31a416ff0a13a6a3935100a06a2ff716304d",
+            "path": "mods/easy_npc_config_ui-fabric-1.20.1-6.23.0.jar",
+            "size": 879523,
+            "sha256": "92bd308728bba126f444d189e0beefa322a107958764a695c3ef69dad7879ae6",
             "once": false
         },
         {
@@ -8989,9 +8983,9 @@
             "once": false
         },
         {
-            "path": "mods/fusion-1.2.12-fabric-mc1.20.1.jar",
-            "size": 515916,
-            "sha256": "cee7755d3a37dc8838c15ac420c3c745a437ba0713e7c4309139adf7f05a34af",
+            "path": "mods/fusion-1.3.3-fabric-mc1.20.1.jar",
+            "size": 868057,
+            "sha256": "1834624ac42a9a750f695f42b63da13f9445da4c8add09d748090b3fb9234a80",
             "once": false
         },
         {
@@ -9043,9 +9037,9 @@
             "once": false
         },
         {
-            "path": "mods/gdc-join-0.6.0.jar",
-            "size": 67238,
-            "sha256": "a95dc75c1b3d03e1526c5917110945b81e43127f0c3223ef4f1e86f96157ba99",
+            "path": "mods/gdc-join-0.6.1.jar",
+            "size": 67395,
+            "sha256": "0682a6a9cac16765de7085d6f9857979860d8674176245a99010c092fb26f049",
             "once": false
         },
         {
@@ -9127,9 +9121,9 @@
             "once": false
         },
         {
-            "path": "mods/geckolib-fabric-1.20.1-4.8.3.jar",
-            "size": 1069328,
-            "sha256": "6f5d84c8eafd67b911d2a335bacfbe281773dcdb52435c742dd894e21c39df1b",
+            "path": "mods/geckolib-fabric-1.20.1-4.8.4.jar",
+            "size": 969016,
+            "sha256": "ee8495a8db7a83aa63e8ef248d4eadda665ff57c5911b8e59fd608806137baa6",
             "once": false
         },
         {
@@ -9289,9 +9283,9 @@
             "once": false
         },
         {
-            "path": "mods/notenoughanimations-fabric-1.12.3-mc1.20.1.jar",
-            "size": 1943280,
-            "sha256": "259185b7f50f74d71783fc79413140fce37e31f3469ea76d4f0a6a798be47ece",
+            "path": "mods/notenoughanimations-fabric-1.12.4-mc1.20.1.jar",
+            "size": 1944718,
+            "sha256": "3eadee3d7fa85455be61e73ea894f2defbfeafc0b28fc9b0657a976bbdf30fde",
             "once": false
         },
         {
@@ -9355,6 +9349,12 @@
             "once": false
         },
         {
+            "path": "mods/qfapi-7.7.0_qsl-6.3.0_fapi-0.92.2_mc-1.20.1.jar",
+            "size": 2755789,
+            "sha256": "b22e1f45ebea7c70b3bd86c9b2a5306f272d8aab76704505300fa5135babe708",
+            "once": false
+        },
+        {
             "path": "mods/resourcefulconfig-fabric-1.20.1-2.1.3.jar",
             "size": 135078,
             "sha256": "f8fbad0b2ab07ccaffce53a9d835601b41ab013af8a501af4de56b3958d1182a",
@@ -9370,6 +9370,12 @@
             "path": "mods/respawn-complex-0.4.0-fabric.jar",
             "size": 470114,
             "sha256": "58d31876a762f999b29ff422c1edc8fab8945c49613d30b9bce7a16719891b8a",
+            "once": false
+        },
+        {
+            "path": "mods/skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
+            "size": 1988537,
+            "sha256": "9f76e7018eca0a20bb6c4f269d7192e14beba375f7fb9064425804d6fbdaab96",
             "once": false
         },
         {
@@ -9397,15 +9403,15 @@
             "once": false
         },
         {
-            "path": "mods/spawn-animations-compats-15.0.jar",
-            "size": 77724,
-            "sha256": "ba25cedb6b93cdbb6f24b9a1c249d553f3b519bf364c6803a84a0dcd9f1a9058",
+            "path": "mods/spawn-animations-compats-16.0.jar",
+            "size": 78360,
+            "sha256": "3bcf630cd01170458d7a8701a6f7c829af0ecf0e644e1bccb5ba818b379fd836",
             "once": false
         },
         {
-            "path": "mods/spawnanimations-v1.11.4-mc1.17-26.1.1-mod.jar",
-            "size": 226177,
-            "sha256": "a5c5ae86dddfb9871c0cbb40d70a4c36a949f61ea9f730019cf114414b9c88b4",
+            "path": "mods/spawnanimations-v1.11.5-mc1.17-26.2.9-mod.jar",
+            "size": 226189,
+            "sha256": "996268e024c6fd0fb252400d4528caf5201a69c887b7ce1960b03d6335647df5",
             "once": false
         },
         {
@@ -9475,15 +9481,9 @@
             "once": false
         },
         {
-            "path": "mods/voicechat-fabric-1.20.1-2.6.18.jar",
-            "size": 5263604,
-            "sha256": "8b191ce6439afe2a244b9be4152744653c2f38a93df7e99b858e549063777d85",
-            "once": false
-        },
-        {
-            "path": "mods/waterframes-FABRIC-mc1.20.1-v2.1.22.jar.disabled",
-            "size": 261974,
-            "sha256": "7d8cff807bc53eaa6f4af2dc6c565d28a81663818c3dc566fd7c3a445b7b0962",
+            "path": "mods/voicechat-fabric-1.20.1-2.6.20.jar",
+            "size": 5271506,
+            "sha256": "bef9e2725a5648d436110ed7cae0b910a48590584aadecc84f4629fa29e02afb",
             "once": false
         },
         {
@@ -9493,9 +9493,9 @@
             "once": false
         },
         {
-            "path": "mods/waveycapes-fabric-1.9.2-mc1.20.1.jar",
-            "size": 1840730,
-            "sha256": "03a26ea4861848a7a30fbe4ffcd7a44d3bce9e6692b4e28adca29c9588039e3a",
+            "path": "mods/waveycapes-fabric-1.10.2-mc1.20.1.jar",
+            "size": 1855773,
+            "sha256": "23ed695b5aa3e7751e7a948889c6e3e3290bd79ba09aebad1a3b56d311ef2c71",
             "once": false
         },
         {
@@ -9517,9 +9517,9 @@
             "once": false
         },
         {
-            "path": "mods/xaeroworldmap-fabric-1.20.1-1.41.0.jar",
-            "size": 1410493,
-            "sha256": "333923dc4c0b1ad15837582c84b1313ec0df4f82ab76a8453c926ca5c4c5ee0f",
+            "path": "mods/xaeroworldmap-fabric-1.20.1-1.41.2.jar",
+            "size": 1411544,
+            "sha256": "c97508fbea4a98195cad4f5a6d66c6611237704356321c4afb20f61e718f8a12",
             "once": false
         },
         {
@@ -51164,8 +51164,8 @@
         },
         {
             "path": "resourcepacks/Faithful 32x - 1.20.1.zip",
-            "size": 10955093,
-            "sha256": "9f129a4a8ecea0cf6b1ba02367da40b921776d81ca6bb9bdd1c6e3672341e3f2",
+            "size": 11088963,
+            "sha256": "1d97e2e2d2a13e883fec748893055b2ae14bed20d0f704f9282270805c44e412",
             "once": false
         },
         {
@@ -51201,7 +51201,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "189d8b0cfcb60a29465af877b114213d7d40b9d61e5cb793a42c0648a2d11e2e",
+            "sha256": "c392e99d9c3ef4f7e6c0f73902119eeef6f6591be9474f3356201050f458df7e",
             "once": false
         },
         {
@@ -51307,5 +51307,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "27/06/2026 01:42:07,29"
+    "generated": "27/06/2026 03:02:30,23"
 }
