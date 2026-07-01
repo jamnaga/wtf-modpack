@@ -2,14 +2,10 @@ name = "gdc-status"
 main = "worker.js"
 compatibility_date = "2024-11-01"
 
-# Identificativi istanza (non segreti). La API key e il token restart sono secret.
+
 [vars]
 PANEL_BASE = "https://panel.stefanodeblasi.it"
 DAEMON_ID = "237f7f888d8b4990ab91a6e6ac57caa0"
 INSTANCE_UUID = "fd2e2f00eb694536a37f201731303577"
-# path dell'operazione di restart sul pannello (cambia solo se la tua versione MCSManager differisce)
 RESTART_PATH = "api/protected_instance/restart"
 
-# Secret da impostare separatamente (NON in questo file):
-#   wrangler secret put API_KEY        -> la chiave del pannello (ruotala dopo!)
-#   wrangler secret put RESTART_TOKEN  -> un token tuo a piacere per /restart
