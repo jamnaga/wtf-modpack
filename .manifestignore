@@ -1,3 +1,5 @@
+mrpack-web/
+mrpack-service/
 logs/
 .git/
 .claude

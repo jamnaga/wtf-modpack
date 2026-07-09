@@ -2360,14 +2360,14 @@
         },
         {
             "path": ".gitignore",
-            "size": 447,
-            "sha256": "b68de3f23aa36b26f8af3cdeeb92ccd174f672968ca9933d5d0fc1be6f72668c",
+            "size": 463,
+            "sha256": "b0490b1413d1e50c400dd6f976fd2c44d0a34f16183f7076d30ed3db003c095d",
             "once": false
         },
         {
             "path": ".manifestignore",
-            "size": 329,
-            "sha256": "28eb8c6588a80a7f9ead488a92f4a94ed58d278d7b7d205a325ae75d61784daf",
+            "size": 357,
+            "sha256": "07575c99ae756982adc4e44f3e55d8823880ed4de97c9efa2bf843a42e3ae9a2",
             "once": false
         },
         {
@@ -35856,6 +35856,11 @@
             "progressMessage": "*currentPart* di *totalParts* | Scaricamento chunks di GangDrogaCity Online: *percentage*%",
             "files": [
                 {
+                    "path": "packages/GDC Online DH Chunks/.DS_Store",
+                    "size": 6148,
+                    "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+                },
+                {
                     "path": "packages/GDC Online DH Chunks/DistantHorizons.sqlite.7z.001",
                     "size": 52428800,
                     "sha256": "979de206ff610f42df3dfe87031b8a64d5772566e41ba2ccd73ecb48ea6b177c"
@@ -36237,5 +36242,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "05/06/2026 19:32:22,92"
+    "generated": "09/07/2026 03:41:24,16"
 }
