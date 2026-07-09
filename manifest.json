@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "1f30ff7def56aa4ad4f34d4707b790c1cef42fbeaf29624c3e1f2afe75b3ace4",
+            "sha256": "5791734dcfa04e42945eed2199090fe8489a830052b6de6df7d245b2a85d8657",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "ecedcf4d40054bb3dfba5d7429356c26e56139764ceebfc4dc50455cf6e4f7cc",
+            "sha256": "0f72e10c194d0bf338b31b50bde2b67c630c669f3bac9f743143f8bd9b8275bb",
             "once": false
         },
         {
@@ -2444,14 +2444,14 @@
         },
         {
             "path": ".gitignore",
-            "size": 536,
-            "sha256": "7189f8cbcb1a90f4997d1fa7370cd3687b26ed645d0a6cc4ce3afce10cd90a3f",
+            "size": 564,
+            "sha256": "d5e92d7a4b5e40a05ea0b4bc6a448c60132195bb56b3f1f50203e35e94446962",
             "once": false
         },
         {
             "path": ".manifestignore",
-            "size": 380,
-            "sha256": "f0682cf4e80134b26ab0efc8e73c50e865424460782656e935a4223c96d3f97c",
+            "size": 408,
+            "sha256": "82d0233b5a1c88a933dae1f2a9b1abbc6f47ec3a20ad635a5c63d54e739cec90",
             "once": false
         },
         {
@@ -2571,7 +2571,7 @@
         {
             "path": "config/bclib/cache.json",
             "size": 345,
-            "sha256": "6f8b8e8b254fb47d92746f36b044c0f693dbc674af759876b280a2d1377531aa",
+            "sha256": "9d8d1df223a944a3f57c749a1ec61f1b10bed52408859cfc24364b086a7f8c63",
             "once": false
         },
         {
@@ -2853,7 +2853,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "c1c5dcd60c58ec38fd77d818199b1c9244661f41c485c0747c600ea8e2a6f3e0",
+            "sha256": "f08741454c67a8bab5c024d3ee61128fbbdcbd37837dccab0a8ca92025f7df99",
             "once": false
         },
         {
@@ -3123,7 +3123,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "fe6e07067700ebb4e249db1039eb9d0d8fd7c6c39283322abe0c96932f254e86",
+            "sha256": "1245e210e59a9b9524f01acf76181a4028755637dd7217c7881e341b620e6b9a",
             "once": false
         },
         {
@@ -3147,7 +3147,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "2785e8834ad28cc86efdcad6bd97fa80eb25603ef2a225af0f6ecfad6b65c61c",
+            "sha256": "6d6356484971a0f942ce3c13a127ff6677b790cb949b6d5d2ff7be222fb9866d",
             "once": false
         },
         {
@@ -3495,7 +3495,7 @@
         {
             "path": "config/gdc-join.properties",
             "size": 581,
-            "sha256": "bbd80329f965252ec76b1c3cd698f9575ef5768bac0a8d6d98a50ab4e760fdff",
+            "sha256": "b11f3d6a0450a63cdb3ae7f5be5f811342d2e07ee86f49c003c2e5d7d867d59f",
             "once": false
         },
         {
@@ -3621,7 +3621,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "6479455c8304ed6d2ad8588b34269aac8e278bd39c912529a19795932747a1e1",
+            "sha256": "18eda0d524dceab0114a5142a77c1f8dbcc20a2ddaa72bc5c5dc287e936ac5aa",
             "once": false
         },
         {
@@ -3681,7 +3681,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "8023a638228bde5963a8ae2d4aa0c9715dade7192f199f16d60d5efcd1fc5dd4",
+            "sha256": "2e8a184459f33fe180d675457d9369f2354498e5b8b5d9b162e2f78606eaa686",
             "once": false
         },
         {
@@ -4286,8 +4286,8 @@
         },
         {
             "path": "config/roughlyenoughitems/favorites.json5",
-            "size": 14880,
-            "sha256": "02fe6190c67f210092b969a66c5c66173d62f8cf2357e87372d28d77ae444942",
+            "size": 15009,
+            "sha256": "5b42e9091a3263badcf2827da5892d3a41ed40fef01706e864d319bd0c34a9d4",
             "once": false
         },
         {
@@ -4299,13 +4299,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "0026daec809df7636468cec411a655b9a22d203460f5bc1f274d630d910627eb",
+            "sha256": "a2054da400ea67d95350ca2241dce1d344e99d2b692880b544f82bd1714d2c60",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "e28949e90d4047f9208f15990bf214ab064645054c216ce6c8bcec38d7292c22",
+            "sha256": "e2c0f3690bf39ef02558ab9c17cacc2d8a94df195e86130fb5ef1291834db15e",
             "once": false
         },
         {
@@ -4779,7 +4779,7 @@
         {
             "path": "config/voicechat/voicechat-client.properties",
             "size": 4974,
-            "sha256": "ee14f5a3dbeb893e704626a4f1c47c584e4342fc11aaae0ec3a460ed6ccf553b",
+            "sha256": "c7d63c7f1996e8ca9e1a9b6c94087c68f475b57b22a42949543ba658a60d0314",
             "once": true
         },
         {
@@ -5227,9 +5227,21 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/2844ad9fd453e6d3ed96daf4ae91d77fc47e21632184a0ae897bdef4de5f2e52.bin",
+            "size": 192215,
+            "sha256": "2844ad9fd453e6d3ed96daf4ae91d77fc47e21632184a0ae897bdef4de5f2e52",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/2a7b25e443c8c21bcfb87ec36ab2cbd4885c7a5a987052af4adfefdaf2f4982e.bin",
             "size": 192215,
             "sha256": "2a7b25e443c8c21bcfb87ec36ab2cbd4885c7a5a987052af4adfefdaf2f4982e",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/2a98c97ff6725e0a48ab7b8072f3873d71b2653579bcf4419e5c2ec83bef0d8e.bin",
+            "size": 192215,
+            "sha256": "2a98c97ff6725e0a48ab7b8072f3873d71b2653579bcf4419e5c2ec83bef0d8e",
             "once": false
         },
         {
@@ -5245,6 +5257,12 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/3404a581d53ac2168ec2f0bbc8397aa917d84e162d05e49265af613f64eb5804.bin",
+            "size": 192215,
+            "sha256": "3404a581d53ac2168ec2f0bbc8397aa917d84e162d05e49265af613f64eb5804",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/34acabc0421a803841831f9f4eb72ea7e885cf5db41c3b99cbc61223488cf0b7.bin",
             "size": 1564639,
             "sha256": "34acabc0421a803841831f9f4eb72ea7e885cf5db41c3b99cbc61223488cf0b7",
@@ -5254,6 +5272,12 @@
             "path": "gdcjoin-cache/3a8d92420a49780da1a248d05e2a1cf6f635a234d1ee57dc98d44efcfd6574a0.bin",
             "size": 73596,
             "sha256": "3a8d92420a49780da1a248d05e2a1cf6f635a234d1ee57dc98d44efcfd6574a0",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/3ab2913e25e4c822ba8138fe3becf4049a123d284cef241277108813de59a474.bin",
+            "size": 1564639,
+            "sha256": "3ab2913e25e4c822ba8138fe3becf4049a123d284cef241277108813de59a474",
             "once": false
         },
         {
@@ -5317,9 +5341,21 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/84c63267e381130d73ff52b2fdd9a7450f45b8b9d5c0e4efe647ffeaf940894a.bin",
+            "size": 1564639,
+            "sha256": "84c63267e381130d73ff52b2fdd9a7450f45b8b9d5c0e4efe647ffeaf940894a",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/8e16b3deab8d4ccc573b63ef4e33e4fe7b8a1aae650e5ecac43e81451d1a21a7.bin",
             "size": 192215,
             "sha256": "8e16b3deab8d4ccc573b63ef4e33e4fe7b8a1aae650e5ecac43e81451d1a21a7",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/92e43541d12de041ab35621fca809be5a34e3adee6cd5d37097399e72a8c7d06.bin",
+            "size": 192215,
+            "sha256": "92e43541d12de041ab35621fca809be5a34e3adee6cd5d37097399e72a8c7d06",
             "once": false
         },
         {
@@ -5413,6 +5449,18 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/dfef67d0ed090acf6b61f57968913336ab645c520fc0401a24c37c52c65d5ed0.bin",
+            "size": 1564639,
+            "sha256": "dfef67d0ed090acf6b61f57968913336ab645c520fc0401a24c37c52c65d5ed0",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/e735a2454cae59b39575cfe999d2c27d6eb4ff28bfa12b4d40cb23ed4088caa7.bin",
+            "size": 1564639,
+            "sha256": "e735a2454cae59b39575cfe999d2c27d6eb4ff28bfa12b4d40cb23ed4088caa7",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/f0f298e76a935186c485f5cc7bf5a9a88bcc163a3f396acf042cefdb5686ffea.bin",
             "size": 192215,
             "sha256": "f0f298e76a935186c485f5cc7bf5a9a88bcc163a3f396acf042cefdb5686ffea",
@@ -5428,6 +5476,12 @@
             "path": "generate_manifest.sh",
             "size": 7481,
             "sha256": "68c68ba7b9f3647331ab3cdaef2bdf641562e05d1ce0a9ade79394cc5a9e2596",
+            "once": false
+        },
+        {
+            "path": "hs_err_pid95320.log",
+            "size": 812263,
+            "sha256": "6603663545e0aae15e068760b0129e56e12e86ff6efccbba168b65c06652e9cc",
             "once": false
         },
         {
@@ -51171,7 +51225,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "9fbe25ed2e5421cccee3abde9d9a35b7422cec4ad6708b04cf45a351ce200394",
+            "sha256": "99ef906be71dcafbd4d203a34f73308234fda12d49a1ec83801f85103001d1e6",
             "once": false
         },
         {
@@ -51277,5 +51331,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "02/07/2026 01:44:10,45"
+    "generated": "09/07/2026 02:33:39,53"
 }
