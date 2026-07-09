@@ -82,7 +82,6 @@
 		"{data:{Count:1b,id:\"minecraft:birch_fence\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:diorite_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:enchanted_book\",tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:jungle_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:flint_and_steel\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_fence\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:bamboo_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
@@ -111,14 +110,16 @@
 		"{data:{Count:1b,id:\"minecraft:stripped_spruce_log\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:oak_fence\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:oak_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:mossy_stone_brick_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_trapdoor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"supplementaries:trapped_present_red\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:spruce_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"minecraft:oak_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:netherite_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{Count:1b,id:\"minecraft:netherite_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:jungle_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:oak_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:waxed_exposed_cut_copper\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []

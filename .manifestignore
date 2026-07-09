@@ -1,5 +1,7 @@
 worker.js
 wrangler.toml
+mrpack-service/
+mrpack-web/
 config/gdcchiosco-indirizzi.json
 logs/
 .git/

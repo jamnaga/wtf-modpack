@@ -26,3 +26,5 @@ config/gdcchiosco-indirizzi.json
 *.nbt
 /schematics
 .wrangler/cache/wrangler-account.json
+/mrpack-service
+/mrpack-web
