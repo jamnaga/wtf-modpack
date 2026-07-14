@@ -1,5 +1,8 @@
 {
   "language": "en_us",
+  "storage": {
+    "location": "world"
+  },
   "join": {
     "refreshSkin": true,
     "skipRefreshProviders": [],

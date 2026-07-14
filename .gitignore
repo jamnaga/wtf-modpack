@@ -28,3 +28,4 @@ config/gdcchiosco-indirizzi.json
 .wrangler/cache/wrangler-account.json
 /mrpack-service
 /mrpack-web
+/webclient

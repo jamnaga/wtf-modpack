@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "5791734dcfa04e42945eed2199090fe8489a830052b6de6df7d245b2a85d8657",
+            "sha256": "1877bf84fb579a95b09361f455768ec55d4de6fae321d705d920d39dc460ec98",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "0f72e10c194d0bf338b31b50bde2b67c630c669f3bac9f743143f8bd9b8275bb",
+            "sha256": "1424d65dcdeb4e3ab5cd4cf816a8d1110dd2ee3bb489800e69c35113ef746579",
             "once": false
         },
         {
@@ -2401,6 +2401,12 @@
             "once": false
         },
         {
+            "path": ".fabric/processedMods/xaerolib-1.6.0-3046e9f5926d9b14.jar",
+            "size": 579653,
+            "sha256": "7bd1c07e1d1991fb3a2e688cc024833cdfaffb8ebfbe5069939ffc4b4331f83c",
+            "once": false
+        },
+        {
             "path": ".fabric/processedMods/yumi_commons_collections-1.0.0-beta.4-7c855c0677f09a8f.jar",
             "size": 14815,
             "sha256": "465bb920fdf1ca9caeacad01994aec624deea133a7d5b5efe0ae5984406b320b",
@@ -2450,8 +2456,8 @@
         },
         {
             "path": ".manifestignore",
-            "size": 408,
-            "sha256": "82d0233b5a1c88a933dae1f2a9b1abbc6f47ec3a20ad635a5c63d54e739cec90",
+            "size": 419,
+            "sha256": "20672b3809744f6d30be1b4bdbcf2469dbabf56f60f2e12f05fe096dd374330e",
             "once": false
         },
         {
@@ -2474,8 +2480,8 @@
         },
         {
             "path": "config/DistantHorizons.toml",
-            "size": 35901,
-            "sha256": "77709638f2b72cf984426331fc1c8ef669e25fbc043ebd9a4beec1ea60ee0ac8",
+            "size": 35902,
+            "sha256": "13d25b31e46157664e51e99d3df18a268c781166ce5618321ab66e329712ce1b",
             "once": false
         },
         {
@@ -2571,7 +2577,7 @@
         {
             "path": "config/bclib/cache.json",
             "size": 345,
-            "sha256": "9d8d1df223a944a3f57c749a1ec61f1b10bed52408859cfc24364b086a7f8c63",
+            "sha256": "affa1ba03c3a464dc9585f028e2b87281333fe12df94bcd73e20c3f97acc30b8",
             "once": false
         },
         {
@@ -2607,7 +2613,7 @@
         {
             "path": "config/beansbackpacks-common.json5",
             "size": 2118,
-            "sha256": "45416803209c1d751c6897ced4bdfe18ead27bee98f309cb5bdac8e9e68c5a62",
+            "sha256": "2b126108317f18955f1adb96ac03562ea120bef6c7a9da7e8aeb132756376063",
             "once": false
         },
         {
@@ -2853,7 +2859,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "f08741454c67a8bab5c024d3ee61128fbbdcbd37837dccab0a8ca92025f7df99",
+            "sha256": "9eeaac5be03327f3c54b150970a7447dbb56d74cfa43945ed9fe114fa82a3669",
             "once": false
         },
         {
@@ -2875,6 +2881,12 @@
             "once": false
         },
         {
+            "path": "config/easy_npc/remote_texture.cfg",
+            "size": 243,
+            "sha256": "051f049f24f05a3672a3dda84d1174daf5f6744f968384cbf07520f0c8b5555c",
+            "once": false
+        },
+        {
             "path": "config/easy_npc/render_entity_type_support.cfg",
             "size": 34715,
             "sha256": "2e553c837327f380ec48e50c0e296c2129152b510b498d5d085840ef443e2674",
@@ -2882,8 +2894,8 @@
         },
         {
             "path": "config/easy_npc/security.cfg",
-            "size": 3193,
-            "sha256": "3dd30cdd0c2c8b26a69c0043b2dc86e9dab69b35c21c95ed67fe235349bb5e9b",
+            "size": 3236,
+            "sha256": "d41a32aa2d2cba752e173d0c729801a557539c34d5ac6480001abd59e18ba716",
             "once": false
         },
         {
@@ -3050,8 +3062,8 @@
         },
         {
             "path": "config/easy_npc/spawner_type.cfg",
-            "size": 934,
-            "sha256": "d6f51870202f168b4a61d544d89329ac8e30b1d98065a59eaa6c17dce40b68c0",
+            "size": 1150,
+            "sha256": "f5c02f2ba05f590823d22f84fae8c66af0cb4d438a92c338a784582add0121a4",
             "once": false
         },
         {
@@ -3123,7 +3135,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "1245e210e59a9b9524f01acf76181a4028755637dd7217c7881e341b620e6b9a",
+            "sha256": "a6fba48e369d7e810df2f81c1a9b5019d6c264280e4903ada9b9921d919e5ff3",
             "once": false
         },
         {
@@ -3147,7 +3159,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "6d6356484971a0f942ce3c13a127ff6677b790cb949b6d5d2ff7be222fb9866d",
+            "sha256": "66f489b7c6bbc16752550b14931f920b8e019cd62cd99e3c44c5a8d592a79727",
             "once": false
         },
         {
@@ -3194,8 +3206,8 @@
         },
         {
             "path": "config/fancymenu/customizablemenus.txt",
-            "size": 273,
-            "sha256": "bea011a621cc521babe27c8a43eb2e2910604dd54558d4e9c1cabb93a4264b2d",
+            "size": 244,
+            "sha256": "2559b4742dbca822ba14c66bb7adbc98a11e73379aab8bc27da124d76ffcb905",
             "once": false
         },
         {
@@ -3495,7 +3507,7 @@
         {
             "path": "config/gdc-join.properties",
             "size": 581,
-            "sha256": "b11f3d6a0450a63cdb3ae7f5be5f811342d2e07ee86f49c003c2e5d7d867d59f",
+            "sha256": "872a2280277ecc630843495af83d4fdfbf23a7149d55b8b32ff60e274694b373",
             "once": false
         },
         {
@@ -3621,7 +3633,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "18eda0d524dceab0114a5142a77c1f8dbcc20a2ddaa72bc5c5dc287e936ac5aa",
+            "sha256": "7c15b4bd5ba031ba66cf7c6abe97b35f22e08f7f9f91ec7c3a5d36e326303ea4",
             "once": false
         },
         {
@@ -3681,7 +3693,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "2e8a184459f33fe180d675457d9369f2354498e5b8b5d9b162e2f78606eaa686",
+            "sha256": "4143d5bd81f446e886fa2cb43846a232087cf6740a28e8490daac8d6889af9eb",
             "once": false
         },
         {
@@ -4299,13 +4311,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "a2054da400ea67d95350ca2241dce1d344e99d2b692880b544f82bd1714d2c60",
+            "sha256": "3b35f88c52eba985c6637c6a2858c6b35d54a0ecffa231ac6fb41c9ce9039352",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "e2c0f3690bf39ef02558ab9c17cacc2d8a94df195e86130fb5ef1291834db15e",
+            "sha256": "3b4c07c174875237d3c37aadd582d54af51d9f411f5af43b3d216ebb466c0e8a",
             "once": false
         },
         {
@@ -4340,14 +4352,14 @@
         },
         {
             "path": "config/skinrestorer/config.json",
-            "size": 1035,
-            "sha256": "3765c332a3a1f2697b4ec88dc206f5c93c063ca86663faeef3181fe5e01d44df",
+            "size": 1079,
+            "sha256": "ee552c68cec1215d619b1426e648bc446eb24a0d6ee915e341806d4bf4594a3f",
             "once": false
         },
         {
             "path": "config/skinrestorer/mojang_profile_cache.json",
             "size": 105,
-            "sha256": "075630b1dd5e289d18763f5c046b69bbd768085a22ad37d76e208681119772cf",
+            "sha256": "56f999731c3df2085dc0024b40cc10a6fabef9a8b978229e4e62c44b6520df6c",
             "once": false
         },
         {
@@ -4444,6 +4456,18 @@
             "path": "config/spark/tmp/spark-12bef4de9094a-profile-data.jfr.tmp",
             "size": 135149,
             "sha256": "8507679c76694af010e6b4e36dbace980dfd4a9feba02b1a7a7991a0a1826e30",
+            "once": false
+        },
+        {
+            "path": "config/spark/tmp/spark-1e4536593aa3-libasyncProfiler.so.tmp",
+            "size": 724576,
+            "sha256": "1ca599cb9db2b40a508c665193fc73cd41143c8327d06900346206a05c52122f",
+            "once": false
+        },
+        {
+            "path": "config/spark/tmp/spark-1e7def033cfd-profile-data.jfr.tmp",
+            "size": 135898,
+            "sha256": "97af67bee87ebf665f5ea9f283cd48f7938f42dacd336c21b358023941b0f675",
             "once": false
         },
         {
@@ -4778,8 +4802,8 @@
         },
         {
             "path": "config/voicechat/voicechat-client.properties",
-            "size": 4974,
-            "sha256": "c7d63c7f1996e8ca9e1a9b6c94087c68f475b57b22a42949543ba658a60d0314",
+            "size": 4973,
+            "sha256": "0ee4496ea6583f3f9360b8d8c057b39ae10c779212205249c410dc14cd9e547c",
             "once": true
         },
         {
@@ -4827,7 +4851,7 @@
         {
             "path": "config/worldedit/worldedit.properties",
             "size": 2496,
-            "sha256": "fc099cec4bc33e368cb3d140b3324dd7c7e175958081dd2fafbb6cfdd3704626",
+            "sha256": "a8ab644f0f561e75d05576aac5b06c0624ca51157c9f36cd1a1d71c071e214ba",
             "once": false
         },
         {
@@ -5191,6 +5215,12 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/000acbedaab1623baa21cbad25d99cb7d73ae10b5b2fc72808bd5e3597a055bd.bin",
+            "size": 163702,
+            "sha256": "000acbedaab1623baa21cbad25d99cb7d73ae10b5b2fc72808bd5e3597a055bd",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/00d3528e75a5c836abd7b7e98077f4d0562ebb15fae589e70cfdfd156e215c8f.bin",
             "size": 73661,
             "sha256": "00d3528e75a5c836abd7b7e98077f4d0562ebb15fae589e70cfdfd156e215c8f",
@@ -5281,6 +5311,12 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/3e426a7a5bb5d9bbf49c1b56062543dd07d7247b5defff4c3baac082b4930c3d.bin",
+            "size": 71530,
+            "sha256": "3e426a7a5bb5d9bbf49c1b56062543dd07d7247b5defff4c3baac082b4930c3d",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/3ece45b5c42ab955a71660749802c8a95fa08aa14f92ecb79b3e423a4f96d507.bin",
             "size": 1564639,
             "sha256": "3ece45b5c42ab955a71660749802c8a95fa08aa14f92ecb79b3e423a4f96d507",
@@ -5305,6 +5341,12 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/4a1e16a851bc68f8aac51458d3cac0f5704092a57eeb28771444fa3b20f5dc82.bin",
+            "size": 1564639,
+            "sha256": "4a1e16a851bc68f8aac51458d3cac0f5704092a57eeb28771444fa3b20f5dc82",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/4ffa9b7872d082288a89d76199af7722fa89e65534ec8e63cf350dcdebe36a91.bin",
             "size": 1564639,
             "sha256": "4ffa9b7872d082288a89d76199af7722fa89e65534ec8e63cf350dcdebe36a91",
@@ -5317,6 +5359,18 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/55559b6652458b01c0e662d6f098be285e38e0e21d0d7c0f54e9145d9ee814c2.bin",
+            "size": 1564639,
+            "sha256": "55559b6652458b01c0e662d6f098be285e38e0e21d0d7c0f54e9145d9ee814c2",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/5c9c6d913c3a226bc88a2b64a24432671c09693e738045eccaadf2b450ce4905.bin",
+            "size": 1565082,
+            "sha256": "5c9c6d913c3a226bc88a2b64a24432671c09693e738045eccaadf2b450ce4905",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/612d25be95b75ba6ff487ecb2b05bc756e429fcbc7af65a688e4cc054a791bb4.bin",
             "size": 1564639,
             "sha256": "612d25be95b75ba6ff487ecb2b05bc756e429fcbc7af65a688e4cc054a791bb4",
@@ -5326,6 +5380,12 @@
             "path": "gdcjoin-cache/757ec3de7964cc9628ae93e035e1989200e9bb3da579f7b209887242fce82ccb.bin",
             "size": 192215,
             "sha256": "757ec3de7964cc9628ae93e035e1989200e9bb3da579f7b209887242fce82ccb",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/78a0fbfe052492c16fc59808a9048a895f568bdfac6ecbcf764088c1ab81a39c.bin",
+            "size": 11137576,
+            "sha256": "78a0fbfe052492c16fc59808a9048a895f568bdfac6ecbcf764088c1ab81a39c",
             "once": false
         },
         {
@@ -5371,6 +5431,18 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/9bc2d8e82820c9d9e4f4d3a7f164d9c5a5181b50aae29fdd2d2c857ff653b675.bin",
+            "size": 163702,
+            "sha256": "9bc2d8e82820c9d9e4f4d3a7f164d9c5a5181b50aae29fdd2d2c857ff653b675",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/9dcc952633d297576979afce6f953d1dd27cff9b3828b251ebd741736673e064.bin",
+            "size": 73511,
+            "sha256": "9dcc952633d297576979afce6f953d1dd27cff9b3828b251ebd741736673e064",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/9e1dfe0de1ee6f6e0cccdb8f67fce853d7ccbc4a7125834a2c51278218446f3a.bin",
             "size": 192215,
             "sha256": "9e1dfe0de1ee6f6e0cccdb8f67fce853d7ccbc4a7125834a2c51278218446f3a",
@@ -5389,6 +5461,12 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/b57a88d6f85ef2b681c5cb13bb18ff89802acdf39edcd74c03585eb00c66b825.bin",
+            "size": 192215,
+            "sha256": "b57a88d6f85ef2b681c5cb13bb18ff89802acdf39edcd74c03585eb00c66b825",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/b90198c6f2f411255c129987c2a9d2d4aefa1c26ccc13e32ce3e1947d13dbf3a.bin",
             "size": 1564639,
             "sha256": "b90198c6f2f411255c129987c2a9d2d4aefa1c26ccc13e32ce3e1947d13dbf3a",
@@ -5398,6 +5476,12 @@
             "path": "gdcjoin-cache/c1988443384b319d3fcf93ebaf3c2c1e93c14fc7f7eeac7cbf784bd0d7e8d97f.bin",
             "size": 1564639,
             "sha256": "c1988443384b319d3fcf93ebaf3c2c1e93c14fc7f7eeac7cbf784bd0d7e8d97f",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/c834f9e937cd9311ccdf0ecd1cd870637306ce114598fc5d10e8c82aea9ca807.bin",
+            "size": 13840,
+            "sha256": "c834f9e937cd9311ccdf0ecd1cd870637306ce114598fc5d10e8c82aea9ca807",
             "once": false
         },
         {
@@ -5416,6 +5500,12 @@
             "path": "gdcjoin-cache/d01e3c87e8c02c733e8f0b919f0c1f8183a3f09b00bba2e3c976e5ffc09f3075.bin",
             "size": 1564639,
             "sha256": "d01e3c87e8c02c733e8f0b919f0c1f8183a3f09b00bba2e3c976e5ffc09f3075",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/d5b9988ad74b046d7f232ceb0d46c9c6cf6665ec65fb85a1186ab165098d1107.bin",
+            "size": 11137576,
+            "sha256": "d5b9988ad74b046d7f232ceb0d46c9c6cf6665ec65fb85a1186ab165098d1107",
             "once": false
         },
         {
@@ -5458,6 +5548,18 @@
             "path": "gdcjoin-cache/e735a2454cae59b39575cfe999d2c27d6eb4ff28bfa12b4d40cb23ed4088caa7.bin",
             "size": 1564639,
             "sha256": "e735a2454cae59b39575cfe999d2c27d6eb4ff28bfa12b4d40cb23ed4088caa7",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/e76a4752d45ff6f7546ba6fbea20f763ef84b854a31c27c8fc1abf4675e35e95.bin",
+            "size": 192215,
+            "sha256": "e76a4752d45ff6f7546ba6fbea20f763ef84b854a31c27c8fc1abf4675e35e95",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/ef18c8bf575fca8ad506e1b8ed7aaff58dbe14b47a61a208ffa3ba5f74b24af1.bin",
+            "size": 192215,
+            "sha256": "ef18c8bf575fca8ad506e1b8ed7aaff58dbe14b47a61a208ffa3ba5f74b24af1",
             "once": false
         },
         {
@@ -8869,9 +8971,9 @@
             "once": false
         },
         {
-            "path": "mods/collective-1.20.1-8.32.jar",
-            "size": 725700,
-            "sha256": "622635674a9b5d6dace2458629b22a86e4b234a104b2e355eae5187b0d0854c2",
+            "path": "mods/collective-1.20.1-8.39.jar",
+            "size": 745947,
+            "sha256": "594bc5d40f2a3fec1ad95732524f65e01a27ac2abeb9d59889cd9f01fd8db6cb",
             "once": false
         },
         {
@@ -8923,21 +9025,21 @@
             "once": false
         },
         {
-            "path": "mods/easy_npc-fabric-1.20.1-6.23.0.jar",
-            "size": 2111558,
-            "sha256": "a01e3c0321889dce6f0fb3386f113e653031cf9ff5d56ace8b3241ed5e9a9827",
+            "path": "mods/easy_npc-fabric-1.20.1-7.1.1.jar",
+            "size": 2240027,
+            "sha256": "ad01d2e296d0c24555f894cc3430a8aaac7d1296141b0e8afb74eea840bbe1a8",
             "once": false
         },
         {
-            "path": "mods/easy_npc_bundle-fabric-1.20.1-6.23.0.jar",
+            "path": "mods/easy_npc_bundle-fabric-1.20.1-7.1.1.jar",
             "size": 25261,
-            "sha256": "5190b122f4f64ebfad10f2c708884506cd8ae78dcb89fad206a1cea7aedaae36",
+            "sha256": "f2b086a0c87c1f9dc2facfd26d634f4a1f74da2709f5da7afdf7c969d33bfe5a",
             "once": false
         },
         {
-            "path": "mods/easy_npc_config_ui-fabric-1.20.1-6.23.0.jar",
-            "size": 879523,
-            "sha256": "92bd308728bba126f444d189e0beefa322a107958764a695c3ef69dad7879ae6",
+            "path": "mods/easy_npc_config_ui-fabric-1.20.1-7.1.1.jar",
+            "size": 967965,
+            "sha256": "e949cdd1a0f6f6eea45905f81498b1612e23c1207083ec3068d1bfae759479b2",
             "once": false
         },
         {
@@ -8983,9 +9085,9 @@
             "once": false
         },
         {
-            "path": "mods/fancymenu_fabric_3.9.1_MC_1.20.1.jar",
-            "size": 25649467,
-            "sha256": "88a481f20a2d3e1af1dd761eae5dd43771828dd278e484207a66769039205737",
+            "path": "mods/fancymenu_fabric_3.9.7_MC_1.20.1.jar",
+            "size": 25788545,
+            "sha256": "55c46a7a4a0b8a2eb87d263e5f63ac7639f3a04ec78538b52e0f2aece2088191",
             "once": false
         },
         {
@@ -9007,9 +9109,9 @@
             "once": false
         },
         {
-            "path": "mods/fusion-1.3.3-fabric-mc1.20.1.jar",
-            "size": 868057,
-            "sha256": "1834624ac42a9a750f695f42b63da13f9445da4c8add09d748090b3fb9234a80",
+            "path": "mods/fusion-1.3.5-fabric-mc1.20.1.jar",
+            "size": 874431,
+            "sha256": "73b4b9964b8aa0f7e141649905b4c4cb9f1f6e8dc1bb2c099bc78a77bf2511af",
             "once": false
         },
         {
@@ -9157,9 +9259,9 @@
             "once": false
         },
         {
-            "path": "mods/healingcampfire-1.20.1-6.2.jar",
-            "size": 35644,
-            "sha256": "dc4a354f1ca28d42993815028eb6254b6395529825c42ccb08b7f139bde12873",
+            "path": "mods/healingcampfire-1.20.1-6.3.jar",
+            "size": 35554,
+            "sha256": "89b1735fab542b4b1ba5d8e397d76a08398ec392832e1c3a2cea1974490b0d31",
             "once": false
         },
         {
@@ -9313,9 +9415,9 @@
             "once": false
         },
         {
-            "path": "mods/open-parties-and-claims-fabric-1.20.1-0.27.5.jar",
-            "size": 1731834,
-            "sha256": "cea35d65c90fd504563ef4a13a7525c80093ce509602a85802b5221495dbef0f",
+            "path": "mods/open-parties-and-claims-fabric-1.20.1-0.27.6.jar",
+            "size": 1732197,
+            "sha256": "fb49a2f4bdd160c5c350641200b293643e714d9296dfa96d3813aab55226b0f5",
             "once": false
         },
         {
@@ -9367,6 +9469,12 @@
             "once": false
         },
         {
+            "path": "mods/powergrid-crashfix.jar",
+            "size": 2480,
+            "sha256": "d76dfe5d0982380ecb34d1db2797ac83ee640b671f272bc67ac9e845cea235f1",
+            "once": false
+        },
+        {
             "path": "mods/powergrid-mc1.20.1-0.5.4.1.jar",
             "size": 5946390,
             "sha256": "0db4166e71d767b3f4a7c7c8a6db2ad912307c4b889b5570cc9a1baabb8b7601",
@@ -9403,9 +9511,9 @@
             "once": false
         },
         {
-            "path": "mods/skinrestorer-2.8.1+1.20-fabric.jar",
-            "size": 259202,
-            "sha256": "2cb2c9782dc2794a39cd1fd0d355516a3f6d6917e605ca9d640b5cb5895e728d",
+            "path": "mods/skinrestorer-2.9.0+1.20-fabric.jar",
+            "size": 262062,
+            "sha256": "a939a6a3ad94043a73757514444ad87850330ecb371c88cac9ef0280534c0653",
             "once": false
         },
         {
@@ -9535,15 +9643,15 @@
             "once": false
         },
         {
-            "path": "mods/xaerominimap-fabric-1.20.1-26.1.0.jar",
-            "size": 2171315,
-            "sha256": "b8e12e853fe985b0b65642908f474076ad076283350bcf0f4c0be5add607be78",
+            "path": "mods/xaerominimap-fabric-1.20.1-26.3.0.jar",
+            "size": 2224319,
+            "sha256": "a8da64ca41f7885edb58326fed5c4963b4816ccc3d3a14260123c42d29763a26",
             "once": false
         },
         {
-            "path": "mods/xaeroworldmap-fabric-1.20.1-1.41.2.jar",
-            "size": 1411544,
-            "sha256": "c97508fbea4a98195cad4f5a6d66c6611237704356321c4afb20f61e718f8a12",
+            "path": "mods/xaeroworldmap-fabric-1.20.1-1.43.0.jar",
+            "size": 1440195,
+            "sha256": "12da1c54193c566a476196cbf70ca1c0c10d4714ab8ff4fd5d6bca0875558c00",
             "once": false
         },
         {
@@ -51225,7 +51333,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "99ef906be71dcafbd4d203a34f73308234fda12d49a1ec83801f85103001d1e6",
+            "sha256": "da19a0958fb0fc3a698b8c3164350c87e6c0baf23962df6a113112dc12958d98",
             "once": false
         },
         {
@@ -51331,5 +51439,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "09/07/2026 02:33:39,53"
+    "generated": "14/07/2026 23:32:07,10"
 }

@@ -1,3 +1,4 @@
+webclient/
 worker.js
 wrangler.toml
 mrpack-service/
