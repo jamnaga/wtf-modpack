@@ -9247,6 +9247,12 @@
             "once": false
         },
         {
+            "path": "mods/gdcweb.jar",
+            "size": 13480,
+            "sha256": "e2bbc58e54305c62fe6b49db75ba66d2a22f00845331c6893e45cd19bc99ba2d",
+            "once": false
+        },
+        {
             "path": "mods/geckolib-fabric-1.20.1-4.8.4.jar",
             "size": 969016,
             "sha256": "ee8495a8db7a83aa63e8ef248d4eadda665ff57c5911b8e59fd608806137baa6",
@@ -51439,5 +51445,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "14/07/2026 23:49:44,99"
+    "generated": "15/07/2026 02:42:12,75"
 }
