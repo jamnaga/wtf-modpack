@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "cc381b06da28492da851739e659caf0ea9f6fb21f17cd5f72cb1d16a42fdb728",
+            "sha256": "a8e26b2669a23d4a9d4e8dab709632d3f9fb923d0395bb8bdb3749be4a373869",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "a562ee53c3704f2c74aa58f242a6f4dfcc00fabf43cc7ab03607d896d8c96cdb",
+            "sha256": "a9d20bc56e022c6db5e863f78c2803e5e96a96ad2e39ba46a89720677b02f3b1",
             "once": false
         },
         {
@@ -2859,7 +2859,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "a9023368548f827355960d129413c6f8323651432057e9b0e09537a488454197",
+            "sha256": "86f97ddbd6208a09e68790392e5a3f712d2597d01fd22c48ea404b66abe9b7c0",
             "once": false
         },
         {
@@ -3135,7 +3135,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "102af6b44d6f2a31e2a688ee6c1dcc03d5c2ea29e6be060179721317f245f2fc",
+            "sha256": "f1f81867f2d7f6d29cb46d8de719543417c58b4d68228743a7d12b65980d8281",
             "once": false
         },
         {
@@ -3159,7 +3159,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "c2b3c6bbedfa411f4ff7572659ee6d5ff0e28b4aac6a03a2cfac75d7332c778b",
+            "sha256": "421d916fdb4ee4406f0f9b3f58e5b49e0b4f5126b073737983dfe9838432fc24",
             "once": false
         },
         {
@@ -3507,7 +3507,7 @@
         {
             "path": "config/gdc-join.properties",
             "size": 581,
-            "sha256": "836daff55505c628341d7758df192c6a39fab4be1289691c3e01dc2a8ce91d66",
+            "sha256": "fec943185122a1eb0fb40c64e200d6e949e7e5d93b66839dc3e78dae7f3f89f9",
             "once": false
         },
         {
@@ -3633,7 +3633,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "8e84ca02d9cddee15cb0dcdf19f2e7b111efdb3e410cf93bea8dca94a24daae7",
+            "sha256": "c57bdc7564407fa78232085cc0c842b7e826b00b61f8ba5c637d5ca008868e54",
             "once": false
         },
         {
@@ -3693,7 +3693,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "ffb1d3f82d513796c403b3eebc15d4982ed2812ec231867306b951a0d8be55ec",
+            "sha256": "b9d79b45bd012f3d7c667acb8fa6bcb9163270943c1b8c62abf73bfd02f6cc22",
             "once": false
         },
         {
@@ -4311,13 +4311,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "236726daa39c7b2ce73eee2c4af525a0fe01d5e955f1b763f3ae9098df266077",
+            "sha256": "02979f8d9d547b35624c053daffba1e420f34dbfa3fdfd30059c204467c7a788",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "d95c6062bb8c275c5c3013c6064db3ec99a98f92c13a76bfa89b44b4ce1eeff7",
+            "sha256": "a0be9cd623c09508e05c3e4b7e4278bc3ca15d0045038a906c7e1211243ae924",
             "once": false
         },
         {
@@ -8869,6 +8869,12 @@
             "once": false
         },
         {
+            "path": "mods/[client]xaeroworldmap-fabric-1.20.1-1.43.0.jar",
+            "size": 1440195,
+            "sha256": "12da1c54193c566a476196cbf70ca1c0c10d4714ab8ff4fd5d6bca0875558c00",
+            "once": false
+        },
+        {
             "path": "mods/ad_astra-fabric-1.20.1-1.15.20.jar",
             "size": 7317556,
             "sha256": "a8e35d0c92e50b13fb9cd07217f55f580e64a14178f82fcdfea47109a1678246",
@@ -9676,12 +9682,6 @@
             "path": "mods/wtf-update.bat",
             "size": 960,
             "sha256": "1d1e587bcf6ac52d6b997b5a04f6453339ae40355d6963f7dbf0bb59326678bc",
-            "once": false
-        },
-        {
-            "path": "mods/xaeroworldmap-fabric-1.20.1-1.43.0.jar",
-            "size": 1440195,
-            "sha256": "12da1c54193c566a476196cbf70ca1c0c10d4714ab8ff4fd5d6bca0875558c00",
             "once": false
         },
         {
@@ -51363,7 +51363,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "d67c7a743d22992edcca5dc232be0a2251e93ea814faa64d572b28104b59ddad",
+            "sha256": "577ec0a736c23cabd6db43b75b936c33df0dd14ba6e1cc85eaecb1db2c964534",
             "once": false
         },
         {
@@ -51469,5 +51469,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "15/07/2026 13:36:18,52"
+    "generated": "15/07/2026 21:44:17,94"
 }
