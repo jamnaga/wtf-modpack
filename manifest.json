@@ -9,13 +9,13 @@
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/FabricLoaderImpl.class",
             "size": 29737,
-            "sha256": "a8e26b2669a23d4a9d4e8dab709632d3f9fb923d0395bb8bdb3749be4a373869",
+            "sha256": "753c1b743e96c334b990c11114516c5390910af3216ddfb35226ceca3b8b4d19",
             "once": false
         },
         {
             "path": ".earlyloadingscreen-transformer-output/net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class",
             "size": 25137,
-            "sha256": "a9d20bc56e022c6db5e863f78c2803e5e96a96ad2e39ba46a89720677b02f3b1",
+            "sha256": "6339e5368473480a9b7bf38afabf7a29820800981761e15fabe6c6c2d7a2bd45",
             "once": false
         },
         {
@@ -2577,7 +2577,7 @@
         {
             "path": "config/bclib/cache.json",
             "size": 345,
-            "sha256": "affa1ba03c3a464dc9585f028e2b87281333fe12df94bcd73e20c3f97acc30b8",
+            "sha256": "7b2c14896e13a1c262c186063f384a40193bac6decee9931d7f5d7d41fac0412",
             "once": false
         },
         {
@@ -2816,8 +2816,8 @@
         },
         {
             "path": "config/cubes-without-borders.json",
-            "size": 208,
-            "sha256": "1d285f5e6665666ace5fd570a246e836065991f34051b04be18ba84ae31bf1ef",
+            "size": 209,
+            "sha256": "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d",
             "once": false
         },
         {
@@ -2859,7 +2859,7 @@
         {
             "path": "config/early-loading-screen.properties",
             "size": 515,
-            "sha256": "86f97ddbd6208a09e68790392e5a3f712d2597d01fd22c48ea404b66abe9b7c0",
+            "sha256": "dc0bd350997b3296c3c7e4c311b8cbd65b35306fee3d345cd753c796df14904b",
             "once": false
         },
         {
@@ -3135,7 +3135,7 @@
         {
             "path": "config/epicdeathscreen-client.properties",
             "size": 195,
-            "sha256": "f1f81867f2d7f6d29cb46d8de719543417c58b4d68228743a7d12b65980d8281",
+            "sha256": "3a531b3dd55ed6c39676e631cc8bedcc01c503c01401ba4fd5a509b2b9605525",
             "once": false
         },
         {
@@ -3159,7 +3159,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "size": 374,
-            "sha256": "421d916fdb4ee4406f0f9b3f58e5b49e0b4f5126b073737983dfe9838432fc24",
+            "sha256": "541a1c035f79106615af360733ed8f0ee2e34c3b1b8963962d88d1bd970c7e51",
             "once": false
         },
         {
@@ -3507,7 +3507,7 @@
         {
             "path": "config/gdc-join.properties",
             "size": 581,
-            "sha256": "fec943185122a1eb0fb40c64e200d6e949e7e5d93b66839dc3e78dae7f3f89f9",
+            "sha256": "72d9aa2464279d7a373fe06ccff25647b1ee993cf8539f4524e2cb855bb9c1e9",
             "once": false
         },
         {
@@ -3633,7 +3633,7 @@
         {
             "path": "config/indium-renderer.properties",
             "size": 204,
-            "sha256": "c57bdc7564407fa78232085cc0c842b7e826b00b61f8ba5c637d5ca008868e54",
+            "sha256": "d51845e09c948d3cdbd56ccadbede7c188bb04426e4773ff712d2ad0edb0113c",
             "once": false
         },
         {
@@ -3693,7 +3693,7 @@
         {
             "path": "config/iris.properties",
             "size": 278,
-            "sha256": "b9d79b45bd012f3d7c667acb8fa6bcb9163270943c1b8c62abf73bfd02f6cc22",
+            "sha256": "8fb8c1d80a5e0486e72b6dedfbcec30611d3216a37bc41ea9a4cd87eb934479f",
             "once": false
         },
         {
@@ -4299,7 +4299,7 @@
         {
             "path": "config/roughlyenoughitems/favorites.json5",
             "size": 15009,
-            "sha256": "5b42e9091a3263badcf2827da5892d3a41ed40fef01706e864d319bd0c34a9d4",
+            "sha256": "d052d81addcb673e1ef3bb982c7b1b10b2b451591933034a7ea159c9069e6a8f",
             "once": false
         },
         {
@@ -4311,13 +4311,13 @@
         {
             "path": "config/roughlyenoughitems/pinyin.properties",
             "size": 47,
-            "sha256": "02979f8d9d547b35624c053daffba1e420f34dbfa3fdfd30059c204467c7a788",
+            "sha256": "21aaa845a7607307caaf327b7ec27d04b4a15dba2763101f4615c68940d65cae",
             "once": false
         },
         {
             "path": "config/roughlyenoughitems/pinyin_double.properties",
             "size": 71,
-            "sha256": "a0be9cd623c09508e05c3e4b7e4278bc3ca15d0045038a906c7e1211243ae924",
+            "sha256": "f78eccbc823e915bf3a8eb8ae6db03742bbb67449046464c5c47a0db44ae948b",
             "once": false
         },
         {
@@ -4802,8 +4802,8 @@
         },
         {
             "path": "config/voicechat/voicechat-client.properties",
-            "size": 4973,
-            "sha256": "0ee4496ea6583f3f9360b8d8c057b39ae10c779212205249c410dc14cd9e547c",
+            "size": 4975,
+            "sha256": "9867573952ab30d727420b5401a7af8434d8aadc37e56b2e1e02b9812bde876f",
             "once": true
         },
         {
@@ -5245,9 +5245,21 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/0bfabba7c7f1322cc0dc178ccbbcfe82d406d4fcad8fceee9d48b4f987d5aed0.bin",
+            "size": 1564639,
+            "sha256": "0bfabba7c7f1322cc0dc178ccbbcfe82d406d4fcad8fceee9d48b4f987d5aed0",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/0c3e04c69d87abf4ba0bc5209e14460dc12fa79d7d0747e428710253a846a131.bin",
             "size": 70246,
             "sha256": "0c3e04c69d87abf4ba0bc5209e14460dc12fa79d7d0747e428710253a846a131",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/0d1d28aa6213d1dd10b9d2e7813f6d9ced59f6c9e597cda6fbddef695f338a31.bin",
+            "size": 192215,
+            "sha256": "0d1d28aa6213d1dd10b9d2e7813f6d9ced59f6c9e597cda6fbddef695f338a31",
             "once": false
         },
         {
@@ -5290,6 +5302,12 @@
             "path": "gdcjoin-cache/31827f45a044a5c2bfb39be9881a3b9ed1acdb583c31d6b0c275cae7d7014d88.bin",
             "size": 192215,
             "sha256": "31827f45a044a5c2bfb39be9881a3b9ed1acdb583c31d6b0c275cae7d7014d88",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/32f280449299d5812389f50d3cecc17af05f589aaa9dc4085e38ff44572540d9.bin",
+            "size": 1564639,
+            "sha256": "32f280449299d5812389f50d3cecc17af05f589aaa9dc4085e38ff44572540d9",
             "once": false
         },
         {
@@ -5431,6 +5449,12 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/9732db7bd858043f9a99aff488a454b57ec920fc8a8c1e5e5c49940967798c14.bin",
+            "size": 192215,
+            "sha256": "9732db7bd858043f9a99aff488a454b57ec920fc8a8c1e5e5c49940967798c14",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/976668eb23157bdbd79cf5aad44397f1899d81172de8165ac7da4e7888655222.bin",
             "size": 1564639,
             "sha256": "976668eb23157bdbd79cf5aad44397f1899d81172de8165ac7da4e7888655222",
@@ -5551,6 +5575,12 @@
             "once": false
         },
         {
+            "path": "gdcjoin-cache/dfb95f5b28a48eff67ebdf587e1595c1fec788a369ce41cf4dcccbf5bfb8c595.bin",
+            "size": 192215,
+            "sha256": "dfb95f5b28a48eff67ebdf587e1595c1fec788a369ce41cf4dcccbf5bfb8c595",
+            "once": false
+        },
+        {
             "path": "gdcjoin-cache/dfef67d0ed090acf6b61f57968913336ab645c520fc0401a24c37c52c65d5ed0.bin",
             "size": 1564639,
             "sha256": "dfef67d0ed090acf6b61f57968913336ab645c520fc0401a24c37c52c65d5ed0",
@@ -5584,6 +5614,12 @@
             "path": "gdcjoin-cache/f6aa7b8a8334803c844d9fa8852a459d72b1ab3e7f14417c18ea04802a230ba1.bin",
             "size": 1564639,
             "sha256": "f6aa7b8a8334803c844d9fa8852a459d72b1ab3e7f14417c18ea04802a230ba1",
+            "once": false
+        },
+        {
+            "path": "gdcjoin-cache/fbecfcbd996196de7952b5ab106eb0ef28b472fb828c6489b0535016842e81c0.bin",
+            "size": 1564639,
+            "sha256": "fbecfcbd996196de7952b5ab106eb0ef28b472fb828c6489b0535016842e81c0",
             "once": false
         },
         {
@@ -8989,7 +9025,7 @@
             "once": false
         },
         {
-            "path": "mods/clockwork-0.5.6.jar",
+            "path": "mods/clockwork-0.5.6.jar.disabled",
             "size": 11436362,
             "sha256": "3918338367f937cdb1fe5720b2bbdf23df5b9614f0e0899cc2bb0713d6579ce7",
             "once": false
@@ -9625,7 +9661,7 @@
             "once": false
         },
         {
-            "path": "mods/trackwork-fabric-1.2.2+mc1.20.1.jar",
+            "path": "mods/trackwork-fabric-1.2.2+mc1.20.1.jar.disabled",
             "size": 579673,
             "sha256": "8362cce69bd43de17827c8034344bddb9bc45d0cdb80b1883223355bc48ff407",
             "once": false
@@ -9649,7 +9685,7 @@
             "once": false
         },
         {
-            "path": "mods/valkyrienskies-120-2.4.11.jar",
+            "path": "mods/valkyrienskies-120-2.4.11.jar.disabled",
             "size": 33767879,
             "sha256": "5854dc163849f010e57a2b01e94c4c67127df07668bfb647735e07bc7e4c45d4",
             "once": false
@@ -10004,8 +10040,8 @@
         },
         {
             "path": "options.txt",
-            "size": 9786,
-            "sha256": "9e9caaa9bf761c33a560f145f6689c86078e06c66baeaf62d37efca52bebd2c8",
+            "size": 9794,
+            "sha256": "29980c811b770ccfef608adbb113957001c14209f66602789945aafa025ce9ac",
             "once": true
         },
         {
@@ -51363,7 +51399,7 @@
         {
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
             "size": 136,
-            "sha256": "577ec0a736c23cabd6db43b75b936c33df0dd14ba6e1cc85eaecb1db2c964534",
+            "sha256": "a0089209cd5ab586be2a69a2dd671b0f76a718800adfbcbdec65674c1575ed14",
             "once": false
         },
         {
@@ -51469,5 +51505,5 @@
     ],
     "fabricLoaderVersion": "0.18.4",
     "mcVersion": "1.20.1",
-    "generated": "15/07/2026 21:44:17,94"
+    "generated": "19/07/2026 04:25:25,08"
 }
